@@ -1,0 +1,33 @@
+# ===== 依赖与构建产物 =====
+node_modules/
+dist/
+dist-test/
+backend/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# ===== 本地数据（含真实采集数据，隐私红线，绝不上传） =====
+backend/local_test.db
+backend/local_test.db.*
+*.db-wal
+*.db-shm
+
+# ===== 发布产物（zip 与解压目录走 GitHub Releases 分发） =====
+release/*.zip
+release/算法歧视观测-edge插件-v*/
+
+# ===== 运行时杂物 =====
+*.log
+*.pid
+_uvicorn.log
+
+# ===== 临时文件 =====
+_*.json
+_*.js
+_*.py
+test/.tmp-extract.cjs
+
+# ===== 系统 =====
+.DS_Store
+Thumbs.db

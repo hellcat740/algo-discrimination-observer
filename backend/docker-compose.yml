@@ -1,0 +1,33 @@
+# 一键启动：PostgreSQL + 后端 API
+# 用法：docker compose up -d --build
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: obs
+      POSTGRES_PASSWORD: obs
+      POSTGRES_DB: observations
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U obs -d observations"]
+      interval: 5s
+      timeout: 3s
+      retries: 12
+    ports:
+      - "5432:5432"
+
+  api:
+    build: .
+    depends_on:
+      db:
+        condition: service_healthy   # 等数据库健康检查通过再启动
+    environment:
+      # 指向 compose 内部的 db 服务
+      DATABASE_URL: postgresql+psycopg2://obs:obs@db:5432/observations
+      API_KEY: ${API_KEY:-dev-key-123}
+    ports:
+      - "8000:8000"
+
+volumes:
+  pgdata:

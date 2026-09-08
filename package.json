@@ -1,0 +1,22 @@
+{
+  "name": "algo-discrimination-observer",
+  "version": "0.1.0",
+  "private": true,
+  "description": "算法歧视众包观测 —— 公益诉讼用途的算法定价歧视众包数据采集 Chrome 扩展（Manifest V3）",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "build": "tsc --noEmit && vite build && vite build --config vite.content.config.ts && node scripts/gen-page-probe.mjs",
+    "verify": "node scripts/verify-dist.mjs",
+    "test": "node test/run-mapping-test.mjs && node test/run-extract-test.mjs",
+    "test:extract": "node test/run-extract-test.mjs",
+    "build:probe": "node scripts/gen-page-probe.mjs",
+    "package": "npm run build && node scripts/package.mjs"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.287",
+    "jsdom": "^30.0.1",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11"
+  }
+}

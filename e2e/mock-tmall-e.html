@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<!--
+  【模拟页 E】detail.tmall.com 商品 944892186161（电竞叛客 RTX5050/5060Ti）—— 「标签含数字」回归用例
+  仿真真实诊断结论：subPrice 文案为「超级88￥3119起」，标签「超级88」里的 88 是活动名，
+  价格必须读 ￥ 符号后面的数字（3119）。旧逻辑取容器内首个数字 → 抓到 88，
+  再被大小互换兜底放大成「原价2615.65 / 到手88」的双重错误（真实记录 21361bf1）。
+  结构变体注意：此页 subPrice 的 ￥ 在 text-- 里（不是 symbol--），数字也在 text-- 里。
+  期望提取：原价 3119、到手价 2615.65（highlightPrice「平台加补后￥2615.65起」）、
+  发货地「广东广州 至 北京市 海淀区」→ 广州、店铺「天猫国际自营全球超级店」、
+  shopId 123971619（内嵌 JSON）；补贴文案「领政府补贴省461.59」→ 461.59 / 平台补贴。
+-->
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <title>【模拟页】电竞叛客RTX5050显卡-天猫</title>
+</head>
+<body>
+  <div id="root">
+    <div class="PageLayout--detailMain--h5g4f3e">
+      <h1 class="ItemTitle--mainTitle--d2c1b0a">【自营】电竞叛客RTX5050/5060Ti白色台式机电脑直播游戏独立显卡</h1>
+
+      <div class="PurchasePanel--root--z9y8x7w">
+        <!-- 到手价（真实结构：symbol-- ￥ + text-- 数字） -->
+        <div class="highlightPrice--LlVWiXXs" style="color:#ff5000"><span class="title--kN9LzdoY">平台加补后</span><span class="symbol--q9DjRF01">￥</span><span class="text--LP7Wf49z">2615.65</span><span class="desc--Cry2YnVp">起</span></div>
+        <!-- 原价（真实结构变体：￥ 与数字都在 text-- 里；标签「超级88」含干扰数字 88） -->
+        <div class="subPrice--KfQ0yn4v" style="color:#7a7a7a"><span class="title--kN9LzdoY">超级88</span><span class="text--LP7Wf49z">￥</span><span class="text--LP7Wf49z">3119</span><span class="desc--Cry2YnVp">起</span></div>
+      </div>
+
+      <div class="couponInfoArea--wrap--j7i6h5g">
+        已享受: 官方立减32元 淘金币已抵9.6元 领政府补贴省461.59 最多送100元，下单购买更划算
+      </div>
+
+      <div class="deliveryAddrWrap--root--f4e3d2c">
+        <span class="deliveryAddrWrap--text--b1a0z9y">广东广州 至 北京市 海淀区</span>
+      </div>
+
+      <div class="ShopHeader--wrap--x8w7v6u">
+        <div class="ShopHeader--shopName--t5s4r3q">
+          <span class="shopName--text--p2o1n0m" title="天猫国际自营全球超级店">天猫国际自营全球超级店</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // 真实页面内联初始化数据（店铺 ID 通道）
+    window.__INIT_DATA = {
+      "global": {
+        "item": { "itemId": "944892186161" },
+        "seller": { "shopId": "123971619", "sellerId": "2549841410", "shopName": "天猫国际自营全球超级店" }
+      }
+    };
+  </script>
+</body>
+</html>
