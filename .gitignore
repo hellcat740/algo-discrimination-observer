@@ -33,7 +33,11 @@ test/.tmp-extract.cjs
 Thumbs.db
 
 # ===== 公网上线相关（不入库） =====
-deploy/            # 独立仓库 hellcat740/algo-observer-server，自身已提交
-deploy-inline/     # Vercel 内联部署试验目录
-上线说明.md         # 含管理员密钥，严禁入库
-obs_data.db         # 真实采集数据，隐私红线
+# 独立仓库 hellcat740/algo-observer-server，自身已提交
+deploy/
+# Vercel 内联部署试验目录
+deploy-inline/
+# 含管理员密钥，严禁入库
+上线说明.md
+# 真实采集数据，隐私红线
+obs_data.db
