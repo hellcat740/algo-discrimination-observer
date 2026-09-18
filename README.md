@@ -42,31 +42,28 @@
 
 ## 📥 下载与安装（Release）
 
-当前版本 **v0.3.6**，按组件分别发布：
+当前版本 **v0.4.0（公网版）**，按组件分别发布：
 
 | 组件 | GitHub Release | Gitee 附件 |
 | --- | --- | --- |
-| 🧩 Edge/Chrome 插件 | [plugin-v0.3.6](https://github.com/hellcat740/algo-discrimination-observer/releases/tag/plugin-v0.3.6) | [release-assets 分支 assets/](https://gitee.com/hellcat740/algo-discrimination-observer/tree/release-assets/assets) |
-| ⚙️ FastAPI 后端 | [backend-v0.3.6](https://github.com/hellcat740/algo-discrimination-observer/releases/tag/backend-v0.3.6) | [release-assets 分支 assets/](https://gitee.com/hellcat740/algo-discrimination-observer/tree/release-assets/assets) |
+| 🧩 Edge/Chrome 插件（公网版） | [plugin-v0.4.0](https://github.com/hellcat740/algo-discrimination-observer/releases/tag/plugin-v0.4.0) | [release-assets 分支 assets/](https://gitee.com/hellcat740/algo-discrimination-observer/tree/release-assets/assets) |
+| ⚙️ 公网后端服务（完整部署包） | [backend-v0.4.0](https://github.com/hellcat740/algo-discrimination-observer/releases/tag/backend-v0.4.0) | [release-assets 分支 assets/](https://gitee.com/hellcat740/algo-discrimination-observer/tree/release-assets/assets) |
 
-### 插件安装（Edge / Chrome）
+### 插件安装（Edge / Chrome，公网版无需本地后端）
 
 1. 下载插件 zip 并解压到固定目录（解压后第一层即为 `manifest.json`，不要再多套一层文件夹）；
 2. 打开 `edge://extensions`（Chrome 为 `chrome://extensions`），开启「开发人员模式」；
 3. 点击「加载已解压的扩展程序」，选中解压目录；
-4. 先启动本地后端（见下），在扩展弹窗中完成授权并「测试连接」显示绿色连通后，即可在商品页采集数据。
+4. 公网版已内置服务器地址与上报密钥，完成授权后即可在商品页采集，数据直接上报公网服务，个人看板 `/me` 可随时查看自己的记录。
 
-详细图文步骤与故障排查见 [release/安装说明.txt](release/安装说明.txt)。
-
-### 后端启动（本地 FastAPI）
+### 后端部署（完整部署包）
 
 ```bash
-cd backend
 pip install -r requirements.txt
-uvicorn app.main:app --port 8000
+uvicorn api.index:app --port 8000   # http://127.0.0.1:8000
 ```
 
-或使用 Docker：`docker compose up -d`。接口文档见 [backend/README.md](backend/README.md)。
+部署包含 `api/` 全部后端（双登录门户、用户看板、管理控制台、插件下载页）与 `vercel.json`，可导入 Vercel 一键上线；生产环境建议接入 Postgres（自动适配 `DATABASE_URL`）。
 
 ## ✨ 功能特性一览
 
