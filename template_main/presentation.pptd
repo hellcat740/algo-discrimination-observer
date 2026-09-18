@@ -1,0 +1,156 @@
+version: v2
+title: 洋 吉
+theme:
+  colors:
+    dk1: "#000000"
+    lt1: "#FFFFFF"
+    dk2: "#44546A"
+    lt2: "#E7E6E6"
+    accent1: "#4472C4"
+    accent2: "#ED7D31"
+    accent3: "#A5A5A5"
+    accent4: "#FFC000"
+    accent5: "#5B9BD5"
+    accent6: "#70AD47"
+    hlink: "#0563C1"
+    folHlink: "#954F72"
+  textStyles:
+    text1:
+      color: $lt1
+      fontSize: 24
+      fontFamily: 优设标题黑, 优设标题黑
+    text2:
+      color: $lt1
+      fontSize: 16
+      fontFamily: 阿里巴巴普惠体 M, 阿里巴巴普惠体 M
+    text3:
+      color: $lt1
+      fontSize: 14
+      fontFamily: 梦源黑体 CN W15, 梦源黑体 CN W15
+      lineHeight: 1.5
+    text4:
+      color: "#FFFF00"
+      bold: true
+      italic: false
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+    text5:
+      color: "#FFFF00"
+      italic: false
+      lineHeight: 1.5
+      letterSpacing: 0
+      marginTop: 0
+    text6:
+      color: "#FDFEFF"
+      fontSize: 8
+      fontFamily: Cambria, Cambria
+      bold: false
+      italic: false
+      lineHeight: 1
+      letterSpacing: 3
+      marginTop: 0
+    text7:
+      color: "#F9E6F4"
+      fontSize: 24
+      fontFamily: 字体圈欣意冠黑体, 字体圈欣意冠黑体
+      bold: false
+      italic: false
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+    text8:
+      color: $dk1
+      fontSize: 16
+      fontFamily: 梦源黑体 CN W14, 梦源黑体 CN W14
+      lineHeight: 1.25
+    text9:
+      color: $lt1
+      fontSize: 20
+      fontFamily: 思源黑体 CN Bold, 思源黑体 CN Bold
+      bold: false
+      italic: false
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+    text10:
+      color: $dk1
+      fontSize: 14
+      fontFamily: 思源黑体 CN Heavy, 思源黑体 CN Heavy
+      bold: true
+      italic: false
+      lineHeight: 1.5
+      letterSpacing: 1.8
+      marginTop: 0
+    text11:
+      color: $dk1
+      fontSize: 20
+      bold: true
+      italic: false
+      lineHeight: 1.5
+      letterSpacing: 0
+      marginTop: 0
+    text12:
+      color: $lt1
+      fontSize: 16
+      fontFamily: 思源黑体 CN Medium, 思源黑体 CN Medium
+      bold: true
+      italic: false
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+    text13:
+      color: $lt1
+      fontSize: 7
+      fontFamily: 梦源黑体 CN W15, 梦源黑体 CN W15
+    text14:
+      color: $lt1
+      fontSize: 7
+      fontFamily: 梦源宋体 CN W27, 梦源宋体 CN W27
+    text15:
+      color: "#0D0D0D"
+      fontSize: 14
+      fontFamily: 梦源黑体 CN W15, 梦源黑体 CN W15
+      bold: false
+      italic: false
+      lineHeight: 1.5
+      letterSpacing: 0
+    text16:
+      color: "#C00000"
+      fontSize: 14
+      fontFamily: 思源黑体 CN Medium, 思源黑体 CN Medium
+      bold: true
+      italic: false
+  tableStyles:
+    table1:
+      cellStyle:
+        color: $lt1
+        fontSize: 16
+        fontFamily: 思源黑体 CN Medium, 思源黑体 CN Medium
+        border: null
+        align:
+          - center
+          - middle
+    table2:
+      cellStyle:
+        color: $lt1
+        fontSize: 12
+        fontFamily: 思源黑体 CN Medium, 思源黑体 CN Medium
+        bold: true
+        border: null
+        align:
+          - center
+          - middle
+size: [960, 540]
+pages:
+  - pages/page-1.page
+  - pages/page-2.page
+  - pages/page-3.page
+  - pages/page-4.page
+  - pages/page-5.page
+  - pages/page-6.page
+  - pages/page-7.page
+  - pages/page-8.page
+  - pages/page-9.page
+  - pages/page-10.page
+  - pages/page-11.page

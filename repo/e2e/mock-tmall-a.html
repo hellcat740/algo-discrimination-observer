@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<!--
+  【模拟页 A】detail.tmall.com 商品 982252700443 —— 真实 2025 版 DOM 结构回归用例
+  DOM 结构按真实页面诊断结论仿真：highlightPrice--/subPrice-- 价格容器（容器文本+内层
+  span.text--哈希 纯数字）、span.shopName--（带 title 属性）、deliveryAddrWrap-- 的
+  「发货地 至 收货地」格式、couponInfoArea-- 优惠信息区；内联 script 含 shopId/sellerId。
+  期望提取：原价 3799（subPrice，dom）、到手价 3188.55（highlightPrice，dom）、
+  发货地「浙江嘉兴 至 北京市 海淀区」→ 归一化「嘉兴」、店铺「天猫国际自营全球超级店」、
+  shopId 2212833764123（json）。
+-->
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <title>【模拟页】Apple/苹果 iPhone 16 Pro Max-天猫国际</title>
+</head>
+<body>
+  <div id="root">
+    <div class="PageLayout--detailMain--a1b2c3">
+      <h1 class="ItemTitle--mainTitle--d4e5f6">Apple/苹果 iPhone 16 Pro Max 256GB 沙漠色钛金属 支持移动联通电信5G</h1>
+
+      <!-- 真实版式：highlightPrice 到手价 + subPrice 原价（有优惠时两者并存） -->
+      <div class="Price--root--g7h8i9">
+        <div class="highlightPrice--wrap--j0k1l2">
+          <span class="highlightPrice--label--m3n4o5">平台加补后</span>
+          <span class="highlightPrice--symbol--p6q7r8">￥</span>
+          <span class="text--s9t0u1v">3188.55</span>
+        </div>
+        <div class="subPrice--wrap--w2x3y4z">
+          <span class="subPrice--label--a5b6c7d">优惠前</span>
+          <span class="subPrice--symbol--e8f9g0h">￥</span>
+          <span class="text--i1j2k3l">3799</span>
+        </div>
+      </div>
+
+      <div class="couponInfoArea--wrap--m4n5o6p">
+        已享受:官方立减38元 淘金币已抵9.6元 领政府补贴省562.69
+      </div>
+
+      <div class="deliveryAddrWrap--root--q7r8s9t">
+        <span class="deliveryAddrWrap--text--u0v1w2x">浙江嘉兴 至 北京市 海淀区</span>
+      </div>
+
+      <div class="ShopHeader--wrap--y3z4a5b">
+        <div class="ShopHeader--shopName--c6d7e8f">
+          <span class="shopName--text--g9h0i1j" title="天猫国际自营全球超级店">天猫国际自营全球超级店</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // 真实页面内联初始化数据：店铺/卖家 ID 在此通道（三页实测均有）
+    window.__INIT_DATA = {
+      "global": {
+        "item": { "itemId": "982252700443", "soldCount": 5321 },
+        "seller": {
+          "shopId": "2212833764123",
+          "sellerId": "3908801122",
+          "shopName": "天猫国际自营全球超级店"
+        },
+        "delivery": { "deliveryAddress": "浙江嘉兴" }
+      }
+    };
+    var g_config = { "shopId": "2212833764123", "sellerId": "3908801122" };
+  </script>
+</body>
+</html>

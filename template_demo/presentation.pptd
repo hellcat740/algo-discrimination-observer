@@ -1,0 +1,192 @@
+version: v2
+title: Jia kai Guo
+theme:
+  colors:
+    dk1: "#000000"
+    lt1: "#FFFFFF"
+    dk2: "#44546A"
+    lt2: "#E7E6E6"
+    accent1: "#4874CB"
+    accent2: "#EE822F"
+    accent3: "#F2BA02"
+    accent4: "#75BD42"
+    accent5: "#30C0B4"
+    accent6: "#E54C5E"
+    hlink: "#0026E5"
+    folHlink: "#7E1FAD"
+  textStyles:
+    text1:
+      color: $lt1
+      fontSize: 24
+      fontFamily: 优设标题黑, 优设标题黑
+    text2:
+      color: $lt1
+      fontSize: 16
+      fontFamily: 阿里巴巴普惠体 M, 阿里巴巴普惠体 M
+    text3:
+      color: $lt1
+      fontSize: 16
+      fontFamily: 思源黑体 CN Medium, 思源黑体 CN Medium
+      bold: true
+      italic: false
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+    text4:
+      color: $dk1
+      fontSize: 28
+      fontFamily: 思源黑体 CN Heavy, 思源黑体 CN Heavy
+      bold: true
+    text5:
+      color: $lt1
+      fontSize: 22
+      fontFamily: 梦源黑体 CN W21, 梦源黑体 CN W21
+      bold: false
+      italic: false
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+    text6:
+      color: $lt1
+      fontSize: 22
+      fontFamily: 思源黑体 CN Medium, 思源黑体 CN Medium
+      bold: true
+      italic: false
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+    text7:
+      color: $dk1
+      fontSize: 12
+      fontFamily: 字体圈欣意冠黑体, 字体圈欣意冠黑体
+      bold: false
+      italic: false
+      letterSpacing: 0
+      marginTop: 0
+    text8:
+      color: $lt1
+      fontSize: 18.2
+      fontFamily: 江城斜宋体 700W, 江城斜宋体 700W
+      italic: false
+      lineHeight: 1.1
+      letterSpacing: 0
+      marginTop: 0
+    text9:
+      color: $lt1
+      fontSize: 10.95
+      fontFamily: Calibri, Calibri
+      bold: false
+      italic: false
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+    text10:
+      color: $lt1
+      fontSize: 53.3
+      fontFamily: 江城斜宋体 900W, 江城斜宋体 900W
+      italic: false
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+    text11:
+      color: "#0C57AD"
+      fontSize: 16
+      fontFamily: Calibri, Calibri
+      bold: true
+      italic: false
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+    text12:
+      color: "#B3DBFF"
+      fontSize: 20
+      fontFamily: Bahnschrift SemiLight, Calibri
+      italic: false
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+    text13:
+      color: $dk1
+      fontSize: 20
+      fontFamily: 思源黑体 CN Heavy, 思源黑体 CN Heavy
+      bold: true
+    text14:
+      color: $lt1
+      fontSize: 16
+      fontFamily: Roboto, HarmonyOS Sans SC
+    text15:
+      color: $dk1
+      fontSize: 20
+      fontFamily: Roboto, HarmonyOS Sans SC
+      bold: true
+    text16:
+      color: $lt1
+      fontFamily: Calibri
+    text17:
+      color: $lt1
+      bold: true
+    text18:
+      color: $dk1
+      bold: true
+      lineHeight: 1.5
+    text19:
+      color: $dk1
+      fontSize: 28
+      fontFamily: 思源黑体 CN Heavy, 思源黑体 CN Heavy
+  tableStyles:
+    table1:
+      cellStyle:
+        color: $lt1
+        fontSize: 18
+        fontFamily: 思源黑体 CN Medium, 思源黑体 CN Medium
+        bold: true
+        border: null
+        align:
+          - center
+          - middle
+    table2:
+      cellStyle:
+        color: $lt1
+        fontSize: 14
+        border: null
+        align:
+          - center
+          - middle
+      firstColumnStyle:
+        fontFamily: Source Han Sans CN Medium, Source Han Sans CN Medium
+        bold: false
+        italic: false
+      rowOverColumn: true
+    table3:
+      cellStyle:
+        align:
+          - center
+          - middle
+      firstRowStyle:
+        color: $lt1
+        fontSize: 18
+        fontFamily: 思源宋体 CN Heavy, 思源宋体 CN Heavy
+        border:
+          - null
+          - null
+          - style: solid
+            width: 1
+            color: $accent1
+          - null
+      firstColumnStyle:
+        fontSize: 11
+        fontFamily: 思源黑体 CN Bold, 思源黑体 CN Bold
+        lineHeight: 1
+        marginTop: 0
+      rowOverColumn: true
+size: [960, 540]
+pages:
+  - pages/page-1.page
+  - pages/page-2.page
+  - pages/page-3.page
+  - pages/page-4.page
+  - pages/page-5.page
+  - pages/page-6.page
+  - pages/page-7.page
+  - pages/page-8.page
+  - pages/page-9.page

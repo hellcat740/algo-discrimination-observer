@@ -1,0 +1,2053 @@
+pageType: content
+elements:
+  - elementId: 矩形 7
+    elementType: shape
+    bounds: [0, 0, 960, 540]
+    shapeName: rect
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#002456"
+        - position: 0
+          color: "#042258"
+      angle: 90
+    border:
+      style: solid
+      width: 1
+      color: "#0B111E"
+  - elementId: Picture 47
+    elementType: image
+    bounds: [0.2, -0.7, 453.1, 540]
+    cropShape:
+      shapeName: rect
+    src: media/image-1.png
+    fit:
+      mode: fill
+  - elementId: Picture 111
+    elementType: image
+    bounds: [343.9, -65.8, 661.8, 440]
+    cropShape:
+      shapeName: rect
+    src: media/image-2.png
+    fit:
+      mode: fill
+  - elementId: "流程图: 手动输入 119"
+    elementType: shape
+    bounds: [-5, -437.6, 287.5, 369.4]
+    shapeName: custom
+    viewBox:
+      - 10000
+      - 10000
+    path: M99,1256 L10000,0 L10000,10000 L0,10000 C66,7061 33,4195 99,1256 Z
+    fill:
+      type: solid
+      color: $accent1
+    border:
+      style: solid
+      width: 1
+      color: "#E3F2D952"
+  - elementId: "16"
+    elementType: image
+    bounds: [38.9, -293.7, 883.4, 188.8]
+    rotation: 180
+    cropShape:
+      shapeName: custom
+    src: media/image-4.png
+    crop:
+      top: 0.54275
+      bottom: -0.00635
+  - elementId: "任意多边形: 形状 2"
+    elementType: shape
+    bounds: [595.6, 21, 364.4, 16.9]
+    shapeName: custom
+    viewBox:
+      - 4628346
+      - 214864
+    path: M1179178,4 C2036332,-88 3402008,1227 4378814,1467 L4628346,1500 L4628346,214864 L0,214864 C188271,25210 188159,4890 387013,1504 C449155,446 750602,49 1179178,4 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE040"
+        - position: 0
+          color: "#91ACE04F"
+      angle: 90
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 40
+    elementType: shape
+    bounds: [610.5, 24.7, 105.5, 15.2]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE054"
+        - position: 0
+          color: "#91ACE0A6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 40-2
+    elementType: shape
+    bounds: [706.9, 24.7, 105.5, 15.2]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE054"
+        - position: 0
+          color: "#91ACE0A6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 40-3
+    elementType: shape
+    bounds: [803.3, 24.7, 105.5, 15.2]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE054"
+        - position: 0
+          color: "#91ACE0A6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 6
+    elementType: shape
+    bounds: [780.5, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 8
+    elementType: shape
+    bounds: [785.7, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 9
+    elementType: shape
+    bounds: [790.8, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 11
+    elementType: shape
+    bounds: [796, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 47
+    elementType: shape
+    bounds: [801.1, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 48
+    elementType: shape
+    bounds: [806.3, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 103
+    elementType: shape
+    bounds: [811.4, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 104
+    elementType: shape
+    bounds: [816.6, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 105
+    elementType: shape
+    bounds: [821.7, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 106
+    elementType: shape
+    bounds: [826.9, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: "任意多边形: 形状 107"
+    elementType: line
+    bounds: [841.9, 11.9, 120, 4.4]
+    opacity: 0.55
+    viewBox:
+      - 1524000
+      - 82550
+    points: 1524000,0 44450,0 0,82550
+    curve: sharp
+    border:
+      style: solid
+      width: 1
+      color: $accent1
+  - elementId: "任意多边形: 形状 108"
+    elementType: shape
+    bounds: [1.4, 2.7, 957.3, 41.3]
+    shapeName: custom
+    viewBox:
+      - 12157213
+      - 448506
+    path: M0,0 L2257280,0 L9862425,0 L12157213,0 L12157213,74543 L9804378,74543 L9723422,173848 L7786457,175980 C7555196,178292 7526819,445158 7283623,448506 L4803246,448506 C4560050,445158 4531673,178292 4300412,175980 C4206462,175041 3906270,174578 3525514,174302 L2398965,173800 L2318049,74543 L0,74543 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#4874CB29"
+        - position: 0.76
+          color: "#4874CB40"
+        - position: 0.45
+          color: "#91ACE054"
+        - position: 0
+          color: "#91ACE0A6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: "任意多边形: 形状 109"
+    elementType: shape
+    bounds: [0, 21, 357.4, 16.9]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 4539446
+      - 214864
+    path: M1179178,4 C750601,49 449155,446 387013,1504 C188159,4890 188271,25210 0,214864 L4539446,214864 L4539446,1488 L4378813,1467 C3402008,1227 2036332,-88 1179178,4 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE040"
+        - position: 0
+          color: "#91ACE04F"
+      angle: 90
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 40-4
+    elementType: shape
+    bounds: [237, 24.7, 105.5, 15.2]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE054"
+        - position: 0
+          color: "#91ACE0A6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 40-5
+    elementType: shape
+    bounds: [140.6, 24.7, 105.5, 15.2]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE054"
+        - position: 0
+          color: "#91ACE0A6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 40-6
+    elementType: shape
+    bounds: [44.2, 24.7, 105.5, 15.2]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE054"
+        - position: 0
+          color: "#91ACE0A6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 113
+    elementType: shape
+    bounds: [171, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 114
+    elementType: shape
+    bounds: [165.9, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 115
+    elementType: shape
+    bounds: [160.7, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 116
+    elementType: shape
+    bounds: [155.6, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 117
+    elementType: shape
+    bounds: [150.4, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 118
+    elementType: shape
+    bounds: [145.3, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 120
+    elementType: shape
+    bounds: [140.1, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 121
+    elementType: shape
+    bounds: [135, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 122
+    elementType: shape
+    bounds: [129.8, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 123
+    elementType: shape
+    bounds: [124.7, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 文本框 124-shape
+    elementType: shape
+    bounds: [405.7, 5.8, 148.6, 36.4]
+    shapeName: rect
+    shadow:
+      blur: 10
+      color: "#243A66"
+      offset: [0, 4]
+  - elementId: 文本框 124-text
+    elementType: text
+    bounds: [405.7, 5.8, 148.6, 36.4]
+    content:
+      text: |-
+        <p>政策解读页面</p>
+      shadow:
+        blur: 3
+        color: "#0000006E"
+        offset: [2.1213, 2.1213]
+      wrap: false
+      align:
+        - center
+        - middle
+      style: $text1
+  - elementId: "任意多边形: 形状 125"
+    elementType: line
+    bounds: [0, 11.9, 120, 4.4]
+    opacity: 0.55
+    flip: [true, false]
+    viewBox:
+      - 1524000
+      - 82550
+    points: 1524000,0 44450,0 0,82550
+    curve: sharp
+    border:
+      style: solid
+      width: 1
+      color: $accent1
+  - elementId: MG-大标题矩形装饰
+    elementType: shape
+    bounds: [402.8, 43.9, 12.4, 1.4]
+    shapeName: rect
+    fill:
+      type: solid
+      color: "#DAE3F5"
+  - elementId: MG-大标题矩形装饰-2
+    elementType: shape
+    bounds: [544.8, 43.9, 12.4, 1.4]
+    shapeName: rect
+    fill:
+      type: solid
+      color: "#DAE3F5"
+  - elementId: 文本框 128
+    elementType: text
+    bounds: [80, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题1</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 129
+    elementType: text
+    bounds: [174.5, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题2</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 130
+    elementType: text
+    bounds: [269, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题3</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 131
+    elementType: text
+    bounds: [639.5, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题4</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 132
+    elementType: text
+    bounds: [734, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题5</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 133
+    elementType: text
+    bounds: [828.5, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题6</p>
+      wrap: false
+      style: $text2
+  - elementId: "任意多边形: 形状 134"
+    elementType: shape
+    bounds: [17.5, -1.2, 925, 41.3]
+    shapeName: custom
+    viewBox:
+      - 12157213
+      - 448506
+    path: M0,0 L2257280,0 L9862425,0 L12157213,0 L12157213,74543 L9804378,74543 L9723422,173848 L7786457,175980 C7555196,178292 7526819,445158 7283623,448506 L4803246,448506 C4560050,445158 4531673,178292 4300412,175980 C4206462,175041 3906270,174578 3525514,174302 L2398965,173800 L2318049,74543 L0,74543 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.07
+          color: "#91ACE0AB"
+        - position: 0.68
+          color: "#91ACE000"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE0AB"
+  - elementId: 方能演亦33
+    elementType: text
+    bounds: [135.4, 406.5, 80.9, 24.3]
+    content:
+      text: |-
+        <p>更换文字</p>
+      gradient:
+        type: gradient
+        gradientType: linear
+        stops:
+          - position: 0.33
+            color: "#FFF8B9"
+          - position: 0.51
+            color: "#FFF177"
+          - position: 0.74
+            color: "#FCC55E"
+        angle: 90
+      wrap: false
+      style: $text13
+  - elementId: 方能演亦34
+    elementType: text
+    bounds: [135.4, 438, 226.3, 44.8]
+    opacity: 0.9
+    content:
+      text: |-
+        <p>点击此处更换文字内容，替换上</p><p>您所需要的文字，您可自由编辑</p>
+      wrap: false
+      style: $text14
+  - elementId: 方能演亦35
+    elementType: text
+    bounds: [135.4, 277.7, 80.9, 24.3]
+    content:
+      text: |-
+        <p>更换文字</p>
+      gradient:
+        type: gradient
+        gradientType: linear
+        stops:
+          - position: 0.33
+            color: "#FFF8B9"
+          - position: 0.51
+            color: "#FFF177"
+          - position: 0.74
+            color: "#FCC55E"
+        angle: 90
+      wrap: false
+      style: $text13
+  - elementId: 方能演亦36
+    elementType: text
+    bounds: [135.4, 309.2, 239.4, 44.8]
+    opacity: 0.9
+    content:
+      text: |-
+        <p>点击此处更换文字内容，替换上您所需要的文字，您可自由编辑</p>
+      wrap: true
+      style: $text14
+  - elementId: 方能演亦37
+    elementType: text
+    bounds: [134.3, 139.2, 97.1, 29.2]
+    content:
+      text: |-
+        <p>更换文字</p>
+      color: $dk1
+      fontSize: 24
+      bold: true
+      fontFamily: 思源黑体 CN Heavy, 思源黑体 CN Heavy
+      gradient:
+        type: gradient
+        gradientType: linear
+        stops:
+          - position: 0.33
+            color: "#FFF8B9"
+          - position: 0.51
+            color: "#FFF177"
+          - position: 0.74
+            color: "#FCC55E"
+        angle: 90
+      wrap: false
+  - elementId: 方能演亦38
+    elementType: text
+    bounds: [134.3, 170.7, 225.9, 44.8]
+    opacity: 0.9
+    content:
+      text: |-
+        <p>点击此处更换文字内容，替换上您所需要的文字，您可自由编辑</p>
+      wrap: true
+      style: $text14
+  - elementId: 方能演亦39
+    elementType: shape
+    bounds: [65.1, 245.9, 308.9, 1.5]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 0.5
+      color: $lt1
+  - elementId: 方能演亦40
+    elementType: shape
+    bounds: [65.1, 379.6, 308.9, 1.5]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 0.5
+      color: $lt1
+  - elementId: 方能演亦41-1
+    elementType: shape
+    bounds: [63.4, 133.3, 52.7, 52.7]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.59
+          color: "#041A1A00"
+        - position: 0.77
+          color: "#24FFFFC2"
+  - elementId: 方能演亦41-2
+    elementType: shape
+    bounds: [63.4, 133.3, 52.7, 52.7]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0
+          color: "#24FFFFA1"
+        - position: 0.51
+          color: "#24FFFF00"
+        - position: 0.94
+          color: "#24FFFF00"
+    border:
+      style: solid
+      width: 0.75
+      color: "#F4FFFF00"
+  - elementId: 方能演亦41-3
+    elementType: shape
+    bounds: [63.4, 133.3, 52.7, 52.7]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#0462F5DE"
+        - position: 0.76
+          color: "#0462F500"
+  - elementId: 方能演亦41-4
+    elementType: shape
+    bounds: [63.4, 133.3, 52.7, 52.7]
+    flip: [true, true]
+    shapeName: roundRect
+    adjustments:
+      - 50000
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 1
+          color: "#0462F5"
+        - position: 0.48
+          color: "#0462F54F"
+        - position: 0.71
+          color: "#0462F52E"
+        - position: 0.12
+          color: "#24FFFFB3"
+    border:
+      style: solid
+      width: 0.75
+      color: "#24FFFF3B"
+  - elementId: 方能演亦42-1
+    elementType: shape
+    bounds: [76.9, 163.6, 28.1, 10.9]
+    shapeName: custom
+    viewBox:
+      - 645794
+      - 249985
+    path: M635379,229153 L635379,10416 C635379,4666 630723,0 624963,0 L572883,0 C567123,0 562467,4666 562467,10416 L562467,72912 L520802,72912 C515042,72912 510386,77579 510386,83328 L510386,229153 L468722,229153 L468722,114577 C468722,108827 464066,104160 458306,104160 L406226,104160 C400466,104160 395810,108827 395810,114577 L395810,177073 L354146,177073 C348386,177073 343730,181739 343730,187489 L343730,229153 L302065,229153 L302065,41664 C302065,35915 297409,31248 291649,31248 L239569,31248 C233809,31248 229153,35915 229153,41664 L229153,114577 L187489,114577 C181729,114577 177073,119243 177073,124993 L177073,229153 L135409,229153 L135409,83328 C135409,77579 130753,72912 124993,72912 L72912,72912 C67152,72912 62496,77579 62496,83328 L62496,145825 L20832,145825 C15072,145825 10416,150491 10416,156241 L10416,229153 L0,229153 L0,249985 L645795,249985 L645795,229153 Z M31248,166657 L62496,166657 L62496,229153 L31248,229153 Z M83328,229153 L83328,156241 L83328,93744 L114577,93744 L114577,229153 Z M197905,135409 L229153,135409 L229153,229153 L197905,229153 Z M249985,229153 L249985,124993 L249985,52080 L281233,52080 L281233,229153 Z M364562,197905 L395810,197905 L395810,229153 L364562,229153 Z M416642,229153 L416642,187489 L416642,124993 L447890,124993 L447890,229153 Z M531218,93744 L562467,93744 L562467,229153 L531218,229153 Z M583299,229153 L583299,83328 L583299,20832 L614547,20832 L614547,229153 Z
+  - elementId: 方能演亦42-2
+    elementType: shape
+    bounds: [77.1, 158.6, 27.7, 7.6]
+    shapeName: custom
+    viewBox:
+      - 635691
+      - 174813
+    path: M163605,54331 L261547,113098 C262380,113598 263286,113983 264224,114233 L420465,155898 C424391,156939 428495,155637 431099,152564 L540635,23114 L627234,61601 L635691,42571 L541947,907 C537718,-989 532750,157 529760,3698 L419465,134076 L271015,94485 L168115,32749 C164396,30520 159657,30822 156241,33551 L0,158543 L13020,174813 Z
+  - elementId: 方能演亦42-3
+    elementType: shape
+    bounds: [77.3, 147.3, 21.8, 10.9]
+    shapeName: custom
+    viewBox:
+      - 499970
+      - 249985
+    path: M80120,241694 C94526,247194 109608,249985 124993,249985 C157230,249985 188010,237444 211102,215414 L242621,246933 C244569,248891 247214,249985 249985,249985 L374978,249985 L374978,229153 L254297,229153 L224862,199717 C236059,184854 244006,167771 247589,149533 C249183,141585 249985,133325 249985,124993 C249985,113702 248433,102681 245537,92088 L316794,20832 L499970,20832 L499970,0 L312481,0 C309711,0 307065,1094 305117,3052 L237517,70652 C216883,27842 173531,0 124993,0 C56070,0 0,56070 0,124993 C0,141637 3219,157803 9552,173073 C22697,204446 48403,229455 80120,241694 Z M33300,174458 L62475,162334 C69017,173250 78297,182333 89411,188572 L78068,217997 C59142,208394 43435,193114 33300,174458 Z M124993,72912 C153710,72912 177073,96276 177073,124993 C177073,153710 153710,177073 124993,177073 C96276,177073 72912,153710 72912,124993 C72912,96276 96276,72912 124993,72912 Z M124993,229153 C115660,229153 106452,227882 97515,225445 L108848,196040 C114056,197228 119441,197905 124993,197905 C156626,197905 183552,177604 193624,149377 L224476,155532 C220185,169563 213050,182635 203196,193738 C183447,216248 154939,229153 124993,229153 Z M223955,92317 L223955,92338 C227403,102702 229153,113691 229153,124993 C229153,128399 228986,131784 228663,135138 L197707,128961 C197780,127638 197905,126326 197905,124993 C197905,88338 170677,57997 135409,52914 L135409,21405 C176083,25457 210925,52893 223955,92317 Z M114577,21363 L114577,52914 C79308,57997 52080,88338 52080,124993 C52080,131253 52955,137304 54455,143106 L25280,155230 C22332,145481 20832,135346 20832,124993 C20832,71069 62017,26603 114577,21363 Z
+  - elementId: 方能演亦42-4
+    elementType: shape
+    bounds: [94.6, 157.3, 4.5, 0.9]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦42-5
+    elementType: shape
+    bounds: [94.6, 155.5, 4.5, 0.9]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦42-6
+    elementType: shape
+    bounds: [94.6, 153.6, 4.5, 0.9]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦42-7
+    elementType: shape
+    bounds: [100, 147.3, 4.5, 0.9]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦42-8
+    elementType: shape
+    bounds: [100, 149.1, 4.5, 0.9]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦42-9
+    elementType: shape
+    bounds: [100, 150.9, 4.5, 0.9]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦42-10
+    elementType: shape
+    bounds: [100, 152.7, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦42-11
+    elementType: shape
+    bounds: [101.8, 152.7, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦42-12
+    elementType: shape
+    bounds: [103.6, 152.7, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦43-1
+    elementType: shape
+    bounds: [63.4, 274.1, 52.7, 52.7]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.59
+          color: "#041A1A00"
+        - position: 0.77
+          color: "#24FFFFC2"
+  - elementId: 方能演亦43-2
+    elementType: shape
+    bounds: [63.4, 274.1, 52.7, 52.7]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0
+          color: "#24FFFFA1"
+        - position: 0.51
+          color: "#24FFFF00"
+        - position: 0.94
+          color: "#24FFFF00"
+    border:
+      style: solid
+      width: 0.75
+      color: "#F4FFFF00"
+  - elementId: 方能演亦43-3
+    elementType: shape
+    bounds: [63.4, 274.1, 52.7, 52.7]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#0462F5DE"
+        - position: 0.76
+          color: "#0462F500"
+  - elementId: 方能演亦43-4
+    elementType: shape
+    bounds: [63.4, 274.1, 52.7, 52.7]
+    flip: [true, true]
+    shapeName: roundRect
+    adjustments:
+      - 50000
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 1
+          color: "#0462F5"
+        - position: 0.48
+          color: "#0462F54F"
+        - position: 0.71
+          color: "#0462F52E"
+        - position: 0.12
+          color: "#24FFFFB3"
+    border:
+      style: solid
+      width: 0.75
+      color: "#24FFFF3B"
+  - elementId: 方能演亦44-1
+    elementType: shape
+    bounds: [77.6, 291.6, 26.6, 21.7]
+    shapeName: custom
+    viewBox:
+      - 624962
+      - 510386
+    path: M614547,416642 L604131,416642 L604131,93744 C604131,65027 580768,41664 552051,41664 L489554,41664 L489554,20832 L468722,20832 L468722,41664 L447890,41664 L447890,10416 L427058,10416 L427058,41664 L364562,41664 L364562,20832 L343730,20832 L343730,41664 L281233,41664 L281233,0 L260401,0 L260401,41664 L197905,41664 L197905,20832 L177073,20832 L177073,41664 L156241,41664 L156241,10416 L135409,10416 L135409,41664 L83328,41664 C54611,41664 31248,65027 31248,93744 L31248,416642 L10416,416642 C4656,416642 0,421308 0,427058 L0,458306 C0,487023 23363,510386 52080,510386 L572883,510386 C601600,510386 624963,487023 624963,458306 L624963,427058 C624963,421308 620307,416642 614547,416642 Z M52080,93744 C52080,76516 66100,62496 83328,62496 L552051,62496 C569279,62496 583299,76516 583299,93744 L583299,416642 L385394,416642 C381446,416642 377842,418871 376071,422402 L368541,437474 L256422,437474 L248881,422402 C247121,418871 243517,416642 239569,416642 L52080,416642 Z M604131,458306 C604131,475534 590111,489554 572883,489554 L52080,489554 C34852,489554 20832,475534 20832,458306 L20832,437474 L233132,437474 L240673,452546 C242433,456077 246037,458306 249985,458306 L374978,458306 C378925,458306 382529,456077 384300,452546 L391831,437474 L604131,437474 Z
+  - elementId: 方能演亦44-2
+    elementType: shape
+    bounds: [80.7, 295.1, 20.8, 13.3]
+    shapeName: custom
+    viewBox:
+      - 489554
+      - 312481
+    path: M489554,302065 L489554,10416 C489554,4666 484898,0 479138,0 L10416,0 C4656,0 0,4666 0,10416 L0,302065 C0,307815 4656,312481 10416,312481 L479138,312481 C484898,312481 489554,307815 489554,302065 Z M468722,193593 L430110,232205 C428152,234153 427058,236809 427058,239569 L427058,291649 L395810,291649 L395810,233465 L424006,205269 C425964,203321 427058,200665 427058,197905 L427058,102244 C439151,97932 447890,86474 447890,72912 C447890,59351 439151,47893 427058,43581 L427058,20832 L468722,20832 Z M135409,218737 C135409,212998 140075,208321 145825,208321 C151574,208321 156241,212998 156241,218737 C156241,224476 151574,229153 145825,229153 C140075,229153 135409,224476 135409,218737 Z M156241,248069 C168334,243756 177073,232299 177073,218737 C177073,201509 163053,187489 145825,187489 C128597,187489 114577,201509 114577,218737 C114577,232299 123316,243756 135409,248069 L135409,291649 L93744,291649 L93744,191801 L142773,142773 C144731,140825 145825,138169 145825,135409 L145825,20832 L166657,20832 L166657,156241 C166657,159001 167750,161657 169709,163605 L229153,223049 L229153,291649 L156241,291649 Z M239569,135409 C233819,135409 229153,130732 229153,124993 C229153,119253 233819,114577 239569,114577 C245319,114577 249985,119253 249985,124993 C249985,130732 245319,135409 239569,135409 Z M229153,95661 C217060,99973 208321,111431 208321,124993 C208321,138554 217060,150012 229153,154324 L229153,193593 L187489,151928 L187489,20832 L229153,20832 Z M249985,154324 C262078,150012 270817,138554 270817,124993 C270817,111431 262078,99973 249985,95661 L249985,20832 L291649,20832 L291649,41664 C291649,44424 292743,47081 294701,49028 L322897,77225 L322897,116493 C310804,120805 302065,132263 302065,145825 C302065,159386 310804,170844 322897,175156 L322897,193593 L273869,242621 C271911,244569 270817,247225 270817,249985 L270817,291649 L249985,291649 Z M333314,156241 C327564,156241 322897,151564 322897,145825 C322897,140085 327564,135409 333314,135409 C339063,135409 343730,140085 343730,145825 C343730,151564 339063,156241 333314,156241 Z M333314,58184 L312481,37352 L312481,20832 L354146,20832 L354146,37352 Z M291649,254297 L322897,223049 L322897,291649 L291649,291649 Z M343730,175156 C355823,170844 364562,159386 364562,145825 C364562,132263 355823,120805 343730,116493 L343730,77225 L371926,49028 C373884,47081 374978,44424 374978,41664 L374978,20832 L406226,20832 L406226,43581 C394133,47893 385394,59351 385394,72912 C385394,86474 394133,97932 406226,102244 L406226,193593 L378030,221789 C376071,223737 374978,226393 374978,229153 L374978,291649 L343730,291649 Z M416642,83328 C410892,83328 406226,78652 406226,72912 C406226,67173 410892,62496 416642,62496 C422392,62496 427058,67173 427058,72912 C427058,78652 422392,83328 416642,83328 Z M72912,83328 C67163,83328 62496,78652 62496,72912 C62496,67173 67163,62496 72912,62496 C78662,62496 83328,67173 83328,72912 C83328,78652 78662,83328 72912,83328 Z M62496,20832 L62496,43581 C50403,47893 41664,59351 41664,72912 C41664,86474 50403,97932 62496,102244 L62496,120680 L20832,162344 L20832,20832 Z M20832,191801 L80276,132357 C82235,130409 83328,127753 83328,124993 L83328,102244 C95421,97932 104160,86474 104160,72912 C104160,59351 95421,47893 83328,43581 L83328,20832 L124993,20832 L124993,131096 L75964,180125 C74006,182073 72912,184729 72912,187489 L72912,291649 L20832,291649 Z M447890,291649 L447890,243881 L468722,223049 L468722,291649 Z
+  - elementId: 方能演亦44-3
+    elementType: shape
+    bounds: [90.4, 291.6, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦44-4
+    elementType: shape
+    bounds: [90.4, 288.5, 0.9, 2.2]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 52080
+    path: M0,0 L20832,0 L20832,52080 L0,52080 Z
+  - elementId: 方能演亦44-5
+    elementType: shape
+    bounds: [90.4, 286.7, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦44-6
+    elementType: shape
+    bounds: [92.2, 290.7, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦44-7
+    elementType: shape
+    bounds: [92.2, 286.7, 0.9, 3.1]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 72912
+    path: M0,0 L20832,0 L20832,72912 L0,72912 Z
+  - elementId: 方能演亦44-8
+    elementType: shape
+    bounds: [97.5, 290.7, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦44-9
+    elementType: shape
+    bounds: [97.5, 286.7, 0.9, 3.1]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 72912
+    path: M0,0 L20832,0 L20832,72912 L0,72912 Z
+  - elementId: 方能演亦44-10
+    elementType: shape
+    bounds: [85.1, 290.7, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦44-11
+    elementType: shape
+    bounds: [85.1, 286.7, 0.9, 1.3]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 31248
+    path: M0,0 L20832,0 L20832,31248 L0,31248 Z
+  - elementId: 方能演亦44-12
+    elementType: shape
+    bounds: [94, 290.2, 0.9, 2.2]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 52080
+    path: M0,0 L20832,0 L20832,52080 L0,52080 Z
+  - elementId: 方能演亦44-13
+    elementType: shape
+    bounds: [94, 288.5, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦44-14
+    elementType: shape
+    bounds: [94, 286.7, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦44-15
+    elementType: shape
+    bounds: [86.9, 286.7, 0.9, 1.3]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 31248
+    path: M0,0 L20832,0 L20832,31248 L0,31248 Z
+  - elementId: 方能演亦44-16
+    elementType: shape
+    bounds: [86.9, 288.9, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦44-17
+    elementType: shape
+    bounds: [86.9, 290.7, 0.9, 1.8]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 41664
+    path: M0,0 L20832,0 L20832,41664 L0,41664 Z
+  - elementId: 方能演亦44-18
+    elementType: shape
+    bounds: [88.7, 286.7, 0.9, 2.2]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 52080
+    path: M0,0 L20832,0 L20832,52080 L0,52080 Z
+  - elementId: 方能演亦44-19
+    elementType: shape
+    bounds: [88.7, 289.8, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦44-20
+    elementType: shape
+    bounds: [85.1, 288.9, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦44-21
+    elementType: shape
+    bounds: [95.8, 286.7, 0.9, 4.4]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 104160
+    path: M0,0 L20832,0 L20832,104160 L0,104160 Z
+  - elementId: 方能演亦44-22
+    elementType: shape
+    bounds: [83.4, 286.7, 0.9, 4.4]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 104160
+    path: M0,0 L20832,0 L20832,104160 L0,104160 Z
+  - elementId: 方能演亦45-1
+    elementType: shape
+    bounds: [63.4, 402.8, 52.7, 52.7]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.59
+          color: "#041A1A00"
+        - position: 0.77
+          color: "#24FFFFC2"
+  - elementId: 方能演亦45-2
+    elementType: shape
+    bounds: [63.4, 402.8, 52.7, 52.7]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0
+          color: "#24FFFFA1"
+        - position: 0.51
+          color: "#24FFFF00"
+        - position: 0.94
+          color: "#24FFFF00"
+    border:
+      style: solid
+      width: 0.75
+      color: "#F4FFFF00"
+  - elementId: 方能演亦45-3
+    elementType: shape
+    bounds: [63.4, 402.8, 52.7, 52.7]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#0462F5DE"
+        - position: 0.76
+          color: "#0462F500"
+  - elementId: 方能演亦45-4
+    elementType: shape
+    bounds: [63.4, 402.8, 52.7, 52.7]
+    flip: [true, true]
+    shapeName: roundRect
+    adjustments:
+      - 50000
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 1
+          color: "#0462F5"
+        - position: 0.48
+          color: "#0462F54F"
+        - position: 0.71
+          color: "#0462F52E"
+        - position: 0.12
+          color: "#24FFFFB3"
+    border:
+      style: solid
+      width: 0.75
+      color: "#24FFFF3B"
+  - elementId: 方能演亦46-1
+    elementType: shape
+    bounds: [87.7, 421, 4.1, 0.8]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦46-2
+    elementType: shape
+    bounds: [87.7, 422.7, 4.1, 0.8]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦46-3
+    elementType: shape
+    bounds: [79.6, 417, 20.3, 24.3]
+    shapeName: custom
+    viewBox:
+      - 520802
+      - 624962
+    path: M520802,541634 L520802,458306 C520802,453681 517750,449609 513303,448307 L270817,377582 L270817,249985 L343730,249985 C349490,249985 354146,245319 354146,239569 L354146,72912 C354146,70152 353052,67496 351094,65548 L288597,3052 C286650,1094 284004,0 281233,0 L177073,0 C171313,0 166657,4666 166657,10416 L166657,239569 C166657,245319 171313,249985 177073,249985 L249985,249985 L249985,377582 L7500,448307 C3052,449609 0,453681 0,458306 L0,541634 C0,546259 3052,550332 7500,551634 L257485,624546 C258443,624827 259412,624963 260401,624963 C261391,624963 262359,624827 263318,624546 L513303,551634 C517750,550332 520802,546259 520802,541634 Z M291649,35560 L318585,62496 L291649,62496 Z M187489,20832 L270817,20832 L270817,72912 C270817,78662 275473,83328 281233,83328 L333314,83328 L333314,229153 L187489,229153 Z M249985,399278 L249985,453994 L226101,430110 L211373,444838 L253037,486502 C255068,488533 257735,489554 260401,489554 C263068,489554 265734,488533 267765,486502 L309430,444838 L294701,430110 L270817,453994 L270817,399278 L473191,458306 L260401,520365 L47612,458306 Z M20832,472191 L249985,539030 L249985,600662 L20832,533822 Z M270817,600662 L270817,539030 L499970,472191 L499970,533822 Z
+  - elementId: 方能演亦46-4
+    elementType: shape
+    bounds: [87.7, 419.4, 1.6, 0.8]
+    shapeName: custom
+    viewBox:
+      - 41664
+      - 20832
+    path: M0,0 L41664,0 L41664,20832 L0,20832 Z
+  - elementId: 方能演亦46-5
+    elementType: shape
+    bounds: [77.6, 417, 10, 15]
+    shapeName: custom
+    viewBox:
+      - 257349
+      - 385393
+    path: M10416,249985 L83328,249985 C83328,278702 106692,302065 135409,302065 L166657,302065 C183885,302065 197905,316085 197905,333314 L197905,349833 L174021,325949 L159293,340678 L200957,382342 C202988,384373 205654,385394 208321,385394 C210987,385394 213654,384373 215685,382342 L257349,340678 L242621,325949 L218737,349833 L218737,333314 C218737,304596 195374,281233 166657,281233 L135409,281233 C118180,281233 104160,267213 104160,249985 L177073,249985 C182833,249985 187489,245319 187489,239569 L187489,72912 C187489,70152 186395,67496 184437,65548 L121941,3052 C119993,1094 117347,0 114577,0 L10416,0 C4656,0 0,4666 0,10416 L0,239569 C0,245319 4656,249985 10416,249985 Z M124993,35560 L151928,62496 L124993,62496 Z M20832,20832 L104160,20832 L104160,72912 C104160,78662 108816,83328 114577,83328 L166657,83328 L166657,229153 L20832,229153 Z
+  - elementId: 方能演亦46-6
+    elementType: shape
+    bounds: [79.2, 421, 4.1, 0.8]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦46-7
+    elementType: shape
+    bounds: [79.2, 422.7, 4.1, 0.8]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦46-8
+    elementType: shape
+    bounds: [79.2, 424.3, 4.1, 0.8]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦46-9
+    elementType: shape
+    bounds: [79.2, 419.4, 1.6, 0.8]
+    shapeName: custom
+    viewBox:
+      - 41664
+      - 20832
+    path: M0,0 L41664,0 L41664,20832 L0,20832 Z
+  - elementId: 方能演亦46-10
+    elementType: shape
+    bounds: [91.9, 417, 10, 15]
+    shapeName: custom
+    viewBox:
+      - 257349
+      - 385393
+    path: M257349,239569 L257349,72912 C257349,70152 256256,67496 254297,65548 L191801,3052 C189853,1094 187208,0 184437,0 L80276,0 C74516,0 69860,4666 69860,10416 L69860,239569 C69860,245319 74516,249985 80276,249985 L153189,249985 C153189,267213 139169,281233 121941,281233 L90693,281233 C61975,281233 38612,304596 38612,333314 L38612,349833 L14728,325949 L0,340678 L41664,382342 C43695,384373 46362,385394 49028,385394 C51695,385394 54361,384373 56392,382342 L98057,340678 L83328,325949 L59444,349833 L59444,333314 C59444,316085 73464,302065 90693,302065 L121941,302065 C150658,302065 174021,278702 174021,249985 L246933,249985 C252693,249985 257349,245319 257349,239569 Z M194853,35560 L221789,62496 L194853,62496 Z M90693,229153 L90693,20832 L174021,20832 L174021,72912 C174021,78662 178677,83328 184437,83328 L236517,83328 L236517,229153 Z
+  - elementId: 方能演亦46-11
+    elementType: shape
+    bounds: [96.3, 421, 4.1, 0.8]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦46-12
+    elementType: shape
+    bounds: [96.3, 422.7, 4.1, 0.8]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦46-13
+    elementType: shape
+    bounds: [96.3, 424.3, 4.1, 0.8]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦46-14
+    elementType: shape
+    bounds: [96.3, 419.4, 1.6, 0.8]
+    shapeName: custom
+    viewBox:
+      - 41664
+      - 20832
+    path: M0,0 L41664,0 L41664,20832 L0,20832 Z
+  - elementId: 方能演亦46-15
+    elementType: shape
+    bounds: [87.7, 424.3, 0.8, 0.8]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦46-16
+    elementType: shape
+    bounds: [89.4, 424.3, 0.8, 0.8]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦46-17
+    elementType: shape
+    bounds: [91, 424.3, 0.8, 0.8]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 图片 337
+    elementType: image
+    bounds: [433.2, 141.5, 124.7, 270]
+    cropShape:
+      shapeName: rect
+    src: media/image-8.png
+    fit:
+      mode: fill
+  - elementId: 5557fa320a370d1cd50e8a98a4150e4bfdbebcb83953c-SXNqVQ_fw658.png
+    elementType: image
+    bounds: [424.2, 132.7, 140.4, 284]
+    cropShape:
+      shapeName: rect
+    src: media/image-9.png
+    fit:
+      mode: fill
+  - elementId: Picture 6
+    elementType: image
+    bounds: [290.4, 337.5, 406.5, 155.9]
+    cropShape:
+      shapeName: rect
+    src: media/image-17.png
+    fit:
+      mode: fill
+  - elementId: 方能演亦33-2
+    elementType: text
+    bounds: [690.2, 411.4, 80.9, 24.3]
+    flip: [true, false]
+    content:
+      text: |-
+        <p>更换文字</p>
+      gradient:
+        type: gradient
+        gradientType: linear
+        stops:
+          - position: 0.33
+            color: "#FFF8B9"
+          - position: 0.51
+            color: "#FFF177"
+          - position: 0.74
+            color: "#FCC55E"
+        angle: 90
+      wrap: false
+      style: $text13
+  - elementId: 方能演亦34-2
+    elementType: text
+    bounds: [690.2, 442.9, 226.3, 44.8]
+    opacity: 0.9
+    flip: [true, false]
+    content:
+      text: |-
+        <p>点击此处更换文字内容，替换上</p><p>您所需要的文字，您可自由编辑</p>
+      wrap: false
+      style: $text14
+  - elementId: 方能演亦35-2
+    elementType: text
+    bounds: [690.2, 282.6, 80.9, 24.3]
+    flip: [true, false]
+    content:
+      text: |-
+        <p>更换文字</p>
+      gradient:
+        type: gradient
+        gradientType: linear
+        stops:
+          - position: 0.33
+            color: "#FFF8B9"
+          - position: 0.51
+            color: "#FFF177"
+          - position: 0.74
+            color: "#FCC55E"
+        angle: 90
+      wrap: false
+      style: $text13
+  - elementId: 方能演亦36-2
+    elementType: text
+    bounds: [690.2, 314.1, 239.4, 44.8]
+    opacity: 0.9
+    flip: [true, false]
+    content:
+      text: |-
+        <p>点击此处更换文字内容，替换上您所需要的文字，您可自由编辑</p>
+      wrap: true
+      style: $text14
+  - elementId: 方能演亦37-2
+    elementType: text
+    bounds: [689.1, 144.1, 80.9, 24.3]
+    flip: [true, false]
+    content:
+      text: |-
+        <p>更换文字</p>
+      gradient:
+        type: gradient
+        gradientType: linear
+        stops:
+          - position: 0.33
+            color: "#FFF8B9"
+          - position: 0.51
+            color: "#FFF177"
+          - position: 0.74
+            color: "#FCC55E"
+        angle: 90
+      wrap: false
+      style: $text13
+  - elementId: 方能演亦38-2
+    elementType: text
+    bounds: [689.1, 175.6, 225.9, 44.8]
+    opacity: 0.9
+    flip: [true, false]
+    content:
+      text: |-
+        <p>点击此处更换文字内容，替换上您所需要的文字，您可自由编辑</p>
+      wrap: true
+      style: $text14
+  - elementId: 方能演亦39-2
+    elementType: shape
+    bounds: [619.9, 250.8, 308.9, 1.5]
+    flip: [true, false]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 0.5
+      color: $lt1
+  - elementId: 方能演亦40-2
+    elementType: shape
+    bounds: [619.9, 384.4, 308.9, 1.5]
+    flip: [true, false]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 0.5
+      color: $lt1
+  - elementId: 方能演亦41-1-2
+    elementType: shape
+    bounds: [618.3, 138.2, 52.7, 52.7]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.59
+          color: "#041A1A00"
+        - position: 0.77
+          color: "#24FFFFC2"
+  - elementId: 方能演亦41-2-2
+    elementType: shape
+    bounds: [618.3, 138.2, 52.7, 52.7]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0
+          color: "#24FFFFA1"
+        - position: 0.51
+          color: "#24FFFF00"
+        - position: 0.94
+          color: "#24FFFF00"
+    border:
+      style: solid
+      width: 0.75
+      color: "#F4FFFF00"
+  - elementId: 方能演亦41-3-2
+    elementType: shape
+    bounds: [618.3, 138.2, 52.7, 52.7]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#0462F5DE"
+        - position: 0.76
+          color: "#0462F500"
+  - elementId: 方能演亦41-4-2
+    elementType: shape
+    bounds: [618.3, 138.2, 52.7, 52.7]
+    flip: [true, true]
+    shapeName: roundRect
+    adjustments:
+      - 50000
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 1
+          color: "#0462F5"
+        - position: 0.48
+          color: "#0462F54F"
+        - position: 0.71
+          color: "#0462F52E"
+        - position: 0.12
+          color: "#24FFFFB3"
+    border:
+      style: solid
+      width: 0.75
+      color: "#24FFFF3B"
+  - elementId: 方能演亦42-1-2
+    elementType: shape
+    bounds: [631.7, 168.5, 28.1, 10.9]
+    shapeName: custom
+    viewBox:
+      - 645794
+      - 249985
+    path: M635379,229153 L635379,10416 C635379,4666 630723,0 624963,0 L572883,0 C567123,0 562467,4666 562467,10416 L562467,72912 L520802,72912 C515042,72912 510386,77579 510386,83328 L510386,229153 L468722,229153 L468722,114577 C468722,108827 464066,104160 458306,104160 L406226,104160 C400466,104160 395810,108827 395810,114577 L395810,177073 L354146,177073 C348386,177073 343730,181739 343730,187489 L343730,229153 L302065,229153 L302065,41664 C302065,35915 297409,31248 291649,31248 L239569,31248 C233809,31248 229153,35915 229153,41664 L229153,114577 L187489,114577 C181729,114577 177073,119243 177073,124993 L177073,229153 L135409,229153 L135409,83328 C135409,77579 130753,72912 124993,72912 L72912,72912 C67152,72912 62496,77579 62496,83328 L62496,145825 L20832,145825 C15072,145825 10416,150491 10416,156241 L10416,229153 L0,229153 L0,249985 L645795,249985 L645795,229153 Z M31248,166657 L62496,166657 L62496,229153 L31248,229153 Z M83328,229153 L83328,156241 L83328,93744 L114577,93744 L114577,229153 Z M197905,135409 L229153,135409 L229153,229153 L197905,229153 Z M249985,229153 L249985,124993 L249985,52080 L281233,52080 L281233,229153 Z M364562,197905 L395810,197905 L395810,229153 L364562,229153 Z M416642,229153 L416642,187489 L416642,124993 L447890,124993 L447890,229153 Z M531218,93744 L562467,93744 L562467,229153 L531218,229153 Z M583299,229153 L583299,83328 L583299,20832 L614547,20832 L614547,229153 Z
+  - elementId: 方能演亦42-2-2
+    elementType: shape
+    bounds: [631.9, 163.5, 27.7, 7.6]
+    shapeName: custom
+    viewBox:
+      - 635691
+      - 174813
+    path: M163605,54331 L261547,113098 C262380,113598 263286,113983 264224,114233 L420465,155898 C424391,156939 428495,155637 431099,152564 L540635,23114 L627234,61601 L635691,42571 L541947,907 C537718,-989 532750,157 529760,3698 L419465,134076 L271015,94485 L168115,32749 C164396,30520 159657,30822 156241,33551 L0,158543 L13020,174813 Z
+  - elementId: 方能演亦42-3-2
+    elementType: shape
+    bounds: [632.2, 152.1, 21.8, 10.9]
+    shapeName: custom
+    viewBox:
+      - 499970
+      - 249985
+    path: M80120,241694 C94526,247194 109608,249985 124993,249985 C157230,249985 188010,237444 211102,215414 L242621,246933 C244569,248891 247214,249985 249985,249985 L374978,249985 L374978,229153 L254297,229153 L224862,199717 C236059,184854 244006,167771 247589,149533 C249183,141585 249985,133325 249985,124993 C249985,113702 248433,102681 245537,92088 L316794,20832 L499970,20832 L499970,0 L312481,0 C309711,0 307065,1094 305117,3052 L237517,70652 C216883,27842 173531,0 124993,0 C56070,0 0,56070 0,124993 C0,141637 3219,157803 9552,173073 C22697,204446 48403,229455 80120,241694 Z M33300,174458 L62475,162334 C69017,173250 78297,182333 89411,188572 L78068,217997 C59142,208394 43435,193114 33300,174458 Z M124993,72912 C153710,72912 177073,96276 177073,124993 C177073,153710 153710,177073 124993,177073 C96276,177073 72912,153710 72912,124993 C72912,96276 96276,72912 124993,72912 Z M124993,229153 C115660,229153 106452,227882 97515,225445 L108848,196040 C114056,197228 119441,197905 124993,197905 C156626,197905 183552,177604 193624,149377 L224476,155532 C220185,169563 213050,182635 203196,193738 C183447,216248 154939,229153 124993,229153 Z M223955,92317 L223955,92338 C227403,102702 229153,113691 229153,124993 C229153,128399 228986,131784 228663,135138 L197707,128961 C197780,127638 197905,126326 197905,124993 C197905,88338 170677,57997 135409,52914 L135409,21405 C176083,25457 210925,52893 223955,92317 Z M114577,21363 L114577,52914 C79308,57997 52080,88338 52080,124993 C52080,131253 52955,137304 54455,143106 L25280,155230 C22332,145481 20832,135346 20832,124993 C20832,71069 62017,26603 114577,21363 Z
+  - elementId: 方能演亦42-4-2
+    elementType: shape
+    bounds: [649.4, 162.1, 4.5, 0.9]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦42-5-2
+    elementType: shape
+    bounds: [649.4, 160.3, 4.5, 0.9]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦42-6-2
+    elementType: shape
+    bounds: [649.4, 158.5, 4.5, 0.9]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦42-7-2
+    elementType: shape
+    bounds: [654.9, 152.1, 4.5, 0.9]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦42-8-2
+    elementType: shape
+    bounds: [654.9, 154, 4.5, 0.9]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦42-9-2
+    elementType: shape
+    bounds: [654.9, 155.8, 4.5, 0.9]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦42-10-2
+    elementType: shape
+    bounds: [654.9, 157.6, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦42-11-2
+    elementType: shape
+    bounds: [656.7, 157.6, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦42-12-2
+    elementType: shape
+    bounds: [658.5, 157.6, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦43-1-2
+    elementType: shape
+    bounds: [618.3, 279, 52.7, 52.7]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.59
+          color: "#041A1A00"
+        - position: 0.77
+          color: "#24FFFFC2"
+  - elementId: 方能演亦43-2-2
+    elementType: shape
+    bounds: [618.3, 279, 52.7, 52.7]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0
+          color: "#24FFFFA1"
+        - position: 0.51
+          color: "#24FFFF00"
+        - position: 0.94
+          color: "#24FFFF00"
+    border:
+      style: solid
+      width: 0.75
+      color: "#F4FFFF00"
+  - elementId: 方能演亦43-3-2
+    elementType: shape
+    bounds: [618.3, 279, 52.7, 52.7]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#0462F5DE"
+        - position: 0.76
+          color: "#0462F500"
+  - elementId: 方能演亦43-4-2
+    elementType: shape
+    bounds: [618.3, 279, 52.7, 52.7]
+    flip: [true, true]
+    shapeName: roundRect
+    adjustments:
+      - 50000
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 1
+          color: "#0462F5"
+        - position: 0.48
+          color: "#0462F54F"
+        - position: 0.71
+          color: "#0462F52E"
+        - position: 0.12
+          color: "#24FFFFB3"
+    border:
+      style: solid
+      width: 0.75
+      color: "#24FFFF3B"
+  - elementId: 方能演亦44-1-2
+    elementType: shape
+    bounds: [632.5, 296.4, 26.6, 21.7]
+    shapeName: custom
+    viewBox:
+      - 624962
+      - 510386
+    path: M614547,416642 L604131,416642 L604131,93744 C604131,65027 580768,41664 552051,41664 L489554,41664 L489554,20832 L468722,20832 L468722,41664 L447890,41664 L447890,10416 L427058,10416 L427058,41664 L364562,41664 L364562,20832 L343730,20832 L343730,41664 L281233,41664 L281233,0 L260401,0 L260401,41664 L197905,41664 L197905,20832 L177073,20832 L177073,41664 L156241,41664 L156241,10416 L135409,10416 L135409,41664 L83328,41664 C54611,41664 31248,65027 31248,93744 L31248,416642 L10416,416642 C4656,416642 0,421308 0,427058 L0,458306 C0,487023 23363,510386 52080,510386 L572883,510386 C601600,510386 624963,487023 624963,458306 L624963,427058 C624963,421308 620307,416642 614547,416642 Z M52080,93744 C52080,76516 66100,62496 83328,62496 L552051,62496 C569279,62496 583299,76516 583299,93744 L583299,416642 L385394,416642 C381446,416642 377842,418871 376071,422402 L368541,437474 L256422,437474 L248881,422402 C247121,418871 243517,416642 239569,416642 L52080,416642 Z M604131,458306 C604131,475534 590111,489554 572883,489554 L52080,489554 C34852,489554 20832,475534 20832,458306 L20832,437474 L233132,437474 L240673,452546 C242433,456077 246037,458306 249985,458306 L374978,458306 C378925,458306 382529,456077 384300,452546 L391831,437474 L604131,437474 Z
+  - elementId: 方能演亦44-2-2
+    elementType: shape
+    bounds: [635.6, 299.9, 20.8, 13.3]
+    shapeName: custom
+    viewBox:
+      - 489554
+      - 312481
+    path: M489554,302065 L489554,10416 C489554,4666 484898,0 479138,0 L10416,0 C4656,0 0,4666 0,10416 L0,302065 C0,307815 4656,312481 10416,312481 L479138,312481 C484898,312481 489554,307815 489554,302065 Z M468722,193593 L430110,232205 C428152,234153 427058,236809 427058,239569 L427058,291649 L395810,291649 L395810,233465 L424006,205269 C425964,203321 427058,200665 427058,197905 L427058,102244 C439151,97932 447890,86474 447890,72912 C447890,59351 439151,47893 427058,43581 L427058,20832 L468722,20832 Z M135409,218737 C135409,212998 140075,208321 145825,208321 C151574,208321 156241,212998 156241,218737 C156241,224476 151574,229153 145825,229153 C140075,229153 135409,224476 135409,218737 Z M156241,248069 C168334,243756 177073,232299 177073,218737 C177073,201509 163053,187489 145825,187489 C128597,187489 114577,201509 114577,218737 C114577,232299 123316,243756 135409,248069 L135409,291649 L93744,291649 L93744,191801 L142773,142773 C144731,140825 145825,138169 145825,135409 L145825,20832 L166657,20832 L166657,156241 C166657,159001 167750,161657 169709,163605 L229153,223049 L229153,291649 L156241,291649 Z M239569,135409 C233819,135409 229153,130732 229153,124993 C229153,119253 233819,114577 239569,114577 C245319,114577 249985,119253 249985,124993 C249985,130732 245319,135409 239569,135409 Z M229153,95661 C217060,99973 208321,111431 208321,124993 C208321,138554 217060,150012 229153,154324 L229153,193593 L187489,151928 L187489,20832 L229153,20832 Z M249985,154324 C262078,150012 270817,138554 270817,124993 C270817,111431 262078,99973 249985,95661 L249985,20832 L291649,20832 L291649,41664 C291649,44424 292743,47081 294701,49028 L322897,77225 L322897,116493 C310804,120805 302065,132263 302065,145825 C302065,159386 310804,170844 322897,175156 L322897,193593 L273869,242621 C271911,244569 270817,247225 270817,249985 L270817,291649 L249985,291649 Z M333314,156241 C327564,156241 322897,151564 322897,145825 C322897,140085 327564,135409 333314,135409 C339063,135409 343730,140085 343730,145825 C343730,151564 339063,156241 333314,156241 Z M333314,58184 L312481,37352 L312481,20832 L354146,20832 L354146,37352 Z M291649,254297 L322897,223049 L322897,291649 L291649,291649 Z M343730,175156 C355823,170844 364562,159386 364562,145825 C364562,132263 355823,120805 343730,116493 L343730,77225 L371926,49028 C373884,47081 374978,44424 374978,41664 L374978,20832 L406226,20832 L406226,43581 C394133,47893 385394,59351 385394,72912 C385394,86474 394133,97932 406226,102244 L406226,193593 L378030,221789 C376071,223737 374978,226393 374978,229153 L374978,291649 L343730,291649 Z M416642,83328 C410892,83328 406226,78652 406226,72912 C406226,67173 410892,62496 416642,62496 C422392,62496 427058,67173 427058,72912 C427058,78652 422392,83328 416642,83328 Z M72912,83328 C67163,83328 62496,78652 62496,72912 C62496,67173 67163,62496 72912,62496 C78662,62496 83328,67173 83328,72912 C83328,78652 78662,83328 72912,83328 Z M62496,20832 L62496,43581 C50403,47893 41664,59351 41664,72912 C41664,86474 50403,97932 62496,102244 L62496,120680 L20832,162344 L20832,20832 Z M20832,191801 L80276,132357 C82235,130409 83328,127753 83328,124993 L83328,102244 C95421,97932 104160,86474 104160,72912 C104160,59351 95421,47893 83328,43581 L83328,20832 L124993,20832 L124993,131096 L75964,180125 C74006,182073 72912,184729 72912,187489 L72912,291649 L20832,291649 Z M447890,291649 L447890,243881 L468722,223049 L468722,291649 Z
+  - elementId: 方能演亦44-3-2
+    elementType: shape
+    bounds: [645.3, 296.4, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦44-4-2
+    elementType: shape
+    bounds: [645.3, 293.3, 0.9, 2.2]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 52080
+    path: M0,0 L20832,0 L20832,52080 L0,52080 Z
+  - elementId: 方能演亦44-5-2
+    elementType: shape
+    bounds: [645.3, 291.5, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦44-6-2
+    elementType: shape
+    bounds: [647.1, 295.5, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦44-7-2
+    elementType: shape
+    bounds: [647.1, 291.5, 0.9, 3.1]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 72912
+    path: M0,0 L20832,0 L20832,72912 L0,72912 Z
+  - elementId: 方能演亦44-8-2
+    elementType: shape
+    bounds: [652.4, 295.5, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦44-9-2
+    elementType: shape
+    bounds: [652.4, 291.5, 0.9, 3.1]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 72912
+    path: M0,0 L20832,0 L20832,72912 L0,72912 Z
+  - elementId: 方能演亦44-10-2
+    elementType: shape
+    bounds: [640, 295.5, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦44-11-2
+    elementType: shape
+    bounds: [640, 291.5, 0.9, 1.3]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 31248
+    path: M0,0 L20832,0 L20832,31248 L0,31248 Z
+  - elementId: 方能演亦44-12-2
+    elementType: shape
+    bounds: [648.8, 295.1, 0.9, 2.2]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 52080
+    path: M0,0 L20832,0 L20832,52080 L0,52080 Z
+  - elementId: 方能演亦44-13-2
+    elementType: shape
+    bounds: [648.8, 293.3, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦44-14-2
+    elementType: shape
+    bounds: [648.8, 291.5, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦44-15-2
+    elementType: shape
+    bounds: [641.7, 291.5, 0.9, 1.3]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 31248
+    path: M0,0 L20832,0 L20832,31248 L0,31248 Z
+  - elementId: 方能演亦44-16-2
+    elementType: shape
+    bounds: [641.7, 293.7, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦44-17-2
+    elementType: shape
+    bounds: [641.7, 295.5, 0.9, 1.8]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 41664
+    path: M0,0 L20832,0 L20832,41664 L0,41664 Z
+  - elementId: 方能演亦44-18-2
+    elementType: shape
+    bounds: [643.5, 291.5, 0.9, 2.2]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 52080
+    path: M0,0 L20832,0 L20832,52080 L0,52080 Z
+  - elementId: 方能演亦44-19-2
+    elementType: shape
+    bounds: [643.5, 294.6, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦44-20-2
+    elementType: shape
+    bounds: [640, 293.7, 0.9, 0.9]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦44-21-2
+    elementType: shape
+    bounds: [650.6, 291.5, 0.9, 4.4]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 104160
+    path: M0,0 L20832,0 L20832,104160 L0,104160 Z
+  - elementId: 方能演亦44-22-2
+    elementType: shape
+    bounds: [638.2, 291.5, 0.9, 4.4]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 104160
+    path: M0,0 L20832,0 L20832,104160 L0,104160 Z
+  - elementId: 方能演亦45-1-2
+    elementType: shape
+    bounds: [618.3, 407.7, 52.7, 52.7]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.59
+          color: "#041A1A00"
+        - position: 0.77
+          color: "#24FFFFC2"
+  - elementId: 方能演亦45-2-2
+    elementType: shape
+    bounds: [618.3, 407.7, 52.7, 52.7]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0
+          color: "#24FFFFA1"
+        - position: 0.51
+          color: "#24FFFF00"
+        - position: 0.94
+          color: "#24FFFF00"
+    border:
+      style: solid
+      width: 0.75
+      color: "#F4FFFF00"
+  - elementId: 方能演亦45-3-2
+    elementType: shape
+    bounds: [618.3, 407.7, 52.7, 52.7]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#0462F5DE"
+        - position: 0.76
+          color: "#0462F500"
+  - elementId: 方能演亦45-4-2
+    elementType: shape
+    bounds: [618.3, 407.7, 52.7, 52.7]
+    flip: [true, true]
+    shapeName: roundRect
+    adjustments:
+      - 50000
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 1
+          color: "#0462F5"
+        - position: 0.48
+          color: "#0462F54F"
+        - position: 0.71
+          color: "#0462F52E"
+        - position: 0.12
+          color: "#24FFFFB3"
+    border:
+      style: solid
+      width: 0.75
+      color: "#24FFFF3B"
+  - elementId: 方能演亦46-1-2
+    elementType: shape
+    bounds: [642.6, 425.9, 4.1, 0.8]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦46-2-2
+    elementType: shape
+    bounds: [642.6, 427.5, 4.1, 0.8]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦46-3-2
+    elementType: shape
+    bounds: [634.5, 421.8, 20.3, 24.3]
+    shapeName: custom
+    viewBox:
+      - 520802
+      - 624962
+    path: M520802,541634 L520802,458306 C520802,453681 517750,449609 513303,448307 L270817,377582 L270817,249985 L343730,249985 C349490,249985 354146,245319 354146,239569 L354146,72912 C354146,70152 353052,67496 351094,65548 L288597,3052 C286650,1094 284004,0 281233,0 L177073,0 C171313,0 166657,4666 166657,10416 L166657,239569 C166657,245319 171313,249985 177073,249985 L249985,249985 L249985,377582 L7500,448307 C3052,449609 0,453681 0,458306 L0,541634 C0,546259 3052,550332 7500,551634 L257485,624546 C258443,624827 259412,624963 260401,624963 C261391,624963 262359,624827 263318,624546 L513303,551634 C517750,550332 520802,546259 520802,541634 Z M291649,35560 L318585,62496 L291649,62496 Z M187489,20832 L270817,20832 L270817,72912 C270817,78662 275473,83328 281233,83328 L333314,83328 L333314,229153 L187489,229153 Z M249985,399278 L249985,453994 L226101,430110 L211373,444838 L253037,486502 C255068,488533 257735,489554 260401,489554 C263068,489554 265734,488533 267765,486502 L309430,444838 L294701,430110 L270817,453994 L270817,399278 L473191,458306 L260401,520365 L47612,458306 Z M20832,472191 L249985,539030 L249985,600662 L20832,533822 Z M270817,600662 L270817,539030 L499970,472191 L499970,533822 Z
+  - elementId: 方能演亦46-4-2
+    elementType: shape
+    bounds: [642.6, 424.3, 1.6, 0.8]
+    shapeName: custom
+    viewBox:
+      - 41664
+      - 20832
+    path: M0,0 L41664,0 L41664,20832 L0,20832 Z
+  - elementId: 方能演亦46-5-2
+    elementType: shape
+    bounds: [632.4, 421.8, 10, 15]
+    shapeName: custom
+    viewBox:
+      - 257349
+      - 385393
+    path: M10416,249985 L83328,249985 C83328,278702 106692,302065 135409,302065 L166657,302065 C183885,302065 197905,316085 197905,333314 L197905,349833 L174021,325949 L159293,340678 L200957,382342 C202988,384373 205654,385394 208321,385394 C210987,385394 213654,384373 215685,382342 L257349,340678 L242621,325949 L218737,349833 L218737,333314 C218737,304596 195374,281233 166657,281233 L135409,281233 C118180,281233 104160,267213 104160,249985 L177073,249985 C182833,249985 187489,245319 187489,239569 L187489,72912 C187489,70152 186395,67496 184437,65548 L121941,3052 C119993,1094 117347,0 114577,0 L10416,0 C4656,0 0,4666 0,10416 L0,239569 C0,245319 4656,249985 10416,249985 Z M124993,35560 L151928,62496 L124993,62496 Z M20832,20832 L104160,20832 L104160,72912 C104160,78662 108816,83328 114577,83328 L166657,83328 L166657,229153 L20832,229153 Z
+  - elementId: 方能演亦46-6-2
+    elementType: shape
+    bounds: [634.1, 425.9, 4.1, 0.8]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦46-7-2
+    elementType: shape
+    bounds: [634.1, 427.5, 4.1, 0.8]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦46-8-2
+    elementType: shape
+    bounds: [634.1, 429.1, 4.1, 0.8]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦46-9-2
+    elementType: shape
+    bounds: [634.1, 424.3, 1.6, 0.8]
+    shapeName: custom
+    viewBox:
+      - 41664
+      - 20832
+    path: M0,0 L41664,0 L41664,20832 L0,20832 Z
+  - elementId: 方能演亦46-10-2
+    elementType: shape
+    bounds: [646.8, 421.8, 10, 15]
+    shapeName: custom
+    viewBox:
+      - 257349
+      - 385393
+    path: M257349,239569 L257349,72912 C257349,70152 256256,67496 254297,65548 L191801,3052 C189853,1094 187208,0 184437,0 L80276,0 C74516,0 69860,4666 69860,10416 L69860,239569 C69860,245319 74516,249985 80276,249985 L153189,249985 C153189,267213 139169,281233 121941,281233 L90693,281233 C61975,281233 38612,304596 38612,333314 L38612,349833 L14728,325949 L0,340678 L41664,382342 C43695,384373 46362,385394 49028,385394 C51695,385394 54361,384373 56392,382342 L98057,340678 L83328,325949 L59444,349833 L59444,333314 C59444,316085 73464,302065 90693,302065 L121941,302065 C150658,302065 174021,278702 174021,249985 L246933,249985 C252693,249985 257349,245319 257349,239569 Z M194853,35560 L221789,62496 L194853,62496 Z M90693,229153 L90693,20832 L174021,20832 L174021,72912 C174021,78662 178677,83328 184437,83328 L236517,83328 L236517,229153 Z
+  - elementId: 方能演亦46-11-2
+    elementType: shape
+    bounds: [651.1, 425.9, 4.1, 0.8]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦46-12-2
+    elementType: shape
+    bounds: [651.1, 427.5, 4.1, 0.8]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦46-13-2
+    elementType: shape
+    bounds: [651.1, 429.1, 4.1, 0.8]
+    shapeName: custom
+    viewBox:
+      - 104160
+      - 20832
+    path: M0,0 L104160,0 L104160,20832 L0,20832 Z
+  - elementId: 方能演亦46-14-2
+    elementType: shape
+    bounds: [651.1, 424.3, 1.6, 0.8]
+    shapeName: custom
+    viewBox:
+      - 41664
+      - 20832
+    path: M0,0 L41664,0 L41664,20832 L0,20832 Z
+  - elementId: 方能演亦46-15-2
+    elementType: shape
+    bounds: [642.6, 429.1, 0.8, 0.8]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦46-16-2
+    elementType: shape
+    bounds: [644.2, 429.1, 0.8, 0.8]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z
+  - elementId: 方能演亦46-17-2
+    elementType: shape
+    bounds: [645.8, 429.1, 0.8, 0.8]
+    shapeName: custom
+    viewBox:
+      - 20832
+      - 20832
+    path: M0,0 L20832,0 L20832,20832 L0,20832 Z

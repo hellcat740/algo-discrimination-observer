@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><title>模拟京东商品页（E2E 测试用，非真实页面）</title></head>
+<body>
+<!-- 顶栏：登录态标识（探针会读取 nickname 文本并做会员关键词判断） -->
+<div id="ttbar-login"><span class="nickname">测试用户_PLUS会员</span></div>
+
+<!-- 商品信息区：严格按照 platforms.ts 中 jd 规则的选择器构造 -->
+<div class="itemInfo-wrap">
+  <div id="name"><h1>联想小新 Pro14 AI轻薄本 锐龙7 32G 1T 2.8K高刷屏（E2E模拟数据）</h1></div>
+  <div class="summary-price">
+    <div class="p-price"><span class="price">5499.00</span></div>
+    <del id="page_maprice">5999.00</del>
+  </div>
+  <div class="quan-item">满3000减300</div>
+  <div id="store-prompt">配送至 北京市 朝阳区，现货</div>
+</div>
+<div class="pop-shop-name">联想京东自营旗舰店</div>
+</body>
+</html>

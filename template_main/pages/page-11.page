@@ -1,0 +1,2996 @@
+pageType: content
+elements:
+  - elementId: 矩形 7
+    elementType: shape
+    bounds: [0, 0, 960, 540]
+    shapeName: rect
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#002456"
+        - position: 0
+          color: "#042258"
+      angle: 90
+    border:
+      style: solid
+      width: 1
+      color: "#0A111D"
+  - elementId: Picture 47
+    elementType: image
+    bounds: [0.2, -0.7, 453.1, 540]
+    cropShape:
+      shapeName: rect
+    src: media/image-5.png
+    fit:
+      mode: fill
+  - elementId: Picture 111
+    elementType: image
+    bounds: [343.9, -65.8, 661.8, 440]
+    cropShape:
+      shapeName: rect
+    src: media/image-17.png
+    fit:
+      mode: fill
+  - elementId: Picture 3
+    elementType: image
+    bounds: [0, 46.5, 959.2, 493.5]
+    cropShape:
+      shapeName: rect
+    src: media/image-2.png
+    fit:
+      mode: fill
+  - elementId: "流程图: 手动输入 119"
+    elementType: shape
+    bounds: [-5, -437.6, 287.5, 369.4]
+    shapeName: custom
+    viewBox:
+      - 10000
+      - 10000
+    path: M99,1256 L10000,0 L10000,10000 L0,10000 C66,7061 33,4195 99,1256 Z
+    fill:
+      type: solid
+      color: $accent1
+    border:
+      style: solid
+      width: 1
+      color: "#FFF2CC52"
+  - elementId: "16"
+    elementType: image
+    bounds: [-10.2, 365.4, 883.4, 188.8]
+    rotation: 180
+    cropShape:
+      shapeName: custom
+    src: media/image-6.png
+    crop:
+      top: 0.54275
+      bottom: -0.00635
+  - elementId: "任意多边形: 形状 2"
+    elementType: shape
+    bounds: [595.6, 21, 364.4, 16.9]
+    shapeName: custom
+    viewBox:
+      - 4628346
+      - 214864
+    path: M1179178,4 C2036332,-88 3402008,1227 4378814,1467 L4628346,1500 L4628346,214864 L0,214864 C188271,25210 188159,4890 387013,1504 C449155,446 750602,49 1179178,4 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC40"
+        - position: 0
+          color: "#8FAADC4F"
+      angle: 90
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 40
+    elementType: shape
+    bounds: [610.5, 24.7, 105.5, 15.2]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC54"
+        - position: 0
+          color: "#8FAADCA6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 40-2
+    elementType: shape
+    bounds: [706.9, 24.7, 105.5, 15.2]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC54"
+        - position: 0
+          color: "#8FAADCA6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 40-3
+    elementType: shape
+    bounds: [803.3, 24.7, 105.5, 15.2]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC54"
+        - position: 0
+          color: "#8FAADCA6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 6
+    elementType: shape
+    bounds: [780.5, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 8
+    elementType: shape
+    bounds: [785.7, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 9
+    elementType: shape
+    bounds: [790.8, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 11
+    elementType: shape
+    bounds: [796, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 47
+    elementType: shape
+    bounds: [801.1, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 48
+    elementType: shape
+    bounds: [806.3, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 103
+    elementType: shape
+    bounds: [811.4, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 104
+    elementType: shape
+    bounds: [816.6, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 105
+    elementType: shape
+    bounds: [821.7, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 106
+    elementType: shape
+    bounds: [826.9, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: "任意多边形: 形状 107"
+    elementType: line
+    bounds: [841.9, 11.9, 120, 4.4]
+    opacity: 0.55
+    viewBox:
+      - 1524000
+      - 82550
+    points: 1524000,0 44450,0 0,82550
+    curve: sharp
+    border:
+      style: solid
+      width: 1
+      color: $accent1
+  - elementId: "任意多边形: 形状 108"
+    elementType: shape
+    bounds: [1.4, 2.7, 957.3, 41.3]
+    shapeName: custom
+    viewBox:
+      - 12157213
+      - 448506
+    path: M0,0 L2257280,0 L9862425,0 L12157213,0 L12157213,74543 L9804378,74543 L9723422,173848 L7786457,175980 C7555196,178292 7526819,445158 7283623,448506 L4803246,448506 C4560050,445158 4531673,178292 4300412,175980 C4206462,175041 3906270,174578 3525514,174302 L2398965,173800 L2318049,74543 L0,74543 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#4472C429"
+        - position: 0.76
+          color: "#4472C440"
+        - position: 0.45
+          color: "#8FAADC54"
+        - position: 0
+          color: "#8FAADCA6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: "任意多边形: 形状 109"
+    elementType: shape
+    bounds: [0, 21, 357.4, 16.9]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 4539446
+      - 214864
+    path: M1179178,4 C750601,49 449155,446 387013,1504 C188159,4890 188271,25210 0,214864 L4539446,214864 L4539446,1488 L4378813,1467 C3402008,1227 2036332,-88 1179178,4 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC40"
+        - position: 0
+          color: "#8FAADC4F"
+      angle: 90
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 40-4
+    elementType: shape
+    bounds: [237, 24.7, 105.5, 15.2]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC54"
+        - position: 0
+          color: "#8FAADCA6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 40-5
+    elementType: shape
+    bounds: [140.6, 24.7, 105.5, 15.2]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC54"
+        - position: 0
+          color: "#8FAADCA6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 40-6
+    elementType: shape
+    bounds: [44.2, 24.7, 105.5, 15.2]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC54"
+        - position: 0
+          color: "#8FAADCA6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 113
+    elementType: shape
+    bounds: [171, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 114
+    elementType: shape
+    bounds: [165.9, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 115
+    elementType: shape
+    bounds: [160.7, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 116
+    elementType: shape
+    bounds: [155.6, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 117
+    elementType: shape
+    bounds: [150.4, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 118
+    elementType: shape
+    bounds: [145.3, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 120
+    elementType: shape
+    bounds: [140.1, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 121
+    elementType: shape
+    bounds: [135, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 122
+    elementType: shape
+    bounds: [129.8, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 123
+    elementType: shape
+    bounds: [124.7, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 文本框 124-shape
+    elementType: shape
+    bounds: [405.7, 5.8, 148.6, 36.4]
+    shapeName: rect
+    shadow:
+      blur: 10
+      color: "#223962"
+      offset: [0, 4]
+  - elementId: 文本框 124-text
+    elementType: text
+    bounds: [405.7, 5.8, 148.6, 36.4]
+    content:
+      text: |-
+        <p>政策解读页面</p>
+      shadow:
+        blur: 3
+        color: "#0000006E"
+        offset: [2.1213, 2.1213]
+      wrap: false
+      align:
+        - center
+        - middle
+      style: $text1
+  - elementId: "任意多边形: 形状 125"
+    elementType: line
+    bounds: [0, 11.9, 120, 4.4]
+    opacity: 0.55
+    flip: [true, false]
+    viewBox:
+      - 1524000
+      - 82550
+    points: 1524000,0 44450,0 0,82550
+    curve: sharp
+    border:
+      style: solid
+      width: 1
+      color: $accent1
+  - elementId: MG-大标题矩形装饰
+    elementType: shape
+    bounds: [402.8, 43.9, 12.4, 1.4]
+    shapeName: rect
+    fill:
+      type: solid
+      color: "#DAE3F3"
+  - elementId: MG-大标题矩形装饰-2
+    elementType: shape
+    bounds: [544.8, 43.9, 12.4, 1.4]
+    shapeName: rect
+    fill:
+      type: solid
+      color: "#DAE3F3"
+  - elementId: 文本框 128
+    elementType: text
+    bounds: [80, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题1</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 129
+    elementType: text
+    bounds: [174.5, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题2</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 130
+    elementType: text
+    bounds: [269, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题3</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 131
+    elementType: text
+    bounds: [639.5, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题4</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 132
+    elementType: text
+    bounds: [734, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题5</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 133
+    elementType: text
+    bounds: [828.5, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题6</p>
+      wrap: false
+      style: $text2
+  - elementId: "任意多边形: 形状 134"
+    elementType: shape
+    bounds: [17.5, -1.2, 925, 41.3]
+    shapeName: custom
+    viewBox:
+      - 12157213
+      - 448506
+    path: M0,0 L2257280,0 L9862425,0 L12157213,0 L12157213,74543 L9804378,74543 L9723422,173848 L7786457,175980 C7555196,178292 7526819,445158 7283623,448506 L4803246,448506 C4560050,445158 4531673,178292 4300412,175980 C4206462,175041 3906270,174578 3525514,174302 L2398965,173800 L2318049,74543 L0,74543 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.07
+          color: "#8FAADCAB"
+        - position: 0.68
+          color: "#8FAADC00"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADCAB"
+  - elementId: Picture 22
+    elementType: image
+    bounds: [303.3, 65.1, 35.5, 47.1]
+    cropShape:
+      shapeName: rect
+    shadow:
+      blur: 10
+      color: "#0E44F033"
+      offset: [2.1213, -2.1213]
+    src: media/image-59.png
+    fit:
+      mode: fill
+  - elementId: 文本框 48
+    elementType: text
+    bounds: [771.2, 165.5, 101.1, 25.3]
+    content:
+      text: |-
+        <p style="text-align: left; line-height: 25px; margin-top: 0px; margin-left: 0px; margin-right: 0px;">更换文字</p>
+      color: $dk1
+      fontSize: 24
+      bold: true
+      italic: false
+      fontFamily: 梦源黑体 CN W27, 梦源黑体 CN W27
+      lineHeightPx: 25
+      letterSpacing: 1
+      marginTop: 0
+      wrap: false
+      align:
+        - left
+        - top
+  - elementId: 六边形 359
+    elementType: shape
+    bounds: [879.1, 157.1, 46.5, 40.1]
+    rotation: 90
+    shapeName: hexagon
+    adjustments:
+      - 30074
+      - 115470
+    fill:
+      type: solid
+      color: "#F4F7FEB3"
+    border:
+      style: solid
+      width: 1
+      color: "#D2E6FD"
+  - elementId: "任意多边形: 形状 360"
+    elementType: shape
+    bounds: [885, 183, 14.6, 20]
+    rotation: 90
+    shapeName: custom
+    viewBox:
+      - 1052878
+      - 1439727
+    path: M0,1439727 L865968,0 L1052878,0 L186910,1439727 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: $lt1
+        - position: 0
+          color: "#2395E9"
+      angle: 180
+  - elementId: "任意多边形: 形状 361"
+    elementType: shape
+    bounds: [905, 183, 14.6, 20]
+    rotation: 90
+    shapeName: custom
+    viewBox:
+      - 1052879
+      - 1439731
+    path: M0,0 L186910,0 L1052879,1439729 L1052878,1439731 L865968,1439731 L865969,1439729 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: $lt1
+        - position: 0
+          color: "#2395E9"
+      angle: 0
+  - elementId: "任意多边形: 形状 362"
+    elementType: shape
+    bounds: [890.4, 166, 23.9, 39.8]
+    rotation: 90
+    shapeName: custom
+    viewBox:
+      - 1720385
+      - 2860250
+    path: M0,1430125 L860193,0 L1720385,1430125 L860193,2860250 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.62
+          color: $lt1
+        - position: 0
+          color: "#D2E6FD"
+      angle: 270
+  - elementId: 图形 269
+    elementType: shape
+    bounds: [892.5, 166.6, 19.6, 19.6]
+    shapeName: custom
+    viewBox:
+      - 1903511
+      - 1748860
+    path: M1844036,1629891 L1725048,1629891 L1725048,559166 C1725048,392609 1629873,321227 1570397,309321 L1189695,190351 L1189695,59494 C1189695,35700 1177789,23794 1165901,11906 C1153995,0 1130201,0 1118313,0 L321208,226051 C321208,226051 178445,261733 178445,452084 L178445,1629891 L59494,1629891 C23794,1629891 0,1653685 0,1689367 C0,1725048 23794,1748861 59494,1748861 L1844036,1748861 C1879718,1748861 1903512,1725067 1903512,1689367 C1903512,1653667 1879718,1629891 1844036,1629891 Z M1054671,1599028 L313469,1599028 L313469,470111 C313469,390283 359085,367475 370489,367475 L1054671,173627 L1054671,1599028 Z M1570397,1602637 L1198290,1602637 L1198290,309321 L1506606,425835 L1517247,425835 C1527870,425835 1570397,437480 1570397,553994 L1570397,1602637 Z M630529,428290 L511559,428290 L511559,547260 L630529,547260 L630529,428290 Z M904168,428290 L785199,428290 L785199,547260 L904168,547260 L904168,428290 Z M630529,618641 L511559,618641 L511559,737611 L630529,737611 L630529,618641 Z M904168,618641 L785199,618641 L785199,737611 L904168,737611 L904168,618641 Z M630529,820899 L511559,820899 L511559,939868 L630529,939868 L630529,820899 Z M904168,820899 L785199,820899 L785199,939868 L904168,939868 L904168,820899 Z M630529,1023138 L511559,1023138 L511559,1142107 L630529,1142107 L630529,1023138 Z M904168,1023138 L785199,1023138 L785199,1142107 L904168,1142107 L904168,1023138 Z M630529,1213489 L511559,1213489 L511559,1332458 L630529,1332458 L630529,1213489 Z M904168,1213489 L785199,1213489 L785199,1332458 L904168,1332458 L904168,1213489 Z M630529,1415746 L511559,1415746 L511559,1534716 L630529,1534716 L630529,1415746 Z M904168,1415746 L785199,1415746 L785199,1534716 L904168,1534716 L904168,1415746 Z M1344346,737611 L1463315,737611 L1463315,618641 L1344346,618641 L1344346,737611 Z M1344346,939850 L1463315,939850 L1463315,820880 L1344346,820880 L1344346,939850 Z M1344346,1142107 L1463315,1142107 L1463315,1023138 L1344346,1023138 L1344346,1142107 Z M1344346,1332458 L1463315,1332458 L1463315,1213489 L1344346,1213489 L1344346,1332458 Z M1344346,1534697 L1463315,1534697 L1463315,1415728 L1344346,1415728 L1344346,1534697 Z
+    fill:
+      type: solid
+      color: "#054FBE"
+  - elementId: 平行四边形 363
+    elementType: shape
+    bounds: [340.1, 103.8, 279.8, 34.4]
+    shapeName: parallelogram
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.54
+          color: "#054FBE"
+        - position: 1
+          color: "#1F84F7"
+  - elementId: 文本框 364
+    elementType: text
+    bounds: [230.2, 110.6, 499.7, 21.4]
+    content:
+      text: |-
+        <p style="text-align: center; margin-top: 0px; margin-left: 0px; margin-right: 0px;">点击此处更换文字内容</p>
+      color: $dk1
+      fontSize: 16
+      bold: false
+      italic: false
+      fontFamily: 梦源黑体 CN W27, 梦源黑体 CN W27
+      letterSpacing: 1
+      marginTop: 0
+      wrap: true
+      align:
+        - center
+        - top
+  - elementId: "任意多边形: 形状 365"
+    elementType: shape
+    bounds: [269, 106.9, 49.5, 66.8]
+    rotation: 210
+    shapeName: custom
+    viewBox:
+      - 4813099
+      - 6498310
+    path: M2610826,95656 C2562469,149344 2467719,253279 2400273,326621 C2013757,746923 1931591,836001 1861402,910821 C1818810,956223 1726899,1056236 1657156,1133071 C1587413,1209906 1527493,1275628 1524000,1279121 C1520507,1282614 1457643,1351187 1384300,1431507 C1199477,1633913 1147641,1690285 1045622,1799821 C918498,1936313 749300,2142551 749300,2161014 C749300,2179161 1156219,2193521 1670468,2193521 L1977924,2193521 L1987072,2310468 C1997618,2445272 1989101,2773160 1968832,3012671 C1904412,3773906 1635066,4545257 1214936,5171671 C992463,5503379 949123,5560814 818914,5696491 C581019,5944377 161226,6345776 63837,6418484 C28727,6444696 0,6470638 0,6476132 C0,6498309 127557,6483702 297917,6442015 C517094,6388383 705877,6323796 843228,6255450 C1278665,6038776 1305999,6024205 1559991,5873351 C1865890,5691668 2134331,5449529 2478682,5044671 C2669815,4819954 2743016,4717846 3040487,4261015 C3114861,4146796 3260522,3831017 3381987,3520671 C3507531,3199902 3621520,2824649 3700257,2472921 C3724494,2364654 3750733,2261490 3758567,2243668 L3772810,2211265 L4293055,2216701 C4797123,2221967 4813098,2221394 4806813,2198303 C4803245,2185196 4776099,2148847 4746488,2117528 C4662956,2029178 3182926,474089 2948348,228196 C2833401,107705 2730218,6628 2719052,3581 C2705928,0 2667663,32554 2610826,95656 Z
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.54
+          color: "#054FBE"
+        - position: 1
+          color: "#1F84F7"
+  - elementId: "任意多边形: 形状 366"
+    elementType: shape
+    bounds: [643.4, 106.9, 49.5, 66.8]
+    rotation: 150
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 4813099
+      - 6498310
+    path: M2610826,95656 C2562469,149344 2467719,253279 2400273,326621 C2013757,746923 1931591,836001 1861402,910821 C1818810,956223 1726899,1056236 1657156,1133071 C1587413,1209906 1527493,1275628 1524000,1279121 C1520507,1282614 1457643,1351187 1384300,1431507 C1199477,1633913 1147641,1690285 1045622,1799821 C918498,1936313 749300,2142551 749300,2161014 C749300,2179161 1156219,2193521 1670468,2193521 L1977924,2193521 L1987072,2310468 C1997618,2445272 1989101,2773160 1968832,3012671 C1904412,3773906 1635066,4545257 1214936,5171671 C992463,5503379 949123,5560814 818914,5696491 C581019,5944377 161226,6345776 63837,6418484 C28727,6444696 0,6470638 0,6476132 C0,6498309 127557,6483702 297917,6442015 C517094,6388383 705877,6323796 843228,6255450 C1278665,6038776 1305999,6024205 1559991,5873351 C1865890,5691668 2134331,5449529 2478682,5044671 C2669815,4819954 2743016,4717846 3040487,4261015 C3114861,4146796 3260522,3831017 3381987,3520671 C3507531,3199902 3621520,2824649 3700257,2472921 C3724494,2364654 3750733,2261490 3758567,2243668 L3772810,2211265 L4293055,2216701 C4797123,2221967 4813098,2221394 4806813,2198303 C4803245,2185196 4776099,2148847 4746488,2117528 C4662956,2029178 3182926,474089 2948348,228196 C2833401,107705 2730218,6628 2719052,3581 C2705928,0 2667663,32554 2610826,95656 Z
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.54
+          color: "#054FBE"
+        - position: 1
+          color: "#1F84F7"
+  - elementId: 圆角矩形 140
+    elementType: text
+    bounds: [465.1, 304.9, 154.1, 85]
+    content:
+      text: |-
+        <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">70%</p>
+      color: $dk1
+      fontSize: 48
+      bold: true
+      italic: false
+      fontFamily: 思源黑体 CN Medium, 思源黑体 CN Medium
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+      gradient:
+        type: gradient
+        gradientType: radial
+        stops:
+          - position: 0
+            color: "#054FBE"
+          - position: 1
+            color: "#6995D8"
+      wrap: false
+      align:
+        - center
+        - middle
+  - elementId: 等腰三角形 490
+    elementType: shape
+    bounds: [631.9, 335.9, 129.8, 170]
+    rotation: 82.78588333333333
+    flip: [false, true]
+    shapeName: triangle
+    adjustments:
+      - 0
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#6995D8"
+        - position: 0.9
+          color: "#9BB9E500"
+      angle: 90
+  - elementId: 文本框 493
+    elementType: text
+    bounds: [788.6, 411, 133.9, 36.2]
+    content:
+      text: |-
+        <p style="text-align: left; margin-top: 0px; margin-left: 0px; margin-right: 0px;">更换文字</p>
+      color: $lt1
+      fontSize: 26.65
+      bold: true
+      italic: false
+      fontFamily: 思源黑体 CN Medium, 思源黑体 CN Medium
+      letterSpacing: 0
+      marginTop: 0
+      wrap: true
+      align:
+        - left
+        - top
+  - elementId: 椭圆 497
+    elementType: shape
+    bounds: [602, 363.8, 7, 6.9]
+    shapeName: ellipse
+    fill:
+      type: solid
+      color: $lt1
+  - elementId: 六边形 501
+    elementType: shape
+    bounds: [807.5, 355.2, 55.6, 47.9]
+    rotation: 90
+    shapeName: hexagon
+    adjustments:
+      - 30074
+      - 115470
+    fill:
+      type: solid
+      color: "#F4F7FEB3"
+    border:
+      style: solid
+      width: 1
+      color: "#D2E6FD"
+  - elementId: "任意多边形: 形状 502"
+    elementType: shape
+    bounds: [814.5, 386.2, 17.5, 24]
+    rotation: 90
+    shapeName: custom
+    viewBox:
+      - 1052878
+      - 1439727
+    path: M0,1439727 L865968,0 L1052878,0 L186910,1439727 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: $lt1
+        - position: 0
+          color: "#2395E9"
+      angle: 180
+  - elementId: "任意多边形: 形状 503"
+    elementType: shape
+    bounds: [838.5, 386.2, 17.5, 24]
+    rotation: 90
+    shapeName: custom
+    viewBox:
+      - 1052879
+      - 1439731
+    path: M0,0 L186910,0 L1052879,1439729 L1052878,1439731 L865968,1439731 L865969,1439729 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: $lt1
+        - position: 0
+          color: "#2395E9"
+      angle: 0
+  - elementId: "任意多边形: 形状 504"
+    elementType: shape
+    bounds: [821, 365.8, 28.6, 47.6]
+    rotation: 90
+    shapeName: custom
+    viewBox:
+      - 1720385
+      - 2860250
+    path: M0,1430125 L860193,0 L1720385,1430125 L860193,2860250 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.62
+          color: $lt1
+        - position: 0
+          color: "#D2E6FD"
+      angle: 270
+  - elementId: 图形 49
+    elementType: shape
+    bounds: [822.4, 368.5, 29, 23.7]
+    shapeName: custom
+    viewBox:
+      - 1663732
+      - 1358175
+    path: M1051966,632867 C1135157,567936 1188906,467337 1188906,354310 C1188906,158954 1028934,0 832239,0 C635544,0 475573,158956 475573,354310 C475573,467337 529311,567934 612511,632867 C393247,719906 237809,932644 237809,1181039 L237809,1299110 C237809,1331766 264402,1358176 297234,1358176 L1367234,1358176 C1400075,1358176 1426661,1331766 1426661,1299110 L1426661,1181041 C1426663,932550 1271225,719904 1051966,632867 Z M574220,353843 C574220,212465 689930,97535 832239,97535 C974542,97535 1090257,212467 1090257,353843 C1090257,495185 974543,610151 832239,610151 C689930,610151 574220,495231 574220,353843 Z M1337271,1261285 L327156,1261285 L327156,1198567 C327156,921918 553728,696821 832284,696821 C1110742,696821 1337271,921918 1337271,1198567 L1337271,1261285 Z M371553,687619 L383162,684849 C408090,676565 425848,654831 425848,629303 C425848,604648 409246,583564 385710,574683 C322064,545959 281002,482925 281002,413459 C281002,334746 349404,268430 420996,245442 C433529,207009 452488,171443 476628,139995 C480845,133064 485273,126262 489905,119600 C485098,119369 480520,118171 475575,118171 C311709,118171 178337,250621 178337,413461 C178337,488201 207005,558267 255661,611548 C100913,691184 0,850460 0,1030648 L0,1121984 C0,1154638 26596,1181041 59427,1181041 L165932,1181041 C165932,1140578 170099,1114635 177913,1076474 L102669,1076474 L102669,1030650 C102669,867430 213109,727349 371555,687619 Z M1408165,611546 C1456823,558265 1485491,488199 1485491,413459 C1485491,250617 1352159,118117 1188251,118117 C1183303,118117 1178726,119325 1173919,119552 C1178551,126214 1182981,133015 1187196,139947 C1211340,171394 1230295,206960 1242786,245397 C1314379,268376 1392674,334701 1392674,413413 C1392674,482880 1351559,545959 1287966,574638 C1264423,583512 1247820,604603 1247820,629258 C1247820,654788 1265631,676522 1290507,684795 L1302116,687573 C1460616,727347 1571004,867385 1571004,1030646 L1571004,1076470 L1485818,1076470 C1493678,1114633 1497799,1140574 1497799,1181039 L1604304,1181039 C1637189,1181039 1663733,1154637 1663733,1121982 L1663733,1030646 C1663830,850460 1562915,691184 1408165,611546 Z
+    fill:
+      type: solid
+      color: "#054FBE"
+  - elementId: 文本框 48-2
+    elementType: text
+    bounds: [103.3, 156.5, 101.1, 25.3]
+    content:
+      text: |-
+        <p style="text-align: left; line-height: 25px; margin-top: 0px; margin-left: 0px; margin-right: 0px;">更换文字</p>
+      color: $dk1
+      fontSize: 24
+      bold: true
+      italic: false
+      fontFamily: 梦源黑体 CN W27, 梦源黑体 CN W27
+      lineHeightPx: 25
+      letterSpacing: 1
+      marginTop: 0
+      wrap: false
+      align:
+        - left
+        - top
+  - elementId: 等腰三角形 518
+    elementType: shape
+    bounds: [209.1, 269.3, 149.9, 241.8]
+    rotation: 250.01196666666667
+    flip: [true, true]
+    shapeName: triangle
+    adjustments:
+      - 12544
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#FAD9D1"
+        - position: 0.9
+          color: "#FAD9D100"
+      angle: 90
+  - elementId: 文本框 523
+    elementType: text
+    bounds: [58.6, 411, 181.9, 36.2]
+    content:
+      text: |-
+        <p style="text-align: left; margin-top: 0px; margin-left: 0px; margin-right: 0px;">更换文字内容</p>
+      color: $lt1
+      fontSize: 26.65
+      bold: true
+      italic: false
+      fontFamily: 思源黑体 CN Medium, 思源黑体 CN Medium
+      letterSpacing: 0
+      marginTop: 0
+      wrap: true
+      align:
+        - left
+        - top
+  - elementId: 六边形 525
+    elementType: shape
+    bounds: [93, 355.2, 55.6, 47.9]
+    rotation: 90
+    shapeName: hexagon
+    adjustments:
+      - 30074
+      - 115470
+    fill:
+      type: solid
+      color: "#F4F7FEB3"
+    border:
+      style: solid
+      width: 1
+      color: "#D2E6FD"
+  - elementId: "任意多边形: 形状 526"
+    elementType: shape
+    bounds: [100, 386.2, 17.5, 24]
+    rotation: 90
+    shapeName: custom
+    viewBox:
+      - 1052878
+      - 1439727
+    path: M0,1439727 L865968,0 L1052878,0 L186910,1439727 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: $lt1
+        - position: 0
+          color: "#2395E9"
+      angle: 180
+  - elementId: "任意多边形: 形状 527"
+    elementType: shape
+    bounds: [124, 386.2, 17.5, 24]
+    rotation: 90
+    shapeName: custom
+    viewBox:
+      - 1052879
+      - 1439731
+    path: M0,0 L186910,0 L1052879,1439729 L1052878,1439731 L865968,1439731 L865969,1439729 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: $lt1
+        - position: 0
+          color: "#2395E9"
+      angle: 0
+  - elementId: "任意多边形: 形状 528"
+    elementType: shape
+    bounds: [106.4, 365.8, 28.6, 47.6]
+    rotation: 90
+    shapeName: custom
+    viewBox:
+      - 1720385
+      - 2860250
+    path: M0,1430125 L860193,0 L1720385,1430125 L860193,2860250 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.62
+          color: $lt1
+        - position: 0
+          color: "#D2E6FD"
+      angle: 270
+  - elementId: 椭圆 529
+    elementType: shape
+    bounds: [372.7, 294.5, 7, 6.9]
+    shapeName: ellipse
+    fill:
+      type: solid
+      color: $lt1
+  - elementId: 文本框 533
+    elementType: text
+    bounds: [431.1, 196.8, 183.9, 37.9]
+    content:
+      text: |-
+        <p style="text-align: left; margin-top: 0px; margin-left: 0px; margin-right: 0px;">更换文字内容</p>
+      color: $dk1
+      fontSize: 28
+      bold: true
+      fontFamily: 思源黑体 CN Heavy, 思源黑体 CN Heavy
+      marginTop: 0
+      gradient:
+        type: gradient
+        gradientType: linear
+        stops:
+          - position: 0.33
+            color: "#FFF8B9"
+          - position: 0.51
+            color: "#FFF177"
+          - position: 0.74
+            color: "#FCC55E"
+        angle: 90
+      wrap: true
+      align:
+        - left
+        - top
+  - elementId: 六边形 535
+    elementType: shape
+    bounds: [361.3, 192, 55.6, 47.9]
+    rotation: 90
+    shapeName: hexagon
+    adjustments:
+      - 30074
+      - 115470
+    fill:
+      type: solid
+      color: "#F4F7FEB3"
+    border:
+      style: solid
+      width: 1
+      color: "#D2E6FD"
+  - elementId: "任意多边形: 形状 536"
+    elementType: shape
+    bounds: [368.4, 223, 17.5, 24]
+    rotation: 90
+    shapeName: custom
+    viewBox:
+      - 1052878
+      - 1439727
+    path: M0,1439727 L865968,0 L1052878,0 L186910,1439727 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: $lt1
+        - position: 0
+          color: "#2395E9"
+      angle: 180
+  - elementId: "任意多边形: 形状 537"
+    elementType: shape
+    bounds: [392.3, 223, 17.5, 24]
+    rotation: 90
+    shapeName: custom
+    viewBox:
+      - 1052879
+      - 1439731
+    path: M0,0 L186910,0 L1052879,1439729 L1052878,1439731 L865968,1439731 L865969,1439729 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: $lt1
+        - position: 0
+          color: "#2395E9"
+      angle: 0
+  - elementId: "任意多边形: 形状 538"
+    elementType: shape
+    bounds: [374.8, 202.6, 28.6, 47.6]
+    rotation: 90
+    shapeName: custom
+    viewBox:
+      - 1720385
+      - 2860250
+    path: M0,1430125 L860193,0 L1720385,1430125 L860193,2860250 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.62
+          color: $lt1
+        - position: 0
+          color: "#D2E6FD"
+      angle: 270
+  - elementId: Picture 2
+    elementType: image
+    bounds: [108.8, 365.2, 28.5, 25.2]
+    cropShape:
+      shapeName: rect
+    src: media/image-60.png
+    crop:
+      right: 0.7406
+  - elementId: Picture 4
+    elementType: image
+    bounds: [375, 205, 30.6, 25.6]
+    cropShape:
+      shapeName: rect
+    src: media/image-61.png
+    crop:
+      left: 0.27778
+      top: 0.07806
+      right: 0.22823
+      bottom: 0.33773
+  - elementId: 等腰三角形 541
+    elementType: shape
+    bounds: [344.1, 248.9, 255.5, 32.5]
+    flip: [false, true]
+    shapeName: triangle
+    adjustments:
+      - 63064
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#0E44F0"
+        - position: 0.9
+          color: "#9BB9E500"
+      angle: 90
+  - elementId: 椭圆 542
+    elementType: shape
+    bounds: [501.9, 283.4, 7, 6.9]
+    shapeName: ellipse
+    fill:
+      type: solid
+      color: $lt1
+  - elementId: "任意多边形: 形状 544"
+    elementType: shape
+    bounds: [87.2, 77.3, 370.5, 37.8]
+    shapeName: custom
+    viewBox:
+      - 2952444
+      - 301199
+    path: M687,480 L2953132,480 L2953132,301679 L687,301679 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#15B6F000"
+        - position: 0.5
+          color: "#15B6F033"
+        - position: 1
+          color: "#15B6F066"
+      angle: 180
+    border:
+      style: solid
+      width: 0.37196850393700787
+      color: "#15B6F0"
+  - elementId: "任意多边形: 形状 565"
+    elementType: line
+    bounds: [58.3, 53.9, 368.3, 16.7]
+    viewBox:
+      - 2934375
+      - 132787
+    points: 738,480 238598,133268 2935113,133268
+    curve: sharp
+    border:
+      style: solid
+      width: 0.8574803149606299
+      color: "#15B6F000"
+  - elementId: "任意多边形: 形状 566"
+    elementType: line
+    bounds: [58.3, 121.2, 368.3, 16.7]
+    viewBox:
+      - 2934375
+      - 132787
+    points: 738,133267 238598,480 2935113,480
+    curve: sharp
+    border:
+      style: solid
+      width: 0.8574803149606299
+      color: "#15B6F000"
+  - elementId: "任意多边形: 形状 553"
+    elementType: shape
+    bounds: [22.1, 58.9, 64.4, 74.3]
+    shapeName: custom
+    viewBox:
+      - 513272
+      - 592173
+    path: M257323,486 L513960,148514 L513960,444633 L257323,592660 L687,444633 L687,148514 Z
+    border:
+      style: solid
+      width: 1.1190551181102362
+      color: "#15B6F0"
+  - elementId: "任意多边形: 形状 554"
+    elementType: shape
+    bounds: [22.1, 58.9, 64.4, 74.3]
+    shapeName: custom
+    viewBox:
+      - 513272
+      - 592173
+    path: M257323,486 L513960,148514 L513960,444633 L257323,592660 L687,444633 L687,148514 Z
+    border:
+      style: solid
+      width: 0.37299212598425197
+      color: "#15B6F0"
+  - elementId: "任意多边形: 形状 555"
+    elementType: shape
+    bounds: [28.4, 63.1, 51.8, 66.5]
+    shapeName: custom
+    viewBox:
+      - 413087
+      - 529991
+    path: M265169,486 L413775,86203 M157395,530478 L687,440067
+    border:
+      style: solid
+      width: 1.8650393700787402
+      color: "#00FFF4"
+  - elementId: "任意多边形: 形状 556"
+    elementType: shape
+    bounds: [28.4, 63.1, 51.8, 66.5]
+    shapeName: custom
+    viewBox:
+      - 413087
+      - 529991
+    path: M265169,486 L413775,86203 M157395,530478 L687,440067
+    border:
+      style: solid
+      width: 1.8650393700787402
+      color: "#00FFF4"
+  - elementId: "任意多边形: 形状 562"
+    elementType: shape
+    bounds: [26.3, 63.7, 56.7, 65.4]
+    shapeName: custom
+    viewBox:
+      - 451669
+      - 521117
+    path: M226522,486 L452357,130766 L452357,391325 L226522,521604 L687,391325 L687,130766 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#15B6F04C"
+        - position: 0.4947
+          color: "#15B6F000"
+        - position: 1
+          color: "#02C7F356"
+      angle: 90
+  - elementId: "任意多边形: 形状 563"
+    elementType: shape
+    bounds: [26.3, 63.7, 56.7, 65.4]
+    shapeName: custom
+    viewBox:
+      - 451669
+      - 521117
+    path: M226522,486 L452357,130766 L452357,391325 L226522,521604 L687,391325 L687,130766 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#004766"
+        - position: 0
+          color: "#004766"
+        - position: 0.21
+          color: "#0188A77F"
+        - position: 0.58
+          color: "#02CAE900"
+      angle: 90
+  - elementId: "任意多边形: 形状 564"
+    elementType: shape
+    bounds: [27.1, 64.6, 55, 63.5]
+    shapeName: custom
+    viewBox:
+      - 438423
+      - 505749
+    path: M219899,486 L439110,126908 L439110,379814 L219899,506236 L687,379814 L687,126908 L219899,486 Z
+    border:
+      style: solid
+      width: 1.0462992125984252
+      color: "#15B6F0B3"
+  - elementId: "任意多边形: 形状 558"
+    elementType: shape
+    bounds: [24.9, 78.5, 4.2, 4.2]
+    shapeName: custom
+    viewBox:
+      - 33180
+      - 33180
+    path: M33868,17077 C33868,26239 26440,33667 17277,33667 C8115,33667 687,26239 687,17077 C687,7914 8115,486 17277,486 C26440,486 33868,7914 33868,17077 Z
+    fill:
+      type: solid
+      color: "#3DD8FF"
+  - elementId: "任意多边形: 形状 559"
+    elementType: shape
+    bounds: [24.9, 110, 4.2, 4.2]
+    shapeName: custom
+    viewBox:
+      - 33180
+      - 33180
+    path: M33868,17077 C33868,26239 26440,33667 17277,33667 C8115,33667 687,26239 687,17077 C687,7914 8115,486 17277,486 C26440,486 33868,7914 33868,17077 Z
+    fill:
+      type: solid
+      color: "#3DD8FF"
+  - elementId: "任意多边形: 形状 560"
+    elementType: shape
+    bounds: [79.6, 78.5, 4.2, 4.2]
+    shapeName: custom
+    viewBox:
+      - 33180
+      - 33180
+    path: M33868,17077 C33868,26239 26440,33667 17277,33667 C8115,33667 687,26239 687,17077 C687,7914 8115,486 17277,486 C26440,486 33868,7914 33868,17077 Z
+    fill:
+      type: solid
+      color: "#3DD8FF"
+  - elementId: "任意多边形: 形状 561"
+    elementType: shape
+    bounds: [79.6, 110, 4.2, 4.2]
+    shapeName: custom
+    viewBox:
+      - 33180
+      - 33180
+    path: M33868,17077 C33868,26239 26440,33667 17277,33667 C8115,33667 687,26239 687,17077 C687,7914 8115,486 17277,486 C26440,486 33868,7914 33868,17077 Z
+    fill:
+      type: solid
+      color: "#3DD8FF"
+  - elementId: "任意多边形: 形状 549"
+    elementType: shape
+    bounds: [40.5, 82.3, 27.8, 27.8]
+    shapeName: custom
+    viewBox:
+      - 221462
+      - 221333
+    path: M222178,111182 C222178,172302 172602,221849 111447,221849 C50292,221849 716,172302 716,111182 C716,50062 50292,515 111447,515 C172602,515 222178,50062 222178,111182 Z
+    fill:
+      type: solid
+      color: "#00E9FF"
+  - elementId: "任意多边形: 形状 550"
+    elementType: shape
+    bounds: [47.1, 79, 10.3, 10.3]
+    shapeName: custom
+    viewBox:
+      - 82437
+      - 82308
+    path: M83153,41670 C83153,64399 64699,82824 41935,82824 C19170,82824 716,64398 716,41670 C716,18941 19170,515 41935,515 C64699,515 83153,18941 83153,41670 Z
+    fill:
+      type: solid
+      color: "#00FFFF"
+  - elementId: "任意多边形: 形状 551"
+    elementType: shape
+    bounds: [39.4, 89, 31, 25.9]
+    shapeName: custom
+    viewBox:
+      - 246924
+      - 206503
+    path: M716,116948 C19814,28723 40456,-9345 62512,2680 C95628,20749 62512,120227 103731,132059 C144949,143891 183853,106659 190284,82095 C196714,57531 231888,64476 245649,94699 C259410,124857 200058,221763 122700,205108 C71193,194048 30553,164661 716,116948 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#0079FF"
+        - position: 0.5
+          color: "#00B7FF"
+        - position: 1
+          color: "#00F5FF"
+      angle: 48.91455
+  - elementId: "任意多边形: 形状 552"
+    elementType: shape
+    bounds: [55, 90.2, 6.6, 6.6]
+    shapeName: custom
+    viewBox:
+      - 52729
+      - 52729
+    path: M53445,26880 C53445,41441 41641,53244 27081,53244 C12520,53244 716,41441 716,26880 C716,12319 12520,515 27081,515 C41641,515 53445,12319 53445,26880 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#016FA5"
+        - position: 0.5
+          color: "#0095B7"
+        - position: 1
+          color: "#00BBCA"
+      angle: 90
+  - elementId: 文本框 16
+    elementType: text
+    bounds: [100.4, 78.9, 320.3, 34]
+    content:
+      text: |-
+        <p style="text-align: left; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">更换文字内容</p>
+      color: $dk1
+      fontSize: 28
+      bold: true
+      fontFamily: 思源黑体 CN Heavy, 思源黑体 CN Heavy
+      lineHeight: 1
+      marginTop: 0
+      gradient:
+        type: gradient
+        gradientType: linear
+        stops:
+          - position: 0.33
+            color: "#FFF8B9"
+          - position: 0.51
+            color: "#FFF177"
+          - position: 0.74
+            color: "#FCC55E"
+        angle: 90
+      wrap: true
+      align:
+        - left
+        - top
+  - elementId: "任意多边形: 形状 685"
+    elementType: shape
+    bounds: [680.5, 195.6, 264.3, 111.1]
+    shapeName: custom
+    viewBox:
+      - 3088291
+      - 1108328
+    path: M2979761,1108290 L1622925,1100289 L116070,1091431 L3484,965034 L912,123977 L116641,-39 L2210712,-39 L2327870,148837 L2329299,150647 L2331585,150647 L2925564,150647 L3089203,310762 L3089203,981227 L2979761,1108290 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#0080FF45"
+        - position: 0.51
+          color: "#00062A00"
+        - position: 1
+          color: "#0099FF46"
+      angle: 270
+  - elementId: "任意多边形: 形状 686"
+    elementType: shape
+    bounds: [680.1, 195.2, 265.1, 112.1]
+    shapeName: custom
+    viewBox:
+      - 3097816
+      - 1117854
+    path: M123404,9486 L10342,130644 L12914,967987 L122927,1091431 L2982333,1108195 L3089108,984084 L3089108,317429 L2928326,160076 L2331680,160076 L2213094,9391 L123404,9391 M119308,-39 L2217761,-39 L2336347,150647 L2932231,150647 L3098728,313524 L3098728,987704 L2986810,1117815 L118736,1100956 L3484,971606 L912,126834 L119308,-39 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#0080FF45"
+        - position: 0.51
+          color: "#00062A00"
+        - position: 1
+          color: "#0099FF46"
+      angle: 270
+  - elementId: "任意多边形: 形状 683"
+    elementType: shape
+    bounds: [680.5, 195.6, 264.3, 111.1]
+    shapeName: custom
+    viewBox:
+      - 3088291
+      - 1108328
+    path: M2979761,1108290 L1622925,1100289 L116070,1091431 L3484,965034 L912,123977 L116641,-39 L2210712,-39 L2327870,148837 L2329299,150647 L2331585,150647 L2925564,150647 L3089203,310762 L3089203,981227 L2979761,1108290 Z
+  - elementId: "任意多边形: 形状 684"
+    elementType: shape
+    bounds: [680.1, 195.2, 265.1, 112.1]
+    shapeName: custom
+    viewBox:
+      - 3097816
+      - 1117854
+    path: M123404,9486 L10342,130644 L12914,967987 L122927,1091431 L2982333,1108195 L3089108,984084 L3089108,317429 L2928326,160076 L2331680,160076 L2213094,9391 L123404,9391 M119308,-39 L2217761,-39 L2336347,150647 L2932231,150647 L3098728,313524 L3098728,987704 L2986810,1117815 L118736,1100956 L3484,971606 L912,126834 L119308,-39 Z
+    fill:
+      type: solid
+      color: "#23B9FF"
+  - elementId: "任意多边形: 形状 679"
+    elementType: shape
+    bounds: [685.5, 201.9, 254.5, 98.3]
+    shapeName: custom
+    viewBox:
+      - 2973514
+      - 980789
+    path: M2869372,980757 L1562732,973708 L111599,965898 L3394,854170 L918,109600 L112170,-32 L2128708,-32 L2241484,131794 L2242912,133508 L2245103,133508 L2817080,133508 L2974433,275145 L2974433,868457 L2869372,980757 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#0080FF45"
+        - position: 0.51
+          color: "#00062A00"
+        - position: 1
+          color: "#0099FF46"
+      angle: 270
+  - elementId: "任意多边形: 形状 680"
+    elementType: shape
+    bounds: [685, 201.4, 255.3, 99.3]
+    shapeName: custom
+    viewBox:
+      - 2983134
+      - 990314
+    path: M119028,9493 L10633,116363 L13110,856932 L118552,965898 L2872230,980757 L2974623,871315 L2974623,282003 L2820128,142938 L2245580,142938 L2131375,9397 L119028,9397 M115123,-32 L2135851,-32 L2249961,133413 L2823747,133413 L2984053,277717 L2984053,875029 L2876230,990282 L114361,975423 L3395,860837 L918,112363 L115123,-32 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#0080FF45"
+        - position: 0.51
+          color: "#00062A00"
+        - position: 1
+          color: "#0099FF46"
+      angle: 270
+  - elementId: "任意多边形: 形状 677"
+    elementType: shape
+    bounds: [685.5, 201.9, 254.5, 98.3]
+    shapeName: custom
+    viewBox:
+      - 2973514
+      - 980789
+    path: M2869372,980757 L1562732,973708 L111599,965898 L3394,854170 L918,109600 L112170,-32 L2128708,-32 L2241484,131794 L2242912,133508 L2245103,133508 L2817080,133508 L2974433,275145 L2974433,868457 L2869372,980757 Z
+  - elementId: "任意多边形: 形状 678"
+    elementType: shape
+    bounds: [685, 201.4, 255.3, 99.3]
+    shapeName: custom
+    viewBox:
+      - 2983134
+      - 990314
+    path: M119028,9493 L10633,116363 L13110,856932 L118552,965898 L2872230,980757 L2974623,871315 L2974623,282003 L2820128,142938 L2245580,142938 L2131375,9397 L119028,9397 M115123,-32 L2135851,-32 L2249961,133413 L2823747,133413 L2984053,277717 L2984053,875029 L2876230,990282 L114361,975423 L3395,860837 L918,112363 L115123,-32 Z
+    fill:
+      type: solid
+      color: "#23B9FF"
+  - elementId: "任意多边形: 形状 631"
+    elementType: shape
+    bounds: [886.2, 201.4, 14.9, 11.6]
+    shapeName: custom
+    viewBox:
+      - 173736
+      - 115538
+    path: M0,0 L80200,0 L173736,115538 L93631,115538 L0,0 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#23B9FF"
+        - position: 0.54
+          color: "#58CAFF"
+        - position: 1
+          color: "#ABFFFB"
+      angle: 270
+  - elementId: "任意多边形: 形状 632"
+    elementType: shape
+    bounds: [873.9, 201.4, 14.9, 11.6]
+    shapeName: custom
+    viewBox:
+      - 173640
+      - 115538
+    path: M0,0 L80105,0 L173641,115538 L93535,115538 L0,0 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#23B9FF"
+        - position: 0.54
+          color: "#58CAFF"
+        - position: 1
+          color: "#ABFFFB"
+      angle: 270
+  - elementId: "任意多边形: 形状 633"
+    elementType: shape
+    bounds: [687.5, 204.5, 249.7, 93.1]
+    shapeName: custom
+    viewBox:
+      - 2917888
+      - 928496
+    path: M111538,0 L0,105442 L2477,807053 L110966,914495 L1532287,921830 L2812447,928497 L2917889,820484 L2917889,260414 L2761107,125159 L2199799,125159 L2088071,0 L111538,0 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#0080FF45"
+        - position: 0.51
+          color: "#23B9FF00"
+        - position: 1
+          color: "#0099FF46"
+      angle: 270
+  - elementId: "任意多边形: 形状 634"
+    elementType: shape
+    bounds: [898.4, 201.4, 14.9, 11.6]
+    shapeName: custom
+    viewBox:
+      - 173736
+      - 115538
+    path: M0,0 L80201,0 L173736,115538 L93631,115538 L0,0 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#23B9FF"
+        - position: 0.54
+          color: "#58CAFF"
+        - position: 1
+          color: "#ABFFFB"
+      angle: 270
+  - elementId: "任意多边形: 形状 635"
+    elementType: shape
+    bounds: [683.9, 270.7, 27.1, 30.2]
+    shapeName: custom
+    viewBox:
+      - 317087
+      - 301085
+    path: M302800,301085 L120587,301085 L0,180499 L0,14288 C0,6382 6382,0 14288,0 C22193,0 28575,6382 28575,14288 L28575,168688 L132398,272510 L302800,272510 C310706,272510 317087,278892 317087,286798 C317087,294608 310706,301085 302800,301085 L302800,301085 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.14
+          color: "#23B9FF"
+        - position: 0.8
+          color: "#23B9FF"
+        - position: 0.47
+          color: $lt1
+      angle: 225
+  - elementId: "任意多边形: 形状 636"
+    elementType: shape
+    bounds: [687.6, 204.5, 249.7, 93.1]
+    shapeName: custom
+    viewBox:
+      - 2917507
+      - 928306
+    path: M1727454,922782 L1750695,922782 L1750695,827532 L1655445,827532 L1655445,922401 L1645920,922306 L1645920,827437 L1550670,827437 L1550670,921734 L1541145,921639 L1541145,827342 L1445895,827342 L1445895,921163 L1436370,921068 L1436370,827342 L1341120,827342 L1341120,920591 L1331595,920496 L1331595,827246 L1236345,827246 L1236345,919925 L1226820,919829 L1226820,827151 L1131570,827151 L1131570,919353 L1122045,919258 L1122045,827151 L1026795,827151 L1026795,918782 L1017270,918686 L1017270,827151 L922020,827151 L922020,918210 L912495,918115 L912495,827056 L817245,827056 L817245,917639 L807720,917543 L807720,827056 L712470,827056 L712470,917067 L702945,916972 L702945,827056 L607695,827056 L607695,916496 L598170,916400 L598170,826961 L502920,826961 L502920,916400 L493395,916305 L493395,827437 L398145,827437 L398145,915829 L388620,915734 L388620,827437 L293370,827437 L293370,915257 L283845,915162 L283845,827342 L188595,827342 L188595,914686 L179070,914591 L179070,827342 L83820,827342 L83820,887825 L74295,878396 L74295,827342 L22669,827342 L13049,817817 L74295,817817 L74295,722567 L1714,722567 L1714,713042 L74390,713042 L74390,617792 L1333,617792 L1333,608267 L74390,608267 L74390,513017 L1048,513017 L1048,503492 L74486,503492 L74486,408242 L667,408242 L667,398717 L74390,398717 L74390,303467 L381,303467 L381,293942 L74486,293942 L74486,198692 L0,198692 L0,189167 L74486,189167 L74486,93917 L11620,93917 L21717,84392 L74486,84392 L74486,34576 L84011,25622 L84011,84487 L179261,84487 L179261,0 L188786,0 L188786,84582 L284035,84582 L284035,0 L293560,0 L293560,84582 L388810,84582 L388810,0 L398335,0 L398335,84582 L493585,84582 L493585,0 L503110,0 L503110,84582 L598361,84582 L598361,0 L607886,0 L607886,84582 L703136,84582 L703136,0 L712661,0 L712661,84582 L807911,84582 L807911,0 L817436,0 L817436,84582 L912686,84582 L912686,0 L922211,0 L922211,84582 L1017461,84582 L1017461,0 L1026986,0 L1026986,84582 L1122236,84582 L1122236,0 L1131761,0 L1131761,84582 L1227011,84582 L1227011,0 L1236536,0 L1236536,84582 L1331786,84582 L1331786,0 L1341311,0 L1341311,84582 L1436561,84582 L1436561,0 L1446086,0 L1446086,84582 L1541336,84582 L1541336,0 L1550861,0 L1550861,84582 L1646111,84582 L1646111,0 L1655636,0 L1655636,84582 L1750886,84582 L1750886,0 L1760411,0 L1760411,84582 L1855661,84582 L1855661,0 L1865186,0 L1865186,84582 L1960436,84582 L1960436,0 L1969961,0 L1969961,84582 L2065211,84582 L2065211,0 L2074736,0 L2074736,84582 L2163318,84582 L2179511,102775 L2179511,189357 L2274761,189357 L2274761,125159 L2284286,125159 L2284286,189357 L2379536,189357 L2379536,125159 L2389061,125159 L2389061,189357 L2484311,189357 L2484311,125159 L2493836,125159 L2493836,189357 L2589086,189357 L2589086,125159 L2598611,125159 L2598611,189357 L2693861,189357 L2693861,125159 L2703386,125159 L2703386,189357 L2798636,189357 L2798636,157829 L2808161,166021 L2808161,189357 L2835212,189357 L2846261,198882 L2808161,198882 L2808161,294132 L2903411,294132 L2903411,248221 L2912936,256413 L2912936,294132 L2917508,294132 L2917508,303657 L2912936,303657 L2912936,398907 L2917508,398907 L2917508,408432 L2912936,408432 L2912936,503682 L2917508,503682 L2917508,513207 L2912936,513207 L2912936,608457 L2917508,608457 L2917508,617982 L2912936,617982 L2912936,713232 L2917508,713232 L2917508,722757 L2912936,722757 L2912936,818007 L2917508,818007 L2917508,820293 L2903411,834771 L2903411,827437 L2808161,827437 L2808161,922687 L2817590,922687 L2812161,928307 L1727454,922782 Z M2703195,922782 L2798445,922782 L2798445,827532 L2703195,827532 L2703195,922782 Z M2598420,922782 L2693670,922782 L2693670,827532 L2598420,827532 L2598420,922782 Z M2493645,922782 L2588895,922782 L2588895,827532 L2493645,827532 L2493645,922782 Z M2388870,922782 L2484120,922782 L2484120,827532 L2388870,827532 L2388870,922782 Z M2284095,922782 L2379345,922782 L2379345,827532 L2284095,827532 L2284095,922782 Z M2179320,922782 L2274570,922782 L2274570,827532 L2179320,827532 L2179320,922782 Z M2074545,922782 L2169795,922782 L2169795,827532 L2074545,827532 L2074545,922782 Z M1969770,922782 L2065020,922782 L2065020,827532 L1969770,827532 L1969770,922782 Z M1864995,922782 L1960245,922782 L1960245,827532 L1864995,827532 L1864995,922782 Z M1760220,922782 L1855470,922782 L1855470,827532 L1760220,827532 L1760220,922782 Z M2807970,818007 L2903220,818007 L2903220,722757 L2807970,722757 L2807970,818007 Z M2703195,818007 L2798445,818007 L2798445,722757 L2703195,722757 L2703195,818007 Z M2598420,818007 L2693670,818007 L2693670,722757 L2598420,722757 L2598420,818007 Z M2493645,818007 L2588895,818007 L2588895,722757 L2493645,722757 L2493645,818007 Z M2388870,818007 L2484120,818007 L2484120,722757 L2388870,722757 L2388870,818007 Z M2284095,818007 L2379345,818007 L2379345,722757 L2284095,722757 L2284095,818007 Z M2179320,818007 L2274570,818007 L2274570,722757 L2179320,722757 L2179320,818007 Z M2074545,818007 L2169795,818007 L2169795,722757 L2074545,722757 L2074545,818007 Z M1969770,818007 L2065020,818007 L2065020,722757 L1969770,722757 L1969770,818007 Z M1864995,818007 L1960245,818007 L1960245,722757 L1864995,722757 L1864995,818007 Z M1760220,818007 L1855470,818007 L1855470,722757 L1760220,722757 L1760220,818007 Z M1655445,818007 L1750695,818007 L1750695,722757 L1655445,722757 L1655445,818007 Z M1550670,818007 L1645920,818007 L1645920,722757 L1550670,722757 L1550670,818007 Z M1445895,818007 L1541145,818007 L1541145,722757 L1445895,722757 L1445895,818007 Z M1341120,818007 L1436370,818007 L1436370,722757 L1341120,722757 L1341120,818007 Z M1236345,818007 L1331595,818007 L1331595,722757 L1236345,722757 L1236345,818007 Z M1131570,818007 L1226820,818007 L1226820,722757 L1131570,722757 L1131570,818007 Z M1026795,818007 L1122045,818007 L1122045,722757 L1026795,722757 L1026795,818007 Z M922020,818007 L1017270,818007 L1017270,722757 L922020,722757 L922020,818007 Z M817245,818007 L912495,818007 L912495,722757 L817245,722757 L817245,818007 Z M712470,818007 L807720,818007 L807720,722757 L712470,722757 L712470,818007 Z M607695,818007 L702945,818007 L702945,722757 L607695,722757 L607695,818007 Z M502920,818007 L598170,818007 L598170,722757 L502920,722757 L502920,818007 Z M398145,818007 L493395,818007 L493395,722757 L398145,722757 L398145,818007 Z M293370,818007 L388620,818007 L388620,722757 L293370,722757 L293370,818007 Z M188595,818007 L283845,818007 L283845,722757 L188595,722757 L188595,818007 Z M83820,818007 L179070,818007 L179070,722757 L83820,722757 L83820,818007 Z M2807970,713232 L2903220,713232 L2903220,617982 L2807970,617982 L2807970,713232 Z M2703195,713232 L2798445,713232 L2798445,617982 L2703195,617982 L2703195,713232 Z M2598420,713232 L2693670,713232 L2693670,617982 L2598420,617982 L2598420,713232 Z M2493645,713232 L2588895,713232 L2588895,617982 L2493645,617982 L2493645,713232 Z M2388870,713232 L2484120,713232 L2484120,617982 L2388870,617982 L2388870,713232 Z M2284095,713232 L2379345,713232 L2379345,617982 L2284095,617982 L2284095,713232 Z M2179320,713232 L2274570,713232 L2274570,617982 L2179320,617982 L2179320,713232 Z M2074545,713232 L2169795,713232 L2169795,617982 L2074545,617982 L2074545,713232 Z M1969770,713232 L2065020,713232 L2065020,617982 L1969770,617982 L1969770,713232 Z M1864995,713232 L1960245,713232 L1960245,617982 L1864995,617982 L1864995,713232 Z M1760220,713232 L1855470,713232 L1855470,617982 L1760220,617982 L1760220,713232 Z M1655445,713232 L1750695,713232 L1750695,617982 L1655445,617982 L1655445,713232 Z M1550670,713232 L1645920,713232 L1645920,617982 L1550670,617982 L1550670,713232 Z M1445895,713232 L1541145,713232 L1541145,617982 L1445895,617982 L1445895,713232 Z M1341120,713232 L1436370,713232 L1436370,617982 L1341120,617982 L1341120,713232 Z M1236345,713232 L1331595,713232 L1331595,617982 L1236345,617982 L1236345,713232 Z M1131570,713232 L1226820,713232 L1226820,617982 L1131570,617982 L1131570,713232 Z M1026795,713232 L1122045,713232 L1122045,617982 L1026795,617982 L1026795,713232 Z M922020,713232 L1017270,713232 L1017270,617982 L922020,617982 L922020,713232 Z M817245,713232 L912495,713232 L912495,617982 L817245,617982 L817245,713232 Z M712470,713232 L807720,713232 L807720,617982 L712470,617982 L712470,713232 Z M607695,713232 L702945,713232 L702945,617982 L607695,617982 L607695,713232 Z M502920,713232 L598170,713232 L598170,617982 L502920,617982 L502920,713232 Z M398145,713232 L493395,713232 L493395,617982 L398145,617982 L398145,713232 Z M293370,713232 L388620,713232 L388620,617982 L293370,617982 L293370,713232 Z M188595,713232 L283845,713232 L283845,617982 L188595,617982 L188595,713232 Z M83820,713232 L179070,713232 L179070,617982 L83820,617982 L83820,713232 Z M2807970,608457 L2903220,608457 L2903220,513207 L2807970,513207 L2807970,608457 Z M2703195,608457 L2798445,608457 L2798445,513207 L2703195,513207 L2703195,608457 Z M2598420,608457 L2693670,608457 L2693670,513207 L2598420,513207 L2598420,608457 Z M2493645,608457 L2588895,608457 L2588895,513207 L2493645,513207 L2493645,608457 Z M2388870,608457 L2484120,608457 L2484120,513207 L2388870,513207 L2388870,608457 Z M2284095,608457 L2379345,608457 L2379345,513207 L2284095,513207 L2284095,608457 Z M2179320,608457 L2274570,608457 L2274570,513207 L2179320,513207 L2179320,608457 Z M2074545,608457 L2169795,608457 L2169795,513207 L2074545,513207 L2074545,608457 Z M1969770,608457 L2065020,608457 L2065020,513207 L1969770,513207 L1969770,608457 Z M1864995,608457 L1960245,608457 L1960245,513207 L1864995,513207 L1864995,608457 Z M1760220,608457 L1855470,608457 L1855470,513207 L1760220,513207 L1760220,608457 Z M1655445,608457 L1750695,608457 L1750695,513207 L1655445,513207 L1655445,608457 Z M1550670,608457 L1645920,608457 L1645920,513207 L1550670,513207 L1550670,608457 Z M1445895,608457 L1541145,608457 L1541145,513207 L1445895,513207 L1445895,608457 Z M1341120,608457 L1436370,608457 L1436370,513207 L1341120,513207 L1341120,608457 Z M1236345,608457 L1331595,608457 L1331595,513207 L1236345,513207 L1236345,608457 Z M1131570,608457 L1226820,608457 L1226820,513207 L1131570,513207 L1131570,608457 Z M1026795,608457 L1122045,608457 L1122045,513207 L1026795,513207 L1026795,608457 Z M922020,608457 L1017270,608457 L1017270,513207 L922020,513207 L922020,608457 Z M817245,608457 L912495,608457 L912495,513207 L817245,513207 L817245,608457 Z M712470,608457 L807720,608457 L807720,513207 L712470,513207 L712470,608457 Z M607695,608457 L702945,608457 L702945,513207 L607695,513207 L607695,608457 Z M502920,608457 L598170,608457 L598170,513207 L502920,513207 L502920,608457 Z M398145,608457 L493395,608457 L493395,513207 L398145,513207 L398145,608457 Z M293370,608457 L388620,608457 L388620,513207 L293370,513207 L293370,608457 Z M188595,608457 L283845,608457 L283845,513207 L188595,513207 L188595,608457 Z M83820,608457 L179070,608457 L179070,513207 L83820,513207 L83820,608457 Z M2807970,503682 L2903220,503682 L2903220,408432 L2807970,408432 L2807970,503682 Z M2703195,503682 L2798445,503682 L2798445,408432 L2703195,408432 L2703195,503682 Z M2598420,503682 L2693670,503682 L2693670,408432 L2598420,408432 L2598420,503682 Z M2493645,503682 L2588895,503682 L2588895,408432 L2493645,408432 L2493645,503682 Z M2388870,503682 L2484120,503682 L2484120,408432 L2388870,408432 L2388870,503682 Z M2284095,503682 L2379345,503682 L2379345,408432 L2284095,408432 L2284095,503682 Z M2179320,503682 L2274570,503682 L2274570,408432 L2179320,408432 L2179320,503682 Z M2074545,503682 L2169795,503682 L2169795,408432 L2074545,408432 L2074545,503682 Z M1969770,503682 L2065020,503682 L2065020,408432 L1969770,408432 L1969770,503682 Z M1864995,503682 L1960245,503682 L1960245,408432 L1864995,408432 L1864995,503682 Z M1760220,503682 L1855470,503682 L1855470,408432 L1760220,408432 L1760220,503682 Z M1655445,503682 L1750695,503682 L1750695,408432 L1655445,408432 L1655445,503682 Z M1550670,503682 L1645920,503682 L1645920,408432 L1550670,408432 L1550670,503682 Z M1445895,503682 L1541145,503682 L1541145,408432 L1445895,408432 L1445895,503682 Z M1341120,503682 L1436370,503682 L1436370,408432 L1341120,408432 L1341120,503682 Z M1236345,503682 L1331595,503682 L1331595,408432 L1236345,408432 L1236345,503682 Z M1131570,503682 L1226820,503682 L1226820,408432 L1131570,408432 L1131570,503682 Z M1026795,503682 L1122045,503682 L1122045,408432 L1026795,408432 L1026795,503682 Z M922020,503682 L1017270,503682 L1017270,408432 L922020,408432 L922020,503682 Z M817245,503682 L912495,503682 L912495,408432 L817245,408432 L817245,503682 Z M712470,503682 L807720,503682 L807720,408432 L712470,408432 L712470,503682 Z M607695,503682 L702945,503682 L702945,408432 L607695,408432 L607695,503682 Z M502920,503682 L598170,503682 L598170,408432 L502920,408432 L502920,503682 Z M398145,503682 L493395,503682 L493395,408432 L398145,408432 L398145,503682 Z M293370,503682 L388620,503682 L388620,408432 L293370,408432 L293370,503682 Z M188595,503682 L283845,503682 L283845,408432 L188595,408432 L188595,503682 Z M83820,503682 L179070,503682 L179070,408432 L83820,408432 L83820,503682 Z M2807970,398907 L2903220,398907 L2903220,303657 L2807970,303657 L2807970,398907 Z M2703195,398907 L2798445,398907 L2798445,303657 L2703195,303657 L2703195,398907 Z M2598420,398907 L2693670,398907 L2693670,303657 L2598420,303657 L2598420,398907 Z M2493645,398907 L2588895,398907 L2588895,303657 L2493645,303657 L2493645,398907 Z M2388870,398907 L2484120,398907 L2484120,303657 L2388870,303657 L2388870,398907 Z M2284095,398907 L2379345,398907 L2379345,303657 L2284095,303657 L2284095,398907 Z M2179320,398907 L2274570,398907 L2274570,303657 L2179320,303657 L2179320,398907 Z M2074545,398907 L2169795,398907 L2169795,303657 L2074545,303657 L2074545,398907 Z M1969770,398907 L2065020,398907 L2065020,303657 L1969770,303657 L1969770,398907 Z M1864995,398907 L1960245,398907 L1960245,303657 L1864995,303657 L1864995,398907 Z M1760220,398907 L1855470,398907 L1855470,303657 L1760220,303657 L1760220,398907 Z M1655445,398907 L1750695,398907 L1750695,303657 L1655445,303657 L1655445,398907 Z M1550670,398907 L1645920,398907 L1645920,303657 L1550670,303657 L1550670,398907 Z M1445895,398907 L1541145,398907 L1541145,303657 L1445895,303657 L1445895,398907 Z M1341120,398907 L1436370,398907 L1436370,303657 L1341120,303657 L1341120,398907 Z M1236345,398907 L1331595,398907 L1331595,303657 L1236345,303657 L1236345,398907 Z M1131570,398907 L1226820,398907 L1226820,303657 L1131570,303657 L1131570,398907 Z M1026795,398907 L1122045,398907 L1122045,303657 L1026795,303657 L1026795,398907 Z M922020,398907 L1017270,398907 L1017270,303657 L922020,303657 L922020,398907 Z M817245,398907 L912495,398907 L912495,303657 L817245,303657 L817245,398907 Z M712470,398907 L807720,398907 L807720,303657 L712470,303657 L712470,398907 Z M607695,398907 L702945,398907 L702945,303657 L607695,303657 L607695,398907 Z M502920,398907 L598170,398907 L598170,303657 L502920,303657 L502920,398907 Z M398145,398907 L493395,398907 L493395,303657 L398145,303657 L398145,398907 Z M293370,398907 L388620,398907 L388620,303657 L293370,303657 L293370,398907 Z M188595,398907 L283845,398907 L283845,303657 L188595,303657 L188595,398907 Z M83820,398907 L179070,398907 L179070,303657 L83820,303657 L83820,398907 Z M2703195,294132 L2798445,294132 L2798445,198882 L2703195,198882 L2703195,294132 Z M2598420,294132 L2693670,294132 L2693670,198882 L2598420,198882 L2598420,294132 Z M2493645,294132 L2588895,294132 L2588895,198882 L2493645,198882 L2493645,294132 Z M2388870,294132 L2484120,294132 L2484120,198882 L2388870,198882 L2388870,294132 Z M2284095,294132 L2379345,294132 L2379345,198882 L2284095,198882 L2284095,294132 Z M2179320,294132 L2274570,294132 L2274570,198882 L2179320,198882 L2179320,294132 Z M2074545,294132 L2169795,294132 L2169795,198882 L2074545,198882 L2074545,294132 Z M1969770,294132 L2065020,294132 L2065020,198882 L1969770,198882 L1969770,294132 Z M1864995,294132 L1960245,294132 L1960245,198882 L1864995,198882 L1864995,294132 Z M1760220,294132 L1855470,294132 L1855470,198882 L1760220,198882 L1760220,294132 Z M1655445,294132 L1750695,294132 L1750695,198882 L1655445,198882 L1655445,294132 Z M1550670,294132 L1645920,294132 L1645920,198882 L1550670,198882 L1550670,294132 Z M1445895,294132 L1541145,294132 L1541145,198882 L1445895,198882 L1445895,294132 Z M1341120,294132 L1436370,294132 L1436370,198882 L1341120,198882 L1341120,294132 Z M1236345,294132 L1331595,294132 L1331595,198882 L1236345,198882 L1236345,294132 Z M1131570,294132 L1226820,294132 L1226820,198882 L1131570,198882 L1131570,294132 Z M1026795,294132 L1122045,294132 L1122045,198882 L1026795,198882 L1026795,294132 Z M922020,294132 L1017270,294132 L1017270,198882 L922020,198882 L922020,294132 Z M817245,294132 L912495,294132 L912495,198882 L817245,198882 L817245,294132 Z M712470,294132 L807720,294132 L807720,198882 L712470,198882 L712470,294132 Z M607695,294132 L702945,294132 L702945,198882 L607695,198882 L607695,294132 Z M502920,294132 L598170,294132 L598170,198882 L502920,198882 L502920,294132 Z M398145,294132 L493395,294132 L493395,198882 L398145,198882 L398145,294132 Z M293370,294132 L388620,294132 L388620,198882 L293370,198882 L293370,294132 Z M188595,294132 L283845,294132 L283845,198882 L188595,198882 L188595,294132 Z M83820,294132 L179070,294132 L179070,198882 L83820,198882 L83820,294132 Z M2074545,189357 L2169795,189357 L2169795,94107 L2074545,94107 L2074545,189357 Z M1969770,189357 L2065020,189357 L2065020,94107 L1969770,94107 L1969770,189357 Z M1864995,189357 L1960245,189357 L1960245,94107 L1864995,94107 L1864995,189357 Z M1760220,189357 L1855470,189357 L1855470,94107 L1760220,94107 L1760220,189357 Z M1655445,189357 L1750695,189357 L1750695,94107 L1655445,94107 L1655445,189357 Z M1550670,189357 L1645920,189357 L1645920,94107 L1550670,94107 L1550670,189357 Z M1445895,189357 L1541145,189357 L1541145,94107 L1445895,94107 L1445895,189357 Z M1341120,189357 L1436370,189357 L1436370,94107 L1341120,94107 L1341120,189357 Z M1236345,189357 L1331595,189357 L1331595,94107 L1236345,94107 L1236345,189357 Z M1131570,189357 L1226820,189357 L1226820,94107 L1131570,94107 L1131570,189357 Z M1026795,189357 L1122045,189357 L1122045,94107 L1026795,94107 L1026795,189357 Z M922020,189357 L1017270,189357 L1017270,94107 L922020,94107 L922020,189357 Z M817245,189357 L912495,189357 L912495,94107 L817245,94107 L817245,189357 Z M712470,189357 L807720,189357 L807720,94107 L712470,94107 L712470,189357 Z M607695,189357 L702945,189357 L702945,94107 L607695,94107 L607695,189357 Z M502920,189357 L598170,189357 L598170,94107 L502920,94107 L502920,189357 Z M398145,189357 L493395,189357 L493395,94107 L398145,94107 L398145,189357 Z M293370,189357 L388620,189357 L388620,94107 L293370,94107 L293370,189357 Z M188595,189357 L283845,189357 L283845,94107 L188595,94107 L188595,189357 Z M83820,189357 L179070,189357 L179070,94107 L83820,94107 L83820,189357 Z
+    fill:
+      type: solid
+      color: "#9DE8FF0F"
+  - elementId: "任意多边形: 形状 637"
+    elementType: shape
+    bounds: [914.7, 270.7, 27.1, 30.2]
+    shapeName: custom
+    viewBox:
+      - 317087
+      - 301085
+    path: M14288,301085 L196501,301085 L317087,180499 L317087,14288 C317087,6382 310705,0 302800,0 C294894,0 288512,6382 288512,14288 L288512,168688 L184690,272510 L14288,272510 C6382,272510 0,278892 0,286798 C0,294608 6382,301085 14288,301085 L14288,301085 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.14
+          color: "#23B9FF"
+        - position: 0.8
+          color: "#23B9FF"
+        - position: 0.47
+          color: $lt1
+      angle: 315
+  - elementId: "任意多边形: 形状 638"
+    elementType: shape
+    bounds: [683.9, 199.5, 27.1, 30.2]
+    shapeName: custom
+    viewBox:
+      - 317087
+      - 301085
+    path: M302800,0 L120587,0 L0,120587 L0,286798 C0,294704 6382,301085 14288,301085 C22193,301085 28575,294704 28575,286798 L28575,286798 L28575,132398 L132398,28575 L302800,28575 C310706,28575 317087,22193 317087,14288 C317087,6382 310706,0 302800,0 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.14
+          color: "#23B9FF"
+        - position: 0.8
+          color: "#23B9FF"
+        - position: 0.47
+          color: $lt1
+      angle: 315
+  - elementId: "任意多边形: 形状 639"
+    elementType: shape
+    bounds: [701.1, 253.2, 67.2, 35.6]
+    shapeName: custom
+    viewBox:
+      - 785050
+      - 354806
+    path: M393632,349730 L774632,183710 L393536,5306 L12345,183710 L393632,349730 M393632,354779 L916,183710 L393536,-28 L785966,183710 L393632,354779 Z
+    fill:
+      type: solid
+      color: "#55B6FF78"
+  - elementId: "任意多边形: 形状 640"
+    elementType: shape
+    bounds: [714.5, 218.4, 19.6, 41.5]
+    shapeName: custom
+    viewBox:
+      - 229456
+      - 414146
+    path: M230373,-28 L230373,308868 L916,414119 L916,99604 L230373,-28 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.76
+          color: "#FFFFFF00"
+        - position: 0
+          color: "#2F57F978"
+      angle: 270
+  - elementId: "任意多边形: 形状 641"
+    elementType: shape
+    bounds: [734.1, 218.4, 19.6, 41.4]
+    shapeName: custom
+    viewBox:
+      - 229457
+      - 412813
+    path: M916,-28 L916,307535 L230373,412786 L230373,99604 L916,-28 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.78
+          color: "#FFFFFF00"
+        - position: 0
+          color: "#2F57F978"
+      angle: 270
+  - elementId: "任意多边形: 形状 673"
+    elementType: shape
+    bounds: [710.1, 252.1, 48.1, 25.4]
+    shapeName: custom
+    viewBox:
+      - 561499
+      - 253650
+    path: M278945,253636 L-1853,131335 L278945,-15 L559646,131335 L278945,253636 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#1D70B8"
+        - position: 0.33
+          color: "#195BA4"
+        - position: 1
+          color: "#060251"
+      angle: 0
+  - elementId: "任意多边形: 形状 674"
+    elementType: shape
+    bounds: [709.6, 251.9, 49.1, 26]
+    shapeName: custom
+    viewBox:
+      - 573119
+      - 258984
+    path: M284755,253731 L559646,133907 L284755,5224 L9768,133907 L284755,253731 M284755,258970 L-1853,134097 L284755,-15 L571266,134097 L284755,258970 Z
+    fill:
+      type: solid
+      color: "#55B6FF"
+  - elementId: "任意多边形: 形状 643"
+    elementType: shape
+    bounds: [709.7, 265.3, 24.4, 16.4]
+    shapeName: custom
+    viewBox:
+      - 284892
+      - 163925
+    path: M916,-28 L916,33310 L285808,163898 L285808,123607 L916,-28 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.41
+          color: "#0080FF"
+        - position: 1
+          color: "#00FFF4"
+      angle: 0
+  - elementId: "任意多边形: 形状 644"
+    elementType: shape
+    bounds: [714.5, 259.9, 19.6, 13.2]
+    shapeName: custom
+    viewBox:
+      - 229456
+      - 132111
+    path: M916,-28 L916,26833 L230373,132084 L230373,99604 L916,-28 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.41
+          color: "#0080FF"
+        - position: 1
+          color: "#00FFF4"
+      angle: 0
+  - elementId: "任意多边形: 形状 645"
+    elementType: shape
+    bounds: [714.3, 249, 39.5, 20.8]
+    shapeName: custom
+    viewBox:
+      - 461486
+      - 207359
+    path: M231707,207332 L916,107986 L231707,-28 L462402,107986 L231707,207332 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#1B3389"
+        - position: 1
+          color: "#2874C4"
+      angle: 180
+  - elementId: "任意多边形: 形状 646"
+    elementType: shape
+    bounds: [719.5, 254.9, 14.6, 9.9]
+    shapeName: custom
+    viewBox:
+      - 170687
+      - 98297
+    path: M916,-28 L916,19975 L171604,98270 L171604,74077 L916,-28 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#1C6EC2"
+        - position: 1
+          color: "#11ADE9"
+      angle: 270
+  - elementId: "任意多边形: 形状 647"
+    elementType: shape
+    bounds: [734.1, 265.3, 24.4, 16.4]
+    shapeName: custom
+    viewBox:
+      - 284893
+      - 163925
+    path: M285809,-28 L285809,33310 L916,163898 L916,123607 L285809,-28 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#00FFF4"
+        - position: 0.62
+          color: "#1094E6"
+      angle: 0
+  - elementId: "任意多边形: 形状 648"
+    elementType: shape
+    bounds: [734.1, 259.9, 19.6, 13.2]
+    shapeName: custom
+    viewBox:
+      - 229457
+      - 132111
+    path: M230373,-28 L230373,26833 L916,132084 L916,99604 L230373,-28 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#00FFF4"
+        - position: 0.62
+          color: "#1094E6"
+      angle: 0
+  - elementId: "任意多边形: 形状 649"
+    elementType: shape
+    bounds: [734.1, 254.9, 14.6, 9.9]
+    shapeName: custom
+    viewBox:
+      - 170687
+      - 98297
+    path: M171604,-28 L171604,19975 L916,98270 L916,74077 L171604,-28 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#1C6EC2"
+        - position: 1
+          color: "#11ADE9"
+      angle: 270
+  - elementId: "任意多边形: 形状 650"
+    elementType: shape
+    bounds: [719.4, 246.9, 29.4, 15.5]
+    shapeName: custom
+    viewBox:
+      - 343376
+      - 154209
+    path: M172651,154182 L916,80268 L172651,-28 L344292,80268 L172651,154182 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#1B3389"
+        - position: 1
+          color: "#2874C4"
+      angle: 270
+  - elementId: "任意多边形: 形状 651"
+    elementType: shape
+    bounds: [723.8, 227.2, 15, 27.7]
+    shapeName: custom
+    viewBox:
+      - 175069
+      - 276606
+    path: M916,-28 L916,190568 L175986,276578 L175986,81983 L916,-28 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#00FFF4"
+        - position: 1
+          color: "#2F57F9"
+      angle: 225
+  - elementId: "任意多边形: 形状 652"
+    elementType: shape
+    bounds: [723.8, 225.5, 18.6, 10.1]
+    shapeName: custom
+    viewBox:
+      - 217360
+      - 100583
+    path: M175986,100556 L218277,81697 L42350,-28 L916,18546 L175986,100556 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#004191"
+        - position: 1
+          color: "#2F57F9"
+      angle: 225
+  - elementId: "任意多边形: 形状 653"
+    elementType: shape
+    bounds: [738.8, 233.7, 3.6, 21.2]
+    shapeName: custom
+    viewBox:
+      - 42100
+      - 211454
+    path: M916,211427 L916,19022 L43017,-28 L42350,193139 L916,211427 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#004191"
+        - position: 1
+          color: "#2F57F9"
+      angle: 225
+  - elementId: "任意多边形: 形状 654"
+    elementType: shape
+    bounds: [709.6, 265, 49, 12.8]
+    shapeName: custom
+    viewBox:
+      - 573024
+      - 127635
+    path: M287523,127607 L916,2830 L6917,-28 L287523,122178 L567940,-28 L573940,2830 L287523,127607 Z
+    fill:
+      type: solid
+      color: $lt1
+  - elementId: "任意多边形: 形状 655"
+    elementType: shape
+    bounds: [714.6, 260.1, 39.2, 9.9]
+    shapeName: custom
+    viewBox:
+      - 458533
+      - 98964
+    path: M230183,98937 L916,2163 L5774,-28 L230278,94746 L454592,-28 L459449,2163 L230183,98937 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#ABFFFB"
+        - position: 1
+          color: $lt1
+      angle: 270
+  - elementId: "任意多边形: 形状 656"
+    elementType: shape
+    bounds: [723.8, 227.2, 15, 27.7]
+    shapeName: custom
+    viewBox:
+      - 175069
+      - 276510
+    path: M175986,276483 L175986,276483 L171318,274197 L171318,86650 L916,6830 L916,-28 L175986,81983 L175986,276483 L175986,276483 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#00FFF4"
+        - position: 0
+          color: "#2F57F978"
+      angle: 270
+  - elementId: "任意多边形: 形状 657"
+    elementType: shape
+    bounds: [714.5, 228.8, 19.6, 41.4]
+    shapeName: custom
+    viewBox:
+      - 229456
+      - 412813
+    path: M916,-28 L916,307535 L230373,412786 L230373,99604 L916,-28 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.84
+          color: "#FFFFFF00"
+        - position: 0
+          color: "#2F57F978"
+      angle: 270
+  - elementId: "任意多边形: 形状 658"
+    elementType: shape
+    bounds: [734.1, 228.8, 19.6, 41.5]
+    shapeName: custom
+    viewBox:
+      - 229457
+      - 414146
+    path: M230373,-28 L230373,308868 L916,414119 L916,99604 L230373,-28 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.84
+          color: "#FFFFFF00"
+        - position: 0
+          color: "#2F57F978"
+      angle: 270
+  - elementId: "任意多边形: 形状 659"
+    elementType: shape
+    bounds: [703.1, 228.3, 59.9, 25.5]
+    shapeName: custom
+    viewBox:
+      - 700355
+      - 254752
+    path: M329424,33341 C284085,43724 239508,56678 195694,72299 C159403,85062 124161,100588 90252,118781 C31387,151070 812,183170 6336,206982 C11861,230795 53390,246225 120446,249464 C158927,250892 197408,249464 235699,244987 C281895,239843 327710,231938 372954,221460 C418293,211078 462870,198124 506685,182503 C542975,169739 578313,154214 612222,136021 C671086,103731 701662,71632 696137,47819 C690613,24007 648989,8576 581932,5338 C543451,3909 504970,5338 466680,9815 C420483,14958 374668,22769 329424,33341 M328281,28769 C521258,-15808 687945,-7711 700519,46676 C713092,101159 566788,181455 373811,225937 C180835,270419 14242,262513 1669,208030 C-10904,153547 135400,73346 328281,28769 L328281,28769 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: $lt1
+        - position: 1
+          color: "#FFFFFF00"
+        - position: 0.66
+          color: "#00FFF4"
+        - position: 0.3
+          color: "#FFFFFF00"
+      angle: 45
+  - elementId: "任意多边形: 形状 660"
+    elementType: shape
+    bounds: [756.9, 237.7, 3.5, 4.1]
+    shapeName: custom
+    viewBox:
+      - 40576
+      - 40576
+    path: M41492,20261 C41492,31465 32409,40549 21204,40549 C9999,40549 916,31465 916,20261 C916,9056 9999,-28 21204,-28 C32409,-28 41492,9056 41492,20261 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: $lt1
+        - position: 0.97
+          color: "#6582FB"
+      angle: 45
+  - elementId: "任意多边形: 形状 661"
+    elementType: shape
+    bounds: [700.6, 269.1, 6, 5.2]
+    shapeName: custom
+    viewBox:
+      - 69913
+      - 51911
+    path: M66675,2667 L56102,0 L0,25908 L57341,51911 L69913,47720 L17907,24289 L66675,2667 Z
+    fill:
+      type: solid
+      color: "#0BF9FE"
+  - elementId: "任意多边形: 形状 662"
+    elementType: shape
+    bounds: [762.6, 269, 6, 5.2]
+    shapeName: custom
+    viewBox:
+      - 69913
+      - 51911
+    path: M3239,2667 L13811,0 L69914,25908 L12573,51911 L0,47720 L52006,24289 L3239,2667 Z
+    fill:
+      type: solid
+      color: "#0BF9FE"
+  - elementId: "任意多边形: 形状 663"
+    elementType: shape
+    bounds: [728.2, 285.6, 13.1, 4]
+    shapeName: custom
+    viewBox:
+      - 153257
+      - 40386
+    path: M14573,4000 L0,9049 L75057,40386 L153257,5429 L141446,0 L75057,29051 L14573,4000 Z
+    fill:
+      type: solid
+      color: "#0BF9FE"
+  - elementId: "任意多边形: 形状 666"
+    elementType: shape
+    bounds: [715, 201.4, 145.5, 1.2]
+    shapeName: custom
+    viewBox:
+      - 1700021
+      - 11906
+    path: M0,0 L1700022,0 L1700022,11906 L0,11906 L0,0 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.14
+          color: "#23B9FF"
+        - position: 0.8
+          color: "#23B9FF"
+        - position: 0.47
+          color: $lt1
+      angle: 315
+  - elementId: "任意多边形: 形状 667"
+    elementType: shape
+    bounds: [715, 298.5, 145.5, 1.2]
+    shapeName: custom
+    viewBox:
+      - 1700021
+      - 11906
+    path: M0,0 L1700022,0 L1700022,11906 L0,11906 L0,0 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.14
+          color: "#23B9FF"
+        - position: 0.8
+          color: "#23B9FF"
+        - position: 0.47
+          color: $lt1
+      angle: 315
+  - elementId: "任意多边形: 形状 670"
+    elementType: shape
+    bounds: [726.9, 233, 8.5, 16.1]
+    rotation: -4.012166666666666
+    shapeName: custom
+    viewBox:
+      - 99315
+      - 160160
+    path: M99273,58021 C99845,61832 99940,65739 100322,69551 C99940,80033 97749,90420 93841,100140 C89268,111575 83264,122534 76117,132540 C70114,141211 63538,149407 56773,157316 C55153,159603 52389,160747 49626,160270 C46767,159317 44385,157316 43051,154648 C40287,150169 37428,145690 34760,141211 C27136,128823 20276,115959 14177,102713 C8936,91564 5124,79843 2647,67740 C-4310,34578 11509,4561 38000,654 C42384,-13 46862,82 51150,940 C72973,5038 92698,26097 98511,53828 C98797,55257 99083,56591 99273,58021 Z M50198,86704 C62299,88991 72306,78985 72496,64405 C73258,50302 64301,37533 50865,33244 L50579,33244 C38476,30957 28375,40868 28090,55543 C27327,69646 36285,82416 49721,86609 L49912,86609 L50198,86704
+    fill:
+      type: solid
+      color: "#013D9E"
+  - elementId: "任意多边形: 形状 671"
+    elementType: shape
+    bounds: [726.8, 236.3, 5, 6.3]
+    rotation: -4.012166666666666
+    shapeName: custom
+    viewBox:
+      - 58796
+      - 62607
+    path: M58372,53104 L58086,53199 L57419,53390 C56943,53485 56466,53485 56085,53581 L55704,53581 L54846,53676 L53703,53676 L53321,53676 L52655,53581 L52273,53581 L51606,53485 L51034,53390 L50844,53390 L50653,53390 C50367,53295 49986,53295 49700,53199 L49224,53104 L48557,52818 L48080,52628 L47509,52437 L47032,52246 L46461,52056 L45984,51865 L45412,51579 L44936,51389 L44364,51103 L43887,50817 L43411,50531 L42839,50245 L42363,49960 L41791,49578 L41315,49292 L40743,48816 L40362,48530 L39599,47863 L39314,47577 C38933,47196 38551,46910 38170,46529 L37979,46338 C37598,45862 37122,45481 36740,45004 L36645,44814 C36360,44432 36073,44051 35788,43670 L35597,43480 C35406,43194 35121,42813 34930,42527 L34740,42241 C34454,41764 34168,41288 33882,40811 L33786,40621 C33501,40144 33215,39572 32929,39001 L32738,38620 C32452,38048 32167,37476 31976,36904 L31976,36904 C31690,36333 31499,35761 31309,35189 L31119,34713 C31023,34427 30928,34141 30832,33855 L30642,33378 C30547,33093 30451,32711 30356,32425 L30261,32044 C30070,31377 29975,30806 29784,30139 L29689,29662 C29594,29186 29498,28804 29498,28328 C29498,28233 29498,28137 29403,27947 C29308,27470 29308,26898 29213,26422 C29213,26327 29213,26136 29213,26041 C29213,25660 29117,25374 29117,24993 C29117,24612 29117,24612 29117,24326 C29117,24135 29117,23849 29117,23563 C29117,23182 29117,22706 29117,22324 C29117,21657 29213,21086 29213,20514 C29213,20419 29213,20228 29213,20133 C29308,19561 29308,18989 29403,18417 L29403,18322 C29498,17750 29594,17274 29689,16702 L29784,16321 C29880,15749 30070,15273 30165,14701 L30261,14415 C30356,13939 30547,13557 30642,13081 L30737,12700 C30928,12223 31119,11747 31309,11175 L31404,11080 C31595,10603 31786,10222 32071,9746 C32167,9555 32262,9365 32357,9174 C32452,8983 32643,8602 32738,8316 C32929,8030 33024,7840 33215,7554 C33405,7268 33501,7173 33691,6982 C34073,6411 34454,5934 34930,5458 L34930,5458 L34930,5458 C35216,5076 35597,4791 35883,4409 L36264,4028 C36550,3742 36836,3552 37027,3361 L37408,3075 C37789,2789 38170,2503 38551,2218 L38551,2218 C38933,1932 39314,1741 39790,1551 L40171,1360 C40457,1169 40743,1074 41124,884 L41505,693 C41887,502 42363,312 42839,217 L42839,217 L15014,8983 C14538,9079 14156,9269 13680,9460 L13299,9650 C13013,9746 12632,9936 12345,10127 L11965,10318 C11583,10508 11107,10794 10726,10985 L10726,10985 C10345,11270 9963,11556 9582,11842 L9296,12128 C9010,12319 8724,12605 8534,12795 L8248,13081 C7867,13367 7581,13748 7295,14129 L7295,14129 L7295,14129 L7295,14129 C6914,14606 6437,15082 6056,15654 L5770,15845 C5675,15940 5580,16130 5485,16321 C5389,16512 5199,16797 5008,17083 L4818,17369 C4722,17560 4627,17750 4531,17941 C4436,18132 4341,18322 4246,18513 L4150,18703 C3960,19085 3769,19466 3579,19847 L3483,19942 L3483,19942 C3293,20323 3102,20800 3007,21181 L2912,21467 L2816,21848 C2721,22039 2721,22229 2626,22420 C2531,22610 2435,22896 2340,23182 L2244,23468 L2244,23563 C2149,23944 1959,24326 1863,24707 C1863,24802 1863,24897 1768,24993 L1673,25374 C1673,25564 1577,25755 1577,25946 C1482,26327 1482,26708 1387,27089 L1387,27184 C1292,27566 1292,27947 1196,28423 C1196,28614 1196,28804 1196,28900 C1196,28995 1196,29186 1196,29281 C1196,29376 1196,29471 1196,29662 C1101,30043 1006,30520 1006,30996 C1006,31091 1006,31091 1006,31187 C1006,31568 1006,31949 1006,32330 C1006,32902 1006,32425 1006,32425 C1006,32711 1006,32902 1006,33188 C1006,33474 1006,33569 1006,33760 L1006,33855 C1006,34236 1101,34522 1101,34903 C1101,34998 1101,35094 1101,35284 L1101,35284 C1196,35761 1196,36333 1292,36809 L1292,36904 C1292,37000 1292,37095 1292,37190 C1387,37667 1482,38048 1482,38524 C1482,38620 1482,38715 1482,38810 C1482,38905 1482,38905 1577,39001 C1673,39668 1863,40240 2054,40907 L2054,41002 C2054,41097 2149,41288 2149,41383 C2244,41669 2340,42050 2435,42336 L2626,42813 C2721,43098 2816,43384 2912,43670 L3007,43861 L3102,44051 C3293,44623 3579,45195 3769,45767 L3769,45767 C4055,46338 4246,46910 4531,47482 L4722,47863 C5008,48435 5294,48911 5580,49483 L5770,49674 C6056,50150 6342,50626 6628,51103 L6724,51294 L6818,51389 C7009,51675 7295,52056 7485,52342 L7676,52532 C7962,52914 8248,53295 8534,53676 L8534,53771 L8629,53866 C9010,54343 9391,54819 9868,55201 L9963,55296 L10059,55391 C10440,55772 10821,56154 11202,56535 L11297,56630 L11488,56820 L12250,57488 L12441,57678 L12632,57869 L13203,58345 L13489,58536 L13680,58631 L14251,59012 L14538,59203 L14728,59298 L15300,59679 L15681,59870 L15871,59965 L16348,60251 L16729,60442 L16920,60537 L17396,60728 L17777,60918 L17968,61013 L18444,61204 L18730,61299 L19016,61395 L19492,61585 L19779,61681 L20064,61776 L20541,61966 L20827,62062 L21208,62157 L21685,62252 L21875,62347 L22637,62538 L22828,62538 L23018,62538 L23114,62538 L23590,62633 L24257,62729 L24353,62729 L24733,62729 L25496,62824 L27116,62824 L27974,62824 L28164,62824 L28355,62824 C29117,62824 29594,62824 30070,62729 L30070,62729 L30737,62633 L31023,62538 C31309,62443 31690,62347 31976,62252 L37503,60537 L59802,53485 C58944,52914 58658,53009 58372,53104 Z
+    fill:
+      type: solid
+      color: "#013D9E"
+  - elementId: "任意多边形: 形状 672"
+    elementType: shape
+    bounds: [726, 233.4, 8.5, 16.1]
+    rotation: -4.012166666666666
+    shapeName: custom
+    viewBox:
+      - 99315
+      - 160160
+    path: M99272,58021 C99844,61833 99939,65740 100321,69551 C99939,80034 97748,90421 93840,100141 C89266,111576 83263,122534 76116,132540 C70112,141212 63537,149407 56772,157316 C55151,159603 52388,160747 49625,160270 C46766,159317 44384,157316 43050,154648 C40286,150169 37427,145691 34759,141212 C27135,128824 20274,115959 14176,102713 C8934,91564 5123,79843 2645,67741 C-4311,34579 11508,4562 37999,655 C42382,-13 46861,83 51149,940 C72972,5038 92697,26098 98510,53828 C98796,55257 99082,56592 99272,58021 Z M50197,86704 C62298,88991 72305,78986 72495,64406 C73257,50302 64300,37533 50864,33245 L50578,33245 C38475,30958 28374,40868 28088,55543 C27326,69647 36284,82416 49720,86609 L49910,86609 L50197,86704
+    fill:
+      type: solid
+      color: $lt1
+  - elementId: 文本框 48-3
+    elementType: text
+    bounds: [762.7, 217, 125.4, 64.1]
+    content:
+      text: |-
+        <p style="text-align: right; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><span style="color: $lt1; font-size: 18px; font-family: 思源黑体 CN Medium, 思源黑体 CN Medium; letter-spacing: 1px;">更换文字内容</span></p><p style="text-align: right; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><span style="font-size: 28px; font-family: 思源黑体 CN Heavy, 思源黑体 CN Heavy;"><strong>3000万元</strong></span></p>
+      color: $dk1
+      marginTop: 0
+      wrap: false
+      align:
+        - right
+        - top
+  - elementId: "任意多边形: 形状 741"
+    elementType: shape
+    bounds: [26.7, 193.5, 264.3, 111.1]
+    shapeName: custom
+    viewBox:
+      - 3088291
+      - 1108328
+    path: M2979761,1108290 L1622925,1100289 L116070,1091431 L3484,965034 L912,123977 L116641,-39 L2210712,-39 L2327870,148837 L2329299,150647 L2331585,150647 L2925564,150647 L3089203,310762 L3089203,981227 L2979761,1108290 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#0080FF45"
+        - position: 0.51
+          color: "#00062A00"
+        - position: 1
+          color: "#0099FF46"
+      angle: 270
+  - elementId: "任意多边形: 形状 742"
+    elementType: shape
+    bounds: [26.3, 193.1, 265.1, 112.1]
+    shapeName: custom
+    viewBox:
+      - 3097816
+      - 1117854
+    path: M123404,9486 L10342,130644 L12914,967987 L122927,1091431 L2982333,1108195 L3089108,984084 L3089108,317429 L2928326,160076 L2331680,160076 L2213094,9391 L123404,9391 M119308,-39 L2217761,-39 L2336347,150647 L2932231,150647 L3098728,313524 L3098728,987704 L2986810,1117815 L118736,1100956 L3484,971606 L912,126834 L119308,-39 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#0080FF45"
+        - position: 0.51
+          color: "#00062A00"
+        - position: 1
+          color: "#0099FF46"
+      angle: 270
+  - elementId: "任意多边形: 形状 739"
+    elementType: shape
+    bounds: [26.7, 193.5, 264.3, 111.1]
+    shapeName: custom
+    viewBox:
+      - 3088291
+      - 1108328
+    path: M2979761,1108290 L1622925,1100289 L116070,1091431 L3484,965034 L912,123977 L116641,-39 L2210712,-39 L2327870,148837 L2329299,150647 L2331585,150647 L2925564,150647 L3089203,310762 L3089203,981227 L2979761,1108290 Z
+  - elementId: "任意多边形: 形状 740"
+    elementType: shape
+    bounds: [26.3, 193.1, 265.1, 112.1]
+    shapeName: custom
+    viewBox:
+      - 3097816
+      - 1117854
+    path: M123404,9486 L10342,130644 L12914,967987 L122927,1091431 L2982333,1108195 L3089108,984084 L3089108,317429 L2928326,160076 L2331680,160076 L2213094,9391 L123404,9391 M119308,-39 L2217761,-39 L2336347,150647 L2932231,150647 L3098728,313524 L3098728,987704 L2986810,1117815 L118736,1100956 L3484,971606 L912,126834 L119308,-39 Z
+    fill:
+      type: solid
+      color: "#23B9FF"
+  - elementId: "任意多边形: 形状 735"
+    elementType: shape
+    bounds: [31.6, 199.8, 254.5, 98.3]
+    shapeName: custom
+    viewBox:
+      - 2973514
+      - 980789
+    path: M2869372,980757 L1562732,973708 L111599,965898 L3394,854170 L918,109600 L112170,-32 L2128708,-32 L2241484,131794 L2242912,133508 L2245103,133508 L2817080,133508 L2974433,275145 L2974433,868457 L2869372,980757 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#0080FF45"
+        - position: 0.51
+          color: "#00062A00"
+        - position: 1
+          color: "#0099FF46"
+      angle: 270
+  - elementId: "任意多边形: 形状 736"
+    elementType: shape
+    bounds: [31.2, 199.3, 255.3, 99.3]
+    shapeName: custom
+    viewBox:
+      - 2983134
+      - 990314
+    path: M119028,9493 L10633,116363 L13110,856932 L118552,965898 L2872230,980757 L2974623,871315 L2974623,282003 L2820128,142938 L2245580,142938 L2131375,9397 L119028,9397 M115123,-32 L2135851,-32 L2249961,133413 L2823747,133413 L2984053,277717 L2984053,875029 L2876230,990282 L114361,975423 L3395,860837 L918,112363 L115123,-32 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#0080FF45"
+        - position: 0.51
+          color: "#00062A00"
+        - position: 1
+          color: "#0099FF46"
+      angle: 270
+  - elementId: "任意多边形: 形状 733"
+    elementType: shape
+    bounds: [31.6, 199.8, 254.5, 98.3]
+    shapeName: custom
+    viewBox:
+      - 2973514
+      - 980789
+    path: M2869372,980757 L1562732,973708 L111599,965898 L3394,854170 L918,109600 L112170,-32 L2128708,-32 L2241484,131794 L2242912,133508 L2245103,133508 L2817080,133508 L2974433,275145 L2974433,868457 L2869372,980757 Z
+  - elementId: "任意多边形: 形状 734"
+    elementType: shape
+    bounds: [31.2, 199.3, 255.3, 99.3]
+    shapeName: custom
+    viewBox:
+      - 2983134
+      - 990314
+    path: M119028,9493 L10633,116363 L13110,856932 L118552,965898 L2872230,980757 L2974623,871315 L2974623,282003 L2820128,142938 L2245580,142938 L2131375,9397 L119028,9397 M115123,-32 L2135851,-32 L2249961,133413 L2823747,133413 L2984053,277717 L2984053,875029 L2876230,990282 L114361,975423 L3395,860837 L918,112363 L115123,-32 Z
+    fill:
+      type: solid
+      color: "#23B9FF"
+  - elementId: "任意多边形: 形状 690"
+    elementType: shape
+    bounds: [232.3, 199.3, 14.9, 11.6]
+    shapeName: custom
+    viewBox:
+      - 173736
+      - 115538
+    path: M0,0 L80200,0 L173736,115538 L93631,115538 L0,0 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#23B9FF"
+        - position: 0.54
+          color: "#58CAFF"
+        - position: 1
+          color: "#ABFFFB"
+      angle: 270
+  - elementId: "任意多边形: 形状 691"
+    elementType: shape
+    bounds: [220.1, 199.3, 14.9, 11.6]
+    shapeName: custom
+    viewBox:
+      - 173640
+      - 115538
+    path: M0,0 L80105,0 L173641,115538 L93535,115538 L0,0 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#23B9FF"
+        - position: 0.54
+          color: "#58CAFF"
+        - position: 1
+          color: "#ABFFFB"
+      angle: 270
+  - elementId: "任意多边形: 形状 692"
+    elementType: shape
+    bounds: [33.7, 202.4, 249.7, 93.1]
+    shapeName: custom
+    viewBox:
+      - 2917888
+      - 928496
+    path: M111538,0 L0,105442 L2477,807053 L110966,914495 L1532287,921830 L2812447,928497 L2917889,820484 L2917889,260414 L2761107,125159 L2199799,125159 L2088071,0 L111538,0 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#0080FF45"
+        - position: 0.51
+          color: "#23B9FF00"
+        - position: 1
+          color: "#0099FF46"
+      angle: 270
+  - elementId: "任意多边形: 形状 693"
+    elementType: shape
+    bounds: [244.6, 199.3, 14.9, 11.6]
+    shapeName: custom
+    viewBox:
+      - 173736
+      - 115538
+    path: M0,0 L80201,0 L173736,115538 L93631,115538 L0,0 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#23B9FF"
+        - position: 0.54
+          color: "#58CAFF"
+        - position: 1
+          color: "#ABFFFB"
+      angle: 270
+  - elementId: "任意多边形: 形状 694"
+    elementType: shape
+    bounds: [30.1, 268.6, 27.1, 30.2]
+    shapeName: custom
+    viewBox:
+      - 317087
+      - 301085
+    path: M302800,301085 L120587,301085 L0,180499 L0,14288 C0,6382 6382,0 14288,0 C22193,0 28575,6382 28575,14288 L28575,168688 L132398,272510 L302800,272510 C310706,272510 317087,278892 317087,286798 C317087,294608 310706,301085 302800,301085 L302800,301085 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.14
+          color: "#23B9FF"
+        - position: 0.8
+          color: "#23B9FF"
+        - position: 0.47
+          color: $lt1
+      angle: 225
+  - elementId: "任意多边形: 形状 695"
+    elementType: shape
+    bounds: [33.7, 202.4, 249.7, 93.1]
+    shapeName: custom
+    viewBox:
+      - 2917507
+      - 928306
+    path: M1727454,922782 L1750695,922782 L1750695,827532 L1655445,827532 L1655445,922401 L1645920,922306 L1645920,827437 L1550670,827437 L1550670,921734 L1541145,921639 L1541145,827342 L1445895,827342 L1445895,921163 L1436370,921068 L1436370,827342 L1341120,827342 L1341120,920591 L1331595,920496 L1331595,827246 L1236345,827246 L1236345,919925 L1226820,919829 L1226820,827151 L1131570,827151 L1131570,919353 L1122045,919258 L1122045,827151 L1026795,827151 L1026795,918782 L1017270,918686 L1017270,827151 L922020,827151 L922020,918210 L912495,918115 L912495,827056 L817245,827056 L817245,917639 L807720,917543 L807720,827056 L712470,827056 L712470,917067 L702945,916972 L702945,827056 L607695,827056 L607695,916496 L598170,916400 L598170,826961 L502920,826961 L502920,916400 L493395,916305 L493395,827437 L398145,827437 L398145,915829 L388620,915734 L388620,827437 L293370,827437 L293370,915257 L283845,915162 L283845,827342 L188595,827342 L188595,914686 L179070,914591 L179070,827342 L83820,827342 L83820,887825 L74295,878396 L74295,827342 L22669,827342 L13049,817817 L74295,817817 L74295,722567 L1714,722567 L1714,713042 L74390,713042 L74390,617792 L1333,617792 L1333,608267 L74390,608267 L74390,513017 L1048,513017 L1048,503492 L74486,503492 L74486,408242 L667,408242 L667,398717 L74390,398717 L74390,303467 L381,303467 L381,293942 L74486,293942 L74486,198692 L0,198692 L0,189167 L74486,189167 L74486,93917 L11620,93917 L21717,84392 L74486,84392 L74486,34576 L84011,25622 L84011,84487 L179261,84487 L179261,0 L188786,0 L188786,84582 L284035,84582 L284035,0 L293560,0 L293560,84582 L388810,84582 L388810,0 L398335,0 L398335,84582 L493585,84582 L493585,0 L503110,0 L503110,84582 L598361,84582 L598361,0 L607886,0 L607886,84582 L703136,84582 L703136,0 L712661,0 L712661,84582 L807911,84582 L807911,0 L817436,0 L817436,84582 L912686,84582 L912686,0 L922211,0 L922211,84582 L1017461,84582 L1017461,0 L1026986,0 L1026986,84582 L1122236,84582 L1122236,0 L1131761,0 L1131761,84582 L1227011,84582 L1227011,0 L1236536,0 L1236536,84582 L1331786,84582 L1331786,0 L1341311,0 L1341311,84582 L1436561,84582 L1436561,0 L1446086,0 L1446086,84582 L1541336,84582 L1541336,0 L1550861,0 L1550861,84582 L1646111,84582 L1646111,0 L1655636,0 L1655636,84582 L1750886,84582 L1750886,0 L1760411,0 L1760411,84582 L1855661,84582 L1855661,0 L1865186,0 L1865186,84582 L1960436,84582 L1960436,0 L1969961,0 L1969961,84582 L2065211,84582 L2065211,0 L2074736,0 L2074736,84582 L2163318,84582 L2179511,102775 L2179511,189357 L2274761,189357 L2274761,125159 L2284286,125159 L2284286,189357 L2379536,189357 L2379536,125159 L2389061,125159 L2389061,189357 L2484311,189357 L2484311,125159 L2493836,125159 L2493836,189357 L2589086,189357 L2589086,125159 L2598611,125159 L2598611,189357 L2693861,189357 L2693861,125159 L2703386,125159 L2703386,189357 L2798636,189357 L2798636,157829 L2808161,166021 L2808161,189357 L2835212,189357 L2846261,198882 L2808161,198882 L2808161,294132 L2903411,294132 L2903411,248221 L2912936,256413 L2912936,294132 L2917508,294132 L2917508,303657 L2912936,303657 L2912936,398907 L2917508,398907 L2917508,408432 L2912936,408432 L2912936,503682 L2917508,503682 L2917508,513207 L2912936,513207 L2912936,608457 L2917508,608457 L2917508,617982 L2912936,617982 L2912936,713232 L2917508,713232 L2917508,722757 L2912936,722757 L2912936,818007 L2917508,818007 L2917508,820293 L2903411,834771 L2903411,827437 L2808161,827437 L2808161,922687 L2817590,922687 L2812161,928307 L1727454,922782 Z M2703195,922782 L2798445,922782 L2798445,827532 L2703195,827532 L2703195,922782 Z M2598420,922782 L2693670,922782 L2693670,827532 L2598420,827532 L2598420,922782 Z M2493645,922782 L2588895,922782 L2588895,827532 L2493645,827532 L2493645,922782 Z M2388870,922782 L2484120,922782 L2484120,827532 L2388870,827532 L2388870,922782 Z M2284095,922782 L2379345,922782 L2379345,827532 L2284095,827532 L2284095,922782 Z M2179320,922782 L2274570,922782 L2274570,827532 L2179320,827532 L2179320,922782 Z M2074545,922782 L2169795,922782 L2169795,827532 L2074545,827532 L2074545,922782 Z M1969770,922782 L2065020,922782 L2065020,827532 L1969770,827532 L1969770,922782 Z M1864995,922782 L1960245,922782 L1960245,827532 L1864995,827532 L1864995,922782 Z M1760220,922782 L1855470,922782 L1855470,827532 L1760220,827532 L1760220,922782 Z M2807970,818007 L2903220,818007 L2903220,722757 L2807970,722757 L2807970,818007 Z M2703195,818007 L2798445,818007 L2798445,722757 L2703195,722757 L2703195,818007 Z M2598420,818007 L2693670,818007 L2693670,722757 L2598420,722757 L2598420,818007 Z M2493645,818007 L2588895,818007 L2588895,722757 L2493645,722757 L2493645,818007 Z M2388870,818007 L2484120,818007 L2484120,722757 L2388870,722757 L2388870,818007 Z M2284095,818007 L2379345,818007 L2379345,722757 L2284095,722757 L2284095,818007 Z M2179320,818007 L2274570,818007 L2274570,722757 L2179320,722757 L2179320,818007 Z M2074545,818007 L2169795,818007 L2169795,722757 L2074545,722757 L2074545,818007 Z M1969770,818007 L2065020,818007 L2065020,722757 L1969770,722757 L1969770,818007 Z M1864995,818007 L1960245,818007 L1960245,722757 L1864995,722757 L1864995,818007 Z M1760220,818007 L1855470,818007 L1855470,722757 L1760220,722757 L1760220,818007 Z M1655445,818007 L1750695,818007 L1750695,722757 L1655445,722757 L1655445,818007 Z M1550670,818007 L1645920,818007 L1645920,722757 L1550670,722757 L1550670,818007 Z M1445895,818007 L1541145,818007 L1541145,722757 L1445895,722757 L1445895,818007 Z M1341120,818007 L1436370,818007 L1436370,722757 L1341120,722757 L1341120,818007 Z M1236345,818007 L1331595,818007 L1331595,722757 L1236345,722757 L1236345,818007 Z M1131570,818007 L1226820,818007 L1226820,722757 L1131570,722757 L1131570,818007 Z M1026795,818007 L1122045,818007 L1122045,722757 L1026795,722757 L1026795,818007 Z M922020,818007 L1017270,818007 L1017270,722757 L922020,722757 L922020,818007 Z M817245,818007 L912495,818007 L912495,722757 L817245,722757 L817245,818007 Z M712470,818007 L807720,818007 L807720,722757 L712470,722757 L712470,818007 Z M607695,818007 L702945,818007 L702945,722757 L607695,722757 L607695,818007 Z M502920,818007 L598170,818007 L598170,722757 L502920,722757 L502920,818007 Z M398145,818007 L493395,818007 L493395,722757 L398145,722757 L398145,818007 Z M293370,818007 L388620,818007 L388620,722757 L293370,722757 L293370,818007 Z M188595,818007 L283845,818007 L283845,722757 L188595,722757 L188595,818007 Z M83820,818007 L179070,818007 L179070,722757 L83820,722757 L83820,818007 Z M2807970,713232 L2903220,713232 L2903220,617982 L2807970,617982 L2807970,713232 Z M2703195,713232 L2798445,713232 L2798445,617982 L2703195,617982 L2703195,713232 Z M2598420,713232 L2693670,713232 L2693670,617982 L2598420,617982 L2598420,713232 Z M2493645,713232 L2588895,713232 L2588895,617982 L2493645,617982 L2493645,713232 Z M2388870,713232 L2484120,713232 L2484120,617982 L2388870,617982 L2388870,713232 Z M2284095,713232 L2379345,713232 L2379345,617982 L2284095,617982 L2284095,713232 Z M2179320,713232 L2274570,713232 L2274570,617982 L2179320,617982 L2179320,713232 Z M2074545,713232 L2169795,713232 L2169795,617982 L2074545,617982 L2074545,713232 Z M1969770,713232 L2065020,713232 L2065020,617982 L1969770,617982 L1969770,713232 Z M1864995,713232 L1960245,713232 L1960245,617982 L1864995,617982 L1864995,713232 Z M1760220,713232 L1855470,713232 L1855470,617982 L1760220,617982 L1760220,713232 Z M1655445,713232 L1750695,713232 L1750695,617982 L1655445,617982 L1655445,713232 Z M1550670,713232 L1645920,713232 L1645920,617982 L1550670,617982 L1550670,713232 Z M1445895,713232 L1541145,713232 L1541145,617982 L1445895,617982 L1445895,713232 Z M1341120,713232 L1436370,713232 L1436370,617982 L1341120,617982 L1341120,713232 Z M1236345,713232 L1331595,713232 L1331595,617982 L1236345,617982 L1236345,713232 Z M1131570,713232 L1226820,713232 L1226820,617982 L1131570,617982 L1131570,713232 Z M1026795,713232 L1122045,713232 L1122045,617982 L1026795,617982 L1026795,713232 Z M922020,713232 L1017270,713232 L1017270,617982 L922020,617982 L922020,713232 Z M817245,713232 L912495,713232 L912495,617982 L817245,617982 L817245,713232 Z M712470,713232 L807720,713232 L807720,617982 L712470,617982 L712470,713232 Z M607695,713232 L702945,713232 L702945,617982 L607695,617982 L607695,713232 Z M502920,713232 L598170,713232 L598170,617982 L502920,617982 L502920,713232 Z M398145,713232 L493395,713232 L493395,617982 L398145,617982 L398145,713232 Z M293370,713232 L388620,713232 L388620,617982 L293370,617982 L293370,713232 Z M188595,713232 L283845,713232 L283845,617982 L188595,617982 L188595,713232 Z M83820,713232 L179070,713232 L179070,617982 L83820,617982 L83820,713232 Z M2807970,608457 L2903220,608457 L2903220,513207 L2807970,513207 L2807970,608457 Z M2703195,608457 L2798445,608457 L2798445,513207 L2703195,513207 L2703195,608457 Z M2598420,608457 L2693670,608457 L2693670,513207 L2598420,513207 L2598420,608457 Z M2493645,608457 L2588895,608457 L2588895,513207 L2493645,513207 L2493645,608457 Z M2388870,608457 L2484120,608457 L2484120,513207 L2388870,513207 L2388870,608457 Z M2284095,608457 L2379345,608457 L2379345,513207 L2284095,513207 L2284095,608457 Z M2179320,608457 L2274570,608457 L2274570,513207 L2179320,513207 L2179320,608457 Z M2074545,608457 L2169795,608457 L2169795,513207 L2074545,513207 L2074545,608457 Z M1969770,608457 L2065020,608457 L2065020,513207 L1969770,513207 L1969770,608457 Z M1864995,608457 L1960245,608457 L1960245,513207 L1864995,513207 L1864995,608457 Z M1760220,608457 L1855470,608457 L1855470,513207 L1760220,513207 L1760220,608457 Z M1655445,608457 L1750695,608457 L1750695,513207 L1655445,513207 L1655445,608457 Z M1550670,608457 L1645920,608457 L1645920,513207 L1550670,513207 L1550670,608457 Z M1445895,608457 L1541145,608457 L1541145,513207 L1445895,513207 L1445895,608457 Z M1341120,608457 L1436370,608457 L1436370,513207 L1341120,513207 L1341120,608457 Z M1236345,608457 L1331595,608457 L1331595,513207 L1236345,513207 L1236345,608457 Z M1131570,608457 L1226820,608457 L1226820,513207 L1131570,513207 L1131570,608457 Z M1026795,608457 L1122045,608457 L1122045,513207 L1026795,513207 L1026795,608457 Z M922020,608457 L1017270,608457 L1017270,513207 L922020,513207 L922020,608457 Z M817245,608457 L912495,608457 L912495,513207 L817245,513207 L817245,608457 Z M712470,608457 L807720,608457 L807720,513207 L712470,513207 L712470,608457 Z M607695,608457 L702945,608457 L702945,513207 L607695,513207 L607695,608457 Z M502920,608457 L598170,608457 L598170,513207 L502920,513207 L502920,608457 Z M398145,608457 L493395,608457 L493395,513207 L398145,513207 L398145,608457 Z M293370,608457 L388620,608457 L388620,513207 L293370,513207 L293370,608457 Z M188595,608457 L283845,608457 L283845,513207 L188595,513207 L188595,608457 Z M83820,608457 L179070,608457 L179070,513207 L83820,513207 L83820,608457 Z M2807970,503682 L2903220,503682 L2903220,408432 L2807970,408432 L2807970,503682 Z M2703195,503682 L2798445,503682 L2798445,408432 L2703195,408432 L2703195,503682 Z M2598420,503682 L2693670,503682 L2693670,408432 L2598420,408432 L2598420,503682 Z M2493645,503682 L2588895,503682 L2588895,408432 L2493645,408432 L2493645,503682 Z M2388870,503682 L2484120,503682 L2484120,408432 L2388870,408432 L2388870,503682 Z M2284095,503682 L2379345,503682 L2379345,408432 L2284095,408432 L2284095,503682 Z M2179320,503682 L2274570,503682 L2274570,408432 L2179320,408432 L2179320,503682 Z M2074545,503682 L2169795,503682 L2169795,408432 L2074545,408432 L2074545,503682 Z M1969770,503682 L2065020,503682 L2065020,408432 L1969770,408432 L1969770,503682 Z M1864995,503682 L1960245,503682 L1960245,408432 L1864995,408432 L1864995,503682 Z M1760220,503682 L1855470,503682 L1855470,408432 L1760220,408432 L1760220,503682 Z M1655445,503682 L1750695,503682 L1750695,408432 L1655445,408432 L1655445,503682 Z M1550670,503682 L1645920,503682 L1645920,408432 L1550670,408432 L1550670,503682 Z M1445895,503682 L1541145,503682 L1541145,408432 L1445895,408432 L1445895,503682 Z M1341120,503682 L1436370,503682 L1436370,408432 L1341120,408432 L1341120,503682 Z M1236345,503682 L1331595,503682 L1331595,408432 L1236345,408432 L1236345,503682 Z M1131570,503682 L1226820,503682 L1226820,408432 L1131570,408432 L1131570,503682 Z M1026795,503682 L1122045,503682 L1122045,408432 L1026795,408432 L1026795,503682 Z M922020,503682 L1017270,503682 L1017270,408432 L922020,408432 L922020,503682 Z M817245,503682 L912495,503682 L912495,408432 L817245,408432 L817245,503682 Z M712470,503682 L807720,503682 L807720,408432 L712470,408432 L712470,503682 Z M607695,503682 L702945,503682 L702945,408432 L607695,408432 L607695,503682 Z M502920,503682 L598170,503682 L598170,408432 L502920,408432 L502920,503682 Z M398145,503682 L493395,503682 L493395,408432 L398145,408432 L398145,503682 Z M293370,503682 L388620,503682 L388620,408432 L293370,408432 L293370,503682 Z M188595,503682 L283845,503682 L283845,408432 L188595,408432 L188595,503682 Z M83820,503682 L179070,503682 L179070,408432 L83820,408432 L83820,503682 Z M2807970,398907 L2903220,398907 L2903220,303657 L2807970,303657 L2807970,398907 Z M2703195,398907 L2798445,398907 L2798445,303657 L2703195,303657 L2703195,398907 Z M2598420,398907 L2693670,398907 L2693670,303657 L2598420,303657 L2598420,398907 Z M2493645,398907 L2588895,398907 L2588895,303657 L2493645,303657 L2493645,398907 Z M2388870,398907 L2484120,398907 L2484120,303657 L2388870,303657 L2388870,398907 Z M2284095,398907 L2379345,398907 L2379345,303657 L2284095,303657 L2284095,398907 Z M2179320,398907 L2274570,398907 L2274570,303657 L2179320,303657 L2179320,398907 Z M2074545,398907 L2169795,398907 L2169795,303657 L2074545,303657 L2074545,398907 Z M1969770,398907 L2065020,398907 L2065020,303657 L1969770,303657 L1969770,398907 Z M1864995,398907 L1960245,398907 L1960245,303657 L1864995,303657 L1864995,398907 Z M1760220,398907 L1855470,398907 L1855470,303657 L1760220,303657 L1760220,398907 Z M1655445,398907 L1750695,398907 L1750695,303657 L1655445,303657 L1655445,398907 Z M1550670,398907 L1645920,398907 L1645920,303657 L1550670,303657 L1550670,398907 Z M1445895,398907 L1541145,398907 L1541145,303657 L1445895,303657 L1445895,398907 Z M1341120,398907 L1436370,398907 L1436370,303657 L1341120,303657 L1341120,398907 Z M1236345,398907 L1331595,398907 L1331595,303657 L1236345,303657 L1236345,398907 Z M1131570,398907 L1226820,398907 L1226820,303657 L1131570,303657 L1131570,398907 Z M1026795,398907 L1122045,398907 L1122045,303657 L1026795,303657 L1026795,398907 Z M922020,398907 L1017270,398907 L1017270,303657 L922020,303657 L922020,398907 Z M817245,398907 L912495,398907 L912495,303657 L817245,303657 L817245,398907 Z M712470,398907 L807720,398907 L807720,303657 L712470,303657 L712470,398907 Z M607695,398907 L702945,398907 L702945,303657 L607695,303657 L607695,398907 Z M502920,398907 L598170,398907 L598170,303657 L502920,303657 L502920,398907 Z M398145,398907 L493395,398907 L493395,303657 L398145,303657 L398145,398907 Z M293370,398907 L388620,398907 L388620,303657 L293370,303657 L293370,398907 Z M188595,398907 L283845,398907 L283845,303657 L188595,303657 L188595,398907 Z M83820,398907 L179070,398907 L179070,303657 L83820,303657 L83820,398907 Z M2703195,294132 L2798445,294132 L2798445,198882 L2703195,198882 L2703195,294132 Z M2598420,294132 L2693670,294132 L2693670,198882 L2598420,198882 L2598420,294132 Z M2493645,294132 L2588895,294132 L2588895,198882 L2493645,198882 L2493645,294132 Z M2388870,294132 L2484120,294132 L2484120,198882 L2388870,198882 L2388870,294132 Z M2284095,294132 L2379345,294132 L2379345,198882 L2284095,198882 L2284095,294132 Z M2179320,294132 L2274570,294132 L2274570,198882 L2179320,198882 L2179320,294132 Z M2074545,294132 L2169795,294132 L2169795,198882 L2074545,198882 L2074545,294132 Z M1969770,294132 L2065020,294132 L2065020,198882 L1969770,198882 L1969770,294132 Z M1864995,294132 L1960245,294132 L1960245,198882 L1864995,198882 L1864995,294132 Z M1760220,294132 L1855470,294132 L1855470,198882 L1760220,198882 L1760220,294132 Z M1655445,294132 L1750695,294132 L1750695,198882 L1655445,198882 L1655445,294132 Z M1550670,294132 L1645920,294132 L1645920,198882 L1550670,198882 L1550670,294132 Z M1445895,294132 L1541145,294132 L1541145,198882 L1445895,198882 L1445895,294132 Z M1341120,294132 L1436370,294132 L1436370,198882 L1341120,198882 L1341120,294132 Z M1236345,294132 L1331595,294132 L1331595,198882 L1236345,198882 L1236345,294132 Z M1131570,294132 L1226820,294132 L1226820,198882 L1131570,198882 L1131570,294132 Z M1026795,294132 L1122045,294132 L1122045,198882 L1026795,198882 L1026795,294132 Z M922020,294132 L1017270,294132 L1017270,198882 L922020,198882 L922020,294132 Z M817245,294132 L912495,294132 L912495,198882 L817245,198882 L817245,294132 Z M712470,294132 L807720,294132 L807720,198882 L712470,198882 L712470,294132 Z M607695,294132 L702945,294132 L702945,198882 L607695,198882 L607695,294132 Z M502920,294132 L598170,294132 L598170,198882 L502920,198882 L502920,294132 Z M398145,294132 L493395,294132 L493395,198882 L398145,198882 L398145,294132 Z M293370,294132 L388620,294132 L388620,198882 L293370,198882 L293370,294132 Z M188595,294132 L283845,294132 L283845,198882 L188595,198882 L188595,294132 Z M83820,294132 L179070,294132 L179070,198882 L83820,198882 L83820,294132 Z M2074545,189357 L2169795,189357 L2169795,94107 L2074545,94107 L2074545,189357 Z M1969770,189357 L2065020,189357 L2065020,94107 L1969770,94107 L1969770,189357 Z M1864995,189357 L1960245,189357 L1960245,94107 L1864995,94107 L1864995,189357 Z M1760220,189357 L1855470,189357 L1855470,94107 L1760220,94107 L1760220,189357 Z M1655445,189357 L1750695,189357 L1750695,94107 L1655445,94107 L1655445,189357 Z M1550670,189357 L1645920,189357 L1645920,94107 L1550670,94107 L1550670,189357 Z M1445895,189357 L1541145,189357 L1541145,94107 L1445895,94107 L1445895,189357 Z M1341120,189357 L1436370,189357 L1436370,94107 L1341120,94107 L1341120,189357 Z M1236345,189357 L1331595,189357 L1331595,94107 L1236345,94107 L1236345,189357 Z M1131570,189357 L1226820,189357 L1226820,94107 L1131570,94107 L1131570,189357 Z M1026795,189357 L1122045,189357 L1122045,94107 L1026795,94107 L1026795,189357 Z M922020,189357 L1017270,189357 L1017270,94107 L922020,94107 L922020,189357 Z M817245,189357 L912495,189357 L912495,94107 L817245,94107 L817245,189357 Z M712470,189357 L807720,189357 L807720,94107 L712470,94107 L712470,189357 Z M607695,189357 L702945,189357 L702945,94107 L607695,94107 L607695,189357 Z M502920,189357 L598170,189357 L598170,94107 L502920,94107 L502920,189357 Z M398145,189357 L493395,189357 L493395,94107 L398145,94107 L398145,189357 Z M293370,189357 L388620,189357 L388620,94107 L293370,94107 L293370,189357 Z M188595,189357 L283845,189357 L283845,94107 L188595,94107 L188595,189357 Z M83820,189357 L179070,189357 L179070,94107 L83820,94107 L83820,189357 Z
+    fill:
+      type: solid
+      color: "#9DE8FF0F"
+  - elementId: "任意多边形: 形状 696"
+    elementType: shape
+    bounds: [260.9, 268.6, 27.1, 30.2]
+    shapeName: custom
+    viewBox:
+      - 317087
+      - 301085
+    path: M14288,301085 L196501,301085 L317087,180499 L317087,14288 C317087,6382 310705,0 302800,0 C294894,0 288512,6382 288512,14288 L288512,168688 L184690,272510 L14288,272510 C6382,272510 0,278892 0,286798 C0,294608 6382,301085 14288,301085 L14288,301085 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.14
+          color: "#23B9FF"
+        - position: 0.8
+          color: "#23B9FF"
+        - position: 0.47
+          color: $lt1
+      angle: 315
+  - elementId: "任意多边形: 形状 697"
+    elementType: shape
+    bounds: [30.1, 197.4, 27.1, 30.2]
+    shapeName: custom
+    viewBox:
+      - 317087
+      - 301085
+    path: M302800,0 L120587,0 L0,120587 L0,286798 C0,294704 6382,301085 14288,301085 C22193,301085 28575,294704 28575,286798 L28575,286798 L28575,132398 L132398,28575 L302800,28575 C310706,28575 317087,22193 317087,14288 C317087,6382 310706,0 302800,0 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.14
+          color: "#23B9FF"
+        - position: 0.8
+          color: "#23B9FF"
+        - position: 0.47
+          color: $lt1
+      angle: 315
+  - elementId: "任意多边形: 形状 698"
+    elementType: shape
+    bounds: [47.2, 251.2, 67.2, 35.6]
+    shapeName: custom
+    viewBox:
+      - 785050
+      - 354806
+    path: M393632,349730 L774632,183710 L393536,5306 L12345,183710 L393632,349730 M393632,354779 L916,183710 L393536,-28 L785966,183710 L393632,354779 Z
+    fill:
+      type: solid
+      color: "#55B6FF78"
+  - elementId: "任意多边形: 形状 699"
+    elementType: shape
+    bounds: [60.6, 216.3, 19.6, 41.5]
+    shapeName: custom
+    viewBox:
+      - 229456
+      - 414146
+    path: M230373,-28 L230373,308868 L916,414119 L916,99604 L230373,-28 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.76
+          color: "#FFFFFF00"
+        - position: 0
+          color: "#2F57F978"
+      angle: 270
+  - elementId: "任意多边形: 形状 700"
+    elementType: shape
+    bounds: [80.3, 216.3, 19.6, 41.4]
+    shapeName: custom
+    viewBox:
+      - 229457
+      - 412813
+    path: M916,-28 L916,307535 L230373,412786 L230373,99604 L916,-28 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.78
+          color: "#FFFFFF00"
+        - position: 0
+          color: "#2F57F978"
+      angle: 270
+  - elementId: "任意多边形: 形状 729"
+    elementType: shape
+    bounds: [56.2, 250, 48.1, 25.4]
+    shapeName: custom
+    viewBox:
+      - 561499
+      - 253650
+    path: M278945,253636 L-1853,131335 L278945,-15 L559646,131335 L278945,253636 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#1D70B8"
+        - position: 0.33
+          color: "#195BA4"
+        - position: 1
+          color: "#060251"
+      angle: 0
+  - elementId: "任意多边形: 形状 730"
+    elementType: shape
+    bounds: [55.7, 249.8, 49.1, 26]
+    shapeName: custom
+    viewBox:
+      - 573119
+      - 258984
+    path: M284755,253731 L559646,133907 L284755,5224 L9768,133907 L284755,253731 M284755,258970 L-1853,134097 L284755,-15 L571266,134097 L284755,258970 Z
+    fill:
+      type: solid
+      color: "#55B6FF"
+  - elementId: "任意多边形: 形状 702"
+    elementType: shape
+    bounds: [55.9, 263.3, 24.4, 16.4]
+    shapeName: custom
+    viewBox:
+      - 284892
+      - 163925
+    path: M916,-28 L916,33310 L285808,163898 L285808,123607 L916,-28 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.41
+          color: "#0080FF"
+        - position: 1
+          color: "#00FFF4"
+      angle: 0
+  - elementId: "任意多边形: 形状 703"
+    elementType: shape
+    bounds: [60.6, 257.8, 19.6, 13.2]
+    shapeName: custom
+    viewBox:
+      - 229456
+      - 132111
+    path: M916,-28 L916,26833 L230373,132084 L230373,99604 L916,-28 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.41
+          color: "#0080FF"
+        - position: 1
+          color: "#00FFF4"
+      angle: 0
+  - elementId: "任意多边形: 形状 704"
+    elementType: shape
+    bounds: [60.5, 246.9, 39.5, 20.8]
+    shapeName: custom
+    viewBox:
+      - 461486
+      - 207359
+    path: M231707,207332 L916,107986 L231707,-28 L462402,107986 L231707,207332 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#1B3389"
+        - position: 1
+          color: "#2874C4"
+      angle: 180
+  - elementId: "任意多边形: 形状 705"
+    elementType: shape
+    bounds: [65.7, 252.8, 14.6, 9.9]
+    shapeName: custom
+    viewBox:
+      - 170687
+      - 98297
+    path: M916,-28 L916,19975 L171604,98270 L171604,74077 L916,-28 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#1C6EC2"
+        - position: 1
+          color: "#11ADE9"
+      angle: 270
+  - elementId: "任意多边形: 形状 706"
+    elementType: shape
+    bounds: [80.3, 263.3, 24.4, 16.4]
+    shapeName: custom
+    viewBox:
+      - 284893
+      - 163925
+    path: M285809,-28 L285809,33310 L916,163898 L916,123607 L285809,-28 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#00FFF4"
+        - position: 0.62
+          color: "#1094E6"
+      angle: 0
+  - elementId: "任意多边形: 形状 707"
+    elementType: shape
+    bounds: [80.3, 257.8, 19.6, 13.2]
+    shapeName: custom
+    viewBox:
+      - 229457
+      - 132111
+    path: M230373,-28 L230373,26833 L916,132084 L916,99604 L230373,-28 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#00FFF4"
+        - position: 0.62
+          color: "#1094E6"
+      angle: 0
+  - elementId: "任意多边形: 形状 708"
+    elementType: shape
+    bounds: [80.3, 252.8, 14.6, 9.9]
+    shapeName: custom
+    viewBox:
+      - 170687
+      - 98297
+    path: M171604,-28 L171604,19975 L916,98270 L916,74077 L171604,-28 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#1C6EC2"
+        - position: 1
+          color: "#11ADE9"
+      angle: 270
+  - elementId: "任意多边形: 形状 709"
+    elementType: shape
+    bounds: [65.6, 244.8, 29.4, 15.5]
+    shapeName: custom
+    viewBox:
+      - 343376
+      - 154209
+    path: M172651,154182 L916,80268 L172651,-28 L344292,80268 L172651,154182 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#1B3389"
+        - position: 1
+          color: "#2874C4"
+      angle: 270
+  - elementId: "任意多边形: 形状 710"
+    elementType: shape
+    bounds: [70, 225.1, 15, 27.7]
+    shapeName: custom
+    viewBox:
+      - 175069
+      - 276606
+    path: M916,-28 L916,190568 L175986,276578 L175986,81983 L916,-28 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#00FFF4"
+        - position: 1
+          color: "#2F57F9"
+      angle: 225
+  - elementId: "任意多边形: 形状 711"
+    elementType: shape
+    bounds: [70, 223.4, 18.6, 10.1]
+    shapeName: custom
+    viewBox:
+      - 217360
+      - 100583
+    path: M175986,100556 L218277,81697 L42350,-28 L916,18546 L175986,100556 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#004191"
+        - position: 1
+          color: "#2F57F9"
+      angle: 225
+  - elementId: "任意多边形: 形状 712"
+    elementType: shape
+    bounds: [84.9, 231.6, 3.6, 21.2]
+    shapeName: custom
+    viewBox:
+      - 42100
+      - 211454
+    path: M916,211427 L916,19022 L43017,-28 L42350,193139 L916,211427 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#004191"
+        - position: 1
+          color: "#2F57F9"
+      angle: 225
+  - elementId: "任意多边形: 形状 713"
+    elementType: shape
+    bounds: [55.7, 262.9, 49, 12.8]
+    shapeName: custom
+    viewBox:
+      - 573024
+      - 127635
+    path: M287523,127607 L916,2830 L6917,-28 L287523,122178 L567940,-28 L573940,2830 L287523,127607 Z
+    fill:
+      type: solid
+      color: $lt1
+  - elementId: "任意多边形: 形状 714"
+    elementType: shape
+    bounds: [60.8, 258, 39.2, 9.9]
+    shapeName: custom
+    viewBox:
+      - 458533
+      - 98964
+    path: M230183,98937 L916,2163 L5774,-28 L230278,94746 L454592,-28 L459449,2163 L230183,98937 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#ABFFFB"
+        - position: 1
+          color: $lt1
+      angle: 270
+  - elementId: "任意多边形: 形状 715"
+    elementType: shape
+    bounds: [70, 225.1, 15, 27.7]
+    shapeName: custom
+    viewBox:
+      - 175069
+      - 276510
+    path: M175986,276483 L175986,276483 L171318,274197 L171318,86650 L916,6830 L916,-28 L175986,81983 L175986,276483 L175986,276483 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#00FFF4"
+        - position: 0
+          color: "#2F57F978"
+      angle: 270
+  - elementId: "任意多边形: 形状 716"
+    elementType: shape
+    bounds: [60.6, 226.7, 19.6, 41.4]
+    shapeName: custom
+    viewBox:
+      - 229456
+      - 412813
+    path: M916,-28 L916,307535 L230373,412786 L230373,99604 L916,-28 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.84
+          color: "#FFFFFF00"
+        - position: 0
+          color: "#2F57F978"
+      angle: 270
+  - elementId: "任意多边形: 形状 717"
+    elementType: shape
+    bounds: [80.3, 226.7, 19.6, 41.5]
+    shapeName: custom
+    viewBox:
+      - 229457
+      - 414146
+    path: M230373,-28 L230373,308868 L916,414119 L916,99604 L230373,-28 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.84
+          color: "#FFFFFF00"
+        - position: 0
+          color: "#2F57F978"
+      angle: 270
+  - elementId: "任意多边形: 形状 718"
+    elementType: shape
+    bounds: [49.3, 226.2, 59.9, 25.5]
+    shapeName: custom
+    viewBox:
+      - 700355
+      - 254752
+    path: M329424,33341 C284085,43724 239508,56678 195694,72299 C159403,85062 124161,100588 90252,118781 C31387,151070 812,183170 6336,206982 C11861,230795 53390,246225 120446,249464 C158927,250892 197408,249464 235699,244987 C281895,239843 327710,231938 372954,221460 C418293,211078 462870,198124 506685,182503 C542975,169739 578313,154214 612222,136021 C671086,103731 701662,71632 696137,47819 C690613,24007 648989,8576 581932,5338 C543451,3909 504970,5338 466680,9815 C420483,14958 374668,22769 329424,33341 M328281,28769 C521258,-15808 687945,-7711 700519,46676 C713092,101159 566788,181455 373811,225937 C180835,270419 14242,262513 1669,208030 C-10904,153547 135400,73346 328281,28769 L328281,28769 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: $lt1
+        - position: 1
+          color: "#FFFFFF00"
+        - position: 0.66
+          color: "#00FFF4"
+        - position: 0.3
+          color: "#FFFFFF00"
+      angle: 45
+  - elementId: "任意多边形: 形状 719"
+    elementType: shape
+    bounds: [103, 235.6, 3.5, 4.1]
+    shapeName: custom
+    viewBox:
+      - 40576
+      - 40576
+    path: M41492,20261 C41492,31465 32409,40549 21204,40549 C9999,40549 916,31465 916,20261 C916,9056 9999,-28 21204,-28 C32409,-28 41492,9056 41492,20261 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: $lt1
+        - position: 0.97
+          color: "#6582FB"
+      angle: 45
+  - elementId: "任意多边形: 形状 720"
+    elementType: shape
+    bounds: [46.8, 267, 6, 5.2]
+    shapeName: custom
+    viewBox:
+      - 69913
+      - 51911
+    path: M66675,2667 L56102,0 L0,25908 L57341,51911 L69913,47720 L17907,24289 L66675,2667 Z
+    fill:
+      type: solid
+      color: "#0BF9FE"
+  - elementId: "任意多边形: 形状 721"
+    elementType: shape
+    bounds: [108.8, 266.9, 6, 5.2]
+    shapeName: custom
+    viewBox:
+      - 69913
+      - 51911
+    path: M3239,2667 L13811,0 L69914,25908 L12573,51911 L0,47720 L52006,24289 L3239,2667 Z
+    fill:
+      type: solid
+      color: "#0BF9FE"
+  - elementId: "任意多边形: 形状 722"
+    elementType: shape
+    bounds: [74.4, 283.5, 13.1, 4]
+    shapeName: custom
+    viewBox:
+      - 153257
+      - 40386
+    path: M14573,4000 L0,9049 L75057,40386 L153257,5429 L141446,0 L75057,29051 L14573,4000 Z
+    fill:
+      type: solid
+      color: "#0BF9FE"
+  - elementId: "任意多边形: 形状 723"
+    elementType: shape
+    bounds: [61.2, 199.3, 145.5, 1.2]
+    shapeName: custom
+    viewBox:
+      - 1700021
+      - 11906
+    path: M0,0 L1700022,0 L1700022,11906 L0,11906 L0,0 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.14
+          color: "#23B9FF"
+        - position: 0.8
+          color: "#23B9FF"
+        - position: 0.47
+          color: $lt1
+      angle: 315
+  - elementId: "任意多边形: 形状 724"
+    elementType: shape
+    bounds: [61.2, 296.4, 145.5, 1.2]
+    shapeName: custom
+    viewBox:
+      - 1700021
+      - 11906
+    path: M0,0 L1700022,0 L1700022,11906 L0,11906 L0,0 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.14
+          color: "#23B9FF"
+        - position: 0.8
+          color: "#23B9FF"
+        - position: 0.47
+          color: $lt1
+      angle: 315
+  - elementId: "任意多边形: 形状 726"
+    elementType: shape
+    bounds: [73, 230.9, 8.5, 16.1]
+    rotation: -4.012166666666666
+    shapeName: custom
+    viewBox:
+      - 99315
+      - 160160
+    path: M99273,58021 C99845,61832 99940,65739 100322,69551 C99940,80033 97749,90420 93841,100140 C89268,111575 83264,122534 76117,132540 C70114,141211 63538,149407 56773,157316 C55153,159603 52389,160747 49626,160270 C46767,159317 44385,157316 43051,154648 C40287,150169 37428,145690 34760,141211 C27136,128823 20276,115959 14177,102713 C8936,91564 5124,79843 2647,67740 C-4310,34578 11509,4561 38000,654 C42384,-13 46862,82 51150,940 C72973,5038 92698,26097 98511,53828 C98797,55257 99083,56591 99273,58021 Z M50198,86704 C62299,88991 72306,78985 72496,64405 C73258,50302 64301,37533 50865,33244 L50579,33244 C38476,30957 28375,40868 28090,55543 C27327,69646 36285,82416 49721,86609 L49912,86609 L50198,86704
+    fill:
+      type: solid
+      color: "#013D9E"
+  - elementId: "任意多边形: 形状 727"
+    elementType: shape
+    bounds: [72.9, 234.2, 5, 6.3]
+    rotation: -4.012166666666666
+    shapeName: custom
+    viewBox:
+      - 58796
+      - 62607
+    path: M58372,53104 L58086,53199 L57419,53390 C56943,53485 56466,53485 56085,53581 L55704,53581 L54846,53676 L53703,53676 L53321,53676 L52655,53581 L52273,53581 L51606,53485 L51034,53390 L50844,53390 L50653,53390 C50367,53295 49986,53295 49700,53199 L49224,53104 L48557,52818 L48080,52628 L47509,52437 L47032,52246 L46461,52056 L45984,51865 L45412,51579 L44936,51389 L44364,51103 L43887,50817 L43411,50531 L42839,50245 L42363,49960 L41791,49578 L41315,49292 L40743,48816 L40362,48530 L39599,47863 L39314,47577 C38933,47196 38551,46910 38170,46529 L37979,46338 C37598,45862 37122,45481 36740,45004 L36645,44814 C36360,44432 36073,44051 35788,43670 L35597,43480 C35406,43194 35121,42813 34930,42527 L34740,42241 C34454,41764 34168,41288 33882,40811 L33786,40621 C33501,40144 33215,39572 32929,39001 L32738,38620 C32452,38048 32167,37476 31976,36904 L31976,36904 C31690,36333 31499,35761 31309,35189 L31119,34713 C31023,34427 30928,34141 30832,33855 L30642,33378 C30547,33093 30451,32711 30356,32425 L30261,32044 C30070,31377 29975,30806 29784,30139 L29689,29662 C29594,29186 29498,28804 29498,28328 C29498,28233 29498,28137 29403,27947 C29308,27470 29308,26898 29213,26422 C29213,26327 29213,26136 29213,26041 C29213,25660 29117,25374 29117,24993 C29117,24612 29117,24612 29117,24326 C29117,24135 29117,23849 29117,23563 C29117,23182 29117,22706 29117,22324 C29117,21657 29213,21086 29213,20514 C29213,20419 29213,20228 29213,20133 C29308,19561 29308,18989 29403,18417 L29403,18322 C29498,17750 29594,17274 29689,16702 L29784,16321 C29880,15749 30070,15273 30165,14701 L30261,14415 C30356,13939 30547,13557 30642,13081 L30737,12700 C30928,12223 31119,11747 31309,11175 L31404,11080 C31595,10603 31786,10222 32071,9746 C32167,9555 32262,9365 32357,9174 C32452,8983 32643,8602 32738,8316 C32929,8030 33024,7840 33215,7554 C33405,7268 33501,7173 33691,6982 C34073,6411 34454,5934 34930,5458 L34930,5458 L34930,5458 C35216,5076 35597,4791 35883,4409 L36264,4028 C36550,3742 36836,3552 37027,3361 L37408,3075 C37789,2789 38170,2503 38551,2218 L38551,2218 C38933,1932 39314,1741 39790,1551 L40171,1360 C40457,1169 40743,1074 41124,884 L41505,693 C41887,502 42363,312 42839,217 L42839,217 L15014,8983 C14538,9079 14156,9269 13680,9460 L13299,9650 C13013,9746 12632,9936 12345,10127 L11965,10318 C11583,10508 11107,10794 10726,10985 L10726,10985 C10345,11270 9963,11556 9582,11842 L9296,12128 C9010,12319 8724,12605 8534,12795 L8248,13081 C7867,13367 7581,13748 7295,14129 L7295,14129 L7295,14129 L7295,14129 C6914,14606 6437,15082 6056,15654 L5770,15845 C5675,15940 5580,16130 5485,16321 C5389,16512 5199,16797 5008,17083 L4818,17369 C4722,17560 4627,17750 4531,17941 C4436,18132 4341,18322 4246,18513 L4150,18703 C3960,19085 3769,19466 3579,19847 L3483,19942 L3483,19942 C3293,20323 3102,20800 3007,21181 L2912,21467 L2816,21848 C2721,22039 2721,22229 2626,22420 C2531,22610 2435,22896 2340,23182 L2244,23468 L2244,23563 C2149,23944 1959,24326 1863,24707 C1863,24802 1863,24897 1768,24993 L1673,25374 C1673,25564 1577,25755 1577,25946 C1482,26327 1482,26708 1387,27089 L1387,27184 C1292,27566 1292,27947 1196,28423 C1196,28614 1196,28804 1196,28900 C1196,28995 1196,29186 1196,29281 C1196,29376 1196,29471 1196,29662 C1101,30043 1006,30520 1006,30996 C1006,31091 1006,31091 1006,31187 C1006,31568 1006,31949 1006,32330 C1006,32902 1006,32425 1006,32425 C1006,32711 1006,32902 1006,33188 C1006,33474 1006,33569 1006,33760 L1006,33855 C1006,34236 1101,34522 1101,34903 C1101,34998 1101,35094 1101,35284 L1101,35284 C1196,35761 1196,36333 1292,36809 L1292,36904 C1292,37000 1292,37095 1292,37190 C1387,37667 1482,38048 1482,38524 C1482,38620 1482,38715 1482,38810 C1482,38905 1482,38905 1577,39001 C1673,39668 1863,40240 2054,40907 L2054,41002 C2054,41097 2149,41288 2149,41383 C2244,41669 2340,42050 2435,42336 L2626,42813 C2721,43098 2816,43384 2912,43670 L3007,43861 L3102,44051 C3293,44623 3579,45195 3769,45767 L3769,45767 C4055,46338 4246,46910 4531,47482 L4722,47863 C5008,48435 5294,48911 5580,49483 L5770,49674 C6056,50150 6342,50626 6628,51103 L6724,51294 L6818,51389 C7009,51675 7295,52056 7485,52342 L7676,52532 C7962,52914 8248,53295 8534,53676 L8534,53771 L8629,53866 C9010,54343 9391,54819 9868,55201 L9963,55296 L10059,55391 C10440,55772 10821,56154 11202,56535 L11297,56630 L11488,56820 L12250,57488 L12441,57678 L12632,57869 L13203,58345 L13489,58536 L13680,58631 L14251,59012 L14538,59203 L14728,59298 L15300,59679 L15681,59870 L15871,59965 L16348,60251 L16729,60442 L16920,60537 L17396,60728 L17777,60918 L17968,61013 L18444,61204 L18730,61299 L19016,61395 L19492,61585 L19779,61681 L20064,61776 L20541,61966 L20827,62062 L21208,62157 L21685,62252 L21875,62347 L22637,62538 L22828,62538 L23018,62538 L23114,62538 L23590,62633 L24257,62729 L24353,62729 L24733,62729 L25496,62824 L27116,62824 L27974,62824 L28164,62824 L28355,62824 C29117,62824 29594,62824 30070,62729 L30070,62729 L30737,62633 L31023,62538 C31309,62443 31690,62347 31976,62252 L37503,60537 L59802,53485 C58944,52914 58658,53009 58372,53104 Z
+    fill:
+      type: solid
+      color: "#013D9E"
+  - elementId: "任意多边形: 形状 728"
+    elementType: shape
+    bounds: [72.1, 231.3, 8.5, 16.1]
+    rotation: -4.012166666666666
+    shapeName: custom
+    viewBox:
+      - 99315
+      - 160160
+    path: M99272,58021 C99844,61833 99939,65740 100321,69551 C99939,80034 97748,90421 93840,100141 C89266,111576 83263,122534 76116,132540 C70112,141212 63537,149407 56772,157316 C55151,159603 52388,160747 49625,160270 C46766,159317 44384,157316 43050,154648 C40286,150169 37427,145691 34759,141212 C27135,128824 20274,115959 14176,102713 C8934,91564 5123,79843 2645,67741 C-4311,34579 11508,4562 37999,655 C42382,-13 46861,83 51149,940 C72972,5038 92697,26098 98510,53828 C98796,55257 99082,56592 99272,58021 Z M50197,86704 C62298,88991 72305,78986 72495,64406 C73257,50302 64300,37533 50864,33245 L50578,33245 C38475,30958 28374,40868 28088,55543 C27326,69647 36284,82416 49720,86609 L49910,86609 L50197,86704
+    fill:
+      type: solid
+      color: $lt1
+  - elementId: 文本框 48-4
+    elementType: text
+    bounds: [123.5, 224.9, 199.7, 64.1]
+    content:
+      text: |-
+        <p style="text-align: left; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><span style="color: $lt1; font-family: 思源黑体 CN Medium, 思源黑体 CN Medium; letter-spacing: 1px;">更换文字内容</span></p><p style="text-align: left; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><span style="font-size: 28px; font-family: 思源黑体 CN Heavy, 思源黑体 CN Heavy;"><strong>300万元</strong></span></p>
+      color: $dk1
+      marginTop: 0
+      wrap: true
+      align:
+        - left
+        - top

@@ -1,0 +1,1695 @@
+pageType: content
+elements:
+  - elementId: 矩形 7
+    elementType: shape
+    bounds: [0, 0, 960, 540]
+    shapeName: rect
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#002456"
+        - position: 0
+          color: "#042258"
+      angle: 90
+    border:
+      style: solid
+      width: 1
+      color: "#0A111D"
+  - elementId: Picture 47
+    elementType: image
+    bounds: [0.2, -0.7, 453.1, 540]
+    cropShape:
+      shapeName: rect
+    src: media/image-5.png
+    fit:
+      mode: fill
+  - elementId: Picture 111
+    elementType: image
+    bounds: [343.9, -65.8, 661.8, 440]
+    cropShape:
+      shapeName: rect
+    src: media/image-17.png
+    fit:
+      mode: fill
+  - elementId: Picture 3
+    elementType: image
+    bounds: [0, 46.5, 959.2, 493.5]
+    cropShape:
+      shapeName: rect
+    src: media/image-2.png
+    fit:
+      mode: fill
+  - elementId: 文本框 61
+    elementType: text
+    bounds: [30.9, 153.5, 273.4, 33.9]
+    content:
+      text: |-
+        <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><span style="font-size: 18px; font-family: 思源黑体 CN Medium, 思源黑体 CN Medium;">点击此处</span><span style="font-size: 28px; font-family: 思源黑体 CN Heavy, 思源黑体 CN Heavy;">去更换</span></p>
+      gradient:
+        type: gradient
+        gradientType: linear
+        stops:
+          - position: 0.33
+            color: "#FFF8B9"
+          - position: 0.51
+            color: "#FFF177"
+          - position: 0.74
+            color: "#FCC55E"
+        angle: 90
+      shadow:
+        blur: 3
+        color: "#0000006E"
+        offset: [2.1213, 2.1213]
+      wrap: true
+      align:
+        - center
+        - top
+      style: $text4
+  - elementId: 文本框 71
+    elementType: text
+    bounds: [659, 151.8, 287.2, 33.9]
+    content:
+      text: |-
+        <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><span style="font-size: 18px; font-family: 思源黑体 CN Medium, 思源黑体 CN Medium;">点击此处</span><span style="font-size: 28px; font-family: 思源黑体 CN Heavy, 思源黑体 CN Heavy;">去更换</span></p>
+      gradient:
+        type: gradient
+        gradientType: linear
+        stops:
+          - position: 0.33
+            color: "#FFF8B9"
+          - position: 0.51
+            color: "#FFF177"
+          - position: 0.74
+            color: "#FCC55E"
+        angle: 90
+      shadow:
+        blur: 3
+        color: "#0000006E"
+        offset: [2.1213, 2.1213]
+      wrap: true
+      align:
+        - center
+        - top
+      style: $text4
+  - elementId: 文本框 84
+    elementType: text
+    bounds: [352.6, 154.9, 277.8, 33.9]
+    content:
+      text: |-
+        <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><span style="font-size: 18px; font-family: 思源黑体 CN Medium, 思源黑体 CN Medium;">点击此处</span><span style="font-size: 28px; font-family: 思源黑体 CN Heavy, 思源黑体 CN Heavy;">去更换</span></p>
+      gradient:
+        type: gradient
+        gradientType: linear
+        stops:
+          - position: 0.33
+            color: "#FFF8B9"
+          - position: 0.51
+            color: "#FFF177"
+          - position: 0.74
+            color: "#FCC55E"
+        angle: 90
+      shadow:
+        blur: 3
+        color: "#0000006E"
+        offset: [2.1213, 2.1213]
+      wrap: true
+      align:
+        - center
+        - top
+      style: $text4
+  - elementId: 文本框 95
+    elementType: text
+    bounds: [50.2, 374.2, 274.4, 108]
+    content:
+      text: |-
+        <p style="text-align: center; line-height: 1.5; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><span style="font-size: 20px; font-family: 思源黑体 CN Bold, 思源黑体 CN Bold;"><strong>3种 </strong></span><span style="font-size: 14px; font-family: 思源黑体 CN Medium, 思源黑体 CN Medium;">更换文字</span><span style="font-size: 18px; font-family: 思源黑体 CN Bold, 思源黑体 CN Bold;"><strong>点击更换文字：</strong></span></p><p style="text-align: center; line-height: 1.5; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><span style="font-size: 18px; font-family: 思源黑体 CN Bold, 思源黑体 CN Bold;"><strong>更换文字</strong></span><span style="font-size: 16px; font-family: 思源黑体 CN Medium, 思源黑体 CN Medium;">点击更换文字</span><span style="font-size: 18px; font-family: 思源黑体 CN Medium, 思源黑体 CN Medium;">：</span></p><p style="text-align: center; line-height: 1.5; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><span style="font-size: 14px; font-family: 思源黑体 CN Medium, 思源黑体 CN Medium;">更换文字</span><span style="font-size: 18px; font-family: 思源黑体 CN Medium, 思源黑体 CN Medium;">点击更换文字：</span></p>
+      shadow:
+        blur: 3
+        color: "#0000006E"
+        offset: [2.1213, 2.1213]
+      wrap: true
+      align:
+        - center
+        - top
+      style: $text5
+  - elementId: 文本框 105
+    elementType: text
+    bounds: [344.2, 363.7, 291.6, 112.2]
+    content:
+      text: |-
+        <p style="text-align: center; line-height: 1.5; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><span style="font-size: 16px; font-family: 思源黑体 CN Medium, 思源黑体 CN Medium;">点击更换文字：</span><span style="font-size: 18px; font-family: 思源黑体 CN Bold, 思源黑体 CN Bold;"><strong>3cm </strong></span></p><p style="text-align: center; line-height: 1.5; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><span style="font-size: 16px; font-family: 思源黑体 CN Medium, 思源黑体 CN Medium;">点击更换文字： </span><span style="font-size: 20px; font-family: 思源黑体 CN Bold, 思源黑体 CN Bold;"><strong>1.05mm</strong></span></p><p style="text-align: center; line-height: 1.5; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><span style="font-size: 16px; font-family: 思源黑体 CN Medium, 思源黑体 CN Medium;">点击更换文字： </span><span style="font-size: 20px; font-family: 思源黑体 CN Bold, 思源黑体 CN Bold;"><strong>5mm</strong></span></p>
+      gradient:
+        type: gradient
+        gradientType: linear
+        stops:
+          - position: 1
+            color: "#F0DBA6"
+          - position: 0
+            color: "#FDF6D4"
+        angle: 90
+      shadow:
+        blur: 3
+        color: "#0000006E"
+        offset: [2.1213, 2.1213]
+      wrap: true
+      align:
+        - center
+        - top
+      style: $text5
+  - elementId: 文本框 107
+    elementType: text
+    bounds: [643.5, 362.1, 291.6, 112.2]
+    content:
+      text: |-
+        <p style="text-align: center; line-height: 1.5; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><span style="font-size: 16px; font-family: 思源黑体 CN Medium, 思源黑体 CN Medium;">点击更换文字： </span><span style="font-size: 20px; font-family: 思源黑体 CN Bold, 思源黑体 CN Bold;"><strong>70万元 </strong></span></p><p style="text-align: center; line-height: 1.5; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><span style="font-size: 16px; font-family: 思源黑体 CN Medium, 思源黑体 CN Medium;">点击更换文字：：</span><span style="font-size: 20px; font-family: 思源黑体 CN Bold, 思源黑体 CN Bold;"><strong>30天</strong></span></p><p style="text-align: center; line-height: 1.5; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><span style="font-size: 16px; font-family: 思源黑体 CN Medium, 思源黑体 CN Medium;">点击更换文字：：</span><span style="font-size: 20px; font-family: 思源黑体 CN Bold, 思源黑体 CN Bold;"><strong>3-5人</strong></span></p>
+      gradient:
+        type: gradient
+        gradientType: linear
+        stops:
+          - position: 1
+            color: "#F0DBA6"
+          - position: 0
+            color: "#FDF6D4"
+        angle: 90
+      shadow:
+        blur: 3
+        color: "#0000006E"
+        offset: [2.1213, 2.1213]
+      wrap: true
+      align:
+        - center
+        - top
+      style: $text5
+  - elementId: PA-梯形 234
+    elementType: shape
+    bounds: [22.4, 452.9, 928.8, 77.6]
+    shapeName: trapezoid
+    adjustments:
+      - 123645
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#ED7D3100"
+        - position: 1
+          color: "#FFF2CC36"
+      angle: 90
+    border:
+      style: solid
+      width: 1.5
+      color: "#FFF2CC"
+  - elementId: "流程图: 手动输入 119"
+    elementType: shape
+    bounds: [-5, -437.6, 287.5, 369.4]
+    shapeName: custom
+    viewBox:
+      - 10000
+      - 10000
+    path: M99,1256 L10000,0 L10000,10000 L0,10000 C66,7061 33,4195 99,1256 Z
+    fill:
+      type: solid
+      color: $accent1
+    border:
+      style: solid
+      width: 1
+      color: "#FFF2CC52"
+  - elementId: "任意多边形: 形状 200"
+    elementType: shape
+    bounds: [126.9, 75.2, 762, 67.3]
+    shapeName: custom
+    viewBox:
+      - 10180319
+      - 486493
+    path: M71311,0 L10117221,0 L10180319,109334 L10180319,375989 L10116545,486493 L55561,486493 L0,390219 L0,123566 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.5
+          color: "#276EEF0D"
+        - position: 0
+          color: "#4472C433"
+        - position: 1
+          color: "#4472C433"
+      angle: 0
+  - elementId: Freeform 155+
+    elementType: line
+    bounds: [199.9, 75.2, 36.8, 66.8]
+    flip: [true, false]
+    viewBox:
+      - 241503
+      - 483006
+    points: 0,483006 241503,241503 0,0
+    curve: sharp
+    border:
+      style: solid
+      width: 1.5
+      color: "#276EEF00"
+  - elementId: Freeform 155+-2
+    elementType: line
+    bounds: [183.5, 74.9, 36.8, 66.8]
+    flip: [true, false]
+    viewBox:
+      - 241503
+      - 483006
+    points: 0,483006 241503,241503 0,0
+    curve: sharp
+    border:
+      style: solid
+      width: 0.75
+      color: "#276EEF00"
+  - elementId: Freeform 155+-3
+    elementType: line
+    bounds: [793.9, 75.2, 36.8, 66.8]
+    flip: [true, false]
+    viewBox:
+      - 241503
+      - 483006
+    points: 0,483006 241503,241503 0,0
+    curve: sharp
+    border:
+      style: solid
+      width: 1.5
+      color: "#276EEF00"
+  - elementId: Freeform 155+-4
+    elementType: line
+    bounds: [777.5, 74.9, 36.8, 66.8]
+    flip: [true, false]
+    viewBox:
+      - 241503
+      - 483006
+    points: 0,483006 241503,241503 0,0
+    curve: sharp
+    border:
+      style: solid
+      width: 0.75
+      color: "#276EEF00"
+  - elementId: 等腰三角形 129
+    elementType: shape
+    bounds: [844.1, 103.9, 16.6, 9.9]
+    rotation: 270
+    flip: [true, false]
+    shapeName: triangle
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: "任意多边形: 形状 210"
+    elementType: line
+    bounds: [859.8, 87, 9.2, 42.1]
+    viewBox:
+      - 63500
+      - 304800
+    points: 5080,0 63500,63500 63500,241300 0,304800
+    curve: sharp
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC"
+  - elementId: "任意多边形: 形状 211"
+    elementType: line
+    bounds: [880.4, 74.9, 9.2, 67.9]
+    viewBox:
+      - 63500
+      - 304800
+    points: 5080,0 63500,63500 63500,241300 0,304800
+    curve: sharp
+    border:
+      style: solid
+      width: 1
+      color: $accent1
+  - elementId: 等腰三角形 126
+    elementType: shape
+    bounds: [122.1, 103.9, 16.6, 9.9]
+    rotation: 270
+    flip: [true, false]
+    shapeName: triangle
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: "任意多边形: 形状 207"
+    elementType: line
+    bounds: [137.8, 87, 9.2, 42.1]
+    viewBox:
+      - 63500
+      - 304800
+    points: 5080,0 63500,63500 63500,241300 0,304800
+    curve: sharp
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC"
+  - elementId: "任意多边形: 形状 208"
+    elementType: line
+    bounds: [158.3, 74.9, 9.2, 67.9]
+    viewBox:
+      - 63500
+      - 304800
+    points: 5080,0 63500,63500 63500,241300 0,304800
+    curve: sharp
+    border:
+      style: solid
+      width: 1
+      color: $accent1
+  - elementId: 椭圆 137
+    elementType: shape
+    bounds: [85.9, 183.7, 165.4, 25.4]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.55
+          color: "#4472C400"
+        - position: 0.1
+          color: "#4472C400"
+        - position: 1
+          color: "#4472C424"
+      angle: 90
+  - elementId: 旁门左道出品
+    elementType: shape
+    bounds: [100.3, 180.1, 136.8, 18.9]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.37
+          color: "#4472C400"
+        - position: 1
+          color: "#4472C433"
+      angle: 90
+    border:
+      style: solid
+      width: 0.19283464566929134
+      color: "#4472C400"
+  - elementId: 图片 139
+    elementType: image
+    bounds: [108.1, 179.9, 119.6, 41.3]
+    rotation: 180
+    cropShape:
+      shapeName: rect
+    src: media/image-23.png
+    fit:
+      mode: fill
+  - elementId: "任意多边形: 形状 160"
+    elementType: shape
+    bounds: [143.4, 111.1, 61.7, 285.3]
+    rotation: 270
+    shapeName: custom
+    viewBox:
+      - 2910817
+      - 11237232
+    path: M2910817,5002421 L2910817,10975985 L2649571,11237231 L2512735,11237231 L2512734,11237232 L398083,11237232 L398082,11237231 L261247,11237231 L1,10975985 L1,10839149 L0,10839149 L1,261246 L261247,0 L2649571,0 L2910817,261246 L2910817,5002421 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#F1CE7D36"
+        - position: 0
+          color: "#CE814000"
+        - position: 0.52
+          color: "#CE814030"
+      angle: 0
+    border:
+      style: solid
+      width: 0.844015748031496
+      color: "#CE814000"
+  - elementId: 直接连接符 166
+    elementType: shape
+    bounds: [288.3, 216.6, 5.3, 0]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 167
+    elementType: shape
+    bounds: [282.2, 223.8, 0, 7.7]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 168
+    elementType: shape
+    bounds: [282.4, 216.7, 5.5, 6.6]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 163
+    elementType: shape
+    bounds: [61.2, 216.6, 5.3, 0]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 164
+    elementType: shape
+    bounds: [55.1, 223.8, 0, 7.7]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 165
+    elementType: shape
+    bounds: [55.3, 216.7, 5.5, 6.6]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: "任意多边形: 形状 151"
+    elementType: shape
+    bounds: [143.4, 173.9, 61.7, 285.3]
+    rotation: 270
+    shapeName: custom
+    viewBox:
+      - 2910817
+      - 11237232
+    path: M2910817,5002421 L2910817,10975985 L2649571,11237231 L2512735,11237231 L2512734,11237232 L398083,11237232 L398082,11237231 L261247,11237231 L1,10975985 L1,10839149 L0,10839149 L1,261246 L261247,0 L2649571,0 L2910817,261246 L2910817,5002421 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#F1CE7D36"
+        - position: 0
+          color: "#CE814000"
+        - position: 0.52
+          color: "#CE814030"
+      angle: 0
+    border:
+      style: solid
+      width: 0.844015748031496
+      color: "#CE814000"
+  - elementId: 直接连接符 157
+    elementType: shape
+    bounds: [288.3, 279.4, 5.3, 0]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 158
+    elementType: shape
+    bounds: [282.2, 286.6, 0, 7.7]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 159
+    elementType: shape
+    bounds: [282.4, 279.5, 5.5, 6.6]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 154
+    elementType: shape
+    bounds: [61.2, 279.4, 5.3, 0]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 155
+    elementType: shape
+    bounds: [55.1, 286.6, 0, 7.7]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 156
+    elementType: shape
+    bounds: [55.3, 279.5, 5.5, 6.6]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 图片 98
+    elementType: image
+    bounds: [63.3, 224.2, 223.6, 124]
+    cropShape:
+      shapeName: rect
+    src: media/image-24.png
+    crop:
+      left: 0.10947
+      top: 0.14261
+      right: 0.06475
+      bottom: 0.09519
+  - elementId: "任意多边形: 形状 182"
+    elementType: shape
+    bounds: [460.7, 104.2, 61.7, 293.1]
+    rotation: 270
+    shapeName: custom
+    viewBox:
+      - 2910817
+      - 11237232
+    path: M2910817,5002421 L2910817,10975985 L2649571,11237231 L2512735,11237231 L2512734,11237232 L398083,11237232 L398082,11237231 L261247,11237231 L1,10975985 L1,10839149 L0,10839149 L1,261246 L261247,0 L2649571,0 L2910817,261246 L2910817,5002421 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#F1CE7D36"
+        - position: 0
+          color: "#CE814000"
+        - position: 0.52
+          color: "#CE814030"
+      angle: 0
+    border:
+      style: solid
+      width: 0.844015748031496
+      color: "#CE814000"
+  - elementId: 直接连接符 188
+    elementType: shape
+    bounds: [605.6, 212.6, 5.3, 0]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 189
+    elementType: shape
+    bounds: [599.6, 220, 0, 7.9]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 190
+    elementType: shape
+    bounds: [599.7, 212.7, 5.5, 6.8]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 185
+    elementType: shape
+    bounds: [378.5, 212.6, 5.3, 0]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 186
+    elementType: shape
+    bounds: [372.4, 220, 0, 7.9]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 187
+    elementType: shape
+    bounds: [372.6, 212.7, 5.5, 6.8]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: "任意多边形: 形状 173"
+    elementType: shape
+    bounds: [460.7, 168.7, 61.7, 293.1]
+    rotation: 270
+    shapeName: custom
+    viewBox:
+      - 2910817
+      - 11237232
+    path: M2910817,5002421 L2910817,10975985 L2649571,11237231 L2512735,11237231 L2512734,11237232 L398083,11237232 L398082,11237231 L261247,11237231 L1,10975985 L1,10839149 L0,10839149 L1,261246 L261247,0 L2649571,0 L2910817,261246 L2910817,5002421 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#F1CE7D36"
+        - position: 0
+          color: "#CE814000"
+        - position: 0.52
+          color: "#CE814030"
+      angle: 0
+    border:
+      style: solid
+      width: 0.844015748031496
+      color: "#CE814000"
+  - elementId: 直接连接符 179
+    elementType: shape
+    bounds: [605.6, 277.1, 5.3, 0]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 180
+    elementType: shape
+    bounds: [599.6, 284.6, 0, 7.9]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 181
+    elementType: shape
+    bounds: [599.7, 277.3, 5.5, 6.8]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 176
+    elementType: shape
+    bounds: [378.5, 277.1, 5.3, 0]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 177
+    elementType: shape
+    bounds: [372.4, 284.6, 0, 7.9]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 178
+    elementType: shape
+    bounds: [372.6, 277.3, 5.5, 6.8]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 图片 101
+    elementType: image
+    bounds: [378.6, 220.3, 227.1, 93]
+    cropShape:
+      shapeName: rect
+    src: media/image-25.png
+    crop:
+      top: 0.1722
+      bottom: 0.09861
+  - elementId: 图片 102
+    elementType: image
+    bounds: [377.5, 294.8, 115.2, 53.4]
+    cropShape:
+      shapeName: rect
+    src: media/image-26.png
+    fit:
+      mode: fill
+  - elementId: 图片 103
+    elementType: image
+    bounds: [494.4, 295.2, 111.3, 52.7]
+    cropShape:
+      shapeName: rect
+    src: media/image-27.png
+    fit:
+      mode: fill
+  - elementId: "任意多边形: 形状 203"
+    elementType: shape
+    bounds: [770.3, 102.7, 60, 293.1]
+    rotation: 270
+    shapeName: custom
+    viewBox:
+      - 2910817
+      - 11237232
+    path: M2910817,5002421 L2910817,10975985 L2649571,11237231 L2512735,11237231 L2512734,11237232 L398083,11237232 L398082,11237231 L261247,11237231 L1,10975985 L1,10839149 L0,10839149 L1,261246 L261247,0 L2649571,0 L2910817,261246 L2910817,5002421 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#F1CE7D36"
+        - position: 0
+          color: "#CE814000"
+        - position: 0.52
+          color: "#CE814030"
+      angle: 0
+    border:
+      style: solid
+      width: 0.844015748031496
+      color: "#CE814000"
+  - elementId: 直接连接符 209
+    elementType: shape
+    bounds: [911.3, 211.1, 5.1, 0]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 210
+    elementType: shape
+    bounds: [905.4, 218.5, 0, 7.9]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 211
+    elementType: shape
+    bounds: [905.6, 211.2, 5.4, 6.8]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 206
+    elementType: shape
+    bounds: [690.4, 211.1, 5.1, 0]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 207
+    elementType: shape
+    bounds: [684.5, 218.5, 0, 7.9]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 208
+    elementType: shape
+    bounds: [684.6, 211.2, 5.4, 6.8]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: "任意多边形: 形状 194"
+    elementType: shape
+    bounds: [770.3, 167.2, 60, 293.1]
+    rotation: 270
+    shapeName: custom
+    viewBox:
+      - 2910817
+      - 11237232
+    path: M2910817,5002421 L2910817,10975985 L2649571,11237231 L2512735,11237231 L2512734,11237232 L398083,11237232 L398082,11237231 L261247,11237231 L1,10975985 L1,10839149 L0,10839149 L1,261246 L261247,0 L2649571,0 L2910817,261246 L2910817,5002421 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#F1CE7D36"
+        - position: 0
+          color: "#CE814000"
+        - position: 0.52
+          color: "#CE814030"
+      angle: 0
+    border:
+      style: solid
+      width: 0.844015748031496
+      color: "#CE814000"
+  - elementId: 直接连接符 200
+    elementType: shape
+    bounds: [911.3, 275.6, 5.1, 0]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 201
+    elementType: shape
+    bounds: [905.4, 283, 0, 7.9]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 202
+    elementType: shape
+    bounds: [905.6, 275.7, 5.4, 6.8]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 197
+    elementType: shape
+    bounds: [690.4, 275.6, 5.1, 0]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 198
+    elementType: shape
+    bounds: [684.5, 283, 0, 7.9]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: 直接连接符 199
+    elementType: shape
+    bounds: [684.6, 275.7, 5.4, 6.8]
+    flip: [false, true]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 2.5
+      color: "#FFDC6D"
+  - elementId: Picture 4
+    elementType: image
+    bounds: [692.5, 216.9, 214.3, 130.3]
+    cropShape:
+      shapeName: rect
+    src: media/image-28.jpg
+    fit:
+      mode: fill
+  - elementId: 椭圆 213
+    elementType: shape
+    bounds: [412.6, 182.4, 165.4, 25.4]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.55
+          color: "#4472C400"
+        - position: 0.1
+          color: "#4472C400"
+        - position: 1
+          color: "#4472C424"
+      angle: 90
+  - elementId: 旁门左道出品-2
+    elementType: shape
+    bounds: [426.9, 178.8, 136.8, 18.9]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.37
+          color: "#4472C400"
+        - position: 1
+          color: "#4472C433"
+      angle: 90
+    border:
+      style: solid
+      width: 0.19283464566929134
+      color: "#4472C400"
+  - elementId: 图片 215
+    elementType: image
+    bounds: [434.7, 178.6, 119.6, 41.3]
+    rotation: 180
+    cropShape:
+      shapeName: rect
+    src: media/image-23.png
+    fit:
+      mode: fill
+  - elementId: 椭圆 217
+    elementType: shape
+    bounds: [711.1, 178.4, 165.4, 25.4]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.55
+          color: "#4472C400"
+        - position: 0.1
+          color: "#4472C400"
+        - position: 1
+          color: "#4472C424"
+      angle: 90
+  - elementId: 旁门左道出品-3
+    elementType: shape
+    bounds: [725.5, 174.8, 136.8, 18.9]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.37
+          color: "#4472C400"
+        - position: 1
+          color: "#4472C433"
+      angle: 90
+    border:
+      style: solid
+      width: 0.19283464566929134
+      color: "#4472C400"
+  - elementId: 图片 219
+    elementType: image
+    bounds: [733.3, 174.6, 119.6, 41.3]
+    rotation: 180
+    cropShape:
+      shapeName: rect
+    src: media/image-23.png
+    fit:
+      mode: fill
+  - elementId: "箭头: 右 226"
+    elementType: shape
+    bounds: [137.2, 486.3, 768.2, 15.7]
+    shapeName: rightArrow
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.93
+          color: "#022561"
+        - position: 0
+          color: "#00FDFF"
+  - elementId: 椭圆 227
+    elementType: shape
+    bounds: [500.9, 485.6, 14.3, 14.3]
+    shapeName: ellipse
+    fill:
+      type: solid
+      color: $accent1
+    border:
+      style: solid
+      width: 1.5
+      color: $lt1
+  - elementId: 椭圆 228
+    elementType: shape
+    bounds: [233.2, 484.9, 14.3, 14.3]
+    shapeName: ellipse
+    fill:
+      type: solid
+      color: $accent1
+    border:
+      style: solid
+      width: 1.5
+      color: $lt1
+  - elementId: 椭圆 229
+    elementType: shape
+    bounds: [766.3, 486.9, 14.3, 14.3]
+    shapeName: ellipse
+    fill:
+      type: solid
+      color: $accent1
+    border:
+      style: solid
+      width: 1.5
+      color: $lt1
+  - elementId: 矩形 230
+    elementType: shape
+    bounds: [33, 197.3, 288.1, 280]
+    rotation: 270
+    shapeName: rect
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#FFF2C900"
+        - position: 1
+          color: "#FFF2CC80"
+      angle: 0
+    border:
+      style: solid
+      width: 1
+      color: "#FFF2C900"
+  - elementId: 矩形 231
+    elementType: shape
+    bounds: [349, 150.7, 288.1, 280]
+    rotation: 270
+    shapeName: rect
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#FFF2C900"
+        - position: 1
+          color: "#FFF2CC80"
+      angle: 0
+    border:
+      style: solid
+      width: 1
+      color: "#FFF2C900"
+  - elementId: 矩形 232
+    elementType: shape
+    bounds: [662.4, 193.4, 288.1, 280]
+    rotation: 270
+    shapeName: rect
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#FFF2C900"
+        - position: 1
+          color: "#FFF2CC80"
+      angle: 0
+    border:
+      style: solid
+      width: 1
+      color: "#FFF2C900"
+  - elementId: 梯形 233
+    elementType: shape
+    bounds: [498, 280.5, 304.2, 32.6]
+    rotation: 90
+    shapeName: trapezoid
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#FFE69996"
+        - position: 0.39
+          color: "#FFF2CC33"
+        - position: 1
+          color: "#FFF2CC00"
+      angle: 315
+    border:
+      style: solid
+      width: 1
+      color: "#0A111D"
+  - elementId: 梯形 234
+    elementType: shape
+    bounds: [183, 278.8, 304.2, 36.2]
+    rotation: 270
+    flip: [true, false]
+    shapeName: trapezoid
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#FFF2CC99"
+        - position: 1
+          color: "#FFF2CC00"
+      angle: 0
+    border:
+      style: solid
+      width: 1
+      color: "#0A111D"
+  - elementId: "16"
+    elementType: image
+    bounds: [47.4, 354.9, 883.4, 188.8]
+    rotation: 180
+    cropShape:
+      shapeName: custom
+    src: media/image-6.png
+    crop:
+      top: 0.54275
+      bottom: -0.00635
+  - elementId: 文本框 51
+    elementType: text
+    bounds: [263.3, 78.9, 471.7, 57.9]
+    content:
+      text: |-
+        <p style="text-align: center; line-height: 1.25; margin-left: 0px; margin-right: 0px;">点击此处添加文字内容，表达核心思想，核心内容</p><p style="text-align: center; line-height: 1.25; margin-left: 0px; margin-right: 0px;">您可以任意更换文字，以此更换</p>
+      color: $dk1
+      fontSize: 20
+      bold: true
+      italic: false
+      fontFamily: 思源黑体 CN Medium, 思源黑体 CN Medium
+      lineHeight: 1.25
+      letterSpacing: 0
+      wrap: true
+      align:
+        - center
+        - top
+  - elementId: "任意多边形: 形状 324"
+    elementType: shape
+    bounds: [595.6, 21, 364.4, 16.9]
+    shapeName: custom
+    viewBox:
+      - 4628346
+      - 214864
+    path: M1179178,4 C2036332,-88 3402008,1227 4378814,1467 L4628346,1500 L4628346,214864 L0,214864 C188271,25210 188159,4890 387013,1504 C449155,446 750602,49 1179178,4 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC40"
+        - position: 0
+          color: "#8FAADC4F"
+      angle: 90
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 40
+    elementType: shape
+    bounds: [610.5, 24.7, 105.5, 15.2]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC54"
+        - position: 0
+          color: "#8FAADCA6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 40-2
+    elementType: shape
+    bounds: [706.9, 24.7, 105.5, 15.2]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC54"
+        - position: 0
+          color: "#8FAADCA6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 40-3
+    elementType: shape
+    bounds: [803.3, 24.7, 105.5, 15.2]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC54"
+        - position: 0
+          color: "#8FAADCA6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 328
+    elementType: shape
+    bounds: [780.5, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 329
+    elementType: shape
+    bounds: [785.7, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 330
+    elementType: shape
+    bounds: [790.8, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 331
+    elementType: shape
+    bounds: [796, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 332
+    elementType: shape
+    bounds: [801.1, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 333
+    elementType: shape
+    bounds: [806.3, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 334
+    elementType: shape
+    bounds: [811.4, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 335
+    elementType: shape
+    bounds: [816.6, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 336
+    elementType: shape
+    bounds: [821.7, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 337
+    elementType: shape
+    bounds: [826.9, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: "任意多边形: 形状 338"
+    elementType: line
+    bounds: [841.9, 11.9, 120, 4.4]
+    opacity: 0.55
+    viewBox:
+      - 1524000
+      - 82550
+    points: 1524000,0 44450,0 0,82550
+    curve: sharp
+    border:
+      style: solid
+      width: 1
+      color: $accent1
+  - elementId: "任意多边形: 形状 339"
+    elementType: shape
+    bounds: [1.4, 2.7, 957.3, 41.3]
+    shapeName: custom
+    viewBox:
+      - 12157213
+      - 448506
+    path: M0,0 L2257280,0 L9862425,0 L12157213,0 L12157213,74543 L9804378,74543 L9723422,173848 L7786457,175980 C7555196,178292 7526819,445158 7283623,448506 L4803246,448506 C4560050,445158 4531673,178292 4300412,175980 C4206462,175041 3906270,174578 3525514,174302 L2398965,173800 L2318049,74543 L0,74543 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#4472C429"
+        - position: 0.76
+          color: "#4472C440"
+        - position: 0.45
+          color: "#8FAADC54"
+        - position: 0
+          color: "#8FAADCA6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: "任意多边形: 形状 340"
+    elementType: shape
+    bounds: [0, 21, 357.4, 16.9]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 4539446
+      - 214864
+    path: M1179178,4 C750601,49 449155,446 387013,1504 C188159,4890 188271,25210 0,214864 L4539446,214864 L4539446,1488 L4378813,1467 C3402008,1227 2036332,-88 1179178,4 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC40"
+        - position: 0
+          color: "#8FAADC4F"
+      angle: 90
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 40-4
+    elementType: shape
+    bounds: [237, 24.7, 105.5, 15.2]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC54"
+        - position: 0
+          color: "#8FAADCA6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 40-5
+    elementType: shape
+    bounds: [140.6, 24.7, 105.5, 15.2]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC54"
+        - position: 0
+          color: "#8FAADCA6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 40-6
+    elementType: shape
+    bounds: [44.2, 24.7, 105.5, 15.2]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC54"
+        - position: 0
+          color: "#8FAADCA6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 344
+    elementType: shape
+    bounds: [171, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 345
+    elementType: shape
+    bounds: [165.9, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 346
+    elementType: shape
+    bounds: [160.7, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 347
+    elementType: shape
+    bounds: [155.6, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 348
+    elementType: shape
+    bounds: [150.4, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 349
+    elementType: shape
+    bounds: [145.3, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 350
+    elementType: shape
+    bounds: [140.1, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 351
+    elementType: shape
+    bounds: [135, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 352
+    elementType: shape
+    bounds: [129.8, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 353
+    elementType: shape
+    bounds: [124.7, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 文本框 354-shape
+    elementType: shape
+    bounds: [405.7, 5.8, 148.6, 36.4]
+    shapeName: rect
+    shadow:
+      blur: 10
+      color: "#223962"
+      offset: [0, 4]
+  - elementId: 文本框 354-text
+    elementType: text
+    bounds: [405.7, 5.8, 148.6, 36.4]
+    content:
+      text: |-
+        <p>三段内容页面</p>
+      shadow:
+        blur: 3
+        color: "#0000006E"
+        offset: [2.1213, 2.1213]
+      wrap: false
+      align:
+        - center
+        - middle
+      style: $text1
+  - elementId: "任意多边形: 形状 355"
+    elementType: line
+    bounds: [0, 11.9, 120, 4.4]
+    opacity: 0.55
+    flip: [true, false]
+    viewBox:
+      - 1524000
+      - 82550
+    points: 1524000,0 44450,0 0,82550
+    curve: sharp
+    border:
+      style: solid
+      width: 1
+      color: $accent1
+  - elementId: MG-大标题矩形装饰
+    elementType: shape
+    bounds: [402.8, 43.9, 12.4, 1.4]
+    shapeName: rect
+    fill:
+      type: solid
+      color: "#DAE3F3"
+  - elementId: MG-大标题矩形装饰-2
+    elementType: shape
+    bounds: [544.8, 43.9, 12.4, 1.4]
+    shapeName: rect
+    fill:
+      type: solid
+      color: "#DAE3F3"
+  - elementId: 文本框 358
+    elementType: text
+    bounds: [80, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题1</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 359
+    elementType: text
+    bounds: [174.5, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题2</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 360
+    elementType: text
+    bounds: [269, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题3</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 361
+    elementType: text
+    bounds: [639.5, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题4</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 362
+    elementType: text
+    bounds: [734, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题5</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 363
+    elementType: text
+    bounds: [828.5, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题6</p>
+      wrap: false
+      style: $text2
+  - elementId: "任意多边形: 形状 364"
+    elementType: shape
+    bounds: [17.5, -1.2, 925, 41.3]
+    shapeName: custom
+    viewBox:
+      - 12157213
+      - 448506
+    path: M0,0 L2257280,0 L9862425,0 L12157213,0 L12157213,74543 L9804378,74543 L9723422,173848 L7786457,175980 C7555196,178292 7526819,445158 7283623,448506 L4803246,448506 C4560050,445158 4531673,178292 4300412,175980 C4206462,175041 3906270,174578 3525514,174302 L2398965,173800 L2318049,74543 L0,74543 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.07
+          color: "#8FAADCAB"
+        - position: 0.68
+          color: "#8FAADC00"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADCAB"

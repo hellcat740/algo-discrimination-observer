@@ -1,0 +1,1232 @@
+pageType: content
+elements:
+  - elementId: 矩形 7
+    elementType: shape
+    bounds: [0, 0, 960, 540]
+    shapeName: rect
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#002456"
+        - position: 0
+          color: "#042258"
+      angle: 90
+    border:
+      style: solid
+      width: 1
+      color: "#0B111E"
+  - elementId: Picture 47
+    elementType: image
+    bounds: [0.2, -0.7, 453.1, 540]
+    cropShape:
+      shapeName: rect
+    src: media/image-1.png
+    fit:
+      mode: fill
+  - elementId: Picture 111
+    elementType: image
+    bounds: [343.9, -65.8, 661.8, 440]
+    cropShape:
+      shapeName: rect
+    src: media/image-2.png
+    fit:
+      mode: fill
+  - elementId: Picture 3
+    elementType: image
+    bounds: [0, 46.5, 959.2, 493.5]
+    cropShape:
+      shapeName: rect
+    src: media/image-3.png
+    fit:
+      mode: fill
+  - elementId: "流程图: 手动输入 119"
+    elementType: shape
+    bounds: [-5, -437.6, 287.5, 369.4]
+    shapeName: custom
+    viewBox:
+      - 10000
+      - 10000
+    path: M99,1256 L10000,0 L10000,10000 L0,10000 C66,7061 33,4195 99,1256 Z
+    fill:
+      type: solid
+      color: $accent1
+    border:
+      style: solid
+      width: 1
+      color: "#E3F2D952"
+  - elementId: "16"
+    elementType: image
+    bounds: [95.6, -223.6, 883.4, 188.8]
+    cropShape:
+      shapeName: custom
+    src: media/image-4.png
+    crop:
+      top: 0.54275
+      bottom: -0.00635
+  - elementId: "任意多边形: 形状 2"
+    elementType: shape
+    bounds: [595.6, 21, 364.4, 16.9]
+    shapeName: custom
+    viewBox:
+      - 4628346
+      - 214864
+    path: M1179178,4 C2036332,-88 3402008,1227 4378814,1467 L4628346,1500 L4628346,214864 L0,214864 C188271,25210 188159,4890 387013,1504 C449155,446 750602,49 1179178,4 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE040"
+        - position: 0
+          color: "#91ACE04F"
+      angle: 90
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 40
+    elementType: shape
+    bounds: [610.5, 24.7, 105.5, 15.2]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE054"
+        - position: 0
+          color: "#91ACE0A6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 40-2
+    elementType: shape
+    bounds: [706.9, 24.7, 105.5, 15.2]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE054"
+        - position: 0
+          color: "#91ACE0A6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 40-3
+    elementType: shape
+    bounds: [803.3, 24.7, 105.5, 15.2]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE054"
+        - position: 0
+          color: "#91ACE0A6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 6
+    elementType: shape
+    bounds: [780.5, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 8
+    elementType: shape
+    bounds: [785.7, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 9
+    elementType: shape
+    bounds: [790.8, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 11
+    elementType: shape
+    bounds: [796, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 47
+    elementType: shape
+    bounds: [801.1, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 48
+    elementType: shape
+    bounds: [806.3, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 103
+    elementType: shape
+    bounds: [811.4, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 104
+    elementType: shape
+    bounds: [816.6, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 105
+    elementType: shape
+    bounds: [821.7, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 106
+    elementType: shape
+    bounds: [826.9, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: "任意多边形: 形状 107"
+    elementType: line
+    bounds: [841.9, 11.9, 120, 4.4]
+    opacity: 0.55
+    viewBox:
+      - 1524000
+      - 82550
+    points: 1524000,0 44450,0 0,82550
+    curve: sharp
+    border:
+      style: solid
+      width: 1
+      color: $accent1
+  - elementId: "任意多边形: 形状 108"
+    elementType: shape
+    bounds: [1.4, 2.7, 957.3, 41.3]
+    shapeName: custom
+    viewBox:
+      - 12157213
+      - 448506
+    path: M0,0 L2257280,0 L9862425,0 L12157213,0 L12157213,74543 L9804378,74543 L9723422,173848 L7786457,175980 C7555196,178292 7526819,445158 7283623,448506 L4803246,448506 C4560050,445158 4531673,178292 4300412,175980 C4206462,175041 3906270,174578 3525514,174302 L2398965,173800 L2318049,74543 L0,74543 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#4874CB29"
+        - position: 0.76
+          color: "#4874CB40"
+        - position: 0.45
+          color: "#91ACE054"
+        - position: 0
+          color: "#91ACE0A6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: "任意多边形: 形状 109"
+    elementType: shape
+    bounds: [0, 21, 357.4, 16.9]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 4539446
+      - 214864
+    path: M1179178,4 C750601,49 449155,446 387013,1504 C188159,4890 188271,25210 0,214864 L4539446,214864 L4539446,1488 L4378813,1467 C3402008,1227 2036332,-88 1179178,4 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE040"
+        - position: 0
+          color: "#91ACE04F"
+      angle: 90
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 40-4
+    elementType: shape
+    bounds: [237, 24.7, 105.5, 15.2]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE054"
+        - position: 0
+          color: "#91ACE0A6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 40-5
+    elementType: shape
+    bounds: [140.6, 24.7, 105.5, 15.2]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE054"
+        - position: 0
+          color: "#91ACE0A6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 40-6
+    elementType: shape
+    bounds: [44.2, 24.7, 105.5, 15.2]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE054"
+        - position: 0
+          color: "#91ACE0A6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 113
+    elementType: shape
+    bounds: [171, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 114
+    elementType: shape
+    bounds: [165.9, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 115
+    elementType: shape
+    bounds: [160.7, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 116
+    elementType: shape
+    bounds: [155.6, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 117
+    elementType: shape
+    bounds: [150.4, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 118
+    elementType: shape
+    bounds: [145.3, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 120
+    elementType: shape
+    bounds: [140.1, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 121
+    elementType: shape
+    bounds: [135, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 122
+    elementType: shape
+    bounds: [129.8, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 123
+    elementType: shape
+    bounds: [124.7, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 文本框 124-shape
+    elementType: shape
+    bounds: [405.7, 5.8, 148.6, 36.4]
+    shapeName: rect
+    shadow:
+      blur: 10
+      color: "#243A66"
+      offset: [0, 4]
+  - elementId: 文本框 124-text
+    elementType: text
+    bounds: [405.7, 5.8, 148.6, 36.4]
+    content:
+      text: |-
+        <p>政策解读页面</p>
+      shadow:
+        blur: 3
+        color: "#0000006E"
+        offset: [2.1213, 2.1213]
+      wrap: false
+      align:
+        - center
+        - middle
+      style: $text1
+  - elementId: "任意多边形: 形状 125"
+    elementType: line
+    bounds: [0, 11.9, 120, 4.4]
+    opacity: 0.55
+    flip: [true, false]
+    viewBox:
+      - 1524000
+      - 82550
+    points: 1524000,0 44450,0 0,82550
+    curve: sharp
+    border:
+      style: solid
+      width: 1
+      color: $accent1
+  - elementId: MG-大标题矩形装饰
+    elementType: shape
+    bounds: [402.8, 43.9, 12.4, 1.4]
+    shapeName: rect
+    fill:
+      type: solid
+      color: "#DAE3F5"
+  - elementId: MG-大标题矩形装饰-2
+    elementType: shape
+    bounds: [544.8, 43.9, 12.4, 1.4]
+    shapeName: rect
+    fill:
+      type: solid
+      color: "#DAE3F5"
+  - elementId: 文本框 128
+    elementType: text
+    bounds: [80, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题1</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 129
+    elementType: text
+    bounds: [174.5, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题2</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 130
+    elementType: text
+    bounds: [269, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题3</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 131
+    elementType: text
+    bounds: [639.5, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题4</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 132
+    elementType: text
+    bounds: [734, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题5</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 133
+    elementType: text
+    bounds: [828.5, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题6</p>
+      wrap: false
+      style: $text2
+  - elementId: "任意多边形: 形状 134"
+    elementType: shape
+    bounds: [17.5, -1.2, 925, 41.3]
+    shapeName: custom
+    viewBox:
+      - 12157213
+      - 448506
+    path: M0,0 L2257280,0 L9862425,0 L12157213,0 L12157213,74543 L9804378,74543 L9723422,173848 L7786457,175980 C7555196,178292 7526819,445158 7283623,448506 L4803246,448506 C4560050,445158 4531673,178292 4300412,175980 C4206462,175041 3906270,174578 3525514,174302 L2398965,173800 L2318049,74543 L0,74543 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.07
+          color: "#91ACE0AB"
+        - position: 0.68
+          color: "#91ACE000"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE0AB"
+  - elementId: 文本框 18
+    elementType: text
+    bounds: [144, 306.2, 143.4, 19.5]
+    content:
+      text: |-
+        <p style="text-align: left; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">更换文字</p>
+      wrap: true
+      align:
+        - left
+        - top
+      style: $text3
+  - elementId: 文本框 23
+    elementType: text
+    bounds: [144, 327.2, 113.2, 34]
+    content:
+      text: |-
+        <p>141%</p>
+      gradient:
+        type: gradient
+        gradientType: linear
+        stops:
+          - position: 0.33
+            color: "#FFF8B9"
+          - position: 0.51
+            color: "#FFF177"
+          - position: 0.74
+            color: "#FCC55E"
+        angle: 90
+      wrap: true
+      style: $text4
+  - elementId: 文本框 20
+    elementType: text
+    bounds: [144, 162.3, 194.5, 19.5]
+    content:
+      text: |-
+        <p style="text-align: left; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">更换文字</p>
+      wrap: true
+      align:
+        - left
+        - top
+      style: $text3
+  - elementId: 文本框 24
+    elementType: text
+    bounds: [144, 184.2, 156.2, 34]
+    content:
+      text: |-
+        <p style="text-align: left; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><span style="font-size: 28px;">2992.08</span><span style="font-size: 20px;">万元</span></p>
+      color: "#2E75B6"
+      bold: true
+      italic: false
+      fontFamily: 思源黑体 CN Heavy, 思源黑体 CN Heavy
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+      gradient:
+        type: gradient
+        gradientType: linear
+        stops:
+          - position: 0.33
+            color: "#FFF8B9"
+          - position: 0.51
+            color: "#FFF177"
+          - position: 0.74
+            color: "#FCC55E"
+        angle: 90
+      wrap: true
+      align:
+        - left
+        - top
+  - elementId: 文本框 22
+    elementType: text
+    bounds: [144, 233.5, 118.9, 19.5]
+    content:
+      text: |-
+        <p style="text-align: left; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">更换文字</p>
+      wrap: true
+      align:
+        - left
+        - top
+      style: $text3
+  - elementId: 文本框 30
+    elementType: text
+    bounds: [144, 253.7, 101.5, 34]
+    content:
+      text: |-
+        <p style="text-align: left; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">2.22年</p>
+      color: $dk1
+      fontSize: 28
+      bold: true
+      fontFamily: 思源黑体 CN Heavy, 思源黑体 CN Heavy
+      lineHeight: 1
+      marginTop: 0
+      gradient:
+        type: gradient
+        gradientType: linear
+        stops:
+          - position: 0.33
+            color: "#FFF8B9"
+          - position: 0.51
+            color: "#FFF177"
+          - position: 0.74
+            color: "#FCC55E"
+        angle: 90
+      wrap: true
+      align:
+        - left
+        - top
+  - elementId: 矩形 89
+    elementType: text
+    bounds: [548.7, 104.6, 127.7, 14.5]
+    content:
+      text: |-
+        <p style="text-align: right; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">预测净利润及营业收入 </p>
+      color: $lt1
+      fontSize: 12
+      bold: true
+      italic: false
+      fontFamily: Calibri, 思源黑体 CN Medium
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+      wrap: false
+      align:
+        - right
+        - middle
+  - elementId: 矩形 90
+    elementType: text
+    bounds: [846.4, 106, 56.8, 13.3]
+    content:
+      text: |-
+        <p style="text-align: right; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">单位：万元</p>
+      color: $lt1
+      fontSize: 11
+      bold: true
+      italic: false
+      fontFamily: Calibri, 思源黑体 CN Medium
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+      wrap: false
+      align:
+        - right
+        - middle
+  - elementType: chart
+    data:
+      cols:
+        - category
+        - series_1
+        - series_2
+      rows:
+    series:
+      - type: bar
+        encode:
+          x: category
+          y: series_1
+        name: 净利润
+        dataLabels:
+          show: true
+          content: value
+          color: "#404040"
+          fontSize: 11.95
+      - type: bar
+        encode:
+          x: category
+          y: series_2
+        name: 营业收入
+        fill:
+          type: gradient
+          gradientType: linear
+          stops:
+            - position: 0.23
+              color: $accent1
+            - position: 1
+              color: "#B6C7EA"
+          angle: 90
+        dataLabels:
+          show: true
+          content: value
+          color: "#404040"
+          fontSize: 11.95
+    xAxis:
+      label:
+        color: $lt1
+        fontSize: 11.95
+      axisLine:
+        style: solid
+        width: 0.75
+        color: "#D9D9D9"
+      numberFormat: General
+    yAxis:
+      label:
+        color: $lt1
+        fontSize: 11.95
+      axisLine: false
+      gridLine:
+        style: solid
+        width: 0.75
+        color: "#D9D9D9"
+      numberFormat: General
+    barWidth: 0.31347962382445144
+    legend:
+      show: true
+      position: bottom
+      color: $lt1
+      fontSize: 11.95
+    dataLabels:
+      show: true
+      content: value
+      color: "#404040"
+      fontSize: 11.95
+    elementId: 图表 35
+    bounds: [356.01338582677164, 130.14732283464568, 579.9381102362205, 249.94062992125984]
+  - elementId: 内容占位符 4
+    elementType: image
+    bounds: [-9.6, 116.7, 195.4, 128.7]
+    cropShape:
+      shapeName: rect
+    src: media/image-5.png
+    fit:
+      mode: fill
+  - elementId: 内容占位符 4-2
+    elementType: image
+    bounds: [-11, 198.5, 195.4, 128.7]
+    cropShape:
+      shapeName: rect
+    src: media/image-5.png
+    fit:
+      mode: fill
+  - elementId: 内容占位符 4-3
+    elementType: image
+    bounds: [-10.9, 275.4, 195.4, 128.7]
+    cropShape:
+      shapeName: rect
+    src: media/image-5.png
+    fit:
+      mode: fill
+  - elementId: "任意多边形: 形状 242"
+    elementType: shape
+    bounds: [110.1, 72.3, 370.5, 37.8]
+    shapeName: custom
+    viewBox:
+      - 2952444
+      - 301199
+    path: M687,480 L2953132,480 L2953132,301679 L687,301679 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#15B6F000"
+        - position: 0.5
+          color: "#15B6F033"
+        - position: 1
+          color: "#15B6F066"
+      angle: 180
+    border:
+      style: solid
+      width: 0.37196850393700787
+      color: "#15B6F0"
+  - elementId: "任意多边形: 形状 263"
+    elementType: line
+    bounds: [81.2, 49, 368.3, 16.7]
+    viewBox:
+      - 2934375
+      - 132787
+    points: 738,480 238598,133268 2935113,133268
+    curve: sharp
+    border:
+      style: solid
+      width: 0.8574803149606299
+      color: "#15B6F000"
+  - elementId: "任意多边形: 形状 264"
+    elementType: line
+    bounds: [81.2, 116.2, 368.3, 16.7]
+    viewBox:
+      - 2934375
+      - 132787
+    points: 738,133267 238598,480 2935113,480
+    curve: sharp
+    border:
+      style: solid
+      width: 0.8574803149606299
+      color: "#15B6F000"
+  - elementId: 文本框 244
+    elementType: text
+    bounds: [129.2, 76.6, 113.2, 34]
+    content:
+      text: |-
+        <p style="text-align: left;">更换文字</p>
+      gradient:
+        type: gradient
+        gradientType: linear
+        stops:
+          - position: 0.33
+            color: "#FFF8B9"
+          - position: 0.51
+            color: "#FFF177"
+          - position: 0.74
+            color: "#FCC55E"
+        angle: 90
+      wrap: false
+      align:
+        - left
+        - top
+      style: $text4
+  - elementId: "任意多边形: 形状 251"
+    elementType: shape
+    bounds: [45, 54, 64.4, 74.3]
+    shapeName: custom
+    viewBox:
+      - 513272
+      - 592173
+    path: M257323,486 L513960,148514 L513960,444633 L257323,592660 L687,444633 L687,148514 Z
+    border:
+      style: solid
+      width: 1.1190551181102362
+      color: "#15B6F0"
+  - elementId: "任意多边形: 形状 252"
+    elementType: shape
+    bounds: [45, 54, 64.4, 74.3]
+    shapeName: custom
+    viewBox:
+      - 513272
+      - 592173
+    path: M257323,486 L513960,148514 L513960,444633 L257323,592660 L687,444633 L687,148514 Z
+    border:
+      style: solid
+      width: 0.37299212598425197
+      color: "#15B6F0"
+  - elementId: "任意多边形: 形状 253"
+    elementType: shape
+    bounds: [51.3, 58.2, 51.8, 66.5]
+    shapeName: custom
+    viewBox:
+      - 413087
+      - 529991
+    path: M265169,486 L413775,86203 M157395,530478 L687,440067
+    border:
+      style: solid
+      width: 1.8650393700787402
+      color: "#00FFF4"
+  - elementId: "任意多边形: 形状 254"
+    elementType: shape
+    bounds: [51.3, 58.2, 51.8, 66.5]
+    shapeName: custom
+    viewBox:
+      - 413087
+      - 529991
+    path: M265169,486 L413775,86203 M157395,530478 L687,440067
+    border:
+      style: solid
+      width: 1.8650393700787402
+      color: "#00FFF4"
+  - elementId: "任意多边形: 形状 260"
+    elementType: shape
+    bounds: [49.1, 58.7, 56.7, 65.4]
+    shapeName: custom
+    viewBox:
+      - 451669
+      - 521117
+    path: M226522,486 L452357,130766 L452357,391325 L226522,521604 L687,391325 L687,130766 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#15B6F04C"
+        - position: 0.4947
+          color: "#15B6F000"
+        - position: 1
+          color: "#02C7F356"
+      angle: 90
+  - elementId: "任意多边形: 形状 261"
+    elementType: shape
+    bounds: [49.1, 58.7, 56.7, 65.4]
+    shapeName: custom
+    viewBox:
+      - 451669
+      - 521117
+    path: M226522,486 L452357,130766 L452357,391325 L226522,521604 L687,391325 L687,130766 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#004766"
+        - position: 0
+          color: "#004766"
+        - position: 0.21
+          color: "#0188A77F"
+        - position: 0.58
+          color: "#02CAE900"
+      angle: 90
+  - elementId: "任意多边形: 形状 262"
+    elementType: shape
+    bounds: [50, 59.7, 55, 63.5]
+    shapeName: custom
+    viewBox:
+      - 438423
+      - 505749
+    path: M219899,486 L439110,126908 L439110,379814 L219899,506236 L687,379814 L687,126908 L219899,486 Z
+    border:
+      style: solid
+      width: 1.0462992125984252
+      color: "#15B6F0B3"
+  - elementId: "任意多边形: 形状 256"
+    elementType: shape
+    bounds: [47.7, 73.6, 4.2, 4.2]
+    shapeName: custom
+    viewBox:
+      - 33180
+      - 33180
+    path: M33868,17077 C33868,26239 26440,33667 17277,33667 C8115,33667 687,26239 687,17077 C687,7914 8115,486 17277,486 C26440,486 33868,7914 33868,17077 Z
+    fill:
+      type: solid
+      color: "#3DD8FF"
+  - elementId: "任意多边形: 形状 257"
+    elementType: shape
+    bounds: [47.7, 105.1, 4.2, 4.2]
+    shapeName: custom
+    viewBox:
+      - 33180
+      - 33180
+    path: M33868,17077 C33868,26239 26440,33667 17277,33667 C8115,33667 687,26239 687,17077 C687,7914 8115,486 17277,486 C26440,486 33868,7914 33868,17077 Z
+    fill:
+      type: solid
+      color: "#3DD8FF"
+  - elementId: "任意多边形: 形状 258"
+    elementType: shape
+    bounds: [102.5, 73.6, 4.2, 4.2]
+    shapeName: custom
+    viewBox:
+      - 33180
+      - 33180
+    path: M33868,17077 C33868,26239 26440,33667 17277,33667 C8115,33667 687,26239 687,17077 C687,7914 8115,486 17277,486 C26440,486 33868,7914 33868,17077 Z
+    fill:
+      type: solid
+      color: "#3DD8FF"
+  - elementId: "任意多边形: 形状 259"
+    elementType: shape
+    bounds: [102.5, 105.1, 4.2, 4.2]
+    shapeName: custom
+    viewBox:
+      - 33180
+      - 33180
+    path: M33868,17077 C33868,26239 26440,33667 17277,33667 C8115,33667 687,26239 687,17077 C687,7914 8115,486 17277,486 C26440,486 33868,7914 33868,17077 Z
+    fill:
+      type: solid
+      color: "#3DD8FF"
+  - elementId: "任意多边形: 形状 247"
+    elementType: shape
+    bounds: [63.4, 77.3, 27.8, 27.8]
+    shapeName: custom
+    viewBox:
+      - 221462
+      - 221333
+    path: M222178,111182 C222178,172302 172602,221849 111447,221849 C50292,221849 716,172302 716,111182 C716,50062 50292,515 111447,515 C172602,515 222178,50062 222178,111182 Z
+    fill:
+      type: solid
+      color: "#00E9FF"
+  - elementId: "任意多边形: 形状 248"
+    elementType: shape
+    bounds: [70, 74, 10.3, 10.3]
+    shapeName: custom
+    viewBox:
+      - 82437
+      - 82308
+    path: M83153,41670 C83153,64399 64699,82824 41935,82824 C19170,82824 716,64398 716,41670 C716,18941 19170,515 41935,515 C64699,515 83153,18941 83153,41670 Z
+    fill:
+      type: solid
+      color: "#00FFFF"
+  - elementId: "任意多边形: 形状 249"
+    elementType: shape
+    bounds: [62.3, 84, 31, 25.9]
+    shapeName: custom
+    viewBox:
+      - 246924
+      - 206503
+    path: M716,116948 C19814,28723 40456,-9345 62512,2680 C95628,20749 62512,120227 103731,132059 C144949,143891 183853,106659 190284,82095 C196714,57531 231888,64476 245649,94699 C259410,124857 200058,221763 122700,205108 C71193,194048 30553,164661 716,116948 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#0079FF"
+        - position: 0.5
+          color: "#00B7FF"
+        - position: 1
+          color: "#00F5FF"
+      angle: 48.91455
+  - elementId: "任意多边形: 形状 250"
+    elementType: shape
+    bounds: [77.9, 85.2, 6.6, 6.6]
+    shapeName: custom
+    viewBox:
+      - 52729
+      - 52729
+    path: M53445,26880 C53445,41441 41641,53244 27081,53244 C12520,53244 716,41441 716,26880 C716,12319 12520,515 27081,515 C41641,515 53445,12319 53445,26880 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#016FA5"
+        - position: 0.5
+          color: "#0095B7"
+        - position: 1
+          color: "#00BBCA"
+      angle: 90
+  - elementId: 内容占位符 4-4
+    elementType: image
+    bounds: [2.5, 399.1, 135.4, 95.7]
+    cropShape:
+      shapeName: rect
+    src: media/image-6.png
+    crop:
+      left: 0.73658
+      top: 0.1555
+      right: 0.20594
+      bottom: 0.69475
+  - elementId: 内容占位符 4-5
+    elementType: image
+    bounds: [527.5, 400.4, 198.6, 95.7]
+    cropShape:
+      shapeName: rect
+    src: media/image-6.png
+    crop:
+      left: 0.7951
+      top: 0.1555
+      right: 0.12063
+      bottom: 0.69475
+  - elementId: 梯形 238
+    elementType: shape
+    bounds: [34.7, 393.6, 911.7, 122.7]
+    shapeName: custom
+    viewBox:
+      - 10374632
+      - 1783423
+    path: M0,1634723 L2351778,0 L8022854,0 L10374632,1634723 L10339622,1691983 L9859562,1691983 L9783362,1775803 L1287062,1783423 L1203242,1684363 L22142,1707223 L0,1634723 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.77
+          color: "#4874CB00"
+        - position: 1
+          color: "#4874CB73"
+      angle: 90
+  - elementId: 梯形 238-2
+    elementType: shape
+    bounds: [34.4, 398.6, 911.7, 122.7]
+    shapeName: custom
+    viewBox:
+      - 10374632
+      - 1783423
+    path: M0,1634723 L2351778,0 L8022854,0 L10374632,1634723 L10339622,1691983 L9859562,1691983 L9783362,1775803 L1287062,1783423 L1203242,1684363 L22142,1707223 L0,1634723 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.67
+          color: "#4874CB00"
+        - position: 1
+          color: $accent1
+      angle: 90
+    border:
+      style: solid
+      width: 0.9090551181102362
+      color: "#4874CB00"
+  - elementId: 文本框 94
+    elementType: text
+    bounds: [611.1, 413.2, 177.9, 26.7]
+    content:
+      text: |-
+        <p style="text-align: left; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">点击此处更换文字</p>
+      wrap: false
+      align:
+        - left
+        - top
+      style: $text5
+  - elementId: 文本框 207
+    elementType: text
+    bounds: [611.1, 451.8, 320, 26.7]
+    content:
+      text: |-
+        <p style="text-align: left; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">点击此处更换文字内容更换文字</p>
+      wrap: false
+      align:
+        - left
+        - top
+      style: $text6
+  - elementId: 文本框 38
+    elementType: text
+    bounds: [130.6, 448.5, 320, 26.7]
+    content:
+      text: |-
+        <p style="text-align: left; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">点击此处更换文字内容更换文字</p>
+      wrap: false
+      align:
+        - left
+        - top
+      style: $text6
+  - elementId: 文本框 38-2
+    elementType: text
+    bounds: [130.4, 412.9, 177.9, 26.7]
+    content:
+      text: |-
+        <p style="text-align: left; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">点击此处更换文字</p>
+      wrap: false
+      align:
+        - left
+        - top
+      style: $text5

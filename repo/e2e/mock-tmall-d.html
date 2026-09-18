@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<!--
+  【模拟页 D】detail.tmall.com 商品 1063820538904（SANC旗舰店）—— 状态A 简化渲染回归用例
+  仿真真实诊断结论：价格模块未完整渲染时，页面只有 PurchasePanel 主区域内
+  div.block2--（span.unit--=￥ + span.text--=1029），没有 highlightPrice--/subPrice--。
+  干扰项：吸顶栏 div.ItemHeadFixed-- 内有一份同名结构（￥48，模拟缓存/旧价），
+  提取必须排除 ItemHeadFixed-- 内部节点（真实 v0.3.3 曾因此抓成 48 元）。
+  期望提取：原价 1029（主区域 block2 组合，dom）、到手价 null（单价格结构）、
+  发货地「广东广州 至 北京市 朝阳区」→ 归一化「广州」、店铺「SANC旗舰店」、
+  shopId 123971619（内嵌 JSON）；补贴文案「已享受: ¥500百亿补贴」→ couponAmount 500、
+  couponType 百亿补贴。
+-->
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <title>【模拟页】SANC 27英寸4K显示器-天猫</title>
+</head>
+<body>
+  <!-- 吸顶栏（干扰项：同名 block2 结构，价格为缓存旧值 48，必须被排除） -->
+  <div class="ItemHeadFixed--root--z9y8x7">
+    <div class="ItemHeadFixed--priceWrap--w6v5u4">
+      <div class="block2--fixed--t3s2r1">
+        <span class="unit--q1p0o9n">￥</span>
+        <span class="text--m8l7k6j">48</span>
+      </div>
+    </div>
+  </div>
+
+  <div id="root">
+    <div class="PageLayout--detailMain--h5g4f3e">
+      <h1 class="ItemTitle--mainTitle--d2c1b0a">SANC 27英寸4K显示器 IPS广色域设计办公电脑屏幕 G7u Pro</h1>
+
+      <!-- PurchasePanel 主区域：状态A 唯一价格块（补贴前价 1029） -->
+      <div class="PurchasePanel--root--z9y8x7w">
+        <div class="block2--main--v6u5t4s">
+          <span class="unit--r3q2p1o">￥</span>
+          <span class="text--n0m9l8k">1029</span>
+        </div>
+      </div>
+
+      <div class="couponInfoArea--wrap--j7i6h5g">
+        已享受: ¥500百亿补贴
+      </div>
+
+      <div class="deliveryAddrWrap--root--f4e3d2c">
+        <span class="deliveryAddrWrap--text--b1a0z9y">广东广州 至 北京市 朝阳区</span>
+      </div>
+
+      <div class="ShopHeader--wrap--x8w7v6u">
+        <div class="ShopHeader--shopName--t5s4r3q">
+          <span class="shopName--text--p2o1n0m" title="SANC旗舰店">SANC旗舰店</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // 真实页面内联初始化数据（店铺 ID 通道）
+    window.__INIT_DATA = {
+      "global": {
+        "item": { "itemId": "1063820538904" },
+        "seller": { "shopId": "123971619", "sellerId": "2549841410", "shopName": "SANC旗舰店" }
+      }
+    };
+  </script>
+</body>
+</html>
