@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<!--
+  【模拟页 B】detail.tmall.com 商品 651981565426 —— 真实 2025 版 DOM 结构回归用例
+  期望提取：原价 18.7（subPrice「特价秒杀￥18.7起」，dom）、到手价 15.74
+  （highlightPrice「秒杀价￥15.74起」，dom）、发货地「重庆 至 北京市 海淀区」→ 归一化
+  「重庆」（dom）、店铺「厮磨工坊旗舰店」（span.shopName-- + title，dom）、
+  shopId 889977665（data-shopid 属性，dom）。
+-->
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <title>【模拟页】厮磨手工黑糖姜茶 500g-天猫</title>
+</head>
+<body>
+  <div id="root">
+    <div class="PageLayout--detailMain--b1c2d3e">
+      <h1 class="ItemTitle--mainTitle--f4g5h6i">厮磨工坊手工黑糖姜茶 500g 古法熬制大姨妈暖身冲饮</h1>
+
+      <div class="Price--root--j7k8l9m">
+        <div class="highlightPrice--wrap--n0o1p2q">
+          <span class="highlightPrice--label--r3s4t5u">秒杀价</span>
+          <span class="highlightPrice--symbol--v6w7x8y">￥</span>
+          <span class="text--z9a0b1c">15.74</span>
+          <span class="highlightPrice--suffix--d2e3f4g">起</span>
+        </div>
+        <div class="subPrice--wrap--h5i6j7k">
+          <span class="subPrice--label--l8m9n0o">特价秒杀</span>
+          <span class="subPrice--symbol--p1q2r3s">￥</span>
+          <span class="text--t4u5v6w">18.7</span>
+          <span class="subPrice--suffix--x7y8z9a">起</span>
+        </div>
+      </div>
+
+      <div class="deliveryAddrWrap--root--b0c1d2e">
+        <span class="deliveryAddrWrap--text--f3g4h5i">重庆 至 北京市 海淀区</span>
+      </div>
+
+      <div class="ShopHeader--wrap--j6k7l8m">
+        <div class="ShopHeader--shopName--n9o0p1q">
+          <span class="shopName--text--r2s3t4u" title="厮磨工坊旗舰店">厮磨工坊旗舰店</span>
+          <a class="shopName--link--v5w6x7y"
+             data-shopid="889977665"
+             href="//simogongfang.tmall.com/?shop_id=889977665">进店</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // 真实页面内联初始化数据（店铺 ID 三页实测均有此通道）
+    var pageData = {
+      "item": { "itemId": "651981565426", "stock": 8642 },
+      "seller": { "shopId": "889977665", "sellerId": "2549841410", "shopName": "厮磨工坊旗舰店" },
+      "trade": { "soldCount": 12087 }
+    };
+  </script>
+</body>
+</html>

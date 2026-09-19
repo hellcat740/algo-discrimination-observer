@@ -1,0 +1,107 @@
+INFO:     Started server process [17844]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:64594 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62479 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62480 - "POST /api/observations HTTP/1.1" 201 Created
+INFO:     127.0.0.1:61802 - "DELETE /api/observations/b93a99dd-cf06-494b-905f-afc76148950f HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:61803 - "DELETE /api/observations/8733125e-dee4-486d-9838-44e43ca528e2 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:65305 - "POST /api/observations HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62478 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62478 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62478 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62478 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64073 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57966 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65415 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55710 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57707 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54410 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62640 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59692 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53738 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62725 - "POST /api/observations HTTP/1.1" 201 Created
+INFO:     127.0.0.1:49322 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57218 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56792 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54312 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52056 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55398 - "POST /api/observations HTTP/1.1" 201 Created
+INFO:     127.0.0.1:55398 - "POST /api/observations HTTP/1.1" 201 Created
+INFO:     127.0.0.1:60477 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60477 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60477 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50320 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57084 - "POST /api/observations HTTP/1.1" 201 Created
+INFO:     127.0.0.1:57084 - "POST /api/observations HTTP/1.1" 201 Created
+INFO:     127.0.0.1:52276 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51453 - "POST /api/observations HTTP/1.1" 201 Created
+INFO:     127.0.0.1:54988 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55593 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53489 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60315 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65152 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59434 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52560 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55191 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63382 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58851 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54849 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60867 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60867 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60867 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60867 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60867 - "DELETE /api/observations/5ba0bb3a-edde-45bb-9c90-588a726d6a84 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:60867 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60867 - "DELETE /api/observations/ae66d5b5-102c-4a38-a9af-1b37cfafacc3 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:60867 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60867 - "DELETE /api/observations/c71c79ad-0e01-47f7-a3e0-e9586063b1c1 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:60867 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60867 - "DELETE /api/observations/5fddc7ab-c03c-4b8b-87af-e2ffc8e1c59b HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:60867 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60867 - "DELETE /api/observations/1a5791b3-a3b6-4655-96fa-4eb87c40a89a HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:60867 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60867 - "DELETE /api/observations/ab390f98-be7b-4050-af47-103bb5e81105 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:60867 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60867 - "DELETE /api/observations/70ff0c70-d289-4503-afdd-a97b9d78172b HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:60867 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60867 - "DELETE /api/observations/21361bf1-3421-43b5-9f10-39018a86f118 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:60867 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60867 - "DELETE /api/observations/7d1d48a5-4209-4d25-8ba4-e82afaa53b62 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:60867 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60867 - "DELETE /api/observations/2aa8d277-f858-438d-ae4b-632b51518d07 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:60867 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60867 - "DELETE /api/observations/2b514394-4e77-45cb-809a-f5a2cedc68fa HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:60867 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50869 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51342 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53096 - "POST /api/observations HTTP/1.1" 201 Created
+INFO:     127.0.0.1:57653 - "POST /api/observations HTTP/1.1" 201 Created
+INFO:     127.0.0.1:53592 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53592 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53592 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53592 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52605 - "POST /api/observations HTTP/1.1" 201 Created
+INFO:     127.0.0.1:57644 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57644 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57644 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57644 - "GET /api/analysis/products HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61584 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52306 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49324 - "GET /api/export/bundle?api_key=dev-key-123 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49324 - "DELETE /api/observations/67dd8be3-265d-41e7-8ba8-1d9be8c9b173 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:49324 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49324 - "DELETE /api/observations/05c2bdc1-3e7a-4f17-a12c-64779554ff81 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:49324 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49324 - "DELETE /api/observations/d5419b79-01db-45b9-89d1-8c667332a691 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:49324 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49324 - "POST /api/import/bundle HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49324 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49324 - "DELETE /api/observations/67dd8be3-265d-41e7-8ba8-1d9be8c9b173 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:49324 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49324 - "DELETE /api/observations/05c2bdc1-3e7a-4f17-a12c-64779554ff81 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:49324 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49324 - "DELETE /api/observations/d5419b79-01db-45b9-89d1-8c667332a691 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:49324 - "GET /api/observations?page=1&page_size=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49324 - "GET /health HTTP/1.1" 200 OK
