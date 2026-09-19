@@ -1,0 +1,1907 @@
+pageType: content
+elements:
+  - elementId: 矩形 7
+    elementType: shape
+    bounds: [0, 0, 960, 540]
+    shapeName: rect
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#002456"
+        - position: 0
+          color: "#042258"
+      angle: 90
+    border:
+      style: solid
+      width: 1
+      color: "#0A111D"
+  - elementId: Picture 152
+    elementType: image
+    bounds: [268.4, 0.2, 690.3, 538.8]
+    cropShape:
+      shapeName: rect
+    src: media/image-1.png
+    crop:
+      right: 0.1451
+  - elementId: Picture 3
+    elementType: image
+    bounds: [-38.9, 79.6, 965.3, 496.6]
+    cropShape:
+      shapeName: rect
+    src: media/image-2.png
+    fit:
+      mode: fill
+  - elementId: Picture 6
+    elementType: image
+    bounds: [149.5, -13.3, 826.2, 549.4]
+    cropShape:
+      shapeName: rect
+    src: media/image-3.png
+    fit:
+      mode: fill
+  - elementId: Picture 2
+    elementType: image
+    bounds: [412.4, 0.2, 548.9, 538.8]
+    cropShape:
+      shapeName: rect
+    src: media/image-4.png
+    fit:
+      mode: fill
+  - elementId: Picture 47
+    elementType: image
+    bounds: [0.2, -0.7, 453.1, 540]
+    cropShape:
+      shapeName: rect
+    src: media/image-5.png
+    fit:
+      mode: fill
+  - elementId: "16"
+    elementType: image
+    bounds: [33.1, 0.3, 883.4, 188.8]
+    cropShape:
+      shapeName: custom
+    src: media/image-6.png
+    crop:
+      top: 0.54275
+      bottom: -0.00635
+  - elementId: 图片 53
+    elementType: image
+    bounds: [230.3, 258.8, 297.3, 69]
+    cropShape:
+      shapeName: rect
+    src: media/image-7.png
+    fit:
+      mode: fill
+  - elementId: 图片 54
+    elementType: image
+    bounds: [148.8, 326.5, 297.3, 69]
+    cropShape:
+      shapeName: rect
+    src: media/image-7.png
+    fit:
+      mode: fill
+  - elementId: 八边形 79
+    elementType: shape
+    bounds: [-8.3, 293.4, 644.2, 66.5]
+    shapeName: octagon
+    adjustments:
+      - 9742
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.04
+          color: "#4472C400"
+        - position: 1
+          color: "#4472C433"
+        - position: 0.32
+          color: "#4472C400"
+      angle: 0
+    border:
+      style: solid
+      width: 1
+      color: "#4472C400"
+  - elementId: 文本框 82
+    elementType: text
+    bounds: [57.3, 104.4, 178.1, 167.3]
+    content:
+      text: |-
+        <p style="text-align: left; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">低</p>
+      color: $dk1
+      fontSize: 138
+      bold: false
+      italic: false
+      fontFamily: 演示新手书, 演示新手书
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+      gradient:
+        type: gradient
+        gradientType: linear
+        stops:
+          - position: 0.27
+            color: $lt1
+          - position: 0.51
+            color: "#C3D2EC"
+        angle: 45
+      shadow:
+        blur: 3
+        color: "#0000006E"
+        offset: [2.1213, 2.1213]
+      wrap: true
+      align:
+        - left
+        - top
+  - elementId: 文本框 83
+    elementType: text
+    bounds: [185, 46.4, 178.1, 249.7]
+    content:
+      text: |-
+        <p style="text-align: left; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">碳</p>
+      color: $dk1
+      fontSize: 206
+      bold: true
+      italic: false
+      fontFamily: 演示新手书, 演示新手书
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+      gradient:
+        type: gradient
+        gradientType: linear
+        stops:
+          - position: 0.71
+            color: "#FCC55E"
+          - position: 0.41
+            color: "#FFF8B9"
+          - position: 0.12
+            color: "#FFF8B9"
+        angle: 45
+      shadow:
+        blur: 3
+        color: "#0000006E"
+        offset: [2.1213, 2.1213]
+      wrap: true
+      align:
+        - left
+        - top
+  - elementId: 文本框 85
+    elementType: text
+    bounds: [359.3, 90.1, 178.1, 201.2]
+    content:
+      text: |-
+        <p style="text-align: left; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">时</p>
+      color: $dk1
+      fontSize: 166
+      bold: false
+      italic: false
+      fontFamily: 演示新手书, 演示新手书
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+      gradient:
+        type: gradient
+        gradientType: linear
+        stops:
+          - position: 0.27
+            color: $lt1
+          - position: 0.51
+            color: "#C3D2EC"
+        angle: 45
+      shadow:
+        blur: 3
+        color: "#0000006E"
+        offset: [2.1213, 2.1213]
+      wrap: true
+      align:
+        - left
+        - top
+  - elementId: 图片 143
+    elementType: image
+    bounds: [5.4, 411.4, 958.1, 130.2]
+    cropShape:
+      shapeName: rect
+    src: media/image-8.png
+    fit:
+      mode: fill
+  - elementId: "任意多边形: 形状 237"
+    elementType: shape
+    bounds: [-166.6, 521.7, 333, 380.3]
+    shapeName: custom
+    viewBox:
+      - 2989216
+      - 3413993
+    path: M1377127,103900 C1278437,214352 1203821,264646 976265,374095 C701740,506136 614827,526486 203615,555002 L2465,568951 L0,1536524 L35453,1675848 C92530,1900153 130635,2011131 195987,2143386 C432964,2622964 789181,2986382 1362765,3333749 L1495264,3413992 L1578358,3370910 C1805555,3253114 2026229,3079738 2303686,2801042 C2523790,2579956 2614602,2470614 2679265,2348827 C2712498,2286236 2767121,2185402 2800649,2124753 C2835368,2061953 2880528,1952072 2905556,1869503 C2978019,1630438 2989215,1515814 2989215,1012968 L2989215,568871 L2776490,554887 C2425929,531842 2196335,475410 1960515,354330 C1808779,276422 1711972,207069 1589615,88611 C1542782,43270 1497062,4382 1488015,2191 C1478967,0 1429068,45769 1377127,103900 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.44
+          color: "#FBE5D600"
+        - position: 0
+          color: "#FFFFFF4D"
+      angle: 90
+    border:
+      style: solid
+      width: 1.25
+      color: "#EFDFB800"
+  - elementId: "任意多边形: 形状 238"
+    elementType: shape
+    bounds: [-134.9, 576.3, 287, 335.8]
+    shapeName: custom
+    viewBox:
+      - 2989216
+      - 3413993
+    path: M1377127,103900 C1278437,214352 1203821,264646 976265,374095 C701740,506136 614827,526486 203615,555002 L2465,568951 L0,1536524 L35453,1675848 C92530,1900153 130635,2011131 195987,2143386 C432964,2622964 789181,2986382 1362765,3333749 L1495264,3413992 L1578358,3370910 C1805555,3253114 2026229,3079738 2303686,2801042 C2523790,2579956 2614602,2470614 2679265,2348827 C2712498,2286236 2767121,2185402 2800649,2124753 C2835368,2061953 2880528,1952072 2905556,1869503 C2978019,1630438 2989215,1515814 2989215,1012968 L2989215,568871 L2776490,554887 C2425929,531842 2196335,475410 1960515,354330 C1808779,276422 1711972,207069 1589615,88611 C1542782,43270 1497062,4382 1488015,2191 C1478967,0 1429068,45769 1377127,103900 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.63
+          color: "#FBE5D600"
+        - position: 0
+          color: "#FFFFFFA8"
+      angle: 90
+    border:
+      style: solid
+      width: 1.25
+      color: "#EFDFB840"
+  - elementId: "任意多边形: 形状 239"
+    elementType: shape
+    bounds: [-71.7, 626.7, 195.4, 228.7]
+    shapeName: custom
+    viewBox:
+      - 2989216
+      - 3413993
+    path: M1377127,103900 C1278437,214352 1203821,264646 976265,374095 C701740,506136 614827,526486 203615,555002 L2465,568951 L0,1536524 L35453,1675848 C92530,1900153 130635,2011131 195987,2143386 C432964,2622964 789181,2986382 1362765,3333749 L1495264,3413992 L1578358,3370910 C1805555,3253114 2026229,3079738 2303686,2801042 C2523790,2579956 2614602,2470614 2679265,2348827 C2712498,2286236 2767121,2185402 2800649,2124753 C2835368,2061953 2880528,1952072 2905556,1869503 C2978019,1630438 2989215,1515814 2989215,1012968 L2989215,568871 L2776490,554887 C2425929,531842 2196335,475410 1960515,354330 C1808779,276422 1711972,207069 1589615,88611 C1542782,43270 1497062,4382 1488015,2191 C1478967,0 1429068,45769 1377127,103900 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.63
+          color: "#FBE5D600"
+        - position: 0
+          color: "#FFFFFF0F"
+      angle: 90
+    border:
+      style: solid
+      width: 1.25
+      color: "#EFDFB840"
+  - elementId: 图片 240
+    elementType: image
+    bounds: [276.5, 71, 96.3, 96.3]
+    cropShape:
+      shapeName: rect
+    src: media/image-9.png
+    fit:
+      mode: fill
+  - elementId: 图片 66
+    elementType: image
+    bounds: [-47.7, -20.3, 670.5, 495.6]
+    flip: [true, false]
+    cropShape:
+      shapeName: custom
+    src: media/image-10.png
+    opacity: 0.24
+    crop:
+      top: 0.06865
+      right: 0.09371
+  - elementId: 图片 1
+    elementType: image
+    bounds: [559.9, 116.8, 214.3, 214.3]
+    rotation: 222.79065
+    cropShape:
+      shapeName: rect
+    src: media/image-11.gif
+    fit:
+      mode: fill
+  - elementId: 图片 6
+    elementType: image
+    bounds: [63.9, 79.6, 214.3, 214.3]
+    rotation: 222.79065
+    cropShape:
+      shapeName: rect
+    src: media/image-11.gif
+    fit:
+      mode: fill
+  - elementId: 图片 11
+    elementType: image
+    bounds: [761.3, 19, 174.6, 64.8]
+    cropShape:
+      shapeName: rect
+    src: media/image-12.png
+    fit:
+      mode: fill
+  - elementId: 图片 48
+    elementType: image
+    bounds: [549.6, 224.8, 431.8, 419.2]
+    rotation: 300.8287833333333
+    cropShape:
+      shapeName: rect
+    src: media/image-13.png
+    crop:
+      left: 0.28915
+      bottom: 0.22379
+  - elementId: 矩形 149
+    elementType: shape
+    bounds: [83.8, 30.3, 38.2, 26.4]
+    shapeName: rect
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.05
+          color: "#01738C"
+        - position: 0.88
+          color: "#0F8AC800"
+      angle: 0
+    border:
+      style: solid
+      width: 0.25
+      color: $lt1
+  - elementId: "任意多边形: 形状 150"
+    elementType: shape
+    bounds: [77.7, 30.3, 7.1, 26.4]
+    shapeName: custom
+    viewBox:
+      - 62387
+      - 235865
+    path: M0,0 L62387,0 L62387,235865 L0,235865 L12384,213049 C24750,183814 31587,151672 31587,117933 C31587,84194 24750,52052 12384,22817 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.43
+          color: "#223962"
+        - position: 1
+          color: "#01738CEB"
+      angle: 0
+    border:
+      style: solid
+      width: 0.25
+      color: $lt1
+  - elementId: 文本框 116-shape
+    elementType: shape
+    bounds: [93.6, 62.6, 132.2, 8.2]
+    shapeName: rect
+    shadow:
+      blur: 2.0373
+      color: "#22396299"
+      offset: [1.4406, 1.4406]
+  - elementId: 文本框 116-text
+    elementType: text
+    bounds: [93.6, 62.6, 132.2, 8.2]
+    content:
+      text: |-
+        <p style="text-align: left; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">DEVELOPMENT STAGE</p>
+      color: $dk1
+      fontSize: 6
+      bold: false
+      italic: false
+      fontFamily: 思源黑体 CN Bold, 思源黑体 CN Bold
+      lineHeight: 1
+      letterSpacing: 3
+      marginTop: 0
+      wrap: false
+      align:
+        - left
+        - middle
+  - elementId: 弧形 141
+    elementType: shape
+    bounds: [29.9, 16.1, 54.9, 54.9]
+    shapeName: arc
+    adjustments:
+      - 3427615
+      - 6743850
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.1
+          color: $accent1
+        - position: 0.46
+          color: "#1977DE00"
+        - position: 0.6
+          color: "#4472C400"
+        - position: 1
+          color: $lt1
+        - position: 0
+          color: "#DAE3F3"
+        - position: 0.9
+          color: $accent1
+      angle: 180
+    border:
+      style: solid
+      width: 0.25
+      color: $accent1
+  - elementId: 弧形 142
+    elementType: shape
+    bounds: [29.9, 16.1, 54.9, 54.9]
+    shapeName: arc
+    adjustments:
+      - 17601981
+      - 18823552
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.1
+          color: $accent1
+        - position: 0.4
+          color: "#1977DE00"
+        - position: 0.6
+          color: "#4472C400"
+        - position: 1
+          color: $lt1
+        - position: 0
+          color: "#DAE3F3"
+        - position: 0.9
+          color: $accent1
+      angle: 180
+    border:
+      style: solid
+      width: 0.25
+      color: $accent1
+  - elementId: 弧形 148
+    elementType: shape
+    bounds: [29.9, 16.1, 54.9, 54.9]
+    shapeName: arc
+    adjustments:
+      - 8857797
+      - 10732828
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: $lt1
+        - position: 0.14
+          color: $accent1
+        - position: 0.56
+          color: "#4472C400"
+      angle: 315
+    border:
+      style: solid
+      width: 0.25
+      color: $accent1
+  - elementId: 椭圆 134
+    elementType: shape
+    bounds: [29.9, 16.2, 54.8, 54.8]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.76
+          color: $accent1
+        - position: 0.56
+          color: "#4472C400"
+    border:
+      style: solid
+      width: 0.25
+      color: "#DAE3F3"
+  - elementId: 椭圆 135
+    elementType: shape
+    bounds: [39.3, 25.6, 36, 36]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.33
+          color: "#223962"
+        - position: 0.96503
+          color: "#DAE3F3"
+        - position: 0.71
+          color: $accent1
+    border:
+      style: solid
+      width: 0.25
+      color: $lt1
+  - elementId: 弧形 136
+    elementType: shape
+    bounds: [29.9, 16.1, 54.9, 54.9]
+    shapeName: arc
+    adjustments:
+      - 18796495
+      - 3545919
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: $accent1
+        - position: 1
+          color: "#DAE3F3"
+      angle: 90
+    border:
+      style: solid
+      width: 2
+      color: $accent1
+  - elementId: 弧形 137
+    elementType: shape
+    bounds: [29.9, 16.1, 54.9, 54.9]
+    shapeName: arc
+    adjustments:
+      - 11496153
+      - 17560056
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: $accent1
+        - position: 1
+          color: "#DAE3F3"
+      angle: 90
+    border:
+      style: solid
+      width: 2
+      color: $accent1
+  - elementId: 弧形 138
+    elementType: shape
+    bounds: [29.9, 16.1, 54.9, 54.9]
+    shapeName: arc
+    adjustments:
+      - 8685786
+      - 10378308
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: $accent1
+        - position: 1
+          color: "#DAE3F3"
+      angle: 90
+    border:
+      style: solid
+      width: 2
+      color: $accent1
+  - elementId: 弧形 139
+    elementType: shape
+    bounds: [29.9, 16.1, 54.9, 54.9]
+    shapeName: arc
+    adjustments:
+      - 6888857
+      - 8948572
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: $accent1
+        - position: 1
+          color: "#DAE3F3"
+      angle: 90
+    border:
+      style: solid
+      width: 2
+      color: $accent1
+  - elementId: 弧形 140
+    elementType: shape
+    bounds: [29.9, 16.1, 54.9, 54.9]
+    shapeName: arc
+    adjustments:
+      - 5818450
+      - 6464885
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: $accent1
+        - position: 1
+          color: "#DAE3F3"
+      angle: 90
+    border:
+      style: solid
+      width: 2
+      color: $accent1
+  - elementId: 椭圆 126
+    elementType: shape
+    bounds: [69.4, 63.4, 6.2, 6.2]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.33
+          color: "#223962"
+        - position: 0.96503
+          color: "#DAE3F3"
+        - position: 0.71
+          color: $accent1
+    border:
+      style: solid
+      width: 0.25
+      color: $lt1
+  - elementId: 椭圆 127
+    elementType: shape
+    bounds: [23.9, 42.2, 12.9, 12.9]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.65015
+          color: $accent1
+        - position: 0.78
+          color: $lt1
+        - position: 0.25
+          color: "#4472C400"
+    border:
+      style: solid
+      width: 0.25
+      color: "#DAE3F3"
+  - elementId: 椭圆 128
+    elementType: shape
+    bounds: [26, 44.3, 8.7, 8.7]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.33
+          color: "#223962"
+        - position: 0.96503
+          color: "#DAE3F3"
+        - position: 0.71
+          color: $accent1
+    border:
+      style: solid
+      width: 0.25
+      color: $lt1
+  - elementId: 椭圆 130
+    elementType: shape
+    bounds: [71.5, 18.9, 8.6, 8.6]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.65015
+          color: $accent1
+        - position: 0.78
+          color: $lt1
+        - position: 0.25
+          color: "#4472C400"
+    border:
+      style: solid
+      width: 0.25
+      color: "#DAE3F3"
+  - elementId: 椭圆 131
+    elementType: shape
+    bounds: [73.7, 21.1, 4.2, 4.2]
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.33
+          color: "#223962"
+        - position: 0.96503
+          color: "#DAE3F3"
+        - position: 0.71
+          color: $accent1
+    border:
+      style: solid
+      width: 0.25
+      color: $lt1
+  - elementId: 图片 122
+    elementType: image
+    bounds: [19.6, 37.8, 21.9, 21.9]
+    rotation: 15
+    cropShape:
+      shapeName: rect
+    src: media/image-14.png
+    fit:
+      mode: fill
+  - elementId: 图片 123
+    elementType: image
+    bounds: [70.4, 17.6, 11, 11]
+    rotation: 15
+    cropShape:
+      shapeName: rect
+    src: media/image-14.png
+    fit:
+      mode: fill
+  - elementId: 图片 124
+    elementType: image
+    bounds: [64.1, 58.2, 16.6, 16.6]
+    rotation: 15
+    cropShape:
+      shapeName: rect
+    src: media/image-14.png
+    fit:
+      mode: fill
+  - elementId: 图片 118
+    elementType: image
+    bounds: [12, -1.8, 90.6, 90.6]
+    rotation: 15
+    cropShape:
+      shapeName: rect
+    src: media/image-14.png
+    fit:
+      mode: fill
+  - elementId: 图形 120
+    elementType: image
+    bounds: [50.1, 34.9, 14.5, 22.3]
+    cropShape:
+      shapeName: rect
+    src: media/image-15.png
+    fit:
+      mode: fill
+  - elementId: 文本框 49
+    elementType: text
+    bounds: [94.2, 33.7, 363.7, 21.9]
+    content:
+      text: |-
+        <p style="text-align: left; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">第十四届“挑战杯”中国大学生创业计划竞赛</p>
+      color: $lt1
+      fontSize: 18
+      bold: true
+      italic: false
+      fontFamily: 思源黑体 CN Bold, 思源黑体 CN Bold
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+      wrap: false
+      align:
+        - left
+        - top
+  - elementId: 文本框 151
+    elementType: text
+    bounds: [482.9, 76.3, 178.1, 201.2]
+    content:
+      text: |-
+        <p style="text-align: left; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">代</p>
+      color: $dk1
+      fontSize: 166
+      bold: false
+      italic: false
+      fontFamily: 演示新手书, 演示新手书
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+      gradient:
+        type: gradient
+        gradientType: linear
+        stops:
+          - position: 0.27
+            color: $lt1
+          - position: 0.51
+            color: "#C3D2EC"
+        angle: 45
+      shadow:
+        blur: 3
+        color: "#0000006E"
+        offset: [2.1213, 2.1213]
+      wrap: true
+      align:
+        - left
+        - top
+  - elementId: 平行四边形 158
+    elementType: shape
+    bounds: [49.4, 376.2, 361.8, 33.1]
+    shapeName: parallelogram
+    adjustments:
+      - 54445
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#F2F2F200"
+        - position: 1
+          color: "#F0F0F029"
+      angle: 0
+    border:
+      style: solid
+      width: 1
+      color: "#FFDC6D00"
+  - elementId: 平行四边形 159
+    elementType: shape
+    bounds: [110.9, 374.5, 305.2, 33.1]
+    shapeName: parallelogram
+    adjustments:
+      - 54445
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.229
+          color: "#F5F5F500"
+        - position: 0
+          color: "#F2F2F200"
+        - position: 1
+          color: "#FFFFFF33"
+      angle: 0
+    border:
+      style: solid
+      width: 1
+      color: "#F2F2F200"
+  - elementId: 图片 160
+    elementType: image
+    bounds: [87.3, 360.2, 357.3, 29.9]
+    cropShape:
+      shapeName: rect
+    src: media/image-16.png
+    fit:
+      mode: cover
+  - elementId: 文本框 161
+    elementType: text
+    bounds: [144.9, 381.6, 244.6, 21.9]
+    content:
+      text: |-
+        <p style="text-align: distributed; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">岗位：**科技智能研发</p>
+      color: $dk1
+      fontSize: 18
+      bold: true
+      italic: false
+      fontFamily: 思源黑体 CN Bold, 思源黑体 CN Bold
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+      wrap: true
+      align:
+        - distributed
+        - top
+  - elementId: 椭圆 185
+    elementType: shape
+    bounds: [123.5, 387.5, 7.8, 7.8]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.72
+          color: "#F1CE7D"
+        - position: 0.81
+          color: "#F8ECA9"
+        - position: 0.37
+          color: "#AD6C3600"
+  - elementId: 椭圆 186
+    elementType: shape
+    bounds: [119.3, 383.3, 16.2, 16.2]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#F1CE7D"
+        - position: 1
+          color: "#F8ECA9"
+        - position: 0.54
+          color: "#AD6C3600"
+  - elementId: 椭圆 187
+    elementType: shape
+    bounds: [126.2, 390.2, 2.3, 2.3]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.22
+          color: "#F1CE7D"
+        - position: 0.85
+          color: "#F1CE7D"
+        - position: 0
+          color: "#F8ECA9"
+        - position: 0.56
+          color: "#AD6C36"
+        - position: 1
+          color: "#CE8140"
+      angle: 45
+  - elementId: 椭圆 182
+    elementType: shape
+    bounds: [123.5, 387.5, 7.8, 7.8]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.72
+          color: "#F1CE7D"
+        - position: 0.81
+          color: "#F8ECA9"
+        - position: 0.37
+          color: "#AD6C3600"
+  - elementId: 椭圆 183
+    elementType: shape
+    bounds: [119.3, 383.3, 16.2, 16.2]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#F1CE7D"
+        - position: 1
+          color: "#F8ECA9"
+        - position: 0.54
+          color: "#AD6C3600"
+  - elementId: 椭圆 184
+    elementType: shape
+    bounds: [126.2, 390.2, 2.3, 2.3]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.22
+          color: "#F1CE7D"
+        - position: 0.85
+          color: "#F1CE7D"
+        - position: 0
+          color: "#F8ECA9"
+        - position: 0.56
+          color: "#AD6C36"
+        - position: 1
+          color: "#CE8140"
+      angle: 45
+  - elementId: 椭圆 179
+    elementType: shape
+    bounds: [123.5, 387.5, 7.8, 7.8]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.72
+          color: "#F1CE7D"
+        - position: 0.81
+          color: "#F8ECA9"
+        - position: 0.37
+          color: "#AD6C3600"
+  - elementId: 椭圆 180
+    elementType: shape
+    bounds: [119.3, 383.3, 16.2, 16.2]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#F1CE7D"
+        - position: 1
+          color: "#F8ECA9"
+        - position: 0.54
+          color: "#AD6C3600"
+  - elementId: 椭圆 181
+    elementType: shape
+    bounds: [126.2, 390.2, 2.3, 2.3]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.22
+          color: "#F1CE7D"
+        - position: 0.85
+          color: "#F1CE7D"
+        - position: 0
+          color: "#F8ECA9"
+        - position: 0.56
+          color: "#AD6C36"
+        - position: 1
+          color: "#CE8140"
+      angle: 45
+  - elementId: 椭圆 176
+    elementType: shape
+    bounds: [123.5, 387.5, 7.8, 7.8]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.72
+          color: "#F1CE7D"
+        - position: 0.81
+          color: "#F8ECA9"
+        - position: 0.37
+          color: "#AD6C3600"
+  - elementId: 椭圆 177
+    elementType: shape
+    bounds: [119.3, 383.3, 16.2, 16.2]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#F1CE7D"
+        - position: 1
+          color: "#F8ECA9"
+        - position: 0.54
+          color: "#AD6C3600"
+  - elementId: 椭圆 178
+    elementType: shape
+    bounds: [126.2, 390.2, 2.3, 2.3]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.22
+          color: "#F1CE7D"
+        - position: 0.85
+          color: "#F1CE7D"
+        - position: 0
+          color: "#F8ECA9"
+        - position: 0.56
+          color: "#AD6C36"
+        - position: 1
+          color: "#CE8140"
+      angle: 45
+  - elementId: 椭圆 173
+    elementType: shape
+    bounds: [123.5, 387.5, 7.8, 7.8]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.72
+          color: "#F1CE7D"
+        - position: 0.81
+          color: "#F8ECA9"
+        - position: 0.37
+          color: "#AD6C3600"
+  - elementId: 椭圆 174
+    elementType: shape
+    bounds: [119.3, 383.3, 16.2, 16.2]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#F1CE7D"
+        - position: 1
+          color: "#F8ECA9"
+        - position: 0.54
+          color: "#AD6C3600"
+  - elementId: 椭圆 175
+    elementType: shape
+    bounds: [126.2, 390.2, 2.3, 2.3]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.22
+          color: "#F1CE7D"
+        - position: 0.85
+          color: "#F1CE7D"
+        - position: 0
+          color: "#F8ECA9"
+        - position: 0.56
+          color: "#AD6C36"
+        - position: 1
+          color: "#CE8140"
+      angle: 45
+  - elementId: 椭圆 170
+    elementType: shape
+    bounds: [123.5, 387.5, 7.8, 7.8]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.72
+          color: "#F1CE7D"
+        - position: 0.81
+          color: "#F8ECA9"
+        - position: 0.37
+          color: "#AD6C3600"
+  - elementId: 椭圆 171
+    elementType: shape
+    bounds: [119.3, 383.3, 16.2, 16.2]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#F1CE7D"
+        - position: 1
+          color: "#F8ECA9"
+        - position: 0.54
+          color: "#AD6C3600"
+  - elementId: 椭圆 172
+    elementType: shape
+    bounds: [126.2, 390.2, 2.3, 2.3]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.22
+          color: "#F1CE7D"
+        - position: 0.85
+          color: "#F1CE7D"
+        - position: 0
+          color: "#F8ECA9"
+        - position: 0.56
+          color: "#AD6C36"
+        - position: 1
+          color: "#CE8140"
+      angle: 45
+  - elementId: 平行四边形 189
+    elementType: shape
+    bounds: [49.4, 428.5, 361.8, 33.1]
+    shapeName: parallelogram
+    adjustments:
+      - 54445
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#F2F2F200"
+        - position: 1
+          color: "#F0F0F029"
+      angle: 0
+    border:
+      style: solid
+      width: 1
+      color: "#FFDC6D00"
+  - elementId: 平行四边形 190
+    elementType: shape
+    bounds: [110.9, 426.7, 305.2, 33.1]
+    shapeName: parallelogram
+    adjustments:
+      - 54445
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.229
+          color: "#F5F5F500"
+        - position: 0
+          color: "#F2F2F200"
+        - position: 1
+          color: "#FFFFFF33"
+      angle: 0
+    border:
+      style: solid
+      width: 1
+      color: "#F2F2F200"
+  - elementId: 图片 191
+    elementType: image
+    bounds: [87.3, 411.9, 357.3, 29.9]
+    cropShape:
+      shapeName: rect
+    src: media/image-16.png
+    fit:
+      mode: cover
+  - elementId: 文本框 192
+    elementType: text
+    bounds: [144.9, 432.8, 244.6, 21.9]
+    content:
+      text: |-
+        <p style="text-align: distributed; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">参赛组别：某某某科技大学</p>
+      color: $dk1
+      fontSize: 18
+      bold: true
+      italic: false
+      fontFamily: 思源黑体 CN Bold, 思源黑体 CN Bold
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+      wrap: true
+      align:
+        - distributed
+        - top
+  - elementId: 椭圆 215
+    elementType: shape
+    bounds: [123.5, 438.9, 7.8, 7.8]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.72
+          color: "#F1CE7D"
+        - position: 0.81
+          color: "#F8ECA9"
+        - position: 0.37
+          color: "#AD6C3600"
+  - elementId: 椭圆 216
+    elementType: shape
+    bounds: [119.3, 434.7, 16.2, 16.2]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#F1CE7D"
+        - position: 1
+          color: "#F8ECA9"
+        - position: 0.54
+          color: "#AD6C3600"
+  - elementId: 椭圆 217
+    elementType: shape
+    bounds: [126.2, 441.7, 2.3, 2.3]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.22
+          color: "#F1CE7D"
+        - position: 0.85
+          color: "#F1CE7D"
+        - position: 0
+          color: "#F8ECA9"
+        - position: 0.56
+          color: "#AD6C36"
+        - position: 1
+          color: "#CE8140"
+      angle: 45
+  - elementId: 椭圆 212
+    elementType: shape
+    bounds: [123.5, 438.9, 7.8, 7.8]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.72
+          color: "#F1CE7D"
+        - position: 0.81
+          color: "#F8ECA9"
+        - position: 0.37
+          color: "#AD6C3600"
+  - elementId: 椭圆 213
+    elementType: shape
+    bounds: [119.3, 434.7, 16.2, 16.2]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#F1CE7D"
+        - position: 1
+          color: "#F8ECA9"
+        - position: 0.54
+          color: "#AD6C3600"
+  - elementId: 椭圆 214
+    elementType: shape
+    bounds: [126.2, 441.7, 2.3, 2.3]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.22
+          color: "#F1CE7D"
+        - position: 0.85
+          color: "#F1CE7D"
+        - position: 0
+          color: "#F8ECA9"
+        - position: 0.56
+          color: "#AD6C36"
+        - position: 1
+          color: "#CE8140"
+      angle: 45
+  - elementId: 椭圆 209
+    elementType: shape
+    bounds: [123.5, 438.9, 7.8, 7.8]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.72
+          color: "#F1CE7D"
+        - position: 0.81
+          color: "#F8ECA9"
+        - position: 0.37
+          color: "#AD6C3600"
+  - elementId: 椭圆 210
+    elementType: shape
+    bounds: [119.3, 434.7, 16.2, 16.2]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#F1CE7D"
+        - position: 1
+          color: "#F8ECA9"
+        - position: 0.54
+          color: "#AD6C3600"
+  - elementId: 椭圆 211
+    elementType: shape
+    bounds: [126.2, 441.7, 2.3, 2.3]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.22
+          color: "#F1CE7D"
+        - position: 0.85
+          color: "#F1CE7D"
+        - position: 0
+          color: "#F8ECA9"
+        - position: 0.56
+          color: "#AD6C36"
+        - position: 1
+          color: "#CE8140"
+      angle: 45
+  - elementId: 椭圆 206
+    elementType: shape
+    bounds: [123.5, 438.9, 7.8, 7.8]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.72
+          color: "#F1CE7D"
+        - position: 0.81
+          color: "#F8ECA9"
+        - position: 0.37
+          color: "#AD6C3600"
+  - elementId: 椭圆 207
+    elementType: shape
+    bounds: [119.3, 434.7, 16.2, 16.2]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#F1CE7D"
+        - position: 1
+          color: "#F8ECA9"
+        - position: 0.54
+          color: "#AD6C3600"
+  - elementId: 椭圆 208
+    elementType: shape
+    bounds: [126.2, 441.7, 2.3, 2.3]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.22
+          color: "#F1CE7D"
+        - position: 0.85
+          color: "#F1CE7D"
+        - position: 0
+          color: "#F8ECA9"
+        - position: 0.56
+          color: "#AD6C36"
+        - position: 1
+          color: "#CE8140"
+      angle: 45
+  - elementId: 椭圆 203
+    elementType: shape
+    bounds: [123.5, 438.9, 7.8, 7.8]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.72
+          color: "#F1CE7D"
+        - position: 0.81
+          color: "#F8ECA9"
+        - position: 0.37
+          color: "#AD6C3600"
+  - elementId: 椭圆 204
+    elementType: shape
+    bounds: [119.3, 434.7, 16.2, 16.2]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#F1CE7D"
+        - position: 1
+          color: "#F8ECA9"
+        - position: 0.54
+          color: "#AD6C3600"
+  - elementId: 椭圆 205
+    elementType: shape
+    bounds: [126.2, 441.7, 2.3, 2.3]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.22
+          color: "#F1CE7D"
+        - position: 0.85
+          color: "#F1CE7D"
+        - position: 0
+          color: "#F8ECA9"
+        - position: 0.56
+          color: "#AD6C36"
+        - position: 1
+          color: "#CE8140"
+      angle: 45
+  - elementId: 椭圆 200
+    elementType: shape
+    bounds: [123.5, 438.9, 7.8, 7.8]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.72
+          color: "#F1CE7D"
+        - position: 0.81
+          color: "#F8ECA9"
+        - position: 0.37
+          color: "#AD6C3600"
+  - elementId: 椭圆 201
+    elementType: shape
+    bounds: [119.3, 434.7, 16.2, 16.2]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#F1CE7D"
+        - position: 1
+          color: "#F8ECA9"
+        - position: 0.54
+          color: "#AD6C3600"
+  - elementId: 椭圆 202
+    elementType: shape
+    bounds: [126.2, 441.7, 2.3, 2.3]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.22
+          color: "#F1CE7D"
+        - position: 0.85
+          color: "#F1CE7D"
+        - position: 0
+          color: "#F8ECA9"
+        - position: 0.56
+          color: "#AD6C36"
+        - position: 1
+          color: "#CE8140"
+      angle: 45
+  - elementId: 平行四边形 219
+    elementType: shape
+    bounds: [49.4, 480.1, 361.8, 33.1]
+    shapeName: parallelogram
+    adjustments:
+      - 54445
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#F2F2F200"
+        - position: 1
+          color: "#F0F0F029"
+      angle: 0
+    border:
+      style: solid
+      width: 1
+      color: "#FFDC6D00"
+  - elementId: 平行四边形 224
+    elementType: shape
+    bounds: [110.9, 478.4, 305.2, 33.1]
+    shapeName: parallelogram
+    adjustments:
+      - 54445
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.229
+          color: "#F5F5F500"
+        - position: 0
+          color: "#F2F2F200"
+        - position: 1
+          color: "#FFFFFF33"
+      angle: 0
+    border:
+      style: solid
+      width: 1
+      color: "#F2F2F200"
+  - elementId: 图片 226
+    elementType: image
+    bounds: [87.3, 464.1, 357.3, 29.9]
+    cropShape:
+      shapeName: rect
+    src: media/image-16.png
+    fit:
+      mode: cover
+  - elementId: 文本框 227
+    elementType: text
+    bounds: [144.9, 483.3, 244.6, 24.3]
+    content:
+      text: |-
+        <p style="text-align: distributed; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><span style="font-size: 18px;">负责人：</span><span style="font-size: 20px;">某某某</span></p>
+      color: $dk1
+      bold: true
+      italic: false
+      fontFamily: 思源黑体 CN Bold, 思源黑体 CN Bold
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+      wrap: true
+      align:
+        - distributed
+        - top
+  - elementId: 椭圆 256
+    elementType: shape
+    bounds: [123.5, 491.7, 7.8, 7.8]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.72
+          color: "#F1CE7D"
+        - position: 0.81
+          color: "#F8ECA9"
+        - position: 0.37
+          color: "#AD6C3600"
+  - elementId: 椭圆 257
+    elementType: shape
+    bounds: [119.3, 487.5, 16.2, 16.2]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#F1CE7D"
+        - position: 1
+          color: "#F8ECA9"
+        - position: 0.54
+          color: "#AD6C3600"
+  - elementId: 椭圆 258
+    elementType: shape
+    bounds: [126.2, 494.4, 2.3, 2.3]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.22
+          color: "#F1CE7D"
+        - position: 0.85
+          color: "#F1CE7D"
+        - position: 0
+          color: "#F8ECA9"
+        - position: 0.56
+          color: "#AD6C36"
+        - position: 1
+          color: "#CE8140"
+      angle: 45
+  - elementId: 椭圆 253
+    elementType: shape
+    bounds: [123.5, 491.7, 7.8, 7.8]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.72
+          color: "#F1CE7D"
+        - position: 0.81
+          color: "#F8ECA9"
+        - position: 0.37
+          color: "#AD6C3600"
+  - elementId: 椭圆 254
+    elementType: shape
+    bounds: [119.3, 487.5, 16.2, 16.2]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#F1CE7D"
+        - position: 1
+          color: "#F8ECA9"
+        - position: 0.54
+          color: "#AD6C3600"
+  - elementId: 椭圆 255
+    elementType: shape
+    bounds: [126.2, 494.4, 2.3, 2.3]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.22
+          color: "#F1CE7D"
+        - position: 0.85
+          color: "#F1CE7D"
+        - position: 0
+          color: "#F8ECA9"
+        - position: 0.56
+          color: "#AD6C36"
+        - position: 1
+          color: "#CE8140"
+      angle: 45
+  - elementId: 椭圆 250
+    elementType: shape
+    bounds: [123.5, 491.7, 7.8, 7.8]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.72
+          color: "#F1CE7D"
+        - position: 0.81
+          color: "#F8ECA9"
+        - position: 0.37
+          color: "#AD6C3600"
+  - elementId: 椭圆 251
+    elementType: shape
+    bounds: [119.3, 487.5, 16.2, 16.2]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#F1CE7D"
+        - position: 1
+          color: "#F8ECA9"
+        - position: 0.54
+          color: "#AD6C3600"
+  - elementId: 椭圆 252
+    elementType: shape
+    bounds: [126.2, 494.4, 2.3, 2.3]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.22
+          color: "#F1CE7D"
+        - position: 0.85
+          color: "#F1CE7D"
+        - position: 0
+          color: "#F8ECA9"
+        - position: 0.56
+          color: "#AD6C36"
+        - position: 1
+          color: "#CE8140"
+      angle: 45
+  - elementId: 椭圆 247
+    elementType: shape
+    bounds: [123.5, 491.7, 7.8, 7.8]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.72
+          color: "#F1CE7D"
+        - position: 0.81
+          color: "#F8ECA9"
+        - position: 0.37
+          color: "#AD6C3600"
+  - elementId: 椭圆 248
+    elementType: shape
+    bounds: [119.3, 487.5, 16.2, 16.2]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#F1CE7D"
+        - position: 1
+          color: "#F8ECA9"
+        - position: 0.54
+          color: "#AD6C3600"
+  - elementId: 椭圆 249
+    elementType: shape
+    bounds: [126.2, 494.4, 2.3, 2.3]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.22
+          color: "#F1CE7D"
+        - position: 0.85
+          color: "#F1CE7D"
+        - position: 0
+          color: "#F8ECA9"
+        - position: 0.56
+          color: "#AD6C36"
+        - position: 1
+          color: "#CE8140"
+      angle: 45
+  - elementId: 椭圆 244
+    elementType: shape
+    bounds: [123.5, 491.7, 7.8, 7.8]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.72
+          color: "#F1CE7D"
+        - position: 0.81
+          color: "#F8ECA9"
+        - position: 0.37
+          color: "#AD6C3600"
+  - elementId: 椭圆 245
+    elementType: shape
+    bounds: [119.3, 487.5, 16.2, 16.2]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#F1CE7D"
+        - position: 1
+          color: "#F8ECA9"
+        - position: 0.54
+          color: "#AD6C3600"
+  - elementId: 椭圆 246
+    elementType: shape
+    bounds: [126.2, 494.4, 2.3, 2.3]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.22
+          color: "#F1CE7D"
+        - position: 0.85
+          color: "#F1CE7D"
+        - position: 0
+          color: "#F8ECA9"
+        - position: 0.56
+          color: "#AD6C36"
+        - position: 1
+          color: "#CE8140"
+      angle: 45
+  - elementId: 椭圆 241
+    elementType: shape
+    bounds: [123.5, 491.7, 7.8, 7.8]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.72
+          color: "#F1CE7D"
+        - position: 0.81
+          color: "#F8ECA9"
+        - position: 0.37
+          color: "#AD6C3600"
+  - elementId: 椭圆 242
+    elementType: shape
+    bounds: [119.3, 487.5, 16.2, 16.2]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.96
+          color: "#F1CE7D"
+        - position: 1
+          color: "#F8ECA9"
+        - position: 0.54
+          color: "#AD6C3600"
+  - elementId: 椭圆 243
+    elementType: shape
+    bounds: [126.2, 494.4, 2.3, 2.3]
+    rotation: 270
+    shapeName: ellipse
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.22
+          color: "#F1CE7D"
+        - position: 0.85
+          color: "#F1CE7D"
+        - position: 0
+          color: "#F8ECA9"
+        - position: 0.56
+          color: "#AD6C36"
+        - position: 1
+          color: "#CE8140"
+      angle: 45
+  - elementId: 矩形 80-shape
+    elementType: shape
+    bounds: [74.8, 303.1, 531.5, 46]
+    shapeName: rect
+    shadow:
+      blur: 4
+      color: $dk1
+      offset: [2.1213, 2.1213]
+  - elementId: 矩形 80-text
+    elementType: text
+    bounds: [74.8, 303.1, 531.5, 46]
+    content:
+      text: |-
+        <p style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px;">点击此处空白进行更改添加文字内容</p>
+      color: $lt1
+      fontSize: 32
+      bold: true
+      italic: false
+      fontFamily: 思源黑体 CN Heavy, 思源黑体 CN Heavy
+      lineHeight: 1
+      letterSpacing: 0
+      wrap: false
+      align:
+        - center
+        - top

@@ -1,0 +1,96 @@
+pageType: content
+elements:
+- elementId: a1
+  elementType: shape
+  bounds:
+  - 100
+  - 100
+  - 60
+  - 1
+  shapeName: straightConnector1
+  arrow:
+  - null
+  - null
+  border:
+    style: solid
+    width: 1.5
+    color: '#FFC000'
+- elementId: a2
+  elementType: shape
+  bounds:
+  - 100
+  - 120
+  - 60
+  - 1
+  shapeName: straightConnector1
+  arrow:
+  - null
+  - null
+  border:
+    style: solid
+    width: 1.5
+    color: '#FFC000'
+- elementId: a3
+  elementType: shape
+  bounds:
+  - 100
+  - 140
+  - 60
+  - 1
+  shapeName: straightConnector1
+  arrow:
+  - null
+  - null
+  border:
+    style: solid
+    width: 1.5
+    color: '#FFC000'
+- elementId: a4
+  elementType: shape
+  bounds:
+  - 100
+  - 160
+  - 60
+  - 1
+  shapeName: straightConnector1
+  arrow:
+  - null
+  - null
+  border:
+    style: solid
+    width: 1.5
+    color: '#FFC000'
+- elementId: a5
+  elementType: shape
+  bounds:
+  - 100
+  - 180
+  - 60
+  - 1
+  shapeName: straightConnector1
+  arrow:
+  - null
+  - null
+  border:
+    style: solid
+    width: 1.5
+    color: '#FFC000'
+- elementId: a6
+  elementType: line
+  bounds:
+  - 100
+  - 200
+  - 60
+  - 4
+  viewBox:
+  - 60
+  - 4
+  points: 0,2 60,2
+  curve: sharp
+  arrow:
+  - null
+  - null
+  border:
+    style: solid
+    width: 1.5
+    color: '#38BDF8'

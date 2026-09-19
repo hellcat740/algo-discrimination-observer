@@ -1,0 +1,1481 @@
+pageType: content
+elements:
+  - elementId: 矩形 7
+    elementType: shape
+    bounds: [0, 0, 960, 540]
+    shapeName: rect
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#002456"
+        - position: 0
+          color: "#042258"
+      angle: 90
+    border:
+      style: solid
+      width: 1
+      color: "#0A111D"
+  - elementId: Picture 47
+    elementType: image
+    bounds: [0.2, -0.7, 453.1, 540]
+    cropShape:
+      shapeName: rect
+    src: media/image-5.png
+    fit:
+      mode: fill
+  - elementId: Picture 111
+    elementType: image
+    bounds: [343.9, -65.8, 661.8, 440]
+    cropShape:
+      shapeName: rect
+    src: media/image-17.png
+    fit:
+      mode: fill
+  - elementId: Picture 3
+    elementType: image
+    bounds: [0, 46.5, 959.2, 493.5]
+    cropShape:
+      shapeName: rect
+    src: media/image-2.png
+    fit:
+      mode: fill
+  - elementId: "流程图: 手动输入 119"
+    elementType: shape
+    bounds: [-5, -437.6, 287.5, 369.4]
+    shapeName: custom
+    viewBox:
+      - 10000
+      - 10000
+    path: M99,1256 L10000,0 L10000,10000 L0,10000 C66,7061 33,4195 99,1256 Z
+    fill:
+      type: solid
+      color: $accent1
+    border:
+      style: solid
+      width: 1
+      color: "#FFF2CC52"
+  - elementId: "16"
+    elementType: image
+    bounds: [95.6, -223.6, 883.4, 188.8]
+    cropShape:
+      shapeName: custom
+    src: media/image-6.png
+    crop:
+      top: 0.54275
+      bottom: -0.00635
+  - elementId: "任意多边形: 形状 2"
+    elementType: shape
+    bounds: [595.6, 21, 364.4, 16.9]
+    shapeName: custom
+    viewBox:
+      - 4628346
+      - 214864
+    path: M1179178,4 C2036332,-88 3402008,1227 4378814,1467 L4628346,1500 L4628346,214864 L0,214864 C188271,25210 188159,4890 387013,1504 C449155,446 750602,49 1179178,4 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC40"
+        - position: 0
+          color: "#8FAADC4F"
+      angle: 90
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 40
+    elementType: shape
+    bounds: [610.5, 24.7, 105.5, 15.2]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC54"
+        - position: 0
+          color: "#8FAADCA6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 40-2
+    elementType: shape
+    bounds: [706.9, 24.7, 105.5, 15.2]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC54"
+        - position: 0
+          color: "#8FAADCA6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 40-3
+    elementType: shape
+    bounds: [803.3, 24.7, 105.5, 15.2]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC54"
+        - position: 0
+          color: "#8FAADCA6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 6
+    elementType: shape
+    bounds: [780.5, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 8
+    elementType: shape
+    bounds: [785.7, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 9
+    elementType: shape
+    bounds: [790.8, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 11
+    elementType: shape
+    bounds: [796, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 47
+    elementType: shape
+    bounds: [801.1, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 48
+    elementType: shape
+    bounds: [806.3, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 103
+    elementType: shape
+    bounds: [811.4, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 104
+    elementType: shape
+    bounds: [816.6, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 105
+    elementType: shape
+    bounds: [821.7, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 106
+    elementType: shape
+    bounds: [826.9, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: "任意多边形: 形状 107"
+    elementType: line
+    bounds: [841.9, 11.9, 120, 4.4]
+    opacity: 0.55
+    viewBox:
+      - 1524000
+      - 82550
+    points: 1524000,0 44450,0 0,82550
+    curve: sharp
+    border:
+      style: solid
+      width: 1
+      color: $accent1
+  - elementId: "任意多边形: 形状 108"
+    elementType: shape
+    bounds: [1.4, 2.7, 957.3, 41.3]
+    shapeName: custom
+    viewBox:
+      - 12157213
+      - 448506
+    path: M0,0 L2257280,0 L9862425,0 L12157213,0 L12157213,74543 L9804378,74543 L9723422,173848 L7786457,175980 C7555196,178292 7526819,445158 7283623,448506 L4803246,448506 C4560050,445158 4531673,178292 4300412,175980 C4206462,175041 3906270,174578 3525514,174302 L2398965,173800 L2318049,74543 L0,74543 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#4472C429"
+        - position: 0.76
+          color: "#4472C440"
+        - position: 0.45
+          color: "#8FAADC54"
+        - position: 0
+          color: "#8FAADCA6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: "任意多边形: 形状 109"
+    elementType: shape
+    bounds: [0, 21, 357.4, 16.9]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 4539446
+      - 214864
+    path: M1179178,4 C750601,49 449155,446 387013,1504 C188159,4890 188271,25210 0,214864 L4539446,214864 L4539446,1488 L4378813,1467 C3402008,1227 2036332,-88 1179178,4 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC40"
+        - position: 0
+          color: "#8FAADC4F"
+      angle: 90
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 40-4
+    elementType: shape
+    bounds: [237, 24.7, 105.5, 15.2]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC54"
+        - position: 0
+          color: "#8FAADCA6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 40-5
+    elementType: shape
+    bounds: [140.6, 24.7, 105.5, 15.2]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC54"
+        - position: 0
+          color: "#8FAADCA6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 40-6
+    elementType: shape
+    bounds: [44.2, 24.7, 105.5, 15.2]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#33569324"
+        - position: 0.76
+          color: "#4472C43B"
+        - position: 0.45
+          color: "#8FAADC54"
+        - position: 0
+          color: "#8FAADCA6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADC03"
+  - elementId: 平行四边形 113
+    elementType: shape
+    bounds: [171, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 114
+    elementType: shape
+    bounds: [165.9, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 115
+    elementType: shape
+    bounds: [160.7, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 116
+    elementType: shape
+    bounds: [155.6, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 117
+    elementType: shape
+    bounds: [150.4, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 118
+    elementType: shape
+    bounds: [145.3, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 120
+    elementType: shape
+    bounds: [140.1, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 121
+    elementType: shape
+    bounds: [135, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 122
+    elementType: shape
+    bounds: [129.8, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 123
+    elementType: shape
+    bounds: [124.7, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 文本框 124-shape
+    elementType: shape
+    bounds: [405.7, 5.8, 148.6, 36.4]
+    shapeName: rect
+    shadow:
+      blur: 10
+      color: "#223962"
+      offset: [0, 4]
+  - elementId: 文本框 124-text
+    elementType: text
+    bounds: [405.7, 5.8, 148.6, 36.4]
+    content:
+      text: |-
+        <p>政策解读页面</p>
+      shadow:
+        blur: 3
+        color: "#0000006E"
+        offset: [2.1213, 2.1213]
+      wrap: false
+      align:
+        - center
+        - middle
+      style: $text1
+  - elementId: "任意多边形: 形状 125"
+    elementType: line
+    bounds: [0, 11.9, 120, 4.4]
+    opacity: 0.55
+    flip: [true, false]
+    viewBox:
+      - 1524000
+      - 82550
+    points: 1524000,0 44450,0 0,82550
+    curve: sharp
+    border:
+      style: solid
+      width: 1
+      color: $accent1
+  - elementId: MG-大标题矩形装饰
+    elementType: shape
+    bounds: [402.8, 43.9, 12.4, 1.4]
+    shapeName: rect
+    fill:
+      type: solid
+      color: "#DAE3F3"
+  - elementId: MG-大标题矩形装饰-2
+    elementType: shape
+    bounds: [544.8, 43.9, 12.4, 1.4]
+    shapeName: rect
+    fill:
+      type: solid
+      color: "#DAE3F3"
+  - elementId: 文本框 128
+    elementType: text
+    bounds: [80, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题1</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 129
+    elementType: text
+    bounds: [174.5, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题2</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 130
+    elementType: text
+    bounds: [269, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题3</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 131
+    elementType: text
+    bounds: [639.5, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题4</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 132
+    elementType: text
+    bounds: [734, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题5</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 133
+    elementType: text
+    bounds: [828.5, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题6</p>
+      wrap: false
+      style: $text2
+  - elementId: "任意多边形: 形状 134"
+    elementType: shape
+    bounds: [17.5, -1.2, 925, 41.3]
+    shapeName: custom
+    viewBox:
+      - 12157213
+      - 448506
+    path: M0,0 L2257280,0 L9862425,0 L12157213,0 L12157213,74543 L9804378,74543 L9723422,173848 L7786457,175980 C7555196,178292 7526819,445158 7283623,448506 L4803246,448506 C4560050,445158 4531673,178292 4300412,175980 C4206462,175041 3906270,174578 3525514,174302 L2398965,173800 L2318049,74543 L0,74543 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.07
+          color: "#8FAADCAB"
+        - position: 0.68
+          color: "#8FAADC00"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#8FAADCAB"
+  - elementId: 图片 205
+    elementType: image
+    bounds: [79.6, 148.4, 229.5, 146.6]
+    cropShape:
+      shapeName: rect
+    src: media/image-29.png
+    fit:
+      mode: fill
+  - elementId: 梯形 218
+    elementType: shape
+    bounds: [78.7, 102.5, 230.4, 22.9]
+    flip: [false, true]
+    shapeName: trapezoid
+    adjustments:
+      - 34524
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#016DFF"
+        - position: 0.84
+          color: "#016DFF00"
+      angle: 0
+    border:
+      style: solid
+      width: 0.18
+      color: "#CCFFFF00"
+  - elementId: 直接连接符 219
+    elementType: shape
+    bounds: [87.3, 128.8, 203.4, 0]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 0.25
+  - elementId: 文本框 215-shape
+    elementType: shape
+    bounds: [98.1, 114.3, 136.7, 9.7]
+    shapeName: rect
+    shadow:
+      blur: 2.0373
+      color: "#01378099"
+      offset: [1.4406, 1.4406]
+  - elementId: 文本框 215-text
+    elementType: text
+    bounds: [98.1, 114.3, 136.7, 9.7]
+    content:
+      text: |-
+        <p style="line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">MEDICAL INNOVATION</p>
+      wrap: false
+      align:
+        - left
+        - middle
+      style: $text6
+  - elementId: 文本框 216-shape
+    elementType: shape
+    bounds: [97.8, 82.4, 193.9, 29.1]
+    shapeName: rect
+    shadow:
+      blur: 2.0373
+      color: "#01378099"
+      offset: [1.4406, 1.4406]
+  - elementId: 文本框 216-text
+    elementType: text
+    bounds: [97.8, 82.4, 193.9, 29.1]
+    content:
+      text: |-
+        <p style="line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">点击更换文字内容</p>
+      wrap: false
+      align:
+        - left
+        - middle
+      style: $text7
+  - elementId: 梯形 210
+    elementType: shape
+    bounds: [73.8, 98.5, 49.5, 30.6]
+    flip: [false, true]
+    shapeName: trapezoid
+    adjustments:
+      - 34524
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.38
+          color: "#016DFF00"
+        - position: 0
+          color: "#016DFF94"
+    border:
+      style: solid
+      width: 0.25
+      color: "#CCFFFF"
+  - elementId: "任意多边形: 形状 211"
+    elementType: shape
+    bounds: [72.8, 97.9, 11.7, 7.1]
+    flip: [false, true]
+    shapeName: custom
+    viewBox:
+      - 231086
+      - 132733
+    path: M0,132733 L231086,132733 L217119,120767 L19298,120767 L61208,0 L46063,0 Z
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0
+          color: "#CCE2FF"
+        - position: 1
+          color: "#016DFF"
+        - position: 0.68
+          color: "#016DFF"
+  - elementId: 梯形 212
+    elementType: shape
+    bounds: [78.6, 102.3, 32.4, 22.9]
+    flip: [false, true]
+    shapeName: trapezoid
+    adjustments:
+      - 34524
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0
+          color: "#FDFEFF"
+        - position: 0.64
+          color: "#FDFEFF00"
+  - elementId: "任意多边形: 形状 213"
+    elementType: shape
+    bounds: [82.3, 125.3, 4.8, 4]
+    rotation: 70.15811666666667
+    shapeName: custom
+    viewBox:
+      - 117217
+      - 92440
+    path: M0,92440 L6557,74271 L73326,74271 L100126,0 L117217,6167 L86124,92335 L86085,92321 L86086,92440 Z
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0
+          color: "#CCE2FF"
+        - position: 0.67
+          color: "#016DFF"
+        - position: 1
+          color: "#016DFF"
+  - elementId: 等腰三角形 214
+    elementType: shape
+    bounds: [90.5, 96.9, 3.7, 3.4]
+    rotation: 90
+    shapeName: triangle
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0
+          color: "#CCE2FF"
+        - position: 1
+          color: "#016DFF"
+    shadow:
+      blur: 2
+      color: "#0152BF66"
+      offset: [1.4142, 1.4142]
+  - elementId: 文本框 220
+    elementType: text
+    bounds: [89.3, 193.3, 205.4, 119]
+    content:
+      text: |-
+        <p style="text-align: justify; line-height: 1.25;">点击此处更换文字内容，点击此处更换文字内容，点击此处更换文字内容.</p><p style="text-align: justify; line-height: 24px;"><span style="font-size: 1px; font-family: 梦源黑体 CN W14, 梦源黑体 CN W14;"> </span></p><p style="text-align: justify; line-height: 24px;"><span style="font-size: 1px; font-family: 梦源黑体 CN W14, 梦源黑体 CN W14;"> </span></p>
+      wrap: true
+      align:
+        - justify
+        - top
+      style: $text8
+  - elementId: 直接连接符 222
+    elementType: shape
+    bounds: [53.4, 227.1, 0, 16.8]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 0.75
+      color: "#CC22BD"
+  - elementId: 直接连接符 223
+    elementType: shape
+    bounds: [66.1, 212.6, 0, 49.2]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 0.75
+      color: "#CC22BD"
+  - elementId: 图片 224
+    elementType: image
+    bounds: [381.7, 148.4, 229.5, 146.6]
+    cropShape:
+      shapeName: rect
+    src: media/image-29.png
+    fit:
+      mode: fill
+  - elementId: 梯形 238
+    elementType: shape
+    bounds: [380.8, 102.5, 230.4, 22.9]
+    flip: [false, true]
+    shapeName: trapezoid
+    adjustments:
+      - 34524
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#016DFF"
+        - position: 0.84
+          color: "#016DFF00"
+      angle: 0
+    border:
+      style: solid
+      width: 0.18
+      color: "#CCFFFF00"
+  - elementId: 直接连接符 239
+    elementType: shape
+    bounds: [389.3, 128.8, 203.4, 0]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 0.25
+  - elementId: 文本框 234-shape
+    elementType: shape
+    bounds: [400.2, 114.3, 186.2, 9.7]
+    shapeName: rect
+    shadow:
+      blur: 2.0373
+      color: "#01378099"
+      offset: [1.4406, 1.4406]
+  - elementId: 文本框 234-text
+    elementType: text
+    bounds: [400.2, 114.3, 186.2, 9.7]
+    content:
+      text: |-
+        <p style="line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">MANUFACTURING INNOVATION</p>
+      wrap: false
+      align:
+        - left
+        - middle
+      style: $text6
+  - elementId: 文本框 236-shape
+    elementType: shape
+    bounds: [399.9, 82.4, 193.9, 29.1]
+    shapeName: rect
+    shadow:
+      blur: 2.0373
+      color: "#01378099"
+      offset: [1.4406, 1.4406]
+  - elementId: 文本框 236-text
+    elementType: text
+    bounds: [399.9, 82.4, 193.9, 29.1]
+    content:
+      text: |-
+        <p style="line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">点击更换文字内容</p>
+      wrap: false
+      align:
+        - left
+        - middle
+      style: $text7
+  - elementId: 梯形 229
+    elementType: shape
+    bounds: [375.8, 98.5, 49.5, 30.6]
+    flip: [false, true]
+    shapeName: trapezoid
+    adjustments:
+      - 34524
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.38
+          color: "#016DFF00"
+        - position: 0
+          color: "#016DFF94"
+    border:
+      style: solid
+      width: 0.25
+      color: "#CCFFFF"
+  - elementId: "任意多边形: 形状 230"
+    elementType: shape
+    bounds: [374.9, 97.9, 11.7, 7.1]
+    flip: [false, true]
+    shapeName: custom
+    viewBox:
+      - 231086
+      - 132733
+    path: M0,132733 L231086,132733 L217119,120767 L19298,120767 L61208,0 L46063,0 Z
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0
+          color: "#CCE2FF"
+        - position: 1
+          color: "#016DFF"
+        - position: 0.68
+          color: "#016DFF"
+  - elementId: 梯形 231
+    elementType: shape
+    bounds: [380.7, 102.3, 32.4, 22.9]
+    flip: [false, true]
+    shapeName: trapezoid
+    adjustments:
+      - 34524
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0
+          color: "#FDFEFF"
+        - position: 0.64
+          color: "#FDFEFF00"
+  - elementId: "任意多边形: 形状 232"
+    elementType: shape
+    bounds: [384.4, 125.3, 4.8, 4]
+    rotation: 70.15811666666667
+    shapeName: custom
+    viewBox:
+      - 117217
+      - 92440
+    path: M0,92440 L6557,74271 L73326,74271 L100126,0 L117217,6167 L86124,92335 L86085,92321 L86086,92440 Z
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0
+          color: "#CCE2FF"
+        - position: 0.67
+          color: "#016DFF"
+        - position: 1
+          color: "#016DFF"
+  - elementId: 等腰三角形 233
+    elementType: shape
+    bounds: [392.5, 96.9, 3.7, 3.4]
+    rotation: 90
+    shapeName: triangle
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0
+          color: "#CCE2FF"
+        - position: 1
+          color: "#016DFF"
+    shadow:
+      blur: 2
+      color: "#0152BF66"
+      offset: [1.4142, 1.4142]
+  - elementId: 文本框 240
+    elementType: text
+    bounds: [397, 186.9, 205.4, 119]
+    content:
+      text: |-
+        <p style="text-align: justify; line-height: 1.25;">点击此处更换文字内容，点击此处更换文字内容，点击此处更换文字内容.</p><p style="text-align: justify; line-height: 24px;"><span style="font-size: 1px; font-family: 梦源黑体 CN W14, 梦源黑体 CN W14;"> </span></p><p style="text-align: justify; line-height: 24px;"><span style="font-size: 1px; font-family: 梦源黑体 CN W14, 梦源黑体 CN W14;"> </span></p>
+      wrap: true
+      align:
+        - justify
+        - top
+      style: $text8
+  - elementId: 直接连接符 242
+    elementType: shape
+    bounds: [355.4, 227.1, 0, 16.8]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 0.75
+      color: "#CC22BD"
+  - elementId: 直接连接符 243
+    elementType: shape
+    bounds: [368.2, 212.6, 0, 49.2]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 0.75
+      color: "#CC22BD"
+  - elementId: 图片 250
+    elementType: image
+    bounds: [683.7, 148.4, 229.5, 146.6]
+    cropShape:
+      shapeName: rect
+    src: media/image-29.png
+    fit:
+      mode: fill
+  - elementId: 梯形 263
+    elementType: shape
+    bounds: [682.9, 102.5, 230.4, 22.9]
+    flip: [false, true]
+    shapeName: trapezoid
+    adjustments:
+      - 34524
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#016DFF"
+        - position: 0.84
+          color: "#016DFF00"
+      angle: 0
+    border:
+      style: solid
+      width: 0.18
+      color: "#CCFFFF00"
+  - elementId: 直接连接符 264
+    elementType: shape
+    bounds: [691.4, 128.8, 203.4, 0]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 0.25
+  - elementId: 文本框 260-shape
+    elementType: shape
+    bounds: [702.2, 114.3, 195.1, 9.7]
+    shapeName: rect
+    shadow:
+      blur: 2.0373
+      color: "#01378099"
+      offset: [1.4406, 1.4406]
+  - elementId: 文本框 260-text
+    elementType: text
+    bounds: [702.2, 114.3, 195.1, 9.7]
+    content:
+      text: |-
+        <p style="line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">LEADING MEDICAL INNOVATION</p>
+      wrap: false
+      align:
+        - left
+        - middle
+      style: $text6
+  - elementId: 文本框 261-shape
+    elementType: shape
+    bounds: [702, 82.4, 193.9, 29.1]
+    shapeName: rect
+    shadow:
+      blur: 2.0373
+      color: "#01378099"
+      offset: [1.4406, 1.4406]
+  - elementId: 文本框 261-text
+    elementType: text
+    bounds: [702, 82.4, 193.9, 29.1]
+    content:
+      text: |-
+        <p style="line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">点击更换文字内容</p>
+      wrap: false
+      align:
+        - left
+        - middle
+      style: $text7
+  - elementId: 梯形 255
+    elementType: shape
+    bounds: [677.9, 98.5, 49.5, 30.6]
+    flip: [false, true]
+    shapeName: trapezoid
+    adjustments:
+      - 34524
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0.38
+          color: "#016DFF00"
+        - position: 0
+          color: "#016DFF94"
+    border:
+      style: solid
+      width: 0.25
+      color: "#CCFFFF"
+  - elementId: "任意多边形: 形状 256"
+    elementType: shape
+    bounds: [676.9, 97.9, 11.7, 7.1]
+    flip: [false, true]
+    shapeName: custom
+    viewBox:
+      - 231086
+      - 132733
+    path: M0,132733 L231086,132733 L217119,120767 L19298,120767 L61208,0 L46063,0 Z
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0
+          color: "#CCE2FF"
+        - position: 1
+          color: "#016DFF"
+        - position: 0.68
+          color: "#016DFF"
+  - elementId: 梯形 257
+    elementType: shape
+    bounds: [682.7, 102.3, 32.4, 22.9]
+    flip: [false, true]
+    shapeName: trapezoid
+    adjustments:
+      - 34524
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0
+          color: "#FDFEFF"
+        - position: 0.64
+          color: "#FDFEFF00"
+  - elementId: "任意多边形: 形状 258"
+    elementType: shape
+    bounds: [686.4, 125.3, 4.8, 4]
+    rotation: 70.15811666666667
+    shapeName: custom
+    viewBox:
+      - 117217
+      - 92440
+    path: M0,92440 L6557,74271 L73326,74271 L100126,0 L117217,6167 L86124,92335 L86085,92321 L86086,92440 Z
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0
+          color: "#CCE2FF"
+        - position: 0.67
+          color: "#016DFF"
+        - position: 1
+          color: "#016DFF"
+  - elementId: 等腰三角形 259
+    elementType: shape
+    bounds: [694.6, 96.9, 3.7, 3.4]
+    rotation: 90
+    shapeName: triangle
+    fill:
+      type: gradient
+      gradientType: radial
+      stops:
+        - position: 0
+          color: "#CCE2FF"
+        - position: 1
+          color: "#016DFF"
+    shadow:
+      blur: 2
+      color: "#0152BF66"
+      offset: [1.4142, 1.4142]
+  - elementId: 文本框 265
+    elementType: text
+    bounds: [699.2, 183.8, 205.4, 119]
+    content:
+      text: |-
+        <p style="text-align: justify; line-height: 1.25;">点击此处更换文字内容，点击此处更换文字内容，点击此处更换文字内容.</p><p style="text-align: justify; line-height: 24px;"><span style="font-size: 1px; font-family: 梦源黑体 CN W14, 梦源黑体 CN W14;"> </span></p><p style="text-align: justify; line-height: 24px;"><span style="font-size: 1px; font-family: 梦源黑体 CN W14, 梦源黑体 CN W14;"> </span></p>
+      wrap: true
+      align:
+        - justify
+        - top
+      style: $text8
+  - elementId: 直接连接符 267
+    elementType: shape
+    bounds: [657.5, 227.1, 0, 16.8]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 0.75
+      color: "#CC22BD"
+  - elementId: 直接连接符 268
+    elementType: shape
+    bounds: [670.2, 212.6, 0, 49.2]
+    shapeName: straightConnector1
+    border:
+      style: solid
+      width: 0.75
+      color: "#CC22BD"
+  - elementId: Picture 6
+    elementType: image
+    bounds: [13.2, 203.9, 960.1, 368.2]
+    cropShape:
+      shapeName: rect
+    src: media/image-30.png
+    fit:
+      mode: fill
+  - elementId: 椭圆 64
+    elementType: shape
+    bounds: [72.6, 383.8, 850.5, 12.7]
+    shapeName: trapezoid
+    adjustments:
+      - 141379
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#70AD4700"
+        - position: 0
+          color: "#4472C433"
+      angle: 270
+    border:
+      style: solid
+      width: 0.5
+      color: "#70AD4700"
+  - elementId: 椭圆 64-2
+    elementType: shape
+    bounds: [72.6, 396.5, 850.5, 61.2]
+    shapeName: rect
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#4472C400"
+        - position: 0
+          color: "#70AD4724"
+      angle: 90
+    border:
+      style: solid
+      width: 0.5
+      color: "#70AD4700"
+  - elementId: 文本框 16
+    elementType: text
+    bounds: [430.7, 409.2, 134.4, 34]
+    content:
+      text: |-
+        <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">更换文字</p>
+      color: $dk1
+      fontSize: 28
+      bold: false
+      italic: false
+      fontFamily: 创客贴金刚体, 创客贴金刚体
+      lineHeight: 1
+      letterSpacing: 0
+      marginTop: 0
+      gradient:
+        type: gradient
+        gradientType: linear
+        stops:
+          - position: 0
+            color: "#ACC92F"
+          - position: 1
+            color: "#39E7F9"
+        angle: 0
+      wrap: true
+      align:
+        - center
+        - top
+  - elementId: 椭圆 64-3
+    elementType: shape
+    bounds: [72.6, 324.1, 188.2, 9.8]
+    shapeName: trapezoid
+    adjustments:
+      - 141379
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#70AD4700"
+        - position: 0
+          color: "#4472C433"
+      angle: 270
+    border:
+      style: solid
+      width: 0.5
+      color: "#70AD4700"
+  - elementId: 椭圆 64-4
+    elementType: shape
+    bounds: [72.6, 334, 188.2, 42.6]
+    shapeName: rect
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#4472C400"
+        - position: 0
+          color: "#70AD4724"
+      angle: 90
+    border:
+      style: solid
+      width: 0.5
+      color: "#70AD4700"
+  - elementId: 椭圆 64-5
+    elementType: shape
+    bounds: [291.3, 324.1, 412.9, 9.8]
+    shapeName: trapezoid
+    adjustments:
+      - 141379
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#70AD4700"
+        - position: 0
+          color: "#4472C433"
+      angle: 270
+    border:
+      style: solid
+      width: 0.5
+      color: "#70AD4700"
+  - elementId: 椭圆 64-6
+    elementType: shape
+    bounds: [291.3, 334, 412.9, 42.6]
+    shapeName: rect
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#4472C400"
+        - position: 0
+          color: "#70AD4724"
+      angle: 90
+    border:
+      style: solid
+      width: 0.5
+      color: "#70AD4700"
+  - elementId: 椭圆 64-7
+    elementType: shape
+    bounds: [735.2, 324.4, 188.2, 9.8]
+    shapeName: trapezoid
+    adjustments:
+      - 141379
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#70AD4700"
+        - position: 0
+          color: "#4472C433"
+      angle: 270
+    border:
+      style: solid
+      width: 0.5
+      color: "#70AD4700"
+  - elementId: 椭圆 64-8
+    elementType: shape
+    bounds: [735.2, 334.2, 188.2, 42.6]
+    shapeName: rect
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#4472C400"
+        - position: 0
+          color: "#70AD4724"
+      angle: 90
+    border:
+      style: solid
+      width: 0.5
+      color: "#70AD4700"
+  - elementId: 文本框 26
+    elementType: text
+    bounds: [477.5, 344.1, 40.5, 24.3]
+    content:
+      text: |-
+        <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">点击</p>
+      wrap: false
+      align:
+        - center
+        - top
+      style: $text9
+  - elementId: 文本框 27
+    elementType: text
+    bounds: [120.9, 344.1, 80.9, 24.3]
+    content:
+      text: |-
+        <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">更换文字</p>
+      wrap: false
+      align:
+        - center
+        - top
+      style: $text9
+  - elementId: 文本框 28
+    elementType: text
+    bounds: [809.1, 344.1, 40.5, 24.3]
+    content:
+      text: |-
+        <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">产品</p>
+      wrap: false
+      align:
+        - center
+        - top
+      style: $text9
+  - elementId: "任意多边形: 形状 30"
+    elementType: shape
+    bounds: [550.3, 417.1, 39.4, 21.1]
+    rotation: 180
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 977755
+      - 361466
+    path: M8566,329059 C11492,329059 14062,330558 15632,332842 C16489,334198 17060,335840 17060,337625 C17060,338838 16846,339980 16417,340979 C16203,341479 15918,341979 15632,342407 C15347,342835 14990,343264 14633,343620 C13062,345191 10921,346119 8566,346119 C7994,346119 7423,346119 6852,345976 C5139,345619 3640,344763 2498,343620 C2070,343192 1713,342764 1428,342336 C1142,341907 857,341408 642,340908 C428,340408 286,339909 143,339338 C71,338767 0,338196 0,337625 C0,336982 71,336411 143,335911 C357,334769 785,333770 1428,332842 C1784,332342 2141,331914 2498,331557 C3712,330344 5211,329559 6852,329202 C7423,329130 7994,329059 8566,329059 Z M86939,328060 C92222,328060 96433,332343 96433,337554 C96433,338910 96219,340123 95719,341265 C95219,342407 94506,343407 93578,344263 C91865,345976 89509,347047 86868,347047 C84227,347047 81872,345976 80158,344263 C79302,343407 78659,342407 78160,341265 C77732,340123 77446,338838 77446,337554 C77446,332271 81729,328060 86939,328060 Z M243903,325990 C250327,325990 255538,331201 255538,337625 C255538,339195 255181,340766 254610,342122 C253967,343478 253182,344763 252111,345834 C250041,347975 247115,349260 243903,349260 C240691,349260 237764,347904 235694,345834 C234624,344763 233767,343478 233196,342122 C232625,340766 232268,339195 232268,337625 C232268,331201 237479,325990 243903,325990 Z M322349,324705 C324990,324705 327489,325562 329559,326918 C332913,329273 335198,333199 335198,337625 C335198,339409 334841,341051 334198,342621 C333556,344120 332557,345548 331414,346690 C330843,347261 330201,347832 329559,348260 C327489,349688 324990,350473 322349,350473 C321493,350473 320636,350330 319780,350188 C317281,349688 314997,348403 313284,346690 C312071,345548 311143,344192 310500,342621 C309858,341122 309501,339409 309501,337625 C309501,331415 313927,326204 319780,324990 C320565,324776 321493,324705 322349,324705 Z M479098,321707 C484594,321707 489376,324491 492232,328702 C493945,331272 494944,334270 494944,337553 C494944,339695 494516,341836 493731,343692 C493374,344691 492874,345548 492303,346404 C491732,347261 491090,348046 490304,348760 C487449,351615 483452,353400 479098,353400 C477956,353400 476885,353257 475886,353043 C472816,352472 470033,350901 467891,348760 C467177,348046 466535,347261 465964,346404 C465393,345548 464965,344620 464536,343692 C464108,342693 463823,341693 463608,340694 C463466,339623 463323,338553 463323,337482 C463323,336340 463394,335269 463608,334270 C464037,332200 464822,330344 465964,328631 C466535,327774 467177,326989 467891,326275 C470033,324134 472816,322635 475886,321993 C476956,321850 478027,321707 479098,321707 Z M557687,320066 C567323,320066 575175,327918 575175,337554 C575175,339981 574675,342336 573819,344406 C572891,346476 571606,348404 570178,349974 C566966,353115 562612,355113 557758,355113 C552905,355113 548479,353115 545338,349974 C543697,348404 542412,346476 541555,344406 C540699,342265 540199,339981 540199,337554 C540199,327918 548051,320066 557687,320066 Z M714579,316140 C726428,316140 736064,325776 736064,337625 C736064,340552 735422,343407 734351,345977 C733281,348546 731710,350830 729854,352829 C726000,356684 720575,359111 714651,359111 C708726,359111 703373,356755 699447,352829 C697448,350902 695878,348546 694807,345977 C693665,343407 693094,340623 693094,337625 C693094,325776 702730,316140 714579,316140 Z M793025,313784 C797950,313784 802590,315283 806373,317853 C812725,322135 816865,329416 816865,337625 C816865,340908 816223,344049 815010,346904 C813796,349759 812012,352329 809870,354470 C808800,355541 807586,356469 806373,357397 C802518,359967 797950,361466 793025,361466 C791383,361466 789813,361251 788242,360966 C783603,360038 779391,357682 776179,354470 C773966,352329 772253,349759 771040,346904 C769826,344049 769184,340908 769184,337625 C769184,326133 777393,316496 788242,314284 C789741,313927 791383,313784 793025,313784 Z M47753,289372 C52749,289372 56747,293369 56747,298366 C56747,303362 52749,307360 47753,307360 C42756,307360 38759,303362 38759,298366 C38759,293369 42756,289372 47753,289372 Z M126198,288373 C131694,288373 136191,292870 136191,298366 C136191,303862 131694,308359 126198,308359 C120631,308359 116205,303862 116205,298366 C116205,292799 120702,288373 126198,288373 Z M283162,286160 C289872,286160 295368,291585 295368,298366 C295368,305147 289872,310572 283162,310572 C276452,310572 270956,305147 270956,298366 C270956,291656 276381,286160 283162,286160 Z M361536,284804 C369031,284804 375098,290871 375098,298366 C375098,305861 369031,311928 361536,311928 C354041,311928 347974,305861 347974,298366 C347974,290871 354041,284804 361536,284804 Z M518428,281735 C527636,281735 535060,289158 535060,298366 C535060,307574 527636,314998 518428,314998 C509220,314998 501797,307574 501797,298366 C501797,289158 509220,281735 518428,281735 Z M596946,279950 C607082,279950 615362,288159 615362,298366 C615362,308573 607082,316782 596946,316782 C586810,316782 578530,308573 578530,298366 C578530,288230 586739,279950 596946,279950 Z M753766,275739 C766258,275739 776394,285875 776394,298366 C776394,310858 766258,320994 753766,320994 C741275,320994 731139,310858 731139,298366 C731139,285875 741275,275739 753766,275739 Z M832283,273241 C846131,273241 857337,284519 857337,298367 C857337,312214 846059,323421 832283,323421 C818436,323421 807229,312214 807229,298367 C807229,284448 818436,273241 832283,273241 Z M86939,249685 C92222,249685 96433,253968 96433,259179 C96433,264389 92222,268601 86939,268672 C81657,268672 77446,264389 77446,259179 C77446,253896 81729,249685 86939,249685 Z M165457,248686 C169097,248686 172309,250542 174165,253326 C175307,254967 175950,257037 175950,259179 C175950,261320 175307,263390 174165,265032 C172238,267816 169026,269672 165457,269814 C164672,269814 164029,269743 163315,269600 C161317,269172 159461,268173 158033,266745 C157534,266245 157105,265746 156748,265175 C156035,264033 155464,262748 155178,261392 C155035,260678 154964,259964 154964,259250 C154964,258465 155035,257823 155178,257109 C155464,255681 155963,254468 156748,253326 C157105,252755 157534,252255 158033,251755 C159461,250328 161245,249328 163315,248900 C164029,248757 164743,248686 165457,248686 Z M322349,246259 C324990,246259 327489,247116 329559,248472 C332913,250827 335198,254753 335198,259179 C335198,263604 332985,267530 329559,269886 C327489,271313 324990,272098 322349,272098 C321493,272098 320636,271956 319780,271813 C313927,270599 309501,265389 309501,259179 C309501,252969 313927,247758 319780,246545 C320565,246330 321493,246259 322349,246259 Z M400795,244903 C408718,244903 415071,251327 415071,259179 C415071,267031 408647,273455 400795,273455 C392943,273455 386519,267031 386519,259179 C386519,251256 392943,244903 400795,244903 Z M557687,241691 C567323,241691 575175,249543 575175,259179 C575175,268815 567323,276667 557687,276667 C548051,276667 540199,268815 540199,259179 C540199,249543 548051,241691 557687,241691 Z M636061,239764 C642771,239764 648695,243190 652193,248330 C654263,251399 655476,255182 655476,259179 C655476,263177 654263,266960 652193,270029 C648695,275168 642842,278594 636061,278594 C634705,278594 633420,278452 632135,278166 C628352,277381 624997,275525 622356,272884 C621500,272028 620715,271028 620001,270029 C618573,267959 617574,265603 617074,263105 C616789,261820 616646,260535 616646,259179 C616646,257823 616789,256538 617074,255253 C617574,252755 618573,250400 620001,248330 C620715,247330 621500,246331 622356,245474 C624926,242833 628352,240977 632135,240192 C633420,239907 634705,239764 636061,239764 Z M793025,235338 C797950,235338 802590,236837 806373,239407 C812725,243689 816865,250970 816865,259179 C816865,267387 812654,274597 806373,278951 C802518,281521 797950,283020 793025,283020 C791383,283020 789813,282805 788242,282520 C777321,280307 769184,270671 769184,259179 C769184,247687 777393,238050 788242,235838 C789741,235481 791383,235338 793025,235338 Z M871470,232768 C886032,232768 897881,244617 897881,259178 C897881,273740 886032,285589 871470,285589 C856909,285589 845060,273740 845060,259178 C845060,244617 856909,232768 871470,232768 Z M126198,209927 C131694,209927 136191,214424 136191,219920 C136191,225416 131694,229913 126198,229913 C120631,229913 116205,225416 116205,219920 C116205,214353 120702,209927 126198,209927 Z M204644,208856 C210782,208856 215708,213853 215708,219920 C215708,226058 210782,230984 204644,230984 C198505,230984 193580,225987 193580,219920 C193580,213781 198577,208856 204644,208856 Z M361536,206358 C369031,206358 375098,212425 375098,219920 C375098,227415 369031,233482 361536,233482 C354041,233482 347974,227415 347974,219920 C347974,212425 354041,206358 361536,206358 Z M440054,204930 C448334,204930 455043,211640 455043,219920 C455043,228200 448262,234981 440054,234909 C431774,234909 425064,228200 425064,219920 C425064,211640 431774,204930 440054,204930 Z M596946,201504 C607082,201504 615362,209713 615362,219920 C615362,230127 607082,238407 596946,238336 C586810,238336 578530,230127 578530,219920 C578530,209784 586739,201504 596946,201504 Z M675321,199506 C686598,199506 695735,208643 695735,219921 C695735,231199 686598,240407 675321,240335 C664043,240335 654906,231199 654906,219921 C654906,208643 664043,199506 675321,199506 Z M832283,194866 C846131,194866 857337,206073 857337,219920 C857337,233768 846059,245046 832283,245046 C818436,245046 807229,233768 807229,219920 C807229,206073 818436,194866 832283,194866 Z M165529,170240 C169169,170240 172381,172096 174237,174880 C175379,176521 176022,178591 176022,180733 C176022,182160 175665,183517 175165,184801 C174879,185444 174523,186015 174166,186586 C173737,187157 173309,187657 173024,188299 C171096,190226 168527,191368 165600,191368 C164815,191368 164173,191297 163459,191154 C161460,190726 159604,189727 158177,188299 C157677,187799 157249,187300 156892,186729 C156464,186158 156178,185587 155893,184944 C155607,184302 155393,183659 155250,182946 C155107,182232 155036,181518 155036,180804 C155036,180019 155107,179377 155250,178663 C155536,177235 156035,176022 156820,174880 C157177,174309 157606,173809 158105,173309 C159533,171882 161317,170882 163387,170454 C164101,170311 164815,170240 165529,170240 Z M243903,169098 C250327,169098 255538,174309 255538,180733 C255538,182303 255181,183874 254610,185230 C253967,186657 253182,187871 252111,188942 C250041,191083 247115,192368 243903,192368 C240691,192368 237764,191012 235694,188942 C234624,187871 233767,186586 233196,185230 C232625,183874 232268,182303 232268,180733 C232268,174309 237479,169098 243903,169098 Z M400795,166385 C408718,166385 415071,172809 415071,180661 C415071,182660 414642,184515 413929,186229 C413215,187942 412144,189512 410859,190797 C408290,193438 404721,195008 400795,195008 C396869,195008 393300,193366 390730,190797 C389446,189441 388375,187942 387661,186229 C386947,184515 386519,182660 386519,180661 C386519,172738 392943,166385 400795,166385 Z M479098,164815 C484594,164815 489376,167599 492232,171810 C493945,174380 494944,177378 494944,180661 C494944,182803 494516,184873 493731,186800 C493374,187799 492874,188656 492303,189512 C491732,190369 491090,191154 490304,191939 C487449,194794 483452,196579 479098,196579 C477956,196579 476885,196436 475886,196222 C472816,195651 470033,194081 467891,191939 C467177,191225 466535,190440 465964,189584 C465393,188727 464965,187799 464536,186871 C464108,185872 463823,184873 463608,183873 C463466,182803 463323,181732 463323,180661 C463323,179519 463394,178449 463608,177449 C464037,175379 464822,173523 465964,171810 C466535,170954 467177,170168 467891,169455 C470033,167313 472816,165814 475886,165172 C476956,164958 478027,164815 479098,164815 Z M636061,161317 C642771,161317 648695,164743 652193,169883 C654263,172952 655476,176735 655476,180732 C655476,183445 654977,185943 653977,188298 C653478,189441 652907,190583 652193,191582 C651479,192581 650694,193581 649766,194437 C646268,198006 641415,200148 636061,200148 C634705,200148 633420,200005 632135,199719 C628352,198934 624997,197078 622356,194437 C621500,193581 620715,192581 620001,191582 C619287,190583 618716,189441 618216,188298 C617717,187156 617360,185943 617074,184658 C616789,183373 616646,182088 616646,180732 C616646,179376 616789,178091 617074,176806 C617574,174308 618573,171953 620001,169883 C620715,168883 621500,167884 622356,167027 C624926,164386 628352,162530 632135,161745 C633420,161460 634705,161317 636061,161317 Z M714579,159247 C726428,159247 736064,168883 736064,180732 C736064,183659 735422,186514 734351,189084 C733281,191653 731710,193937 729854,195936 C726000,199791 720575,202218 714651,202218 C708726,202218 703373,199862 699447,195936 C697448,194009 695878,191653 694807,189084 C693665,186514 693094,183730 693094,180732 C693094,168883 702730,159247 714579,159247 Z M871470,154322 C886032,154322 897881,166171 897881,180732 C897881,184373 897167,187870 895811,191011 C894455,194152 892527,197007 890172,199434 C885389,204216 878751,207143 871470,207143 C864118,207143 857551,204216 852769,199434 C850413,197007 848486,194152 847130,191011 C845774,187870 845060,184373 845060,180732 C845060,166171 856909,154322 871470,154322 Z M126198,131481 C131694,131481 136191,135978 136191,141474 C136191,146970 131694,151467 126198,151467 C120631,151467 116205,146970 116205,141474 C116205,135907 120702,131481 126198,131481 Z M204644,130410 C210782,130410 215708,135407 215708,141474 C215708,147612 210782,152538 204644,152538 C198505,152538 193580,147541 193580,141474 C193580,135335 198577,130410 204644,130410 Z M361536,127912 C369031,127912 375098,133979 375098,141474 C375098,148969 369031,155036 361536,155036 C354041,155036 347974,148969 347974,141474 C347974,133979 354041,127912 361536,127912 Z M440054,126484 C448334,126484 455043,133194 455043,141474 C455043,149754 448262,156535 440054,156463 C431774,156463 425064,149754 425064,141474 C425064,133194 431774,126484 440054,126484 Z M596946,123058 C607082,123058 615362,131267 615362,141474 C615362,151681 607082,159890 596946,159890 C586810,159890 578530,151681 578530,141474 C578530,131338 586739,123058 596946,123058 Z M675321,121059 C686598,121059 695735,130196 695735,141474 C695735,152752 686598,161888 675321,161888 C664043,161888 654906,152752 654906,141474 C654906,130196 664043,121059 675321,121059 Z M832283,116348 C846131,116348 857337,127626 857337,141474 C857337,155321 846059,166599 832283,166528 C818436,166528 807229,155321 807229,141474 C807229,127555 818436,116348 832283,116348 Z M910730,113636 C926076,113636 938496,126127 938496,141474 L930397,161004 L949989,152895 C965335,152895 977755,165315 977755,180662 C977755,184516 976970,188157 975542,191511 C974115,194866 972045,197864 969618,200362 C964621,205359 957698,208500 949989,208500 L930410,200383 L938496,219920 C938496,235266 926005,247758 910730,247758 C895383,247758 882963,235266 882963,219920 C882963,204573 895383,192153 910730,192153 L930281,200246 L924435,191511 C923007,188157 922222,184516 922222,180662 L930295,161159 L910730,169241 C895383,169241 882963,156821 882963,141474 C882963,126056 895383,113636 910730,113636 Z M86939,92793 C92222,92793 96433,97076 96433,102286 C96433,107497 92222,111709 86939,111780 C81657,111780 77446,107497 77446,102286 C77446,97004 81729,92793 86939,92793 Z M165457,91794 C169097,91794 172309,93650 174165,96434 C175307,98075 175950,100145 175950,102287 C175950,104428 175307,106498 174165,108140 C172238,110924 169026,112780 165457,112922 C164672,112922 164029,112851 163315,112708 C161317,112280 159461,111281 158033,109853 C157534,109353 157105,108854 156748,108283 C156035,107141 155464,105856 155178,104500 C155035,103786 154964,103072 154964,102358 C154964,101573 155035,100931 155178,100217 C155464,98789 155963,97576 156748,96434 C157105,95863 157534,95363 158033,94863 C159461,93436 161245,92436 163315,92008 C164029,91865 164743,91794 165457,91794 Z M322349,89367 C324990,89367 327489,90224 329559,91580 C332913,93935 335198,97861 335198,102287 C335198,106712 332985,110638 329559,112994 C327489,114421 324990,115206 322349,115206 C321493,115206 320636,115064 319780,114921 C313927,113707 309501,108497 309501,102287 C309501,96077 313927,90866 319780,89653 C320565,89438 321493,89367 322349,89367 Z M400795,88011 C408718,88011 415071,94435 415071,102287 C415071,110139 408647,116563 400795,116563 C392943,116563 386519,110139 386519,102287 C386519,94364 392943,88011 400795,88011 Z M557687,84798 C567323,84798 575175,92650 575175,102286 C575175,111922 567323,119774 557687,119774 C548051,119774 540199,111922 540199,102286 C540199,92650 548051,84798 557687,84798 Z M636061,82871 C642771,82871 648695,86297 652193,91437 C654263,94506 655476,98289 655476,102286 C655476,106284 654263,110067 652193,113136 C648695,118275 642842,121702 636061,121702 C634705,121702 633420,121559 632135,121273 C628352,120488 624997,118632 622356,115991 C621500,115135 620715,114135 620001,113136 C618573,111066 617574,108710 617074,106212 C616789,104927 616646,103642 616646,102286 C616646,100930 616789,99645 617074,98360 C617574,95862 618573,93507 620001,91437 C620715,90437 621500,89438 622356,88581 C624926,85940 628352,84084 632135,83299 C633420,83014 634705,82871 636061,82871 Z M793025,78446 C797950,78446 802590,79945 806373,82515 C812725,86797 816865,94078 816865,102287 C816865,110495 812654,117776 806373,122059 C802518,124629 797950,126128 793025,126128 C791383,126128 789813,125913 788242,125628 C777321,123415 769184,113779 769184,102287 C769184,90795 777393,81158 788242,78946 C789741,78589 791383,78446 793025,78446 Z M871470,75876 C886032,75876 897881,87725 897881,102286 C897881,116848 886032,128697 871470,128697 C856909,128697 845060,116848 845060,102286 C845060,87725 856909,75876 871470,75876 Z M47753,54034 C52749,54034 56747,58031 56747,63028 C56747,68024 52749,72022 47753,72022 C42756,72022 38759,68024 38759,63028 C38759,58031 42756,54034 47753,54034 Z M126198,53035 C131694,53035 136191,57532 136191,63028 C136191,68524 131694,73021 126198,73021 C120631,73021 116205,68524 116205,63028 C116205,57461 120702,53035 126198,53035 Z M283162,50822 C289872,50822 295368,56247 295368,63028 C295368,69809 289872,75305 283162,75234 C276452,75234 270956,69809 270956,63028 C270956,56318 276381,50822 283162,50822 Z M361536,49466 C369031,49466 375098,55533 375098,63028 C375098,70523 369031,76590 361536,76590 C354041,76590 347974,70523 347974,63028 C347974,55533 354041,49466 361536,49466 Z M518428,46396 C527636,46396 535060,53819 535060,63027 C535060,72235 527636,79730 518428,79659 C509220,79659 501797,72235 501797,63027 C501797,53819 509220,46396 518428,46396 Z M596946,44612 C607082,44612 615362,52821 615362,63028 C615362,73235 607082,81515 596946,81444 C586810,81444 578530,73235 578530,63028 C578530,52892 586739,44612 596946,44612 Z M753766,40400 C766258,40400 776394,50536 776394,63027 C776394,75519 766258,85726 753766,85655 C741275,85655 731139,75519 731139,63027 C731139,50536 741275,40400 753766,40400 Z M832283,37973 C846131,37973 857337,49180 857337,63027 C857337,76875 846059,88153 832283,88153 C818436,88153 807229,76875 807229,63027 C807229,49180 818436,37973 832283,37973 Z M8566,15275 C11492,15275 14062,16774 15632,19058 C16489,20414 17060,22056 17060,23841 C17060,24412 17060,24983 16917,25554 C16703,26696 16275,27695 15632,28623 C14062,30907 11492,32406 8566,32406 C7923,32406 7352,32335 6852,32192 C5139,31835 3640,30979 2498,29836 C2141,29480 1784,29051 1428,28623 C785,27695 357,26696 143,25554 C71,24983 0,24412 0,23841 C0,23270 71,22627 143,22127 C428,20985 857,19986 1428,19058 C1784,18630 2141,18202 2498,17773 C3640,16631 5139,15775 6852,15418 C7423,15346 7994,15275 8566,15275 Z M87011,14347 C92294,14347 96505,18630 96505,23840 C96505,24483 96434,25125 96291,25768 C95363,30051 91580,33263 87011,33334 C82443,33334 78589,30051 77732,25768 C77589,25125 77518,24483 77518,23840 C77518,18558 81801,14347 87011,14347 Z M243832,12205 C250256,12205 255467,17416 255467,23840 C255467,24625 255395,25410 255253,26195 C254182,31477 249471,35475 243832,35475 C238193,35475 233482,31477 232411,26195 C232268,25410 232197,24625 232197,23840 C232197,17416 237408,12205 243832,12205 Z M322349,10921 C324990,10921 327489,11778 329559,13134 C332913,15489 335198,19415 335198,23841 C335198,24697 335055,25554 334912,26410 C334270,29765 332271,32620 329559,34476 C327489,35904 324990,36689 322349,36689 C321493,36689 320636,36546 319780,36404 C314783,35404 310786,31407 309787,26410 C309572,25625 309501,24697 309501,23841 C309501,17631 313927,12420 319780,11207 C320565,10992 321493,10921 322349,10921 Z M479098,7994 C484594,7994 489376,10778 492232,14989 C493945,17559 494944,20557 494944,23840 C494944,24982 494873,26053 494659,27052 C494230,29122 493445,30978 492303,32691 C489519,36903 484665,39615 479098,39615 C477956,39615 476885,39472 475886,39258 C472816,38687 470033,37117 467891,34975 C467177,34262 466535,33477 465964,32620 C464822,30978 464037,29051 463608,26981 C463466,25910 463323,24911 463323,23769 C463323,22627 463394,21556 463608,20557 C464037,18487 464822,16631 465964,14918 C466535,14061 467177,13276 467891,12562 C470033,10421 472816,8922 475886,8280 C476956,8137 478027,7994 479098,7994 Z M557687,6352 C567323,6352 575175,14204 575175,23840 C575175,24982 575032,26196 574818,27338 C573176,35332 566110,41328 557687,41328 C549264,41328 542198,35332 540556,27338 C540342,26196 540199,25053 540199,23840 C540199,14204 548051,6352 557687,6352 Z M714579,2284 C726428,2284 736064,11920 736064,23769 C736064,25268 735922,26696 735636,28123 C733638,37974 724929,45326 714579,45326 C704229,45326 695521,37902 693522,28123 C693237,26696 693094,25268 693094,23769 C693094,11920 702730,2284 714579,2284 Z M793025,0 C797950,0 802518,1499 806373,4069 C812725,8351 816865,15632 816865,23841 C816865,25483 816651,27053 816366,28623 C815081,34833 811369,40187 806373,43613 C802518,46183 797950,47682 793025,47682 C791383,47682 789813,47467 788242,47182 C778892,45255 771611,37903 769684,28623 C769327,27124 769184,25483 769184,23841 C769184,12349 777393,2712 788242,500 C789741,143 791383,0 793025,0 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#70AD4700"
+        - position: 0
+          color: $accent1
+      angle: 180
+  - elementId: "任意多边形: 形状 31"
+    elementType: shape
+    bounds: [406, 417.1, 39.4, 21.1]
+    rotation: 180
+    shapeName: custom
+    viewBox:
+      - 977755
+      - 361466
+    path: M8566,329059 C11492,329059 14062,330558 15632,332842 C16489,334198 17060,335840 17060,337625 C17060,338838 16846,339980 16417,340979 C16203,341479 15918,341979 15632,342407 C15347,342835 14990,343264 14633,343620 C13062,345191 10921,346119 8566,346119 C7994,346119 7423,346119 6852,345976 C5139,345619 3640,344763 2498,343620 C2070,343192 1713,342764 1428,342336 C1142,341907 857,341408 642,340908 C428,340408 286,339909 143,339338 C71,338767 0,338196 0,337625 C0,336982 71,336411 143,335911 C357,334769 785,333770 1428,332842 C1784,332342 2141,331914 2498,331557 C3712,330344 5211,329559 6852,329202 C7423,329130 7994,329059 8566,329059 Z M86939,328060 C92222,328060 96433,332343 96433,337554 C96433,338910 96219,340123 95719,341265 C95219,342407 94506,343407 93578,344263 C91865,345976 89509,347047 86868,347047 C84227,347047 81872,345976 80158,344263 C79302,343407 78659,342407 78160,341265 C77732,340123 77446,338838 77446,337554 C77446,332271 81729,328060 86939,328060 Z M243903,325990 C250327,325990 255538,331201 255538,337625 C255538,339195 255181,340766 254610,342122 C253967,343478 253182,344763 252111,345834 C250041,347975 247115,349260 243903,349260 C240691,349260 237764,347904 235694,345834 C234624,344763 233767,343478 233196,342122 C232625,340766 232268,339195 232268,337625 C232268,331201 237479,325990 243903,325990 Z M322349,324705 C324990,324705 327489,325562 329559,326918 C332913,329273 335198,333199 335198,337625 C335198,339409 334841,341051 334198,342621 C333556,344120 332557,345548 331414,346690 C330843,347261 330201,347832 329559,348260 C327489,349688 324990,350473 322349,350473 C321493,350473 320636,350330 319780,350188 C317281,349688 314997,348403 313284,346690 C312071,345548 311143,344192 310500,342621 C309858,341122 309501,339409 309501,337625 C309501,331415 313927,326204 319780,324990 C320565,324776 321493,324705 322349,324705 Z M479098,321707 C484594,321707 489376,324491 492232,328702 C493945,331272 494944,334270 494944,337553 C494944,339695 494516,341836 493731,343692 C493374,344691 492874,345548 492303,346404 C491732,347261 491090,348046 490304,348760 C487449,351615 483452,353400 479098,353400 C477956,353400 476885,353257 475886,353043 C472816,352472 470033,350901 467891,348760 C467177,348046 466535,347261 465964,346404 C465393,345548 464965,344620 464536,343692 C464108,342693 463823,341693 463608,340694 C463466,339623 463323,338553 463323,337482 C463323,336340 463394,335269 463608,334270 C464037,332200 464822,330344 465964,328631 C466535,327774 467177,326989 467891,326275 C470033,324134 472816,322635 475886,321993 C476956,321850 478027,321707 479098,321707 Z M557687,320066 C567323,320066 575175,327918 575175,337554 C575175,339981 574675,342336 573819,344406 C572891,346476 571606,348404 570178,349974 C566966,353115 562612,355113 557758,355113 C552905,355113 548479,353115 545338,349974 C543697,348404 542412,346476 541555,344406 C540699,342265 540199,339981 540199,337554 C540199,327918 548051,320066 557687,320066 Z M714579,316140 C726428,316140 736064,325776 736064,337625 C736064,340552 735422,343407 734351,345977 C733281,348546 731710,350830 729854,352829 C726000,356684 720575,359111 714651,359111 C708726,359111 703373,356755 699447,352829 C697448,350902 695878,348546 694807,345977 C693665,343407 693094,340623 693094,337625 C693094,325776 702730,316140 714579,316140 Z M793025,313784 C797950,313784 802590,315283 806373,317853 C812725,322135 816865,329416 816865,337625 C816865,340908 816223,344049 815010,346904 C813796,349759 812012,352329 809870,354470 C808800,355541 807586,356469 806373,357397 C802518,359967 797950,361466 793025,361466 C791383,361466 789813,361251 788242,360966 C783603,360038 779391,357682 776179,354470 C773966,352329 772253,349759 771040,346904 C769826,344049 769184,340908 769184,337625 C769184,326133 777393,316496 788242,314284 C789741,313927 791383,313784 793025,313784 Z M47753,289372 C52749,289372 56747,293369 56747,298366 C56747,303362 52749,307360 47753,307360 C42756,307360 38759,303362 38759,298366 C38759,293369 42756,289372 47753,289372 Z M126198,288373 C131694,288373 136191,292870 136191,298366 C136191,303862 131694,308359 126198,308359 C120631,308359 116205,303862 116205,298366 C116205,292799 120702,288373 126198,288373 Z M283162,286160 C289872,286160 295368,291585 295368,298366 C295368,305147 289872,310572 283162,310572 C276452,310572 270956,305147 270956,298366 C270956,291656 276381,286160 283162,286160 Z M361536,284804 C369031,284804 375098,290871 375098,298366 C375098,305861 369031,311928 361536,311928 C354041,311928 347974,305861 347974,298366 C347974,290871 354041,284804 361536,284804 Z M518428,281735 C527636,281735 535060,289158 535060,298366 C535060,307574 527636,314998 518428,314998 C509220,314998 501797,307574 501797,298366 C501797,289158 509220,281735 518428,281735 Z M596946,279950 C607082,279950 615362,288159 615362,298366 C615362,308573 607082,316782 596946,316782 C586810,316782 578530,308573 578530,298366 C578530,288230 586739,279950 596946,279950 Z M753766,275739 C766258,275739 776394,285875 776394,298366 C776394,310858 766258,320994 753766,320994 C741275,320994 731139,310858 731139,298366 C731139,285875 741275,275739 753766,275739 Z M832283,273241 C846131,273241 857337,284519 857337,298367 C857337,312214 846059,323421 832283,323421 C818436,323421 807229,312214 807229,298367 C807229,284448 818436,273241 832283,273241 Z M86939,249685 C92222,249685 96433,253968 96433,259179 C96433,264389 92222,268601 86939,268672 C81657,268672 77446,264389 77446,259179 C77446,253896 81729,249685 86939,249685 Z M165457,248686 C169097,248686 172309,250542 174165,253326 C175307,254967 175950,257037 175950,259179 C175950,261320 175307,263390 174165,265032 C172238,267816 169026,269672 165457,269814 C164672,269814 164029,269743 163315,269600 C161317,269172 159461,268173 158033,266745 C157534,266245 157105,265746 156748,265175 C156035,264033 155464,262748 155178,261392 C155035,260678 154964,259964 154964,259250 C154964,258465 155035,257823 155178,257109 C155464,255681 155963,254468 156748,253326 C157105,252755 157534,252255 158033,251755 C159461,250328 161245,249328 163315,248900 C164029,248757 164743,248686 165457,248686 Z M322349,246259 C324990,246259 327489,247116 329559,248472 C332913,250827 335198,254753 335198,259179 C335198,263604 332985,267530 329559,269886 C327489,271313 324990,272098 322349,272098 C321493,272098 320636,271956 319780,271813 C313927,270599 309501,265389 309501,259179 C309501,252969 313927,247758 319780,246545 C320565,246330 321493,246259 322349,246259 Z M400795,244903 C408718,244903 415071,251327 415071,259179 C415071,267031 408647,273455 400795,273455 C392943,273455 386519,267031 386519,259179 C386519,251256 392943,244903 400795,244903 Z M557687,241691 C567323,241691 575175,249543 575175,259179 C575175,268815 567323,276667 557687,276667 C548051,276667 540199,268815 540199,259179 C540199,249543 548051,241691 557687,241691 Z M636061,239764 C642771,239764 648695,243190 652193,248330 C654263,251399 655476,255182 655476,259179 C655476,263177 654263,266960 652193,270029 C648695,275168 642842,278594 636061,278594 C634705,278594 633420,278452 632135,278166 C628352,277381 624997,275525 622356,272884 C621500,272028 620715,271028 620001,270029 C618573,267959 617574,265603 617074,263105 C616789,261820 616646,260535 616646,259179 C616646,257823 616789,256538 617074,255253 C617574,252755 618573,250400 620001,248330 C620715,247330 621500,246331 622356,245474 C624926,242833 628352,240977 632135,240192 C633420,239907 634705,239764 636061,239764 Z M793025,235338 C797950,235338 802590,236837 806373,239407 C812725,243689 816865,250970 816865,259179 C816865,267387 812654,274597 806373,278951 C802518,281521 797950,283020 793025,283020 C791383,283020 789813,282805 788242,282520 C777321,280307 769184,270671 769184,259179 C769184,247687 777393,238050 788242,235838 C789741,235481 791383,235338 793025,235338 Z M871470,232768 C886032,232768 897881,244617 897881,259178 C897881,273740 886032,285589 871470,285589 C856909,285589 845060,273740 845060,259178 C845060,244617 856909,232768 871470,232768 Z M126198,209927 C131694,209927 136191,214424 136191,219920 C136191,225416 131694,229913 126198,229913 C120631,229913 116205,225416 116205,219920 C116205,214353 120702,209927 126198,209927 Z M204644,208856 C210782,208856 215708,213853 215708,219920 C215708,226058 210782,230984 204644,230984 C198505,230984 193580,225987 193580,219920 C193580,213781 198577,208856 204644,208856 Z M361536,206358 C369031,206358 375098,212425 375098,219920 C375098,227415 369031,233482 361536,233482 C354041,233482 347974,227415 347974,219920 C347974,212425 354041,206358 361536,206358 Z M440054,204930 C448334,204930 455043,211640 455043,219920 C455043,228200 448262,234981 440054,234909 C431774,234909 425064,228200 425064,219920 C425064,211640 431774,204930 440054,204930 Z M596946,201504 C607082,201504 615362,209713 615362,219920 C615362,230127 607082,238407 596946,238336 C586810,238336 578530,230127 578530,219920 C578530,209784 586739,201504 596946,201504 Z M675321,199506 C686598,199506 695735,208643 695735,219921 C695735,231199 686598,240407 675321,240335 C664043,240335 654906,231199 654906,219921 C654906,208643 664043,199506 675321,199506 Z M832283,194866 C846131,194866 857337,206073 857337,219920 C857337,233768 846059,245046 832283,245046 C818436,245046 807229,233768 807229,219920 C807229,206073 818436,194866 832283,194866 Z M165529,170240 C169169,170240 172381,172096 174237,174880 C175379,176521 176022,178591 176022,180733 C176022,182160 175665,183517 175165,184801 C174879,185444 174523,186015 174166,186586 C173737,187157 173309,187657 173024,188299 C171096,190226 168527,191368 165600,191368 C164815,191368 164173,191297 163459,191154 C161460,190726 159604,189727 158177,188299 C157677,187799 157249,187300 156892,186729 C156464,186158 156178,185587 155893,184944 C155607,184302 155393,183659 155250,182946 C155107,182232 155036,181518 155036,180804 C155036,180019 155107,179377 155250,178663 C155536,177235 156035,176022 156820,174880 C157177,174309 157606,173809 158105,173309 C159533,171882 161317,170882 163387,170454 C164101,170311 164815,170240 165529,170240 Z M243903,169098 C250327,169098 255538,174309 255538,180733 C255538,182303 255181,183874 254610,185230 C253967,186657 253182,187871 252111,188942 C250041,191083 247115,192368 243903,192368 C240691,192368 237764,191012 235694,188942 C234624,187871 233767,186586 233196,185230 C232625,183874 232268,182303 232268,180733 C232268,174309 237479,169098 243903,169098 Z M400795,166385 C408718,166385 415071,172809 415071,180661 C415071,182660 414642,184515 413929,186229 C413215,187942 412144,189512 410859,190797 C408290,193438 404721,195008 400795,195008 C396869,195008 393300,193366 390730,190797 C389446,189441 388375,187942 387661,186229 C386947,184515 386519,182660 386519,180661 C386519,172738 392943,166385 400795,166385 Z M479098,164815 C484594,164815 489376,167599 492232,171810 C493945,174380 494944,177378 494944,180661 C494944,182803 494516,184873 493731,186800 C493374,187799 492874,188656 492303,189512 C491732,190369 491090,191154 490304,191939 C487449,194794 483452,196579 479098,196579 C477956,196579 476885,196436 475886,196222 C472816,195651 470033,194081 467891,191939 C467177,191225 466535,190440 465964,189584 C465393,188727 464965,187799 464536,186871 C464108,185872 463823,184873 463608,183873 C463466,182803 463323,181732 463323,180661 C463323,179519 463394,178449 463608,177449 C464037,175379 464822,173523 465964,171810 C466535,170954 467177,170168 467891,169455 C470033,167313 472816,165814 475886,165172 C476956,164958 478027,164815 479098,164815 Z M636061,161317 C642771,161317 648695,164743 652193,169883 C654263,172952 655476,176735 655476,180732 C655476,183445 654977,185943 653977,188298 C653478,189441 652907,190583 652193,191582 C651479,192581 650694,193581 649766,194437 C646268,198006 641415,200148 636061,200148 C634705,200148 633420,200005 632135,199719 C628352,198934 624997,197078 622356,194437 C621500,193581 620715,192581 620001,191582 C619287,190583 618716,189441 618216,188298 C617717,187156 617360,185943 617074,184658 C616789,183373 616646,182088 616646,180732 C616646,179376 616789,178091 617074,176806 C617574,174308 618573,171953 620001,169883 C620715,168883 621500,167884 622356,167027 C624926,164386 628352,162530 632135,161745 C633420,161460 634705,161317 636061,161317 Z M714579,159247 C726428,159247 736064,168883 736064,180732 C736064,183659 735422,186514 734351,189084 C733281,191653 731710,193937 729854,195936 C726000,199791 720575,202218 714651,202218 C708726,202218 703373,199862 699447,195936 C697448,194009 695878,191653 694807,189084 C693665,186514 693094,183730 693094,180732 C693094,168883 702730,159247 714579,159247 Z M871470,154322 C886032,154322 897881,166171 897881,180732 C897881,184373 897167,187870 895811,191011 C894455,194152 892527,197007 890172,199434 C885389,204216 878751,207143 871470,207143 C864118,207143 857551,204216 852769,199434 C850413,197007 848486,194152 847130,191011 C845774,187870 845060,184373 845060,180732 C845060,166171 856909,154322 871470,154322 Z M126198,131481 C131694,131481 136191,135978 136191,141474 C136191,146970 131694,151467 126198,151467 C120631,151467 116205,146970 116205,141474 C116205,135907 120702,131481 126198,131481 Z M204644,130410 C210782,130410 215708,135407 215708,141474 C215708,147612 210782,152538 204644,152538 C198505,152538 193580,147541 193580,141474 C193580,135335 198577,130410 204644,130410 Z M361536,127912 C369031,127912 375098,133979 375098,141474 C375098,148969 369031,155036 361536,155036 C354041,155036 347974,148969 347974,141474 C347974,133979 354041,127912 361536,127912 Z M440054,126484 C448334,126484 455043,133194 455043,141474 C455043,149754 448262,156535 440054,156463 C431774,156463 425064,149754 425064,141474 C425064,133194 431774,126484 440054,126484 Z M596946,123058 C607082,123058 615362,131267 615362,141474 C615362,151681 607082,159890 596946,159890 C586810,159890 578530,151681 578530,141474 C578530,131338 586739,123058 596946,123058 Z M675321,121059 C686598,121059 695735,130196 695735,141474 C695735,152752 686598,161888 675321,161888 C664043,161888 654906,152752 654906,141474 C654906,130196 664043,121059 675321,121059 Z M832283,116348 C846131,116348 857337,127626 857337,141474 C857337,155321 846059,166599 832283,166528 C818436,166528 807229,155321 807229,141474 C807229,127555 818436,116348 832283,116348 Z M910730,113636 C926076,113636 938496,126127 938496,141474 L930397,161004 L949989,152895 C965335,152895 977755,165315 977755,180662 C977755,184516 976970,188157 975542,191511 C974115,194866 972045,197864 969618,200362 C964621,205359 957698,208500 949989,208500 L930410,200383 L938496,219920 C938496,235266 926005,247758 910730,247758 C895383,247758 882963,235266 882963,219920 C882963,204573 895383,192153 910730,192153 L930281,200246 L924435,191511 C923007,188157 922222,184516 922222,180662 L930295,161159 L910730,169241 C895383,169241 882963,156821 882963,141474 C882963,126056 895383,113636 910730,113636 Z M86939,92793 C92222,92793 96433,97076 96433,102286 C96433,107497 92222,111709 86939,111780 C81657,111780 77446,107497 77446,102286 C77446,97004 81729,92793 86939,92793 Z M165457,91794 C169097,91794 172309,93650 174165,96434 C175307,98075 175950,100145 175950,102287 C175950,104428 175307,106498 174165,108140 C172238,110924 169026,112780 165457,112922 C164672,112922 164029,112851 163315,112708 C161317,112280 159461,111281 158033,109853 C157534,109353 157105,108854 156748,108283 C156035,107141 155464,105856 155178,104500 C155035,103786 154964,103072 154964,102358 C154964,101573 155035,100931 155178,100217 C155464,98789 155963,97576 156748,96434 C157105,95863 157534,95363 158033,94863 C159461,93436 161245,92436 163315,92008 C164029,91865 164743,91794 165457,91794 Z M322349,89367 C324990,89367 327489,90224 329559,91580 C332913,93935 335198,97861 335198,102287 C335198,106712 332985,110638 329559,112994 C327489,114421 324990,115206 322349,115206 C321493,115206 320636,115064 319780,114921 C313927,113707 309501,108497 309501,102287 C309501,96077 313927,90866 319780,89653 C320565,89438 321493,89367 322349,89367 Z M400795,88011 C408718,88011 415071,94435 415071,102287 C415071,110139 408647,116563 400795,116563 C392943,116563 386519,110139 386519,102287 C386519,94364 392943,88011 400795,88011 Z M557687,84798 C567323,84798 575175,92650 575175,102286 C575175,111922 567323,119774 557687,119774 C548051,119774 540199,111922 540199,102286 C540199,92650 548051,84798 557687,84798 Z M636061,82871 C642771,82871 648695,86297 652193,91437 C654263,94506 655476,98289 655476,102286 C655476,106284 654263,110067 652193,113136 C648695,118275 642842,121702 636061,121702 C634705,121702 633420,121559 632135,121273 C628352,120488 624997,118632 622356,115991 C621500,115135 620715,114135 620001,113136 C618573,111066 617574,108710 617074,106212 C616789,104927 616646,103642 616646,102286 C616646,100930 616789,99645 617074,98360 C617574,95862 618573,93507 620001,91437 C620715,90437 621500,89438 622356,88581 C624926,85940 628352,84084 632135,83299 C633420,83014 634705,82871 636061,82871 Z M793025,78446 C797950,78446 802590,79945 806373,82515 C812725,86797 816865,94078 816865,102287 C816865,110495 812654,117776 806373,122059 C802518,124629 797950,126128 793025,126128 C791383,126128 789813,125913 788242,125628 C777321,123415 769184,113779 769184,102287 C769184,90795 777393,81158 788242,78946 C789741,78589 791383,78446 793025,78446 Z M871470,75876 C886032,75876 897881,87725 897881,102286 C897881,116848 886032,128697 871470,128697 C856909,128697 845060,116848 845060,102286 C845060,87725 856909,75876 871470,75876 Z M47753,54034 C52749,54034 56747,58031 56747,63028 C56747,68024 52749,72022 47753,72022 C42756,72022 38759,68024 38759,63028 C38759,58031 42756,54034 47753,54034 Z M126198,53035 C131694,53035 136191,57532 136191,63028 C136191,68524 131694,73021 126198,73021 C120631,73021 116205,68524 116205,63028 C116205,57461 120702,53035 126198,53035 Z M283162,50822 C289872,50822 295368,56247 295368,63028 C295368,69809 289872,75305 283162,75234 C276452,75234 270956,69809 270956,63028 C270956,56318 276381,50822 283162,50822 Z M361536,49466 C369031,49466 375098,55533 375098,63028 C375098,70523 369031,76590 361536,76590 C354041,76590 347974,70523 347974,63028 C347974,55533 354041,49466 361536,49466 Z M518428,46396 C527636,46396 535060,53819 535060,63027 C535060,72235 527636,79730 518428,79659 C509220,79659 501797,72235 501797,63027 C501797,53819 509220,46396 518428,46396 Z M596946,44612 C607082,44612 615362,52821 615362,63028 C615362,73235 607082,81515 596946,81444 C586810,81444 578530,73235 578530,63028 C578530,52892 586739,44612 596946,44612 Z M753766,40400 C766258,40400 776394,50536 776394,63027 C776394,75519 766258,85726 753766,85655 C741275,85655 731139,75519 731139,63027 C731139,50536 741275,40400 753766,40400 Z M832283,37973 C846131,37973 857337,49180 857337,63027 C857337,76875 846059,88153 832283,88153 C818436,88153 807229,76875 807229,63027 C807229,49180 818436,37973 832283,37973 Z M8566,15275 C11492,15275 14062,16774 15632,19058 C16489,20414 17060,22056 17060,23841 C17060,24412 17060,24983 16917,25554 C16703,26696 16275,27695 15632,28623 C14062,30907 11492,32406 8566,32406 C7923,32406 7352,32335 6852,32192 C5139,31835 3640,30979 2498,29836 C2141,29480 1784,29051 1428,28623 C785,27695 357,26696 143,25554 C71,24983 0,24412 0,23841 C0,23270 71,22627 143,22127 C428,20985 857,19986 1428,19058 C1784,18630 2141,18202 2498,17773 C3640,16631 5139,15775 6852,15418 C7423,15346 7994,15275 8566,15275 Z M87011,14347 C92294,14347 96505,18630 96505,23840 C96505,24483 96434,25125 96291,25768 C95363,30051 91580,33263 87011,33334 C82443,33334 78589,30051 77732,25768 C77589,25125 77518,24483 77518,23840 C77518,18558 81801,14347 87011,14347 Z M243832,12205 C250256,12205 255467,17416 255467,23840 C255467,24625 255395,25410 255253,26195 C254182,31477 249471,35475 243832,35475 C238193,35475 233482,31477 232411,26195 C232268,25410 232197,24625 232197,23840 C232197,17416 237408,12205 243832,12205 Z M322349,10921 C324990,10921 327489,11778 329559,13134 C332913,15489 335198,19415 335198,23841 C335198,24697 335055,25554 334912,26410 C334270,29765 332271,32620 329559,34476 C327489,35904 324990,36689 322349,36689 C321493,36689 320636,36546 319780,36404 C314783,35404 310786,31407 309787,26410 C309572,25625 309501,24697 309501,23841 C309501,17631 313927,12420 319780,11207 C320565,10992 321493,10921 322349,10921 Z M479098,7994 C484594,7994 489376,10778 492232,14989 C493945,17559 494944,20557 494944,23840 C494944,24982 494873,26053 494659,27052 C494230,29122 493445,30978 492303,32691 C489519,36903 484665,39615 479098,39615 C477956,39615 476885,39472 475886,39258 C472816,38687 470033,37117 467891,34975 C467177,34262 466535,33477 465964,32620 C464822,30978 464037,29051 463608,26981 C463466,25910 463323,24911 463323,23769 C463323,22627 463394,21556 463608,20557 C464037,18487 464822,16631 465964,14918 C466535,14061 467177,13276 467891,12562 C470033,10421 472816,8922 475886,8280 C476956,8137 478027,7994 479098,7994 Z M557687,6352 C567323,6352 575175,14204 575175,23840 C575175,24982 575032,26196 574818,27338 C573176,35332 566110,41328 557687,41328 C549264,41328 542198,35332 540556,27338 C540342,26196 540199,25053 540199,23840 C540199,14204 548051,6352 557687,6352 Z M714579,2284 C726428,2284 736064,11920 736064,23769 C736064,25268 735922,26696 735636,28123 C733638,37974 724929,45326 714579,45326 C704229,45326 695521,37902 693522,28123 C693237,26696 693094,25268 693094,23769 C693094,11920 702730,2284 714579,2284 Z M793025,0 C797950,0 802518,1499 806373,4069 C812725,8351 816865,15632 816865,23841 C816865,25483 816651,27053 816366,28623 C815081,34833 811369,40187 806373,43613 C802518,46183 797950,47682 793025,47682 C791383,47682 789813,47467 788242,47182 C778892,45255 771611,37903 769684,28623 C769327,27124 769184,25483 769184,23841 C769184,12349 777393,2712 788242,500 C789741,143 791383,0 793025,0 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#70AD4700"
+        - position: 0
+          color: $accent1
+      angle: 180
+  - elementId: "任意多边形: 形状 33"
+    elementType: shape
+    bounds: [596.2, 419.5, 31.9, 17.1]
+    rotation: 180
+    flip: [true, true]
+    shapeName: custom
+    viewBox:
+      - 977755
+      - 361466
+    path: M8566,329059 C11492,329059 14062,330558 15632,332842 C16489,334198 17060,335840 17060,337625 C17060,338838 16846,339980 16417,340979 C16203,341479 15918,341979 15632,342407 C15347,342835 14990,343264 14633,343620 C13062,345191 10921,346119 8566,346119 C7994,346119 7423,346119 6852,345976 C5139,345619 3640,344763 2498,343620 C2070,343192 1713,342764 1428,342336 C1142,341907 857,341408 642,340908 C428,340408 286,339909 143,339338 C71,338767 0,338196 0,337625 C0,336982 71,336411 143,335911 C357,334769 785,333770 1428,332842 C1784,332342 2141,331914 2498,331557 C3712,330344 5211,329559 6852,329202 C7423,329130 7994,329059 8566,329059 Z M86939,328060 C92222,328060 96433,332343 96433,337554 C96433,338910 96219,340123 95719,341265 C95219,342407 94506,343407 93578,344263 C91865,345976 89509,347047 86868,347047 C84227,347047 81872,345976 80158,344263 C79302,343407 78659,342407 78160,341265 C77732,340123 77446,338838 77446,337554 C77446,332271 81729,328060 86939,328060 Z M243903,325990 C250327,325990 255538,331201 255538,337625 C255538,339195 255181,340766 254610,342122 C253967,343478 253182,344763 252111,345834 C250041,347975 247115,349260 243903,349260 C240691,349260 237764,347904 235694,345834 C234624,344763 233767,343478 233196,342122 C232625,340766 232268,339195 232268,337625 C232268,331201 237479,325990 243903,325990 Z M322349,324705 C324990,324705 327489,325562 329559,326918 C332913,329273 335198,333199 335198,337625 C335198,339409 334841,341051 334198,342621 C333556,344120 332557,345548 331414,346690 C330843,347261 330201,347832 329559,348260 C327489,349688 324990,350473 322349,350473 C321493,350473 320636,350330 319780,350188 C317281,349688 314997,348403 313284,346690 C312071,345548 311143,344192 310500,342621 C309858,341122 309501,339409 309501,337625 C309501,331415 313927,326204 319780,324990 C320565,324776 321493,324705 322349,324705 Z M479098,321707 C484594,321707 489376,324491 492232,328702 C493945,331272 494944,334270 494944,337553 C494944,339695 494516,341836 493731,343692 C493374,344691 492874,345548 492303,346404 C491732,347261 491090,348046 490304,348760 C487449,351615 483452,353400 479098,353400 C477956,353400 476885,353257 475886,353043 C472816,352472 470033,350901 467891,348760 C467177,348046 466535,347261 465964,346404 C465393,345548 464965,344620 464536,343692 C464108,342693 463823,341693 463608,340694 C463466,339623 463323,338553 463323,337482 C463323,336340 463394,335269 463608,334270 C464037,332200 464822,330344 465964,328631 C466535,327774 467177,326989 467891,326275 C470033,324134 472816,322635 475886,321993 C476956,321850 478027,321707 479098,321707 Z M557687,320066 C567323,320066 575175,327918 575175,337554 C575175,339981 574675,342336 573819,344406 C572891,346476 571606,348404 570178,349974 C566966,353115 562612,355113 557758,355113 C552905,355113 548479,353115 545338,349974 C543697,348404 542412,346476 541555,344406 C540699,342265 540199,339981 540199,337554 C540199,327918 548051,320066 557687,320066 Z M714579,316140 C726428,316140 736064,325776 736064,337625 C736064,340552 735422,343407 734351,345977 C733281,348546 731710,350830 729854,352829 C726000,356684 720575,359111 714651,359111 C708726,359111 703373,356755 699447,352829 C697448,350902 695878,348546 694807,345977 C693665,343407 693094,340623 693094,337625 C693094,325776 702730,316140 714579,316140 Z M793025,313784 C797950,313784 802590,315283 806373,317853 C812725,322135 816865,329416 816865,337625 C816865,340908 816223,344049 815010,346904 C813796,349759 812012,352329 809870,354470 C808800,355541 807586,356469 806373,357397 C802518,359967 797950,361466 793025,361466 C791383,361466 789813,361251 788242,360966 C783603,360038 779391,357682 776179,354470 C773966,352329 772253,349759 771040,346904 C769826,344049 769184,340908 769184,337625 C769184,326133 777393,316496 788242,314284 C789741,313927 791383,313784 793025,313784 Z M47753,289372 C52749,289372 56747,293369 56747,298366 C56747,303362 52749,307360 47753,307360 C42756,307360 38759,303362 38759,298366 C38759,293369 42756,289372 47753,289372 Z M126198,288373 C131694,288373 136191,292870 136191,298366 C136191,303862 131694,308359 126198,308359 C120631,308359 116205,303862 116205,298366 C116205,292799 120702,288373 126198,288373 Z M283162,286160 C289872,286160 295368,291585 295368,298366 C295368,305147 289872,310572 283162,310572 C276452,310572 270956,305147 270956,298366 C270956,291656 276381,286160 283162,286160 Z M361536,284804 C369031,284804 375098,290871 375098,298366 C375098,305861 369031,311928 361536,311928 C354041,311928 347974,305861 347974,298366 C347974,290871 354041,284804 361536,284804 Z M518428,281735 C527636,281735 535060,289158 535060,298366 C535060,307574 527636,314998 518428,314998 C509220,314998 501797,307574 501797,298366 C501797,289158 509220,281735 518428,281735 Z M596946,279950 C607082,279950 615362,288159 615362,298366 C615362,308573 607082,316782 596946,316782 C586810,316782 578530,308573 578530,298366 C578530,288230 586739,279950 596946,279950 Z M753766,275739 C766258,275739 776394,285875 776394,298366 C776394,310858 766258,320994 753766,320994 C741275,320994 731139,310858 731139,298366 C731139,285875 741275,275739 753766,275739 Z M832283,273241 C846131,273241 857337,284519 857337,298367 C857337,312214 846059,323421 832283,323421 C818436,323421 807229,312214 807229,298367 C807229,284448 818436,273241 832283,273241 Z M86939,249685 C92222,249685 96433,253968 96433,259179 C96433,264389 92222,268601 86939,268672 C81657,268672 77446,264389 77446,259179 C77446,253896 81729,249685 86939,249685 Z M165457,248686 C169097,248686 172309,250542 174165,253326 C175307,254967 175950,257037 175950,259179 C175950,261320 175307,263390 174165,265032 C172238,267816 169026,269672 165457,269814 C164672,269814 164029,269743 163315,269600 C161317,269172 159461,268173 158033,266745 C157534,266245 157105,265746 156748,265175 C156035,264033 155464,262748 155178,261392 C155035,260678 154964,259964 154964,259250 C154964,258465 155035,257823 155178,257109 C155464,255681 155963,254468 156748,253326 C157105,252755 157534,252255 158033,251755 C159461,250328 161245,249328 163315,248900 C164029,248757 164743,248686 165457,248686 Z M322349,246259 C324990,246259 327489,247116 329559,248472 C332913,250827 335198,254753 335198,259179 C335198,263604 332985,267530 329559,269886 C327489,271313 324990,272098 322349,272098 C321493,272098 320636,271956 319780,271813 C313927,270599 309501,265389 309501,259179 C309501,252969 313927,247758 319780,246545 C320565,246330 321493,246259 322349,246259 Z M400795,244903 C408718,244903 415071,251327 415071,259179 C415071,267031 408647,273455 400795,273455 C392943,273455 386519,267031 386519,259179 C386519,251256 392943,244903 400795,244903 Z M557687,241691 C567323,241691 575175,249543 575175,259179 C575175,268815 567323,276667 557687,276667 C548051,276667 540199,268815 540199,259179 C540199,249543 548051,241691 557687,241691 Z M636061,239764 C642771,239764 648695,243190 652193,248330 C654263,251399 655476,255182 655476,259179 C655476,263177 654263,266960 652193,270029 C648695,275168 642842,278594 636061,278594 C634705,278594 633420,278452 632135,278166 C628352,277381 624997,275525 622356,272884 C621500,272028 620715,271028 620001,270029 C618573,267959 617574,265603 617074,263105 C616789,261820 616646,260535 616646,259179 C616646,257823 616789,256538 617074,255253 C617574,252755 618573,250400 620001,248330 C620715,247330 621500,246331 622356,245474 C624926,242833 628352,240977 632135,240192 C633420,239907 634705,239764 636061,239764 Z M793025,235338 C797950,235338 802590,236837 806373,239407 C812725,243689 816865,250970 816865,259179 C816865,267387 812654,274597 806373,278951 C802518,281521 797950,283020 793025,283020 C791383,283020 789813,282805 788242,282520 C777321,280307 769184,270671 769184,259179 C769184,247687 777393,238050 788242,235838 C789741,235481 791383,235338 793025,235338 Z M871470,232768 C886032,232768 897881,244617 897881,259178 C897881,273740 886032,285589 871470,285589 C856909,285589 845060,273740 845060,259178 C845060,244617 856909,232768 871470,232768 Z M126198,209927 C131694,209927 136191,214424 136191,219920 C136191,225416 131694,229913 126198,229913 C120631,229913 116205,225416 116205,219920 C116205,214353 120702,209927 126198,209927 Z M204644,208856 C210782,208856 215708,213853 215708,219920 C215708,226058 210782,230984 204644,230984 C198505,230984 193580,225987 193580,219920 C193580,213781 198577,208856 204644,208856 Z M361536,206358 C369031,206358 375098,212425 375098,219920 C375098,227415 369031,233482 361536,233482 C354041,233482 347974,227415 347974,219920 C347974,212425 354041,206358 361536,206358 Z M440054,204930 C448334,204930 455043,211640 455043,219920 C455043,228200 448262,234981 440054,234909 C431774,234909 425064,228200 425064,219920 C425064,211640 431774,204930 440054,204930 Z M596946,201504 C607082,201504 615362,209713 615362,219920 C615362,230127 607082,238407 596946,238336 C586810,238336 578530,230127 578530,219920 C578530,209784 586739,201504 596946,201504 Z M675321,199506 C686598,199506 695735,208643 695735,219921 C695735,231199 686598,240407 675321,240335 C664043,240335 654906,231199 654906,219921 C654906,208643 664043,199506 675321,199506 Z M832283,194866 C846131,194866 857337,206073 857337,219920 C857337,233768 846059,245046 832283,245046 C818436,245046 807229,233768 807229,219920 C807229,206073 818436,194866 832283,194866 Z M165529,170240 C169169,170240 172381,172096 174237,174880 C175379,176521 176022,178591 176022,180733 C176022,182160 175665,183517 175165,184801 C174879,185444 174523,186015 174166,186586 C173737,187157 173309,187657 173024,188299 C171096,190226 168527,191368 165600,191368 C164815,191368 164173,191297 163459,191154 C161460,190726 159604,189727 158177,188299 C157677,187799 157249,187300 156892,186729 C156464,186158 156178,185587 155893,184944 C155607,184302 155393,183659 155250,182946 C155107,182232 155036,181518 155036,180804 C155036,180019 155107,179377 155250,178663 C155536,177235 156035,176022 156820,174880 C157177,174309 157606,173809 158105,173309 C159533,171882 161317,170882 163387,170454 C164101,170311 164815,170240 165529,170240 Z M243903,169098 C250327,169098 255538,174309 255538,180733 C255538,182303 255181,183874 254610,185230 C253967,186657 253182,187871 252111,188942 C250041,191083 247115,192368 243903,192368 C240691,192368 237764,191012 235694,188942 C234624,187871 233767,186586 233196,185230 C232625,183874 232268,182303 232268,180733 C232268,174309 237479,169098 243903,169098 Z M400795,166385 C408718,166385 415071,172809 415071,180661 C415071,182660 414642,184515 413929,186229 C413215,187942 412144,189512 410859,190797 C408290,193438 404721,195008 400795,195008 C396869,195008 393300,193366 390730,190797 C389446,189441 388375,187942 387661,186229 C386947,184515 386519,182660 386519,180661 C386519,172738 392943,166385 400795,166385 Z M479098,164815 C484594,164815 489376,167599 492232,171810 C493945,174380 494944,177378 494944,180661 C494944,182803 494516,184873 493731,186800 C493374,187799 492874,188656 492303,189512 C491732,190369 491090,191154 490304,191939 C487449,194794 483452,196579 479098,196579 C477956,196579 476885,196436 475886,196222 C472816,195651 470033,194081 467891,191939 C467177,191225 466535,190440 465964,189584 C465393,188727 464965,187799 464536,186871 C464108,185872 463823,184873 463608,183873 C463466,182803 463323,181732 463323,180661 C463323,179519 463394,178449 463608,177449 C464037,175379 464822,173523 465964,171810 C466535,170954 467177,170168 467891,169455 C470033,167313 472816,165814 475886,165172 C476956,164958 478027,164815 479098,164815 Z M636061,161317 C642771,161317 648695,164743 652193,169883 C654263,172952 655476,176735 655476,180732 C655476,183445 654977,185943 653977,188298 C653478,189441 652907,190583 652193,191582 C651479,192581 650694,193581 649766,194437 C646268,198006 641415,200148 636061,200148 C634705,200148 633420,200005 632135,199719 C628352,198934 624997,197078 622356,194437 C621500,193581 620715,192581 620001,191582 C619287,190583 618716,189441 618216,188298 C617717,187156 617360,185943 617074,184658 C616789,183373 616646,182088 616646,180732 C616646,179376 616789,178091 617074,176806 C617574,174308 618573,171953 620001,169883 C620715,168883 621500,167884 622356,167027 C624926,164386 628352,162530 632135,161745 C633420,161460 634705,161317 636061,161317 Z M714579,159247 C726428,159247 736064,168883 736064,180732 C736064,183659 735422,186514 734351,189084 C733281,191653 731710,193937 729854,195936 C726000,199791 720575,202218 714651,202218 C708726,202218 703373,199862 699447,195936 C697448,194009 695878,191653 694807,189084 C693665,186514 693094,183730 693094,180732 C693094,168883 702730,159247 714579,159247 Z M871470,154322 C886032,154322 897881,166171 897881,180732 C897881,184373 897167,187870 895811,191011 C894455,194152 892527,197007 890172,199434 C885389,204216 878751,207143 871470,207143 C864118,207143 857551,204216 852769,199434 C850413,197007 848486,194152 847130,191011 C845774,187870 845060,184373 845060,180732 C845060,166171 856909,154322 871470,154322 Z M126198,131481 C131694,131481 136191,135978 136191,141474 C136191,146970 131694,151467 126198,151467 C120631,151467 116205,146970 116205,141474 C116205,135907 120702,131481 126198,131481 Z M204644,130410 C210782,130410 215708,135407 215708,141474 C215708,147612 210782,152538 204644,152538 C198505,152538 193580,147541 193580,141474 C193580,135335 198577,130410 204644,130410 Z M361536,127912 C369031,127912 375098,133979 375098,141474 C375098,148969 369031,155036 361536,155036 C354041,155036 347974,148969 347974,141474 C347974,133979 354041,127912 361536,127912 Z M440054,126484 C448334,126484 455043,133194 455043,141474 C455043,149754 448262,156535 440054,156463 C431774,156463 425064,149754 425064,141474 C425064,133194 431774,126484 440054,126484 Z M596946,123058 C607082,123058 615362,131267 615362,141474 C615362,151681 607082,159890 596946,159890 C586810,159890 578530,151681 578530,141474 C578530,131338 586739,123058 596946,123058 Z M675321,121059 C686598,121059 695735,130196 695735,141474 C695735,152752 686598,161888 675321,161888 C664043,161888 654906,152752 654906,141474 C654906,130196 664043,121059 675321,121059 Z M832283,116348 C846131,116348 857337,127626 857337,141474 C857337,155321 846059,166599 832283,166528 C818436,166528 807229,155321 807229,141474 C807229,127555 818436,116348 832283,116348 Z M910730,113636 C926076,113636 938496,126127 938496,141474 L930397,161004 L949989,152895 C965335,152895 977755,165315 977755,180662 C977755,184516 976970,188157 975542,191511 C974115,194866 972045,197864 969618,200362 C964621,205359 957698,208500 949989,208500 L930410,200383 L938496,219920 C938496,235266 926005,247758 910730,247758 C895383,247758 882963,235266 882963,219920 C882963,204573 895383,192153 910730,192153 L930281,200246 L924435,191511 C923007,188157 922222,184516 922222,180662 L930295,161159 L910730,169241 C895383,169241 882963,156821 882963,141474 C882963,126056 895383,113636 910730,113636 Z M86939,92793 C92222,92793 96433,97076 96433,102286 C96433,107497 92222,111709 86939,111780 C81657,111780 77446,107497 77446,102286 C77446,97004 81729,92793 86939,92793 Z M165457,91794 C169097,91794 172309,93650 174165,96434 C175307,98075 175950,100145 175950,102287 C175950,104428 175307,106498 174165,108140 C172238,110924 169026,112780 165457,112922 C164672,112922 164029,112851 163315,112708 C161317,112280 159461,111281 158033,109853 C157534,109353 157105,108854 156748,108283 C156035,107141 155464,105856 155178,104500 C155035,103786 154964,103072 154964,102358 C154964,101573 155035,100931 155178,100217 C155464,98789 155963,97576 156748,96434 C157105,95863 157534,95363 158033,94863 C159461,93436 161245,92436 163315,92008 C164029,91865 164743,91794 165457,91794 Z M322349,89367 C324990,89367 327489,90224 329559,91580 C332913,93935 335198,97861 335198,102287 C335198,106712 332985,110638 329559,112994 C327489,114421 324990,115206 322349,115206 C321493,115206 320636,115064 319780,114921 C313927,113707 309501,108497 309501,102287 C309501,96077 313927,90866 319780,89653 C320565,89438 321493,89367 322349,89367 Z M400795,88011 C408718,88011 415071,94435 415071,102287 C415071,110139 408647,116563 400795,116563 C392943,116563 386519,110139 386519,102287 C386519,94364 392943,88011 400795,88011 Z M557687,84798 C567323,84798 575175,92650 575175,102286 C575175,111922 567323,119774 557687,119774 C548051,119774 540199,111922 540199,102286 C540199,92650 548051,84798 557687,84798 Z M636061,82871 C642771,82871 648695,86297 652193,91437 C654263,94506 655476,98289 655476,102286 C655476,106284 654263,110067 652193,113136 C648695,118275 642842,121702 636061,121702 C634705,121702 633420,121559 632135,121273 C628352,120488 624997,118632 622356,115991 C621500,115135 620715,114135 620001,113136 C618573,111066 617574,108710 617074,106212 C616789,104927 616646,103642 616646,102286 C616646,100930 616789,99645 617074,98360 C617574,95862 618573,93507 620001,91437 C620715,90437 621500,89438 622356,88581 C624926,85940 628352,84084 632135,83299 C633420,83014 634705,82871 636061,82871 Z M793025,78446 C797950,78446 802590,79945 806373,82515 C812725,86797 816865,94078 816865,102287 C816865,110495 812654,117776 806373,122059 C802518,124629 797950,126128 793025,126128 C791383,126128 789813,125913 788242,125628 C777321,123415 769184,113779 769184,102287 C769184,90795 777393,81158 788242,78946 C789741,78589 791383,78446 793025,78446 Z M871470,75876 C886032,75876 897881,87725 897881,102286 C897881,116848 886032,128697 871470,128697 C856909,128697 845060,116848 845060,102286 C845060,87725 856909,75876 871470,75876 Z M47753,54034 C52749,54034 56747,58031 56747,63028 C56747,68024 52749,72022 47753,72022 C42756,72022 38759,68024 38759,63028 C38759,58031 42756,54034 47753,54034 Z M126198,53035 C131694,53035 136191,57532 136191,63028 C136191,68524 131694,73021 126198,73021 C120631,73021 116205,68524 116205,63028 C116205,57461 120702,53035 126198,53035 Z M283162,50822 C289872,50822 295368,56247 295368,63028 C295368,69809 289872,75305 283162,75234 C276452,75234 270956,69809 270956,63028 C270956,56318 276381,50822 283162,50822 Z M361536,49466 C369031,49466 375098,55533 375098,63028 C375098,70523 369031,76590 361536,76590 C354041,76590 347974,70523 347974,63028 C347974,55533 354041,49466 361536,49466 Z M518428,46396 C527636,46396 535060,53819 535060,63027 C535060,72235 527636,79730 518428,79659 C509220,79659 501797,72235 501797,63027 C501797,53819 509220,46396 518428,46396 Z M596946,44612 C607082,44612 615362,52821 615362,63028 C615362,73235 607082,81515 596946,81444 C586810,81444 578530,73235 578530,63028 C578530,52892 586739,44612 596946,44612 Z M753766,40400 C766258,40400 776394,50536 776394,63027 C776394,75519 766258,85726 753766,85655 C741275,85655 731139,75519 731139,63027 C731139,50536 741275,40400 753766,40400 Z M832283,37973 C846131,37973 857337,49180 857337,63027 C857337,76875 846059,88153 832283,88153 C818436,88153 807229,76875 807229,63027 C807229,49180 818436,37973 832283,37973 Z M8566,15275 C11492,15275 14062,16774 15632,19058 C16489,20414 17060,22056 17060,23841 C17060,24412 17060,24983 16917,25554 C16703,26696 16275,27695 15632,28623 C14062,30907 11492,32406 8566,32406 C7923,32406 7352,32335 6852,32192 C5139,31835 3640,30979 2498,29836 C2141,29480 1784,29051 1428,28623 C785,27695 357,26696 143,25554 C71,24983 0,24412 0,23841 C0,23270 71,22627 143,22127 C428,20985 857,19986 1428,19058 C1784,18630 2141,18202 2498,17773 C3640,16631 5139,15775 6852,15418 C7423,15346 7994,15275 8566,15275 Z M87011,14347 C92294,14347 96505,18630 96505,23840 C96505,24483 96434,25125 96291,25768 C95363,30051 91580,33263 87011,33334 C82443,33334 78589,30051 77732,25768 C77589,25125 77518,24483 77518,23840 C77518,18558 81801,14347 87011,14347 Z M243832,12205 C250256,12205 255467,17416 255467,23840 C255467,24625 255395,25410 255253,26195 C254182,31477 249471,35475 243832,35475 C238193,35475 233482,31477 232411,26195 C232268,25410 232197,24625 232197,23840 C232197,17416 237408,12205 243832,12205 Z M322349,10921 C324990,10921 327489,11778 329559,13134 C332913,15489 335198,19415 335198,23841 C335198,24697 335055,25554 334912,26410 C334270,29765 332271,32620 329559,34476 C327489,35904 324990,36689 322349,36689 C321493,36689 320636,36546 319780,36404 C314783,35404 310786,31407 309787,26410 C309572,25625 309501,24697 309501,23841 C309501,17631 313927,12420 319780,11207 C320565,10992 321493,10921 322349,10921 Z M479098,7994 C484594,7994 489376,10778 492232,14989 C493945,17559 494944,20557 494944,23840 C494944,24982 494873,26053 494659,27052 C494230,29122 493445,30978 492303,32691 C489519,36903 484665,39615 479098,39615 C477956,39615 476885,39472 475886,39258 C472816,38687 470033,37117 467891,34975 C467177,34262 466535,33477 465964,32620 C464822,30978 464037,29051 463608,26981 C463466,25910 463323,24911 463323,23769 C463323,22627 463394,21556 463608,20557 C464037,18487 464822,16631 465964,14918 C466535,14061 467177,13276 467891,12562 C470033,10421 472816,8922 475886,8280 C476956,8137 478027,7994 479098,7994 Z M557687,6352 C567323,6352 575175,14204 575175,23840 C575175,24982 575032,26196 574818,27338 C573176,35332 566110,41328 557687,41328 C549264,41328 542198,35332 540556,27338 C540342,26196 540199,25053 540199,23840 C540199,14204 548051,6352 557687,6352 Z M714579,2284 C726428,2284 736064,11920 736064,23769 C736064,25268 735922,26696 735636,28123 C733638,37974 724929,45326 714579,45326 C704229,45326 695521,37902 693522,28123 C693237,26696 693094,25268 693094,23769 C693094,11920 702730,2284 714579,2284 Z M793025,0 C797950,0 802518,1499 806373,4069 C812725,8351 816865,15632 816865,23841 C816865,25483 816651,27053 816366,28623 C815081,34833 811369,40187 806373,43613 C802518,46183 797950,47682 793025,47682 C791383,47682 789813,47467 788242,47182 C778892,45255 771611,37903 769684,28623 C769327,27124 769184,25483 769184,23841 C769184,12349 777393,2712 788242,500 C789741,143 791383,0 793025,0 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#70AD4700"
+        - position: 0
+          color: $accent1
+      angle: 180
+  - elementId: "任意多边形: 形状 34"
+    elementType: shape
+    bounds: [367.6, 419.5, 31.9, 17.1]
+    rotation: 180
+    flip: [false, true]
+    shapeName: custom
+    viewBox:
+      - 977755
+      - 361466
+    path: M8566,329059 C11492,329059 14062,330558 15632,332842 C16489,334198 17060,335840 17060,337625 C17060,338838 16846,339980 16417,340979 C16203,341479 15918,341979 15632,342407 C15347,342835 14990,343264 14633,343620 C13062,345191 10921,346119 8566,346119 C7994,346119 7423,346119 6852,345976 C5139,345619 3640,344763 2498,343620 C2070,343192 1713,342764 1428,342336 C1142,341907 857,341408 642,340908 C428,340408 286,339909 143,339338 C71,338767 0,338196 0,337625 C0,336982 71,336411 143,335911 C357,334769 785,333770 1428,332842 C1784,332342 2141,331914 2498,331557 C3712,330344 5211,329559 6852,329202 C7423,329130 7994,329059 8566,329059 Z M86939,328060 C92222,328060 96433,332343 96433,337554 C96433,338910 96219,340123 95719,341265 C95219,342407 94506,343407 93578,344263 C91865,345976 89509,347047 86868,347047 C84227,347047 81872,345976 80158,344263 C79302,343407 78659,342407 78160,341265 C77732,340123 77446,338838 77446,337554 C77446,332271 81729,328060 86939,328060 Z M243903,325990 C250327,325990 255538,331201 255538,337625 C255538,339195 255181,340766 254610,342122 C253967,343478 253182,344763 252111,345834 C250041,347975 247115,349260 243903,349260 C240691,349260 237764,347904 235694,345834 C234624,344763 233767,343478 233196,342122 C232625,340766 232268,339195 232268,337625 C232268,331201 237479,325990 243903,325990 Z M322349,324705 C324990,324705 327489,325562 329559,326918 C332913,329273 335198,333199 335198,337625 C335198,339409 334841,341051 334198,342621 C333556,344120 332557,345548 331414,346690 C330843,347261 330201,347832 329559,348260 C327489,349688 324990,350473 322349,350473 C321493,350473 320636,350330 319780,350188 C317281,349688 314997,348403 313284,346690 C312071,345548 311143,344192 310500,342621 C309858,341122 309501,339409 309501,337625 C309501,331415 313927,326204 319780,324990 C320565,324776 321493,324705 322349,324705 Z M479098,321707 C484594,321707 489376,324491 492232,328702 C493945,331272 494944,334270 494944,337553 C494944,339695 494516,341836 493731,343692 C493374,344691 492874,345548 492303,346404 C491732,347261 491090,348046 490304,348760 C487449,351615 483452,353400 479098,353400 C477956,353400 476885,353257 475886,353043 C472816,352472 470033,350901 467891,348760 C467177,348046 466535,347261 465964,346404 C465393,345548 464965,344620 464536,343692 C464108,342693 463823,341693 463608,340694 C463466,339623 463323,338553 463323,337482 C463323,336340 463394,335269 463608,334270 C464037,332200 464822,330344 465964,328631 C466535,327774 467177,326989 467891,326275 C470033,324134 472816,322635 475886,321993 C476956,321850 478027,321707 479098,321707 Z M557687,320066 C567323,320066 575175,327918 575175,337554 C575175,339981 574675,342336 573819,344406 C572891,346476 571606,348404 570178,349974 C566966,353115 562612,355113 557758,355113 C552905,355113 548479,353115 545338,349974 C543697,348404 542412,346476 541555,344406 C540699,342265 540199,339981 540199,337554 C540199,327918 548051,320066 557687,320066 Z M714579,316140 C726428,316140 736064,325776 736064,337625 C736064,340552 735422,343407 734351,345977 C733281,348546 731710,350830 729854,352829 C726000,356684 720575,359111 714651,359111 C708726,359111 703373,356755 699447,352829 C697448,350902 695878,348546 694807,345977 C693665,343407 693094,340623 693094,337625 C693094,325776 702730,316140 714579,316140 Z M793025,313784 C797950,313784 802590,315283 806373,317853 C812725,322135 816865,329416 816865,337625 C816865,340908 816223,344049 815010,346904 C813796,349759 812012,352329 809870,354470 C808800,355541 807586,356469 806373,357397 C802518,359967 797950,361466 793025,361466 C791383,361466 789813,361251 788242,360966 C783603,360038 779391,357682 776179,354470 C773966,352329 772253,349759 771040,346904 C769826,344049 769184,340908 769184,337625 C769184,326133 777393,316496 788242,314284 C789741,313927 791383,313784 793025,313784 Z M47753,289372 C52749,289372 56747,293369 56747,298366 C56747,303362 52749,307360 47753,307360 C42756,307360 38759,303362 38759,298366 C38759,293369 42756,289372 47753,289372 Z M126198,288373 C131694,288373 136191,292870 136191,298366 C136191,303862 131694,308359 126198,308359 C120631,308359 116205,303862 116205,298366 C116205,292799 120702,288373 126198,288373 Z M283162,286160 C289872,286160 295368,291585 295368,298366 C295368,305147 289872,310572 283162,310572 C276452,310572 270956,305147 270956,298366 C270956,291656 276381,286160 283162,286160 Z M361536,284804 C369031,284804 375098,290871 375098,298366 C375098,305861 369031,311928 361536,311928 C354041,311928 347974,305861 347974,298366 C347974,290871 354041,284804 361536,284804 Z M518428,281735 C527636,281735 535060,289158 535060,298366 C535060,307574 527636,314998 518428,314998 C509220,314998 501797,307574 501797,298366 C501797,289158 509220,281735 518428,281735 Z M596946,279950 C607082,279950 615362,288159 615362,298366 C615362,308573 607082,316782 596946,316782 C586810,316782 578530,308573 578530,298366 C578530,288230 586739,279950 596946,279950 Z M753766,275739 C766258,275739 776394,285875 776394,298366 C776394,310858 766258,320994 753766,320994 C741275,320994 731139,310858 731139,298366 C731139,285875 741275,275739 753766,275739 Z M832283,273241 C846131,273241 857337,284519 857337,298367 C857337,312214 846059,323421 832283,323421 C818436,323421 807229,312214 807229,298367 C807229,284448 818436,273241 832283,273241 Z M86939,249685 C92222,249685 96433,253968 96433,259179 C96433,264389 92222,268601 86939,268672 C81657,268672 77446,264389 77446,259179 C77446,253896 81729,249685 86939,249685 Z M165457,248686 C169097,248686 172309,250542 174165,253326 C175307,254967 175950,257037 175950,259179 C175950,261320 175307,263390 174165,265032 C172238,267816 169026,269672 165457,269814 C164672,269814 164029,269743 163315,269600 C161317,269172 159461,268173 158033,266745 C157534,266245 157105,265746 156748,265175 C156035,264033 155464,262748 155178,261392 C155035,260678 154964,259964 154964,259250 C154964,258465 155035,257823 155178,257109 C155464,255681 155963,254468 156748,253326 C157105,252755 157534,252255 158033,251755 C159461,250328 161245,249328 163315,248900 C164029,248757 164743,248686 165457,248686 Z M322349,246259 C324990,246259 327489,247116 329559,248472 C332913,250827 335198,254753 335198,259179 C335198,263604 332985,267530 329559,269886 C327489,271313 324990,272098 322349,272098 C321493,272098 320636,271956 319780,271813 C313927,270599 309501,265389 309501,259179 C309501,252969 313927,247758 319780,246545 C320565,246330 321493,246259 322349,246259 Z M400795,244903 C408718,244903 415071,251327 415071,259179 C415071,267031 408647,273455 400795,273455 C392943,273455 386519,267031 386519,259179 C386519,251256 392943,244903 400795,244903 Z M557687,241691 C567323,241691 575175,249543 575175,259179 C575175,268815 567323,276667 557687,276667 C548051,276667 540199,268815 540199,259179 C540199,249543 548051,241691 557687,241691 Z M636061,239764 C642771,239764 648695,243190 652193,248330 C654263,251399 655476,255182 655476,259179 C655476,263177 654263,266960 652193,270029 C648695,275168 642842,278594 636061,278594 C634705,278594 633420,278452 632135,278166 C628352,277381 624997,275525 622356,272884 C621500,272028 620715,271028 620001,270029 C618573,267959 617574,265603 617074,263105 C616789,261820 616646,260535 616646,259179 C616646,257823 616789,256538 617074,255253 C617574,252755 618573,250400 620001,248330 C620715,247330 621500,246331 622356,245474 C624926,242833 628352,240977 632135,240192 C633420,239907 634705,239764 636061,239764 Z M793025,235338 C797950,235338 802590,236837 806373,239407 C812725,243689 816865,250970 816865,259179 C816865,267387 812654,274597 806373,278951 C802518,281521 797950,283020 793025,283020 C791383,283020 789813,282805 788242,282520 C777321,280307 769184,270671 769184,259179 C769184,247687 777393,238050 788242,235838 C789741,235481 791383,235338 793025,235338 Z M871470,232768 C886032,232768 897881,244617 897881,259178 C897881,273740 886032,285589 871470,285589 C856909,285589 845060,273740 845060,259178 C845060,244617 856909,232768 871470,232768 Z M126198,209927 C131694,209927 136191,214424 136191,219920 C136191,225416 131694,229913 126198,229913 C120631,229913 116205,225416 116205,219920 C116205,214353 120702,209927 126198,209927 Z M204644,208856 C210782,208856 215708,213853 215708,219920 C215708,226058 210782,230984 204644,230984 C198505,230984 193580,225987 193580,219920 C193580,213781 198577,208856 204644,208856 Z M361536,206358 C369031,206358 375098,212425 375098,219920 C375098,227415 369031,233482 361536,233482 C354041,233482 347974,227415 347974,219920 C347974,212425 354041,206358 361536,206358 Z M440054,204930 C448334,204930 455043,211640 455043,219920 C455043,228200 448262,234981 440054,234909 C431774,234909 425064,228200 425064,219920 C425064,211640 431774,204930 440054,204930 Z M596946,201504 C607082,201504 615362,209713 615362,219920 C615362,230127 607082,238407 596946,238336 C586810,238336 578530,230127 578530,219920 C578530,209784 586739,201504 596946,201504 Z M675321,199506 C686598,199506 695735,208643 695735,219921 C695735,231199 686598,240407 675321,240335 C664043,240335 654906,231199 654906,219921 C654906,208643 664043,199506 675321,199506 Z M832283,194866 C846131,194866 857337,206073 857337,219920 C857337,233768 846059,245046 832283,245046 C818436,245046 807229,233768 807229,219920 C807229,206073 818436,194866 832283,194866 Z M165529,170240 C169169,170240 172381,172096 174237,174880 C175379,176521 176022,178591 176022,180733 C176022,182160 175665,183517 175165,184801 C174879,185444 174523,186015 174166,186586 C173737,187157 173309,187657 173024,188299 C171096,190226 168527,191368 165600,191368 C164815,191368 164173,191297 163459,191154 C161460,190726 159604,189727 158177,188299 C157677,187799 157249,187300 156892,186729 C156464,186158 156178,185587 155893,184944 C155607,184302 155393,183659 155250,182946 C155107,182232 155036,181518 155036,180804 C155036,180019 155107,179377 155250,178663 C155536,177235 156035,176022 156820,174880 C157177,174309 157606,173809 158105,173309 C159533,171882 161317,170882 163387,170454 C164101,170311 164815,170240 165529,170240 Z M243903,169098 C250327,169098 255538,174309 255538,180733 C255538,182303 255181,183874 254610,185230 C253967,186657 253182,187871 252111,188942 C250041,191083 247115,192368 243903,192368 C240691,192368 237764,191012 235694,188942 C234624,187871 233767,186586 233196,185230 C232625,183874 232268,182303 232268,180733 C232268,174309 237479,169098 243903,169098 Z M400795,166385 C408718,166385 415071,172809 415071,180661 C415071,182660 414642,184515 413929,186229 C413215,187942 412144,189512 410859,190797 C408290,193438 404721,195008 400795,195008 C396869,195008 393300,193366 390730,190797 C389446,189441 388375,187942 387661,186229 C386947,184515 386519,182660 386519,180661 C386519,172738 392943,166385 400795,166385 Z M479098,164815 C484594,164815 489376,167599 492232,171810 C493945,174380 494944,177378 494944,180661 C494944,182803 494516,184873 493731,186800 C493374,187799 492874,188656 492303,189512 C491732,190369 491090,191154 490304,191939 C487449,194794 483452,196579 479098,196579 C477956,196579 476885,196436 475886,196222 C472816,195651 470033,194081 467891,191939 C467177,191225 466535,190440 465964,189584 C465393,188727 464965,187799 464536,186871 C464108,185872 463823,184873 463608,183873 C463466,182803 463323,181732 463323,180661 C463323,179519 463394,178449 463608,177449 C464037,175379 464822,173523 465964,171810 C466535,170954 467177,170168 467891,169455 C470033,167313 472816,165814 475886,165172 C476956,164958 478027,164815 479098,164815 Z M636061,161317 C642771,161317 648695,164743 652193,169883 C654263,172952 655476,176735 655476,180732 C655476,183445 654977,185943 653977,188298 C653478,189441 652907,190583 652193,191582 C651479,192581 650694,193581 649766,194437 C646268,198006 641415,200148 636061,200148 C634705,200148 633420,200005 632135,199719 C628352,198934 624997,197078 622356,194437 C621500,193581 620715,192581 620001,191582 C619287,190583 618716,189441 618216,188298 C617717,187156 617360,185943 617074,184658 C616789,183373 616646,182088 616646,180732 C616646,179376 616789,178091 617074,176806 C617574,174308 618573,171953 620001,169883 C620715,168883 621500,167884 622356,167027 C624926,164386 628352,162530 632135,161745 C633420,161460 634705,161317 636061,161317 Z M714579,159247 C726428,159247 736064,168883 736064,180732 C736064,183659 735422,186514 734351,189084 C733281,191653 731710,193937 729854,195936 C726000,199791 720575,202218 714651,202218 C708726,202218 703373,199862 699447,195936 C697448,194009 695878,191653 694807,189084 C693665,186514 693094,183730 693094,180732 C693094,168883 702730,159247 714579,159247 Z M871470,154322 C886032,154322 897881,166171 897881,180732 C897881,184373 897167,187870 895811,191011 C894455,194152 892527,197007 890172,199434 C885389,204216 878751,207143 871470,207143 C864118,207143 857551,204216 852769,199434 C850413,197007 848486,194152 847130,191011 C845774,187870 845060,184373 845060,180732 C845060,166171 856909,154322 871470,154322 Z M126198,131481 C131694,131481 136191,135978 136191,141474 C136191,146970 131694,151467 126198,151467 C120631,151467 116205,146970 116205,141474 C116205,135907 120702,131481 126198,131481 Z M204644,130410 C210782,130410 215708,135407 215708,141474 C215708,147612 210782,152538 204644,152538 C198505,152538 193580,147541 193580,141474 C193580,135335 198577,130410 204644,130410 Z M361536,127912 C369031,127912 375098,133979 375098,141474 C375098,148969 369031,155036 361536,155036 C354041,155036 347974,148969 347974,141474 C347974,133979 354041,127912 361536,127912 Z M440054,126484 C448334,126484 455043,133194 455043,141474 C455043,149754 448262,156535 440054,156463 C431774,156463 425064,149754 425064,141474 C425064,133194 431774,126484 440054,126484 Z M596946,123058 C607082,123058 615362,131267 615362,141474 C615362,151681 607082,159890 596946,159890 C586810,159890 578530,151681 578530,141474 C578530,131338 586739,123058 596946,123058 Z M675321,121059 C686598,121059 695735,130196 695735,141474 C695735,152752 686598,161888 675321,161888 C664043,161888 654906,152752 654906,141474 C654906,130196 664043,121059 675321,121059 Z M832283,116348 C846131,116348 857337,127626 857337,141474 C857337,155321 846059,166599 832283,166528 C818436,166528 807229,155321 807229,141474 C807229,127555 818436,116348 832283,116348 Z M910730,113636 C926076,113636 938496,126127 938496,141474 L930397,161004 L949989,152895 C965335,152895 977755,165315 977755,180662 C977755,184516 976970,188157 975542,191511 C974115,194866 972045,197864 969618,200362 C964621,205359 957698,208500 949989,208500 L930410,200383 L938496,219920 C938496,235266 926005,247758 910730,247758 C895383,247758 882963,235266 882963,219920 C882963,204573 895383,192153 910730,192153 L930281,200246 L924435,191511 C923007,188157 922222,184516 922222,180662 L930295,161159 L910730,169241 C895383,169241 882963,156821 882963,141474 C882963,126056 895383,113636 910730,113636 Z M86939,92793 C92222,92793 96433,97076 96433,102286 C96433,107497 92222,111709 86939,111780 C81657,111780 77446,107497 77446,102286 C77446,97004 81729,92793 86939,92793 Z M165457,91794 C169097,91794 172309,93650 174165,96434 C175307,98075 175950,100145 175950,102287 C175950,104428 175307,106498 174165,108140 C172238,110924 169026,112780 165457,112922 C164672,112922 164029,112851 163315,112708 C161317,112280 159461,111281 158033,109853 C157534,109353 157105,108854 156748,108283 C156035,107141 155464,105856 155178,104500 C155035,103786 154964,103072 154964,102358 C154964,101573 155035,100931 155178,100217 C155464,98789 155963,97576 156748,96434 C157105,95863 157534,95363 158033,94863 C159461,93436 161245,92436 163315,92008 C164029,91865 164743,91794 165457,91794 Z M322349,89367 C324990,89367 327489,90224 329559,91580 C332913,93935 335198,97861 335198,102287 C335198,106712 332985,110638 329559,112994 C327489,114421 324990,115206 322349,115206 C321493,115206 320636,115064 319780,114921 C313927,113707 309501,108497 309501,102287 C309501,96077 313927,90866 319780,89653 C320565,89438 321493,89367 322349,89367 Z M400795,88011 C408718,88011 415071,94435 415071,102287 C415071,110139 408647,116563 400795,116563 C392943,116563 386519,110139 386519,102287 C386519,94364 392943,88011 400795,88011 Z M557687,84798 C567323,84798 575175,92650 575175,102286 C575175,111922 567323,119774 557687,119774 C548051,119774 540199,111922 540199,102286 C540199,92650 548051,84798 557687,84798 Z M636061,82871 C642771,82871 648695,86297 652193,91437 C654263,94506 655476,98289 655476,102286 C655476,106284 654263,110067 652193,113136 C648695,118275 642842,121702 636061,121702 C634705,121702 633420,121559 632135,121273 C628352,120488 624997,118632 622356,115991 C621500,115135 620715,114135 620001,113136 C618573,111066 617574,108710 617074,106212 C616789,104927 616646,103642 616646,102286 C616646,100930 616789,99645 617074,98360 C617574,95862 618573,93507 620001,91437 C620715,90437 621500,89438 622356,88581 C624926,85940 628352,84084 632135,83299 C633420,83014 634705,82871 636061,82871 Z M793025,78446 C797950,78446 802590,79945 806373,82515 C812725,86797 816865,94078 816865,102287 C816865,110495 812654,117776 806373,122059 C802518,124629 797950,126128 793025,126128 C791383,126128 789813,125913 788242,125628 C777321,123415 769184,113779 769184,102287 C769184,90795 777393,81158 788242,78946 C789741,78589 791383,78446 793025,78446 Z M871470,75876 C886032,75876 897881,87725 897881,102286 C897881,116848 886032,128697 871470,128697 C856909,128697 845060,116848 845060,102286 C845060,87725 856909,75876 871470,75876 Z M47753,54034 C52749,54034 56747,58031 56747,63028 C56747,68024 52749,72022 47753,72022 C42756,72022 38759,68024 38759,63028 C38759,58031 42756,54034 47753,54034 Z M126198,53035 C131694,53035 136191,57532 136191,63028 C136191,68524 131694,73021 126198,73021 C120631,73021 116205,68524 116205,63028 C116205,57461 120702,53035 126198,53035 Z M283162,50822 C289872,50822 295368,56247 295368,63028 C295368,69809 289872,75305 283162,75234 C276452,75234 270956,69809 270956,63028 C270956,56318 276381,50822 283162,50822 Z M361536,49466 C369031,49466 375098,55533 375098,63028 C375098,70523 369031,76590 361536,76590 C354041,76590 347974,70523 347974,63028 C347974,55533 354041,49466 361536,49466 Z M518428,46396 C527636,46396 535060,53819 535060,63027 C535060,72235 527636,79730 518428,79659 C509220,79659 501797,72235 501797,63027 C501797,53819 509220,46396 518428,46396 Z M596946,44612 C607082,44612 615362,52821 615362,63028 C615362,73235 607082,81515 596946,81444 C586810,81444 578530,73235 578530,63028 C578530,52892 586739,44612 596946,44612 Z M753766,40400 C766258,40400 776394,50536 776394,63027 C776394,75519 766258,85726 753766,85655 C741275,85655 731139,75519 731139,63027 C731139,50536 741275,40400 753766,40400 Z M832283,37973 C846131,37973 857337,49180 857337,63027 C857337,76875 846059,88153 832283,88153 C818436,88153 807229,76875 807229,63027 C807229,49180 818436,37973 832283,37973 Z M8566,15275 C11492,15275 14062,16774 15632,19058 C16489,20414 17060,22056 17060,23841 C17060,24412 17060,24983 16917,25554 C16703,26696 16275,27695 15632,28623 C14062,30907 11492,32406 8566,32406 C7923,32406 7352,32335 6852,32192 C5139,31835 3640,30979 2498,29836 C2141,29480 1784,29051 1428,28623 C785,27695 357,26696 143,25554 C71,24983 0,24412 0,23841 C0,23270 71,22627 143,22127 C428,20985 857,19986 1428,19058 C1784,18630 2141,18202 2498,17773 C3640,16631 5139,15775 6852,15418 C7423,15346 7994,15275 8566,15275 Z M87011,14347 C92294,14347 96505,18630 96505,23840 C96505,24483 96434,25125 96291,25768 C95363,30051 91580,33263 87011,33334 C82443,33334 78589,30051 77732,25768 C77589,25125 77518,24483 77518,23840 C77518,18558 81801,14347 87011,14347 Z M243832,12205 C250256,12205 255467,17416 255467,23840 C255467,24625 255395,25410 255253,26195 C254182,31477 249471,35475 243832,35475 C238193,35475 233482,31477 232411,26195 C232268,25410 232197,24625 232197,23840 C232197,17416 237408,12205 243832,12205 Z M322349,10921 C324990,10921 327489,11778 329559,13134 C332913,15489 335198,19415 335198,23841 C335198,24697 335055,25554 334912,26410 C334270,29765 332271,32620 329559,34476 C327489,35904 324990,36689 322349,36689 C321493,36689 320636,36546 319780,36404 C314783,35404 310786,31407 309787,26410 C309572,25625 309501,24697 309501,23841 C309501,17631 313927,12420 319780,11207 C320565,10992 321493,10921 322349,10921 Z M479098,7994 C484594,7994 489376,10778 492232,14989 C493945,17559 494944,20557 494944,23840 C494944,24982 494873,26053 494659,27052 C494230,29122 493445,30978 492303,32691 C489519,36903 484665,39615 479098,39615 C477956,39615 476885,39472 475886,39258 C472816,38687 470033,37117 467891,34975 C467177,34262 466535,33477 465964,32620 C464822,30978 464037,29051 463608,26981 C463466,25910 463323,24911 463323,23769 C463323,22627 463394,21556 463608,20557 C464037,18487 464822,16631 465964,14918 C466535,14061 467177,13276 467891,12562 C470033,10421 472816,8922 475886,8280 C476956,8137 478027,7994 479098,7994 Z M557687,6352 C567323,6352 575175,14204 575175,23840 C575175,24982 575032,26196 574818,27338 C573176,35332 566110,41328 557687,41328 C549264,41328 542198,35332 540556,27338 C540342,26196 540199,25053 540199,23840 C540199,14204 548051,6352 557687,6352 Z M714579,2284 C726428,2284 736064,11920 736064,23769 C736064,25268 735922,26696 735636,28123 C733638,37974 724929,45326 714579,45326 C704229,45326 695521,37902 693522,28123 C693237,26696 693094,25268 693094,23769 C693094,11920 702730,2284 714579,2284 Z M793025,0 C797950,0 802518,1499 806373,4069 C812725,8351 816865,15632 816865,23841 C816865,25483 816651,27053 816366,28623 C815081,34833 811369,40187 806373,43613 C802518,46183 797950,47682 793025,47682 C791383,47682 789813,47467 788242,47182 C778892,45255 771611,37903 769684,28623 C769327,27124 769184,25483 769184,23841 C769184,12349 777393,2712 788242,500 C789741,143 791383,0 793025,0 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#70AD4700"
+        - position: 0
+          color: $accent1
+      angle: 180
+  - elementId: Picture 8
+    elementType: image
+    bounds: [661, 379.8, 213.8, 148.7]
+    cropShape:
+      shapeName: rect
+    src: media/image-31.png
+    fit:
+      mode: fill

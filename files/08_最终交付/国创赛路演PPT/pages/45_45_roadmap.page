@@ -1,0 +1,1631 @@
+pageType: content
+elements:
+- elementId: bg_rect
+  elementType: shape
+  bounds:
+  - 0
+  - 0
+  - 960
+  - 540
+  shapeName: rect
+  fill:
+    type: gradient
+    gradientType: linear
+    angle: 90
+    stops:
+    - position: 0
+      color: '#042258'
+    - position: 1
+      color: '#002456'
+  border:
+    style: solid
+    width: 1
+    color: '#0A111D'
+- elementId: bg_left
+  elementType: image
+  bounds:
+  - 0.2
+  - -0.7
+  - 453.1
+  - 540
+  src: media/bg_left.png
+  fit:
+    mode: fill
+- elementId: bg_hwy
+  elementType: image
+  bounds:
+  - 343.9
+  - -65.8
+  - 661.8
+  - 440
+  src: media/bg_hwy2.png
+  fit:
+    mode: fill
+- elementId: bg_grid
+  elementType: image
+  bounds:
+  - 0
+  - 46.5
+  - 959.2
+  - 493.5
+  src: media/bg_grid.png
+  fit:
+    mode: fill
+- elementId: '任意多边形: 形状 2'
+  elementType: shape
+  bounds:
+  - 595.6
+  - 21
+  - 364.4
+  - 16.9
+  shapeName: custom
+  viewBox:
+  - 4628346
+  - 214864
+  path: M1179178,4 C2036332,-88 3402008,1227 4378814,1467 L4628346,1500 L4628346,214864 L0,214864 C188271,25210 188159,4890 387013,1504 C449155,446 750602,49 1179178,4 Z
+  fill:
+    type: gradient
+    gradientType: linear
+    stops:
+    - position: 0.97701
+      color: '#33569324'
+    - position: 0.76
+      color: '#4472C43B'
+    - position: 0.45
+      color: '#8FAADC40'
+    - position: 0
+      color: '#8FAADC4F'
+    angle: 90
+  border:
+    style: solid
+    width: 0.75
+    color: '#8FAADC03'
+- elementId: 平行四边形 40
+  elementType: shape
+  bounds:
+  - 610.5
+  - 24.7
+  - 105.5
+  - 15.2
+  shapeName: custom
+  viewBox:
+  - 1339850
+  - 234950
+  path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+  fill:
+    type: gradient
+    gradientType: linear
+    stops:
+    - position: 0.97701
+      color: '#33569324'
+    - position: 0.76
+      color: '#4472C43B'
+    - position: 0.45
+      color: '#8FAADC54'
+    - position: 0
+      color: '#8FAADCA6'
+    angle: 270
+  border:
+    style: solid
+    width: 0.75
+    color: '#8FAADC03'
+- elementId: 平行四边形 40-2
+  elementType: shape
+  bounds:
+  - 706.9
+  - 24.7
+  - 105.5
+  - 15.2
+  shapeName: custom
+  viewBox:
+  - 1339850
+  - 234950
+  path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+  fill:
+    type: gradient
+    gradientType: linear
+    stops:
+    - position: 0.97701
+      color: '#33569324'
+    - position: 0.76
+      color: '#4472C43B'
+    - position: 0.45
+      color: '#8FAADC54'
+    - position: 0
+      color: '#8FAADCA6'
+    angle: 270
+  border:
+    style: solid
+    width: 0.75
+    color: '#8FAADC03'
+- elementId: 平行四边形 40-3
+  elementType: shape
+  bounds:
+  - 803.3
+  - 24.7
+  - 105.5
+  - 15.2
+  shapeName: custom
+  viewBox:
+  - 1339850
+  - 234950
+  path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+  fill:
+    type: gradient
+    gradientType: linear
+    stops:
+    - position: 0.97701
+      color: '#33569324'
+    - position: 0.76
+      color: '#4472C43B'
+    - position: 0.45
+      color: '#8FAADC54'
+    - position: 0
+      color: '#8FAADCA6'
+    angle: 270
+  border:
+    style: solid
+    width: 0.75
+    color: '#8FAADC03'
+- elementId: 平行四边形 6
+  elementType: shape
+  bounds:
+  - 780.5
+  - 11.5
+  - 6
+  - 5.1
+  shapeName: parallelogram
+  adjustments:
+  - 78511
+  fill:
+    type: solid
+    color: $accent1
+- elementId: 平行四边形 8
+  elementType: shape
+  bounds:
+  - 785.7
+  - 11.5
+  - 6
+  - 5.1
+  shapeName: parallelogram
+  adjustments:
+  - 78511
+  fill:
+    type: solid
+    color: $accent1
+- elementId: 平行四边形 9
+  elementType: shape
+  bounds:
+  - 790.8
+  - 11.5
+  - 6
+  - 5.1
+  shapeName: parallelogram
+  adjustments:
+  - 78511
+  fill:
+    type: solid
+    color: $accent1
+- elementId: 平行四边形 11
+  elementType: shape
+  bounds:
+  - 796
+  - 11.5
+  - 6
+  - 5.1
+  shapeName: parallelogram
+  adjustments:
+  - 78511
+  fill:
+    type: solid
+    color: $accent1
+- elementId: 平行四边形 47
+  elementType: shape
+  bounds:
+  - 801.1
+  - 11.5
+  - 6
+  - 5.1
+  shapeName: parallelogram
+  adjustments:
+  - 78511
+  fill:
+    type: solid
+    color: $accent1
+- elementId: 平行四边形 48
+  elementType: shape
+  bounds:
+  - 806.3
+  - 11.5
+  - 6
+  - 5.1
+  shapeName: parallelogram
+  adjustments:
+  - 78511
+  fill:
+    type: solid
+    color: $accent1
+- elementId: 平行四边形 103
+  elementType: shape
+  bounds:
+  - 811.4
+  - 11.5
+  - 6
+  - 5.1
+  shapeName: parallelogram
+  adjustments:
+  - 78511
+  fill:
+    type: solid
+    color: $accent1
+- elementId: 平行四边形 104
+  elementType: shape
+  bounds:
+  - 816.6
+  - 11.5
+  - 6
+  - 5.1
+  shapeName: parallelogram
+  adjustments:
+  - 78511
+  fill:
+    type: solid
+    color: $accent1
+- elementId: 平行四边形 105
+  elementType: shape
+  bounds:
+  - 821.7
+  - 11.5
+  - 6
+  - 5.1
+  shapeName: parallelogram
+  adjustments:
+  - 78511
+  fill:
+    type: solid
+    color: $accent1
+- elementId: 平行四边形 106
+  elementType: shape
+  bounds:
+  - 826.9
+  - 11.5
+  - 6
+  - 5.1
+  shapeName: parallelogram
+  adjustments:
+  - 78511
+  fill:
+    type: solid
+    color: $accent1
+- elementId: '任意多边形: 形状 107'
+  elementType: line
+  bounds:
+  - 841.9
+  - 11.9
+  - 120
+  - 4.4
+  opacity: 0.55
+  viewBox:
+  - 1524000
+  - 82550
+  points: 1524000,0 44450,0 0,82550
+  curve: sharp
+  border:
+    style: solid
+    width: 1
+    color: $accent1
+- elementId: '任意多边形: 形状 108'
+  elementType: shape
+  bounds:
+  - 1.4
+  - 2.7
+  - 957.3
+  - 41.3
+  shapeName: custom
+  viewBox:
+  - 12157213
+  - 448506
+  path: M0,0 L2257280,0 L9862425,0 L12157213,0 L12157213,74543 L9804378,74543 L9723422,173848 L7786457,175980 C7555196,178292 7526819,445158 7283623,448506 L4803246,448506 C4560050,445158 4531673,178292 4300412,175980 C4206462,175041 3906270,174578 3525514,174302 L2398965,173800 L2318049,74543 L0,74543 Z
+  fill:
+    type: gradient
+    gradientType: linear
+    stops:
+    - position: 0.97701
+      color: '#4472C429'
+    - position: 0.76
+      color: '#4472C440'
+    - position: 0.45
+      color: '#8FAADC54'
+    - position: 0
+      color: '#8FAADCA6'
+    angle: 270
+  border:
+    style: solid
+    width: 0.75
+    color: '#8FAADC03'
+- elementId: '任意多边形: 形状 109'
+  elementType: shape
+  bounds:
+  - 0
+  - 21
+  - 357.4
+  - 16.9
+  flip:
+  - true
+  - false
+  shapeName: custom
+  viewBox:
+  - 4539446
+  - 214864
+  path: M1179178,4 C750601,49 449155,446 387013,1504 C188159,4890 188271,25210 0,214864 L4539446,214864 L4539446,1488 L4378813,1467 C3402008,1227 2036332,-88 1179178,4 Z
+  fill:
+    type: gradient
+    gradientType: linear
+    stops:
+    - position: 0.97701
+      color: '#33569324'
+    - position: 0.76
+      color: '#4472C43B'
+    - position: 0.45
+      color: '#8FAADC40'
+    - position: 0
+      color: '#8FAADC4F'
+    angle: 90
+  border:
+    style: solid
+    width: 0.75
+    color: '#8FAADC03'
+- elementId: 平行四边形 40-4
+  elementType: shape
+  bounds:
+  - 237
+  - 24.7
+  - 105.5
+  - 15.2
+  flip:
+  - true
+  - false
+  shapeName: custom
+  viewBox:
+  - 1339850
+  - 234950
+  path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+  fill:
+    type: gradient
+    gradientType: linear
+    stops:
+    - position: 0.97701
+      color: '#33569324'
+    - position: 0.76
+      color: '#4472C43B'
+    - position: 0.45
+      color: '#8FAADC54'
+    - position: 0
+      color: '#8FAADCA6'
+    angle: 270
+  border:
+    style: solid
+    width: 0.75
+    color: '#8FAADC03'
+- elementId: 平行四边形 40-5
+  elementType: shape
+  bounds:
+  - 140.6
+  - 24.7
+  - 105.5
+  - 15.2
+  flip:
+  - true
+  - false
+  shapeName: custom
+  viewBox:
+  - 1339850
+  - 234950
+  path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+  fill:
+    type: gradient
+    gradientType: linear
+    stops:
+    - position: 0.97701
+      color: '#33569324'
+    - position: 0.76
+      color: '#4472C43B'
+    - position: 0.45
+      color: '#8FAADC54'
+    - position: 0
+      color: '#8FAADCA6'
+    angle: 270
+  border:
+    style: solid
+    width: 0.75
+    color: '#8FAADC03'
+- elementId: 平行四边形 40-6
+  elementType: shape
+  bounds:
+  - 44.2
+  - 24.7
+  - 105.5
+  - 15.2
+  flip:
+  - true
+  - false
+  shapeName: custom
+  viewBox:
+  - 1339850
+  - 234950
+  path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+  fill:
+    type: gradient
+    gradientType: linear
+    stops:
+    - position: 0.97701
+      color: '#33569324'
+    - position: 0.76
+      color: '#4472C43B'
+    - position: 0.45
+      color: '#8FAADC54'
+    - position: 0
+      color: '#8FAADCA6'
+    angle: 270
+  border:
+    style: solid
+    width: 0.75
+    color: '#8FAADC03'
+- elementId: 平行四边形 113
+  elementType: shape
+  bounds:
+  - 171
+  - 11.5
+  - 6
+  - 5.1
+  flip:
+  - true
+  - false
+  shapeName: parallelogram
+  adjustments:
+  - 78511
+  fill:
+    type: solid
+    color: $accent1
+- elementId: 平行四边形 114
+  elementType: shape
+  bounds:
+  - 165.9
+  - 11.5
+  - 6
+  - 5.1
+  flip:
+  - true
+  - false
+  shapeName: parallelogram
+  adjustments:
+  - 78511
+  fill:
+    type: solid
+    color: $accent1
+- elementId: 平行四边形 115
+  elementType: shape
+  bounds:
+  - 160.7
+  - 11.5
+  - 6
+  - 5.1
+  flip:
+  - true
+  - false
+  shapeName: parallelogram
+  adjustments:
+  - 78511
+  fill:
+    type: solid
+    color: $accent1
+- elementId: 平行四边形 116
+  elementType: shape
+  bounds:
+  - 155.6
+  - 11.5
+  - 6
+  - 5.1
+  flip:
+  - true
+  - false
+  shapeName: parallelogram
+  adjustments:
+  - 78511
+  fill:
+    type: solid
+    color: $accent1
+- elementId: 平行四边形 117
+  elementType: shape
+  bounds:
+  - 150.4
+  - 11.5
+  - 6
+  - 5.1
+  flip:
+  - true
+  - false
+  shapeName: parallelogram
+  adjustments:
+  - 78511
+  fill:
+    type: solid
+    color: $accent1
+- elementId: 平行四边形 118
+  elementType: shape
+  bounds:
+  - 145.3
+  - 11.5
+  - 6
+  - 5.1
+  flip:
+  - true
+  - false
+  shapeName: parallelogram
+  adjustments:
+  - 78511
+  fill:
+    type: solid
+    color: $accent1
+- elementId: 平行四边形 120
+  elementType: shape
+  bounds:
+  - 140.1
+  - 11.5
+  - 6
+  - 5.1
+  flip:
+  - true
+  - false
+  shapeName: parallelogram
+  adjustments:
+  - 78511
+  fill:
+    type: solid
+    color: $accent1
+- elementId: 平行四边形 121
+  elementType: shape
+  bounds:
+  - 135
+  - 11.5
+  - 6
+  - 5.1
+  flip:
+  - true
+  - false
+  shapeName: parallelogram
+  adjustments:
+  - 78511
+  fill:
+    type: solid
+    color: $accent1
+- elementId: 平行四边形 122
+  elementType: shape
+  bounds:
+  - 129.8
+  - 11.5
+  - 6
+  - 5.1
+  flip:
+  - true
+  - false
+  shapeName: parallelogram
+  adjustments:
+  - 78511
+  fill:
+    type: solid
+    color: $accent1
+- elementId: 平行四边形 123
+  elementType: shape
+  bounds:
+  - 124.7
+  - 11.5
+  - 6
+  - 5.1
+  flip:
+  - true
+  - false
+  shapeName: parallelogram
+  adjustments:
+  - 78511
+  fill:
+    type: solid
+    color: $accent1
+- elementId: '任意多边形: 形状 125'
+  elementType: line
+  bounds:
+  - 0
+  - 11.9
+  - 120
+  - 4.4
+  opacity: 0.55
+  flip:
+  - true
+  - false
+  viewBox:
+  - 1524000
+  - 82550
+  points: 1524000,0 44450,0 0,82550
+  curve: sharp
+  border:
+    style: solid
+    width: 1
+    color: $accent1
+- elementId: MG-大标题矩形装饰
+  elementType: shape
+  bounds:
+  - 402.8
+  - 43.9
+  - 12.4
+  - 1.4
+  shapeName: rect
+  fill:
+    type: solid
+    color: '#DAE3F3'
+- elementId: MG-大标题矩形装饰-2
+  elementType: shape
+  bounds:
+  - 544.8
+  - 43.9
+  - 12.4
+  - 1.4
+  shapeName: rect
+  fill:
+    type: solid
+    color: '#DAE3F3'
+- elementId: '任意多边形: 形状 134'
+  elementType: shape
+  bounds:
+  - 17.5
+  - -1.2
+  - 925
+  - 41.3
+  shapeName: custom
+  viewBox:
+  - 12157213
+  - 448506
+  path: M0,0 L2257280,0 L9862425,0 L12157213,0 L12157213,74543 L9804378,74543 L9723422,173848 L7786457,175980 C7555196,178292 7526819,445158 7283623,448506 L4803246,448506 C4560050,445158 4531673,178292 4300412,175980 C4206462,175041 3906270,174578 3525514,174302 L2398965,173800 L2318049,74543 L0,74543 Z
+  fill:
+    type: gradient
+    gradientType: linear
+    stops:
+    - position: 0.07
+      color: '#8FAADCAB'
+    - position: 0.68
+      color: '#8FAADC00'
+    angle: 270
+  border:
+    style: solid
+    width: 0.75
+    color: '#8FAADCAB'
+- elementId: nav_ts
+  elementType: shape
+  bounds:
+  - 390.0
+  - 5.8
+  - 180
+  - 36.4
+  shapeName: rect
+  shadow:
+    blur: 10
+    color: '#223962'
+    offset:
+    - 0
+    - 4
+- elementId: nav_tt
+  elementType: text
+  bounds:
+  - 390.0
+  - 5.8
+  - 180
+  - 36.4
+  content:
+    text: <p>未来三年路线图</p>
+    color: '#FFFFFF'
+    fontSize: 20
+    bold: true
+    align:
+    - center
+    - middle
+    wrap: false
+    shadow:
+      blur: 3
+      color: '#0000006E'
+      offset:
+      - 2.1213
+      - 2.1213
+- elementId: nav_tab1
+  elementType: text
+  bounds:
+  - 56.95
+  - 22.7
+  - 80
+  - 19.5
+  content:
+    text: <p>项目缘起</p>
+    color: '#FFFFFF'
+    fontSize: 13
+    bold: false
+    align:
+    - center
+    - middle
+    wrap: false
+- elementId: nav_tab2
+  elementType: text
+  bounds:
+  - 153.35
+  - 22.7
+  - 80
+  - 19.5
+  content:
+    text: <p>项目创新</p>
+    color: '#FFFFFF'
+    fontSize: 13
+    bold: false
+    align:
+    - center
+    - middle
+    wrap: false
+- elementId: nav_tab3
+  elementType: text
+  bounds:
+  - 249.75
+  - 22.7
+  - 80
+  - 19.5
+  content:
+    text: <p>个人成长</p>
+    color: '#FFFFFF'
+    fontSize: 13
+    bold: false
+    align:
+    - center
+    - middle
+    wrap: false
+- elementId: nav_tab4
+  elementType: text
+  bounds:
+  - 623.25
+  - 22.7
+  - 80
+  - 19.5
+  content:
+    text: <p>产业价值</p>
+    color: '#FFFFFF'
+    fontSize: 13
+    bold: false
+    align:
+    - center
+    - middle
+    wrap: false
+- elementId: nav_tab5
+  elementType: text
+  bounds:
+  - 719.65
+  - 22.7
+  - 80
+  - 19.5
+  content:
+    text: <p>团队协作</p>
+    color: '#FFFFFF'
+    fontSize: 13
+    bold: false
+    align:
+    - center
+    - middle
+    wrap: false
+- elementId: nav_tab6
+  elementType: text
+  bounds:
+  - 816.05
+  - 22.7
+  - 80
+  - 19.5
+  content:
+    text: <p>未来规划</p>
+    color: '#FFC000'
+    fontSize: 13
+    bold: true
+    align:
+    - center
+    - middle
+    wrap: false
+- elementId: nav_act
+  elementType: shape
+  bounds:
+  - 811.05
+  - 21.5
+  - 90
+  - 20
+  shapeName: roundRect
+  fill:
+    type: solid
+    color: '#FFC00022'
+  border:
+    style: solid
+    width: 1
+    color: '#FFC000'
+  adjustments:
+  - 50000
+- elementId: ptb_bar
+  elementType: shape
+  bounds:
+  - 40
+  - 58
+  - 6
+  - 26
+  shapeName: rect
+  fill:
+    type: solid
+    color: '#FFC000'
+- elementId: ptb_t
+  elementType: text
+  bounds:
+  - 56
+  - 54
+  - 700
+  - 34
+  content:
+    text: <p>从校园项目到行业基础设施</p>
+    color: '#FFFFFF'
+    fontSize: 24
+    bold: true
+    align:
+    - left
+    - middle
+    wrap: false
+- elementId: ptb_s
+  elementType: text
+  bounds:
+  - 56
+  - 86
+  - 860
+  - 20
+  content:
+    text: <p>三阶段路线图（2026—2028）</p>
+    color: '#C7D7F2'
+    fontSize: 12
+    align:
+    - left
+    - middle
+    wrap: false
+- elementId: p45s0
+  elementType: shape
+  bounds:
+  - 44
+  - 116
+  - 284
+  - 260
+  shapeName: roundRect
+  fill:
+    type: solid
+    color: '#0C2B66CC'
+  border:
+    style: solid
+    width: 1
+    color: '#2D4E8F'
+  adjustments:
+  - 12000
+- elementId: p45hd0
+  elementType: shape
+  bounds:
+  - 44
+  - 116
+  - 284
+  - 44
+  shapeName: roundRect
+  fill:
+    type: gradient
+    gradientType: linear
+    angle: 0
+    stops:
+    - position: 0
+      color: '#1D4ED8'
+    - position: 1
+      color: '#0C2B66'
+  adjustments:
+  - 16000
+- elementId: p45hic0
+  elementType: icon
+  bounds:
+  - 60
+  - 127
+  - 22
+  - 22
+  iconName: fas:seedling
+  fill:
+    type: solid
+    color: '#FFFFFF'
+- elementId: p45ht0
+  elementType: text
+  bounds:
+  - 90
+  - 116
+  - 224
+  - 44
+  content:
+    text: <p><strong>2026 下半年</strong>　试点验证期</p>
+    color: '#FFFFFF'
+    fontSize: 13.5
+    align:
+    - left
+    - middle
+    wrap: false
+- elementId: p45d0
+  elementType: text
+  bounds:
+  - 60
+  - 172
+  - 252
+  - 74
+  content:
+    text: <p>完成 ×× 区消协与 1 家律所试点；志愿者网络扩至 200 人；观测数据突破 1 万条</p>
+    color: '#C7D7F2'
+    fontSize: 10.5
+    lineHeight: 1.5
+- elementId: p45m00
+  elementType: icon
+  bounds:
+  - 60
+  - 254
+  - 16
+  - 16
+  iconName: fas:flag-checkered
+  fill:
+    type: solid
+    color: '#38BDF8'
+- elementId: p45mt00
+  elementType: text
+  bounds:
+  - 84
+  - 250
+  - 228
+  - 22
+  content:
+    text: <p>机构试点 ≥2 家</p>
+    color: '#FFFFFF'
+    fontSize: 10.5
+    wrap: false
+- elementId: p45m01
+  elementType: icon
+  bounds:
+  - 60
+  - 290
+  - 16
+  - 16
+  iconName: fas:flag-checkered
+  fill:
+    type: solid
+    color: '#38BDF8'
+- elementId: p45mt01
+  elementType: text
+  bounds:
+  - 84
+  - 286
+  - 228
+  - 22
+  content:
+    text: <p>数据量 ≥1 万条</p>
+    color: '#FFFFFF'
+    fontSize: 10.5
+    wrap: false
+- elementId: p45m02
+  elementType: icon
+  bounds:
+  - 60
+  - 326
+  - 16
+  - 16
+  iconName: fas:flag-checkered
+  fill:
+    type: solid
+    color: '#38BDF8'
+- elementId: p45mt02
+  elementType: text
+  bounds:
+  - 84
+  - 322
+  - 228
+  - 22
+  content:
+    text: <p>发布 v0.5 多平台版</p>
+    color: '#FFFFFF'
+    fontSize: 10.5
+    wrap: false
+- elementId: p45ar0
+  elementType: icon
+  bounds:
+  - 324
+  - 226
+  - 20
+  - 20
+  iconName: fas:angle-right
+  fill:
+    type: solid
+    color: '#FFC000'
+- elementId: p45s1
+  elementType: shape
+  bounds:
+  - 342
+  - 116
+  - 284
+  - 260
+  shapeName: roundRect
+  fill:
+    type: solid
+    color: '#0C2B66CC'
+  border:
+    style: solid
+    width: 1
+    color: '#2D4E8F'
+  adjustments:
+  - 12000
+- elementId: p45hd1
+  elementType: shape
+  bounds:
+  - 342
+  - 116
+  - 284
+  - 44
+  shapeName: roundRect
+  fill:
+    type: gradient
+    gradientType: linear
+    angle: 0
+    stops:
+    - position: 0
+      color: '#B45309'
+    - position: 1
+      color: '#0C2B66'
+  adjustments:
+  - 16000
+- elementId: p45hic1
+  elementType: icon
+  bounds:
+  - 358
+  - 127
+  - 22
+  - 22
+  iconName: fas:layer-group
+  fill:
+    type: solid
+    color: '#FFFFFF'
+- elementId: p45ht1
+  elementType: text
+  bounds:
+  - 388
+  - 116
+  - 224
+  - 44
+  content:
+    text: <p><strong>2027</strong>　区域复制期</p>
+    color: '#FFFFFF'
+    fontSize: 13.5
+    align:
+    - left
+    - middle
+    wrap: false
+- elementId: p45d1
+  elementType: text
+  bounds:
+  - 358
+  - 172
+  - 252
+  - 74
+  content:
+    text: <p>复制到 3 个城市消协网络；上线机构版 SaaS；发布首份《电商价格公平年度观察》</p>
+    color: '#C7D7F2'
+    fontSize: 10.5
+    lineHeight: 1.5
+- elementId: p45m10
+  elementType: icon
+  bounds:
+  - 358
+  - 254
+  - 16
+  - 16
+  iconName: fas:flag-checkered
+  fill:
+    type: solid
+    color: '#FFC000'
+- elementId: p45mt10
+  elementType: text
+  bounds:
+  - 382
+  - 250
+  - 228
+  - 22
+  content:
+    text: <p>机构客户 ≥12 家</p>
+    color: '#FFFFFF'
+    fontSize: 10.5
+    wrap: false
+- elementId: p45m11
+  elementType: icon
+  bounds:
+  - 358
+  - 290
+  - 16
+  - 16
+  iconName: fas:flag-checkered
+  fill:
+    type: solid
+    color: '#FFC000'
+- elementId: p45mt11
+  elementType: text
+  bounds:
+  - 382
+  - 286
+  - 228
+  - 22
+  content:
+    text: <p>营收 ≥86 万元</p>
+    color: '#FFFFFF'
+    fontSize: 10.5
+    wrap: false
+- elementId: p45m12
+  elementType: icon
+  bounds:
+  - 358
+  - 326
+  - 16
+  - 16
+  iconName: fas:flag-checkered
+  fill:
+    type: solid
+    color: '#FFC000'
+- elementId: p45mt12
+  elementType: text
+  bounds:
+  - 382
+  - 322
+  - 228
+  - 22
+  content:
+    text: <p>实现盈亏平衡</p>
+    color: '#FFFFFF'
+    fontSize: 10.5
+    wrap: false
+- elementId: p45ar1
+  elementType: icon
+  bounds:
+  - 622
+  - 226
+  - 20
+  - 20
+  iconName: fas:angle-right
+  fill:
+    type: solid
+    color: '#FFC000'
+- elementId: p45s2
+  elementType: shape
+  bounds:
+  - 640
+  - 116
+  - 284
+  - 260
+  shapeName: roundRect
+  fill:
+    type: solid
+    color: '#0C2B66CC'
+  border:
+    style: solid
+    width: 1
+    color: '#2D4E8F'
+  adjustments:
+  - 12000
+- elementId: p45hd2
+  elementType: shape
+  bounds:
+  - 640
+  - 116
+  - 284
+  - 44
+  shapeName: roundRect
+  fill:
+    type: gradient
+    gradientType: linear
+    angle: 0
+    stops:
+    - position: 0
+      color: '#15803D'
+    - position: 1
+      color: '#0C2B66'
+  adjustments:
+  - 16000
+- elementId: p45hic2
+  elementType: icon
+  bounds:
+  - 656
+  - 127
+  - 22
+  - 22
+  iconName: fas:rocket
+  fill:
+    type: solid
+    color: '#FFFFFF'
+- elementId: p45ht2
+  elementType: text
+  bounds:
+  - 686
+  - 116
+  - 224
+  - 44
+  content:
+    text: <p><strong>2028</strong>　规模发展期</p>
+    color: '#FFFFFF'
+    fontSize: 13.5
+    align:
+    - left
+    - middle
+    wrap: false
+- elementId: p45d2
+  elementType: text
+  bounds:
+  - 656
+  - 172
+  - 252
+  - 74
+  content:
+    text: <p>覆盖 30 家机构与 100 家律所；开放 API 与数据授权；探索平台合规自检工具线</p>
+    color: '#C7D7F2'
+    fontSize: 10.5
+    lineHeight: 1.5
+- elementId: p45m20
+  elementType: icon
+  bounds:
+  - 656
+  - 254
+  - 16
+  - 16
+  iconName: fas:flag-checkered
+  fill:
+    type: solid
+    color: '#7EE2A8'
+- elementId: p45mt20
+  elementType: text
+  bounds:
+  - 680
+  - 250
+  - 228
+  - 22
+  content:
+    text: <p>机构客户 ≥30 家</p>
+    color: '#FFFFFF'
+    fontSize: 10.5
+    wrap: false
+- elementId: p45m21
+  elementType: icon
+  bounds:
+  - 656
+  - 290
+  - 16
+  - 16
+  iconName: fas:flag-checkered
+  fill:
+    type: solid
+    color: '#7EE2A8'
+- elementId: p45mt21
+  elementType: text
+  bounds:
+  - 680
+  - 286
+  - 228
+  - 22
+  content:
+    text: <p>营收 ≥300 万元</p>
+    color: '#FFFFFF'
+    fontSize: 10.5
+    wrap: false
+- elementId: p45m22
+  elementType: icon
+  bounds:
+  - 656
+  - 326
+  - 16
+  - 16
+  iconName: fas:flag-checkered
+  fill:
+    type: solid
+    color: '#7EE2A8'
+- elementId: p45mt22
+  elementType: text
+  bounds:
+  - 680
+  - 322
+  - 228
+  - 22
+  content:
+    text: <p>观测数据 ≥100 万条</p>
+    color: '#FFFFFF'
+    fontSize: 10.5
+    wrap: false
+- elementId: p45vision
+  elementType: shape
+  bounds:
+  - 44
+  - 396
+  - 876
+  - 56
+  shapeName: roundRect
+  fill:
+    type: solid
+    color: '#123C8F99'
+  border:
+    style: solid
+    width: 1
+    color: '#FFC000'
+  adjustments:
+  - 12000
+- elementId: p45vision_b
+  elementType: text
+  bounds:
+  - 62
+  - 396
+  - 840
+  - 56
+  content:
+    text: <p><strong>长期愿景：</strong>成为算法治理领域的“群众雪亮工程”——让每一位消费者的浏览都成为照亮算法黑箱的一束光。</p>
+    color: '#FFFFFF'
+    fontSize: 12.5
+    align:
+    - left
+    - middle
+    wrap: false
+- elementId: p45axis
+  elementType: shape
+  bounds:
+  - 44
+  - 478
+  - 876
+  - 2
+  shapeName: rect
+  fill:
+    type: solid
+    color: '#2D4E8F'
+- elementId: p45pt0
+  elementType: shape
+  bounds:
+  - 50
+  - 473
+  - 12
+  - 12
+  shapeName: ellipse
+  fill:
+    type: solid
+    color: '#38BDF8'
+- elementId: p45pd0
+  elementType: text
+  bounds:
+  - 4
+  - 490
+  - 100
+  - 14
+  content:
+    text: <p><strong>2026.09</strong></p>
+    color: '#FFF177'
+    fontSize: 9.5
+    align:
+    - center
+    - middle
+    wrap: false
+- elementId: p45ptt0
+  elementType: text
+  bounds:
+  - 4
+  - 506
+  - 112
+  - 14
+  content:
+    text: <p>公网版上线</p>
+    color: '#C7D7F2'
+    fontSize: 9
+    align:
+    - center
+    - middle
+    wrap: false
+- elementId: p45pt1
+  elementType: shape
+  bounds:
+  - 215
+  - 473
+  - 12
+  - 12
+  shapeName: ellipse
+  fill:
+    type: solid
+    color: '#FFC000'
+- elementId: p45pd1
+  elementType: text
+  bounds:
+  - 169
+  - 490
+  - 100
+  - 14
+  content:
+    text: <p><strong>2026.12</strong></p>
+    color: '#FFF177'
+    fontSize: 9.5
+    align:
+    - center
+    - middle
+    wrap: false
+- elementId: p45ptt1
+  elementType: text
+  bounds:
+  - 163
+  - 506
+  - 112
+  - 14
+  content:
+    text: <p>试点签约</p>
+    color: '#C7D7F2'
+    fontSize: 9
+    align:
+    - center
+    - middle
+    wrap: false
+- elementId: p45pt2
+  elementType: shape
+  bounds:
+  - 380
+  - 473
+  - 12
+  - 12
+  shapeName: ellipse
+  fill:
+    type: solid
+    color: '#38BDF8'
+- elementId: p45pd2
+  elementType: text
+  bounds:
+  - 334
+  - 490
+  - 100
+  - 14
+  content:
+    text: <p><strong>2027.06</strong></p>
+    color: '#FFF177'
+    fontSize: 9.5
+    align:
+    - center
+    - middle
+    wrap: false
+- elementId: p45ptt2
+  elementType: text
+  bounds:
+  - 328
+  - 506
+  - 112
+  - 14
+  content:
+    text: <p>机构版 SaaS</p>
+    color: '#C7D7F2'
+    fontSize: 9
+    align:
+    - center
+    - middle
+    wrap: false
+- elementId: p45pt3
+  elementType: shape
+  bounds:
+  - 545
+  - 473
+  - 12
+  - 12
+  shapeName: ellipse
+  fill:
+    type: solid
+    color: '#FFC000'
+- elementId: p45pd3
+  elementType: text
+  bounds:
+  - 499
+  - 490
+  - 100
+  - 14
+  content:
+    text: <p><strong>2027.12</strong></p>
+    color: '#FFF177'
+    fontSize: 9.5
+    align:
+    - center
+    - middle
+    wrap: false
+- elementId: p45ptt3
+  elementType: text
+  bounds:
+  - 493
+  - 506
+  - 112
+  - 14
+  content:
+    text: <p>盈亏平衡</p>
+    color: '#C7D7F2'
+    fontSize: 9
+    align:
+    - center
+    - middle
+    wrap: false
+- elementId: p45pt4
+  elementType: shape
+  bounds:
+  - 710
+  - 473
+  - 12
+  - 12
+  shapeName: ellipse
+  fill:
+    type: solid
+    color: '#38BDF8'
+- elementId: p45pd4
+  elementType: text
+  bounds:
+  - 664
+  - 490
+  - 100
+  - 14
+  content:
+    text: <p><strong>2028.06</strong></p>
+    color: '#FFF177'
+    fontSize: 9.5
+    align:
+    - center
+    - middle
+    wrap: false
+- elementId: p45ptt4
+  elementType: text
+  bounds:
+  - 658
+  - 506
+  - 112
+  - 14
+  content:
+    text: <p>API 开放</p>
+    color: '#C7D7F2'
+    fontSize: 9
+    align:
+    - center
+    - middle
+    wrap: false
+- elementId: p45pt5
+  elementType: shape
+  bounds:
+  - 875
+  - 473
+  - 12
+  - 12
+  shapeName: ellipse
+  fill:
+    type: solid
+    color: '#38BDF8'
+- elementId: p45pd5
+  elementType: text
+  bounds:
+  - 829
+  - 490
+  - 100
+  - 14
+  content:
+    text: <p><strong>2028.12</strong></p>
+    color: '#FFF177'
+    fontSize: 9.5
+    align:
+    - center
+    - middle
+    wrap: false
+- elementId: p45ptt5
+  elementType: text
+  bounds:
+  - 823
+  - 506
+  - 112
+  - 14
+  content:
+    text: <p>百万条数据</p>
+    color: '#C7D7F2'
+    fontSize: 9
+    align:
+    - center
+    - middle
+    wrap: false

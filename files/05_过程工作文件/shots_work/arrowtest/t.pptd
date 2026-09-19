@@ -1,0 +1,4 @@
+version: v2
+size: [960, 540]
+pages:
+  - pages/p1.page

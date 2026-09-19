@@ -1,0 +1,165 @@
+pageType: content
+elements:
+- elementId: bg_rect
+  elementType: shape
+  bounds:
+  - 0
+  - 0
+  - 960
+  - 540
+  shapeName: rect
+  fill:
+    type: gradient
+    gradientType: linear
+    angle: 90
+    stops:
+    - position: 0
+      color: '#042258'
+    - position: 1
+      color: '#002456'
+  border:
+    style: solid
+    width: 1
+    color: '#0A111D'
+- elementId: bg_left
+  elementType: image
+  bounds:
+  - 0.2
+  - -0.7
+  - 453.1
+  - 540
+  src: media/bg_left.png
+  fit:
+    mode: fill
+- elementId: bg_hwy
+  elementType: image
+  bounds:
+  - 343.9
+  - -65.8
+  - 661.8
+  - 440
+  src: media/bg_hwy2.png
+  fit:
+    mode: fill
+- elementId: bg_grid
+  elementType: image
+  bounds:
+  - 0
+  - 46.5
+  - 959.2
+  - 493.5
+  src: media/bg_grid.png
+  fit:
+    mode: fill
+- elementId: fn_gl
+  elementType: image
+  bounds:
+  - 280
+  - 40
+  - 400
+  - 400
+  src: media/globe.png
+  fit:
+    mode: contain
+  opacity: 0.5
+- elementId: img95
+  elementType: image
+  bounds:
+  - 280
+  - 400
+  - 400
+  - 80
+  src: media/glow.png
+  fit:
+    mode: fill
+  opacity: 0.8
+- elementId: fn_t1
+  elementType: text
+  bounds:
+  - 180
+  - 150
+  - 600
+  - 90
+  content:
+    text: <p>让算法在阳光下运行</p>
+    fontSize: 52
+    fontFamily: 飞波正点体
+    bold: true
+    align:
+    - center
+    - middle
+    wrap: false
+    gradient:
+      type: gradient
+      gradientType: linear
+      angle: 90
+      stops:
+      - position: 0.33
+        color: '#FFF8B9'
+      - position: 0.51
+        color: '#FFF177'
+      - position: 0.74
+        color: '#FCC55E'
+- elementId: fn_t2
+  elementType: text
+  bounds:
+  - 180
+  - 246
+  - 600
+  - 30
+  content:
+    text: <p>以众包数据守护消费公平 · 以青年力量助力算法治理</p>
+    color: '#FFFFFF'
+    fontSize: 18
+    align:
+    - center
+    - middle
+    wrap: false
+- elementId: fn_t3
+  elementType: text
+  bounds:
+  - 180
+  - 300
+  - 600
+  - 20
+  content:
+    text: <p>MAKE ALGORITHMS ACCOUNTABLE · 谢谢聆听，恳请各位专家批评指正</p>
+    color: '#C7D7F2'
+    fontSize: 12
+    align:
+    - center
+    - middle
+    wrap: false
+- elementId: fn_badge
+  elementType: shape
+  bounds:
+  - 330
+  - 352
+  - 300
+  - 40
+  shapeName: roundRect
+  fill:
+    type: solid
+    color: '#123C8FCC'
+  border:
+    style: solid
+    width: 1
+    color: '#3B82F6'
+  adjustments:
+  - 50000
+- elementId: fn_badge_t
+  elementType: text
+  bounds:
+  - 330
+  - 352
+  - 300
+  - 40
+  content:
+    text: <p>算法歧视众包观测平台 · 项目组</p>
+    color: '#FFF177'
+    fontSize: 15
+    bold: true
+    align:
+    - center
+    - middle
+    wrap: false

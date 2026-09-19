@@ -1,0 +1,76 @@
+version: v2
+size:
+- 960
+- 540
+customFonts:
+- fontFamily: 飞波正点体
+  src: https://statics.kimi.ai/neo-design-static/p-font/飞波正点体.ttf
+theme:
+  colors:
+    primary: '#4472C4'
+    gold: '#FFC000'
+    cyan: '#38BDF8'
+    sub: '#C7D7F2'
+    dk1: '#000000'
+    lt1: '#FFFFFF'
+    dk2: '#44546A'
+    lt2: '#E7E6E6'
+    accent1: '#4472C4'
+    accent2: '#ED7D31'
+    accent3: '#A5A5A5'
+    accent4: '#FFC000'
+    accent5: '#5B9BD5'
+    accent6: '#70AD47'
+    hlink: '#0563C1'
+    folHlink: '#954F72'
+    text1: '#FFFFFF'
+    text2: '#FFFFFF'
+pages:
+- pages/01_01_cover.page
+- pages/02_02_research.page
+- pages/03_03_toc.page
+- pages/04_04_div1.page
+- pages/05_05_policy.page
+- pages/06_06_cases.page
+- pages/07_07_data.page
+- pages/08_08_process.page
+- pages/09_09_findings.page
+- pages/10_10_problem.page
+- pages/11_11_div2.page
+- pages/12_12_overview.page
+- pages/13_13_solution.page
+- pages/14_14_arch.page
+- pages/15_15_innov1.page
+- pages/16_16_innov2.page
+- pages/17_17_innov3.page
+- pages/18_18_innov4.page
+- pages/19_19_demo1.page
+- pages/20_20_demo2.page
+- pages/21_21_demo3.page
+- pages/22_22_verify.page
+- pages/23_23_ip.page
+- pages/24_24_div3.page
+- pages/25_25_values.page
+- pages/26_26_leader.page
+- pages/27_27_knowledge.page
+- pages/28_28_growth.page
+- pages/29_29_school.page
+- pages/30_30_feedback.page
+- pages/31_31_div4.page
+- pages/32_32_industry.page
+- pages/33_33_market.page
+- pages/34_34_compete.page
+- pages/35_35_business.page
+- pages/36_36_landing.page
+- pages/37_37_finance.page
+- pages/38_38_social.page
+- pages/39_39_div5.page
+- pages/40_40_structure.page
+- pages/41_41_members.page
+- pages/42_42_mentors.page
+- pages/43_43_collab.page
+- pages/44_44_div6.page
+- pages/45_45_roadmap.page
+- pages/46_46_risks.page
+- pages/47_47_promise.page
+- pages/48_48_final.page

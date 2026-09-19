@@ -1,0 +1,1389 @@
+pageType: content
+elements:
+  - elementId: 矩形 7
+    elementType: shape
+    bounds: [0, 0, 960, 540]
+    shapeName: rect
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 1
+          color: "#002456"
+        - position: 0
+          color: "#042258"
+      angle: 90
+    border:
+      style: solid
+      width: 1
+      color: "#0B111E"
+  - elementId: Picture 47
+    elementType: image
+    bounds: [0.2, -0.7, 453.1, 540]
+    cropShape:
+      shapeName: rect
+    src: media/image-1.png
+    fit:
+      mode: fill
+  - elementId: Picture 111
+    elementType: image
+    bounds: [343.9, -65.8, 661.8, 440]
+    cropShape:
+      shapeName: rect
+    src: media/image-2.png
+    fit:
+      mode: fill
+  - elementId: Picture 3
+    elementType: image
+    bounds: [0, 46.5, 959.2, 493.5]
+    cropShape:
+      shapeName: rect
+    src: media/image-3.png
+    fit:
+      mode: fill
+  - elementId: "流程图: 手动输入 119"
+    elementType: shape
+    bounds: [-5, -437.6, 287.5, 369.4]
+    shapeName: custom
+    viewBox:
+      - 10000
+      - 10000
+    path: M99,1256 L10000,0 L10000,10000 L0,10000 C66,7061 33,4195 99,1256 Z
+    fill:
+      type: solid
+      color: $accent1
+    border:
+      style: solid
+      width: 1
+      color: "#E3F2D952"
+  - elementId: "16"
+    elementType: image
+    bounds: [95.6, -223.6, 883.4, 188.8]
+    cropShape:
+      shapeName: custom
+    src: media/image-4.png
+    crop:
+      top: 0.54275
+      bottom: -0.00635
+  - elementId: "任意多边形: 形状 2"
+    elementType: shape
+    bounds: [595.6, 21, 364.4, 16.9]
+    shapeName: custom
+    viewBox:
+      - 4628346
+      - 214864
+    path: M1179178,4 C2036332,-88 3402008,1227 4378814,1467 L4628346,1500 L4628346,214864 L0,214864 C188271,25210 188159,4890 387013,1504 C449155,446 750602,49 1179178,4 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE040"
+        - position: 0
+          color: "#91ACE04F"
+      angle: 90
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 40
+    elementType: shape
+    bounds: [610.5, 24.7, 105.5, 15.2]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE054"
+        - position: 0
+          color: "#91ACE0A6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 40-2
+    elementType: shape
+    bounds: [706.9, 24.7, 105.5, 15.2]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE054"
+        - position: 0
+          color: "#91ACE0A6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 40-3
+    elementType: shape
+    bounds: [803.3, 24.7, 105.5, 15.2]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE054"
+        - position: 0
+          color: "#91ACE0A6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 6
+    elementType: shape
+    bounds: [780.5, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 8
+    elementType: shape
+    bounds: [785.7, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 9
+    elementType: shape
+    bounds: [790.8, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 11
+    elementType: shape
+    bounds: [796, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 47
+    elementType: shape
+    bounds: [801.1, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 48
+    elementType: shape
+    bounds: [806.3, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 103
+    elementType: shape
+    bounds: [811.4, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 104
+    elementType: shape
+    bounds: [816.6, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 105
+    elementType: shape
+    bounds: [821.7, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 106
+    elementType: shape
+    bounds: [826.9, 11.5, 6, 5.1]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: "任意多边形: 形状 107"
+    elementType: line
+    bounds: [841.9, 11.9, 120, 4.4]
+    opacity: 0.55
+    viewBox:
+      - 1524000
+      - 82550
+    points: 1524000,0 44450,0 0,82550
+    curve: sharp
+    border:
+      style: solid
+      width: 1
+      color: $accent1
+  - elementId: "任意多边形: 形状 108"
+    elementType: shape
+    bounds: [1.4, 2.7, 957.3, 41.3]
+    shapeName: custom
+    viewBox:
+      - 12157213
+      - 448506
+    path: M0,0 L2257280,0 L9862425,0 L12157213,0 L12157213,74543 L9804378,74543 L9723422,173848 L7786457,175980 C7555196,178292 7526819,445158 7283623,448506 L4803246,448506 C4560050,445158 4531673,178292 4300412,175980 C4206462,175041 3906270,174578 3525514,174302 L2398965,173800 L2318049,74543 L0,74543 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#4874CB29"
+        - position: 0.76
+          color: "#4874CB40"
+        - position: 0.45
+          color: "#91ACE054"
+        - position: 0
+          color: "#91ACE0A6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: "任意多边形: 形状 109"
+    elementType: shape
+    bounds: [0, 21, 357.4, 16.9]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 4539446
+      - 214864
+    path: M1179178,4 C750601,49 449155,446 387013,1504 C188159,4890 188271,25210 0,214864 L4539446,214864 L4539446,1488 L4378813,1467 C3402008,1227 2036332,-88 1179178,4 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE040"
+        - position: 0
+          color: "#91ACE04F"
+      angle: 90
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 40-4
+    elementType: shape
+    bounds: [237, 24.7, 105.5, 15.2]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE054"
+        - position: 0
+          color: "#91ACE0A6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 40-5
+    elementType: shape
+    bounds: [140.6, 24.7, 105.5, 15.2]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE054"
+        - position: 0
+          color: "#91ACE0A6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 40-6
+    elementType: shape
+    bounds: [44.2, 24.7, 105.5, 15.2]
+    flip: [true, false]
+    shapeName: custom
+    viewBox:
+      - 1339850
+      - 234950
+    path: M0,234950 C88701,215371 153588,530 280389,0 L1339850,0 C1230512,32280 1170387,234421 1059461,234950 L0,234950 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.97701
+          color: "#36579824"
+        - position: 0.76
+          color: "#4874CB3B"
+        - position: 0.45
+          color: "#91ACE054"
+        - position: 0
+          color: "#91ACE0A6"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE003"
+  - elementId: 平行四边形 113
+    elementType: shape
+    bounds: [171, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 114
+    elementType: shape
+    bounds: [165.9, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 115
+    elementType: shape
+    bounds: [160.7, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 116
+    elementType: shape
+    bounds: [155.6, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 117
+    elementType: shape
+    bounds: [150.4, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 118
+    elementType: shape
+    bounds: [145.3, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 120
+    elementType: shape
+    bounds: [140.1, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 121
+    elementType: shape
+    bounds: [135, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 122
+    elementType: shape
+    bounds: [129.8, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 平行四边形 123
+    elementType: shape
+    bounds: [124.7, 11.5, 6, 5.1]
+    flip: [true, false]
+    shapeName: parallelogram
+    adjustments:
+      - 78511
+    fill:
+      type: solid
+      color: $accent1
+  - elementId: 文本框 124-shape
+    elementType: shape
+    bounds: [405.7, 5.8, 148.6, 36.4]
+    shapeName: rect
+    shadow:
+      blur: 10
+      color: "#243A66"
+      offset: [0, 4]
+  - elementId: 文本框 124-text
+    elementType: text
+    bounds: [405.7, 5.8, 148.6, 36.4]
+    content:
+      text: |-
+        <p>政策解读页面</p>
+      shadow:
+        blur: 3
+        color: "#0000006E"
+        offset: [2.1213, 2.1213]
+      wrap: false
+      align:
+        - center
+        - middle
+      style: $text1
+  - elementId: "任意多边形: 形状 125"
+    elementType: line
+    bounds: [0, 11.9, 120, 4.4]
+    opacity: 0.55
+    flip: [true, false]
+    viewBox:
+      - 1524000
+      - 82550
+    points: 1524000,0 44450,0 0,82550
+    curve: sharp
+    border:
+      style: solid
+      width: 1
+      color: $accent1
+  - elementId: MG-大标题矩形装饰
+    elementType: shape
+    bounds: [402.8, 43.9, 12.4, 1.4]
+    shapeName: rect
+    fill:
+      type: solid
+      color: "#DAE3F5"
+  - elementId: MG-大标题矩形装饰-2
+    elementType: shape
+    bounds: [544.8, 43.9, 12.4, 1.4]
+    shapeName: rect
+    fill:
+      type: solid
+      color: "#DAE3F5"
+  - elementId: 文本框 128
+    elementType: text
+    bounds: [80, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题1</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 129
+    elementType: text
+    bounds: [174.5, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题2</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 130
+    elementType: text
+    bounds: [269, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题3</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 131
+    elementType: text
+    bounds: [639.5, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题4</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 132
+    elementType: text
+    bounds: [734, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题5</p>
+      wrap: false
+      style: $text2
+  - elementId: 文本框 133
+    elementType: text
+    bounds: [828.5, 22.7, 41.4, 19.5]
+    content:
+      text: |-
+        <p>标题6</p>
+      wrap: false
+      style: $text2
+  - elementId: "任意多边形: 形状 134"
+    elementType: shape
+    bounds: [17.5, -1.2, 925, 41.3]
+    shapeName: custom
+    viewBox:
+      - 12157213
+      - 448506
+    path: M0,0 L2257280,0 L9862425,0 L12157213,0 L12157213,74543 L9804378,74543 L9723422,173848 L7786457,175980 C7555196,178292 7526819,445158 7283623,448506 L4803246,448506 C4560050,445158 4531673,178292 4300412,175980 C4206462,175041 3906270,174578 3525514,174302 L2398965,173800 L2318049,74543 L0,74543 Z
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.07
+          color: "#91ACE0AB"
+        - position: 0.68
+          color: "#91ACE000"
+      angle: 270
+    border:
+      style: solid
+      width: 0.75
+      color: "#91ACE0AB"
+  - elementId: Picture 2
+    elementType: image
+    bounds: [-21.7, 216.7, 543.2, 38.8]
+    cropShape:
+      shapeName: rect
+    src: media/image-21.png
+    crop:
+      top: 0.26186
+      bottom: 0.5
+  - elementId: 图片 16
+    elementType: image
+    bounds: [365.4, 100.6, 89, 126.2]
+    cropShape:
+      shapeName: rect
+    shadow:
+      blur: 20.4486
+      color: $dk1
+      offset: [6.4261, 0]
+    src: media/image-22.jpg
+    fit:
+      mode: fill
+  - elementId: Picture 24
+    elementType: image
+    bounds: [318.4, 94.1, 94.3, 132.7]
+    cropShape:
+      shapeName: rect
+    shadow:
+      blur: 20.4486
+      color: $dk1
+      offset: [6.4261, 0]
+    src: media/image-23.png
+    fit:
+      mode: fill
+  - elementId: Picture 6
+    elementType: image
+    bounds: [36, 106.9, 84.9, 119.9]
+    cropShape:
+      shapeName: rect
+    shadow:
+      blur: 21.762
+      color: $dk1
+      offset: [-2.1213, 2.1213]
+    src: media/image-24.png
+    fit:
+      mode: fill
+  - elementId: Picture 7
+    elementType: image
+    bounds: [62.4, 94.8, 93.3, 132]
+    cropShape:
+      shapeName: rect
+    shadow:
+      blur: 21.762
+      color: $dk1
+      offset: [-2.1213, 2.1213]
+    src: media/image-25.png
+    fit:
+      mode: fill
+  - elementId: Picture 8
+    elementType: image
+    bounds: [117.5, 89.8, 97, 137]
+    cropShape:
+      shapeName: rect
+    shadow:
+      blur: 21.762
+      color: $dk1
+      offset: [-2.1213, 2.1213]
+    src: media/image-26.png
+    fit:
+      mode: fill
+  - elementId: Picture 10
+    elementType: image
+    bounds: [262.6, 89.8, 96.5, 137]
+    cropShape:
+      shapeName: rect
+    shadow:
+      blur: 20.4486
+      color: $dk1
+      offset: [6.4261, 0]
+    src: media/image-27.png
+    fit:
+      mode: fill
+  - elementId: Picture 9
+    elementType: image
+    bounds: [183.8, 73.4, 108.6, 153.4]
+    cropShape:
+      shapeName: rect
+    shadow:
+      blur: 45.9713
+      color: $dk1
+      offset: [0, 3]
+    src: media/image-28.png
+    fit:
+      mode: fill
+  - elementId: 矩形 21
+    elementType: shape
+    bounds: [54.8, 198.9, 398.8, 31]
+    shapeName: rect
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.98
+          color: "#0251D900"
+        - position: 0
+          color: "#0C368700"
+        - position: 0.39
+          color: "#0048CC"
+        - position: 0.13
+          color: "#0053DDCC"
+        - position: 0.85
+          color: "#0054EECD"
+      angle: 0
+  - elementId: 文本框 23
+    elementType: text
+    bounds: [154.5, 201.1, 205.1, 24.3]
+    content:
+      text: |-
+        <p><span style="color: $lt1; font-size: 16px;">申请国家专利</span><span style="color: #FFC000; font-size: 20px;">8</span><span style="color: $lt1; font-size: 16px;">项，授权</span><span style="color: #FFC000; font-size: 20px;">2</span><span style="color: $lt1; font-size: 16px;">项</span></p>
+      color: $dk1
+      bold: true
+      fontFamily: 思源黑体 CN Medium, 思源黑体 CN Medium
+      wrap: false
+  - elementId: 矩形 23
+    elementType: shape
+    bounds: [502.7, 489.2, 423.9, 31]
+    shapeName: rect
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0.98
+          color: "#0251D900"
+        - position: 0
+          color: "#0C368700"
+        - position: 0.39
+          color: "#0048CC"
+        - position: 0.13
+          color: "#0053DDCC"
+        - position: 0.85
+          color: "#0054EECD"
+      angle: 0
+  - elementId: 圆角矩形 51
+    elementType: shape
+    bounds: [500.8, 84.5, 421.5, 40.2]
+    shapeName: roundRect
+    adjustments:
+      - 8968
+    fill:
+      type: gradient
+      gradientType: linear
+      stops:
+        - position: 0
+          color: "#1D78FA"
+        - position: 1
+          color: "#0E44F0"
+      angle: 90
+  - elementId: 表格 6
+    elementType: table
+    bounds: [501.7, 84, 420.6, 41.4]
+    columnWidths:
+      - 0.7389950996132377
+      - 0.2610049003867623
+    rowHeights:
+      - 1
+    rows:
+      - - text: |-
+            <p style="text-align: center; margin-left: 0px;">更换文字内容</p>
+        - text: |-
+            <p style="text-align: center; margin-left: 0px;">更换文字</p>
+    style: $table1
+  - elementId: 表格 34
+    elementType: table
+    bounds: [546.9, 131.9, 372, 84.8]
+    columnWidths:
+      - 0.7389950686527532
+      - 0.2610049313472468
+    rowHeights:
+      - 0.4420941418729036
+      - 0.5579058581270965
+    rows:
+      - - text: |-
+            <p style="text-align: center; margin-left: 0px;">点击此处更换文字内容替换文字</p>
+        - text: |-
+            <p style="text-align: center; margin-left: 0px;">更换文字</p>
+          fontFamily: 思源黑体 CN Medium, 思源黑体 CN Medium
+          bold: true
+      - - text: |-
+            <p style="text-align: center; margin-left: 0px;">点击此处更换文字内容替换文字</p>
+        - text: |-
+            <p style="text-align: center; margin-left: 0px;">更换文字</p>
+          fontFamily: 思源黑体 CN Medium, 思源黑体 CN Medium
+          bold: true
+    style: $table2
+  - elementId: "矩形: 圆角 1027"
+    elementType: shape
+    bounds: [502.8, 129.7, 36.7, 87.7]
+    shapeName: roundRect
+    adjustments:
+      - 3959
+    fill:
+      type: solid
+      color: $lt1
+    border:
+      style: solid
+      width: 0.5
+      color: "#0E44F0"
+    shadow:
+      blur: 14.2786
+      color: "#3657983F"
+      offset: [2.1213, 2.1213]
+  - elementId: 文本框 36
+    elementType: text
+    bounds: [513, 152.1, 15.1, 43.7]
+    content:
+      text: |-
+        <p>文字</p>
+      color: "#D3661C"
+      bold: true
+      fontFamily: Source Han Sans CN Bold, Source Han Sans CN Bold
+      wrap: true
+  - elementId: 图片 5
+    elementType: image
+    bounds: [507.5, 304.4, 94.5, 136.8]
+    cropShape:
+      shapeName: rect
+    shadow:
+      blur: 45.0796
+      color: $dk1
+      offset: [-5.9284, 5.9284]
+    src: media/image-29.png
+    fit:
+      mode: fill
+  - elementId: Picture 5
+    elementType: image
+    bounds: [565.7, 345.4, 94.8, 127.6]
+    cropShape:
+      shapeName: rect
+    shadow:
+      blur: 45.0796
+      color: $dk1
+      offset: [-5.9284, 5.9284]
+    src: media/image-30.jpg
+    fit:
+      mode: fill
+  - elementId: "矩形: 圆角 4"
+    elementType: shape
+    bounds: [501.6, 224.2, 417.9, 23.5]
+    rotation: 180
+    flip: [false, true]
+    shapeName: roundRect
+    adjustments:
+      - 0
+    fill:
+      type: solid
+      color: $lt1
+    border:
+      style: solid
+      width: 0.5
+      color: "#0C69ED"
+    shadow:
+      blur: 9.9723
+      color: $dk1
+      offset: [2.1213, 2.1213]
+  - elementId: Picture 23
+    elementType: image
+    bounds: [622, 304.4, 94.5, 137]
+    cropShape:
+      shapeName: rect
+    shadow:
+      blur: 45.0796
+      color: $dk1
+      offset: [-5.9284, 5.9284]
+    src: media/image-31.png
+    fit:
+      mode: fill
+  - elementId: 文本框 41
+    elementType: text
+    bounds: [655.7, 227.8, 100.1, 14.6]
+    content:
+      text: |-
+        <p>点击更换文字内容</p>
+      color: "#052DA8"
+      fontSize: 12
+      bold: true
+      fontFamily: Source Han Sans CN Regular, Source Han Sans CN Regular
+      wrap: false
+  - elementId: Picture 15
+    elementType: image
+    bounds: [678.1, 345.4, 104.7, 134.4]
+    cropShape:
+      shapeName: rect
+    shadow:
+      blur: 45.0796
+      color: $dk1
+      offset: [-5.9284, 5.9284]
+    src: media/image-32.jpg
+    crop:
+      right: 0.55185
+  - elementId: Picture 13
+    elementType: image
+    bounds: [759.7, 304.4, 103.5, 147.1]
+    cropShape:
+      shapeName: rect
+    shadow:
+      blur: 45.0796
+      color: $dk1
+      offset: [-5.9284, 5.9284]
+    src: media/image-33.jpg
+    fit:
+      mode: fill
+  - elementId: Picture 22
+    elementType: image
+    bounds: [826.8, 345.4, 98.7, 133]
+    cropShape:
+      shapeName: rect
+    shadow:
+      blur: 24.8019
+      color: $dk1
+      offset: [-2.1213, 2.1213]
+    src: media/image-34.jpg
+    fit:
+      mode: fill
+  - elementId: "矩形: 圆角 4-2"
+    elementType: shape
+    bounds: [502.2, 253.8, 417.9, 23.5]
+    rotation: 180
+    flip: [false, true]
+    shapeName: roundRect
+    adjustments:
+      - 0
+    fill:
+      type: solid
+      color: $lt1
+    border:
+      style: solid
+      width: 0.5
+      color: "#0C69ED"
+    shadow:
+      blur: 9.9723
+      color: $dk1
+      offset: [2.1213, 2.1213]
+  - elementId: 文本框 24
+    elementType: text
+    bounds: [645.9, 491.7, 144.5, 24.3]
+    content:
+      text: |-
+        <p><span style="color: $lt1; font-size: 16px;">发表高水平论文</span><span style="color: #FFC000; font-size: 20px;">6</span><span style="color: $lt1; font-size: 16px;">篇</span></p>
+      color: $dk1
+      bold: true
+      fontFamily: 思源黑体 CN Medium, 思源黑体 CN Medium
+      wrap: false
+  - elementId: 文本框 49
+    elementType: text
+    bounds: [652.5, 257.3, 100.1, 14.6]
+    content:
+      text: |-
+        <p>点击更换文字内容</p>
+      color: "#052DA8"
+      fontSize: 12
+      bold: true
+      fontFamily: Source Han Sans CN Regular, Source Han Sans CN Regular
+      wrap: false
+  - elementId: 表格 10
+    elementType: table
+    bounds: [34.7, 242.7, 428.6, 185.8]
+    shadow:
+      blur: 4
+      color: $dk1
+      offset: [2.1213, 2.1213]
+    columnWidths:
+      - 0.1748530370025813
+      - 0.1959776072831259
+      - 0.19884127077731342
+      - 0.20990756289707657
+      - 0.2204205220399028
+    rowHeights:
+      - 0.23015604647240734
+      - 0.19097535613223737
+      - 0.17556859544615155
+      - 0.20174767303208813
+      - 0.2015523289171156
+    rows:
+      - - text: |-
+            <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">标题</p>
+          shadow:
+            blur: 4
+            color: $dk1
+            offset: [0, 3]
+        - text: |-
+            <p style="text-align: center;">您的标题</p>
+          shadow:
+            blur: 4
+            color: $dk1
+            offset: [0, 3]
+        - text: |-
+            <p style="text-align: center;">您的标题</p>
+          shadow:
+            blur: 4
+            color: $dk1
+            offset: [0, 3]
+        - text: |-
+            <p style="text-align: center; margin-top: 0px; margin-left: 0px; margin-right: 0px;">您的标题</p>
+          marginTop: 0
+          shadow:
+            blur: 4
+            color: $dk1
+            offset: [0, 3]
+        - text: |-
+            <p style="text-align: center; margin-top: 0px; margin-left: 0px; margin-right: 0px;">您的标题</p>
+          marginTop: 0
+          shadow:
+            blur: 4
+            color: $dk1
+            offset: [0, 3]
+      - - text: |-
+            <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">您的标题</p>
+          color: $dk1
+          fill:
+            type: solid
+            color: "#243A6633"
+          border:
+            - style: solid
+              width: 1
+              color: $accent1
+            - null
+            - null
+            - null
+          gradient:
+            type: gradient
+            gradientType: linear
+            stops:
+              - position: 0.62
+                color: $lt1
+              - position: 1
+                color: "#39E7F9"
+              - position: 0
+                color: $lt1
+            angle: 90
+        - text: |-
+            <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><sup>您的内容</sup></p>
+          color: $lt1
+          fontSize: 10.5
+          fontFamily: Bahnschrift SemiBold SemiCondensed, 思源黑体 CN Medium
+          bold: false
+          italic: false
+          lineHeight: 1
+          letterSpacing: 0
+          marginTop: 0
+          fill:
+            type: solid
+            color: "#243A6633"
+          border:
+            - style: solid
+              width: 1
+              color: $accent1
+            - null
+            - null
+            - null
+        - text: |-
+            <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><sup>您的内容</sup></p>
+          color: $lt1
+          fontSize: 10.5
+          fontFamily: Bahnschrift SemiBold SemiCondensed, 思源黑体 CN Medium
+          bold: false
+          italic: false
+          lineHeight: 1
+          letterSpacing: 0
+          marginTop: 0
+          fill:
+            type: solid
+            color: "#243A6633"
+          border:
+            - style: solid
+              width: 1
+              color: $accent1
+            - null
+            - null
+            - null
+        - text: |-
+            <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><sup>您的内容</sup></p>
+          color: $lt1
+          fontSize: 10.5
+          fontFamily: Bahnschrift SemiBold SemiCondensed, 思源黑体 CN Medium
+          bold: false
+          italic: false
+          lineHeight: 1
+          letterSpacing: 0
+          marginTop: 0
+          fill:
+            type: solid
+            color: "#243A6633"
+          border:
+            - style: solid
+              width: 1
+              color: $accent1
+            - null
+            - null
+            - null
+        - text: |-
+            <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><sup>您的内容</sup></p>
+          color: $lt1
+          fontSize: 10.5
+          fontFamily: Bahnschrift SemiBold SemiCondensed, 思源黑体 CN Medium
+          bold: false
+          italic: false
+          lineHeight: 1
+          letterSpacing: 0
+          marginTop: 0
+          fill:
+            type: solid
+            color: "#243A6633"
+          border:
+            - style: solid
+              width: 1
+              color: $accent1
+            - null
+            - null
+            - null
+      - - text: |-
+            <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">您的标题</p>
+          color: "#333333"
+          bold: false
+          italic: false
+          letterSpacing: 0
+          border: null
+          gradient:
+            type: gradient
+            gradientType: linear
+            stops:
+              - position: 0.62
+                color: $lt1
+              - position: 1
+                color: "#39E7F9"
+              - position: 0
+                color: $lt1
+            angle: 90
+        - text: |-
+            <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><sup>您的内容</sup></p>
+          color: $lt1
+          fontSize: 10.5
+          fontFamily: Bahnschrift SemiBold SemiCondensed, 思源黑体 CN Medium
+          bold: false
+          italic: false
+          lineHeight: 1
+          letterSpacing: 0
+          marginTop: 0
+          border: null
+        - text: |-
+            <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><sup>您的内容</sup></p>
+          color: $lt1
+          fontSize: 10.5
+          fontFamily: Bahnschrift SemiBold SemiCondensed, 思源黑体 CN Medium
+          bold: false
+          italic: false
+          lineHeight: 1
+          letterSpacing: 0
+          marginTop: 0
+          border: null
+        - text: |-
+            <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><sup>您的内容</sup></p>
+          color: $lt1
+          fontSize: 10.5
+          fontFamily: Bahnschrift SemiBold SemiCondensed, 思源黑体 CN Medium
+          bold: false
+          italic: false
+          lineHeight: 1
+          letterSpacing: 0
+          marginTop: 0
+          border: null
+        - text: |-
+            <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><sup>您的内容</sup></p>
+          color: $lt1
+          fontSize: 10.5
+          fontFamily: Bahnschrift SemiBold SemiCondensed, 思源黑体 CN Medium
+          bold: false
+          italic: false
+          lineHeight: 1
+          letterSpacing: 0
+          marginTop: 0
+          border: null
+      - - text: |-
+            <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">您的标题</p>
+          color: "#333333"
+          bold: false
+          italic: false
+          letterSpacing: 0
+          fill:
+            type: solid
+            color: "#243A6633"
+          border: null
+          gradient:
+            type: gradient
+            gradientType: linear
+            stops:
+              - position: 0.62
+                color: $lt1
+              - position: 1
+                color: "#39E7F9"
+              - position: 0
+                color: $lt1
+            angle: 90
+        - text: |-
+            <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><sup>您的内容</sup></p>
+          color: $lt1
+          fontSize: 10.5
+          fontFamily: Bahnschrift SemiBold SemiCondensed, 思源黑体 CN Medium
+          bold: false
+          italic: false
+          lineHeight: 1
+          letterSpacing: 0
+          marginTop: 0
+          fill:
+            type: solid
+            color: "#243A6633"
+          border: null
+        - text: |-
+            <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><sup>您的内容</sup></p>
+          color: $lt1
+          fontSize: 10.5
+          fontFamily: Bahnschrift SemiBold SemiCondensed, 思源黑体 CN Medium
+          bold: false
+          italic: false
+          lineHeight: 1
+          letterSpacing: 0
+          marginTop: 0
+          fill:
+            type: solid
+            color: "#243A6633"
+          border: null
+        - text: |-
+            <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><sup>您的内容</sup></p>
+          color: $lt1
+          fontSize: 10.5
+          fontFamily: Bahnschrift SemiBold SemiCondensed, 思源黑体 CN Medium
+          bold: false
+          italic: false
+          lineHeight: 1
+          letterSpacing: 0
+          marginTop: 0
+          fill:
+            type: solid
+            color: "#243A6633"
+          border: null
+        - text: |-
+            <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><sup>您的内容</sup></p>
+          color: $lt1
+          fontSize: 10.5
+          fontFamily: Bahnschrift SemiBold SemiCondensed, 思源黑体 CN Medium
+          bold: false
+          italic: false
+          lineHeight: 1
+          letterSpacing: 0
+          marginTop: 0
+          fill:
+            type: solid
+            color: "#243A6633"
+          border: null
+      - - text: |-
+            <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;">您的标题</p>
+          color: "#333333"
+          bold: false
+          italic: false
+          letterSpacing: 0
+          border: null
+          gradient:
+            type: gradient
+            gradientType: linear
+            stops:
+              - position: 0.62
+                color: $lt1
+              - position: 1
+                color: "#39E7F9"
+              - position: 0
+                color: $lt1
+            angle: 90
+        - text: |-
+            <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><sup>您的内容</sup></p>
+          color: $lt1
+          fontSize: 10.5
+          fontFamily: Bahnschrift SemiBold SemiCondensed, 思源黑体 CN Medium
+          bold: false
+          italic: false
+          lineHeight: 1
+          letterSpacing: 0
+          marginTop: 0
+          border: null
+        - text: |-
+            <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><sup>您的内容</sup></p>
+          color: $lt1
+          fontSize: 10.5
+          fontFamily: Bahnschrift SemiBold SemiCondensed, 思源黑体 CN Medium
+          bold: false
+          italic: false
+          lineHeight: 1
+          letterSpacing: 0
+          marginTop: 0
+          border: null
+        - text: |-
+            <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><sup>您的内容</sup></p>
+          color: $lt1
+          fontSize: 10.5
+          fontFamily: Bahnschrift SemiBold SemiCondensed, 思源黑体 CN Medium
+          bold: false
+          italic: false
+          lineHeight: 1
+          letterSpacing: 0
+          marginTop: 0
+          border: null
+        - text: |-
+            <p style="text-align: center; line-height: 1; margin-top: 0px; margin-left: 0px; margin-right: 0px;"><sup>您的内容</sup></p>
+          color: $lt1
+          fontSize: 10.5
+          fontFamily: Bahnschrift SemiBold SemiCondensed, 思源黑体 CN Medium
+          bold: false
+          italic: false
+          lineHeight: 1
+          letterSpacing: 0
+          marginTop: 0
+          border: null
+    style: $table3
+  - elementId: 表格 50
+    elementType: table
+    bounds: [86.6, 432.6, 372, 84.8]
+    columnWidths:
+      - 0.7389950686527532
+      - 0.2610049313472468
+    rowHeights:
+      - 0.4420941418729036
+      - 0.5579058581270965
+    rows:
+      - - text: |-
+            <p style="text-align: center; margin-left: 0px;">点击此处更换文字内容替换文字</p>
+        - text: |-
+            <p style="text-align: center; margin-left: 0px;">更换文字</p>
+          fontFamily: 思源黑体 CN Medium, 思源黑体 CN Medium
+          bold: true
+      - - text: |-
+            <p style="text-align: center; margin-left: 0px;">点击此处更换文字内容替换文字</p>
+        - text: |-
+            <p style="text-align: center; margin-left: 0px;">更换文字</p>
+          fontFamily: 思源黑体 CN Medium, 思源黑体 CN Medium
+          bold: true
+    style: $table2
+  - elementId: "矩形: 圆角 1027-2"
+    elementType: shape
+    bounds: [42.5, 430.4, 36.7, 87.7]
+    shapeName: roundRect
+    adjustments:
+      - 3959
+    fill:
+      type: solid
+      color: $lt1
+    border:
+      style: solid
+      width: 0.5
+      color: "#0E44F0"
+    shadow:
+      blur: 14.2786
+      color: "#3657983F"
+      offset: [2.1213, 2.1213]
+  - elementId: 文本框 52
+    elementType: text
+    bounds: [52.8, 452.8, 15.1, 43.7]
+    content:
+      text: |-
+        <p>文字</p>
+      color: "#D3661C"
+      bold: true
+      fontFamily: Source Han Sans CN Bold, Source Han Sans CN Bold
+      wrap: true
