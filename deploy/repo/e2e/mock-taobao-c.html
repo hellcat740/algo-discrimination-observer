@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<!--
+  【模拟页 C】item.taobao.com 商品 836035130704 —— 真实 2025 版 DOM 结构回归用例
+  无优惠商品：只有 highlightPrice（「优惠促销￥3850起」），subPrice 节点不存在
+  → 语义规则：highlightPrice=原价（售价），到手价=null（不回退为售价）。
+  店铺名走回退选择器（外层 wrapper 混入评分文字「明智电脑科技4.690天新增…」），
+  验证 cleanShopName 截断；shopId 来自店铺链接 href 的 shop_id 参数。
+  期望提取：原价 3850（dom）、到手价 null、发货地「广东深圳 至 北京 海淀」→ 归一化
+  「深圳」（dom）、店铺「明智电脑科技」（dom，经清理）、shopId 110245678（dom）。
+-->
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <title>【模拟页】明智电脑 i7 高配组装台式机-淘宝网</title>
+</head>
+<body>
+  <div id="root">
+    <div class="PageLayout--detailMain--c1d2e3f">
+      <h1 class="ItemTitle--mainTitle--g4h5i6j">明智电脑 i7-13700F/RTX4060 高配组装台式机整机 设计渲染游戏主机</h1>
+
+      <!-- 无优惠：只有 highlightPrice，没有 subPrice 节点 -->
+      <div class="Price--root--k7l8m9n">
+        <div class="highlightPrice--wrap--o0p1q2r">
+          <span class="highlightPrice--label--s3t4u5v">优惠促销</span>
+          <span class="highlightPrice--symbol--w6x7y8z">￥</span>
+          <span class="text--a9b0c1d">3850</span>
+          <span class="highlightPrice--suffix--e2f3g4h">起</span>
+        </div>
+      </div>
+
+      <div class="deliveryAddrWrap--root--i5j6k7l">
+        <span class="deliveryAddrWrap--text--m8n9o0p">广东深圳 至 北京 海淀</span>
+      </div>
+
+      <!-- 店铺区：无 span.shopName-- 内层节点，回退选择器命中外层 wrapper（混入评分文字） -->
+      <div class="shopName--wrap--q1r2s3t">
+        明智电脑科技4.690天新增 5000+人关注
+        <a class="shop-enter"
+           href="https://shop110245678.taobao.com/?shop_id=110245678">进入店铺</a>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // 真实页面内联初始化数据（店铺 ID 三页实测均有此通道）
+    var g_config = { "shopId": "110245678", "sellerId": "7788990011" };
+  </script>
+</body>
+</html>
